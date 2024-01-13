@@ -1,0 +1,29 @@
+name: Update README.md with random unsplash image
+
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  # Run the workflow once a day at 6.
+  schedule:
+    - cron: '0 6 * * *'
+
+# Required to write the README.md
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository
+      - uses: actions/checkout@v3
+      
+      # Use the unsplash 
+      - name:  Update README.md with random Unsplash image
+        uses: bagtoad/random-unsplash-action
+        with:
+            unsplash_token: ${{ secrets.UNSPLASH_TOKEN }} # Required
+            github_token: ${{ secrets.GITHUB_TOKEN }} # Required
+            template: ./template.md # Required
+            query: "cats, magic, space" # Optional
