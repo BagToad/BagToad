@@ -7,8 +7,15 @@
   <em>{{ unsplash-alt-description }}</em>
   
   <em>{{ unsplash-description }}</em>
-  
+
   Photo by [{{ unsplash-name }}]({{ unsplash-portfolio-url }}) on [unsplash.com](https://unsplash.com/)
+
+  ---
+  
+  **Photography Details:**
+
+Camera Model: {{ model }} • Exposure Time: {{ exposure-time }} • Aperture: {{ aperture }} • Focal Length: {{ focal-length }} • ISO: {{ iso }} • Location: {{ location }} ({{ country }}) • Coordinates: Latitude {{ latitude }}, Longitude {{ longitude }}
+
 </div>
 
 ----
