@@ -2,13 +2,13 @@
 
 ----
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1462290625486-c142817fb94d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDU3MzA0MzN8&ixlib=rb-4.0.3&q=80&w=1080" alt="sun rays through silhouette of trees">
+  <img width="720" src="https://images.unsplash.com/photo-1460036521480-ff49c08c2781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDU4MTY4NDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown and black violin">
   
-  <em>sun rays through silhouette of trees</em>
+  <em>brown and black violin</em>
   
-  <em>Sunrise breaking into the forest</em>
+  <em>Violin strings in close-up</em>
   
-  Photo by [Kristine Weilert](http://www.kristineweilert.com) on [unsplash.com](https://unsplash.com/)
+  Photo by [Providence Doucet](https://www.facebook.com/providencephotographie/) on [unsplash.com](https://unsplash.com/)
 </div>
 
 ----
