@@ -10,6 +10,8 @@
 
   Photo by [{{ unsplash-name }}]({{ unsplash-portfolio-url }}) on [unsplash.com](https://unsplash.com/)
 
+  {{ socials }}
+
   ---
   
   **Photography Details:**
