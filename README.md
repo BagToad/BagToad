@@ -2,19 +2,22 @@
 
 ----
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1461230185679-aad82a673415?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDU4Nzc1NzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leaves at daytime">
+  <img width="720" src="https://images.unsplash.com/photo-1440688807730-73e4e2169fb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDU4Nzc4ODd8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of foggy mountain">
   
-  <em>green leaves at daytime</em>
+  <em>aerial photography of foggy mountain</em>
   
-  <em>null</em>
+  <em>Forest under fog</em>
 
-  Photo by [Rémi Walle](http://atelierphotoderemiwalle.weebly.com) on [unsplash.com](https://unsplash.com/) • [instagram](https://instagram.com/confluxr) / [portfolio](http://atelierphotoderemiwalle.weebly.com)
+  Photo by [Carmine De Fazio](https://instagram.com/carminu/) on [unsplash.com](https://unsplash.com/) • [instagram](https://instagram.com/carminu) / [portfolio](https://instagram.com/carminu/) / [twitter](https://twitter.com/Carmins)
 
   ---
   
-  **Photography Details:**
+<details>
+<summary>Photography Details</summary>
+  
+Camera Model: null • Exposure Time: null • Aperture: null • Focal Length: null • ISO: null • Location: Decollatura, Italia (Italia) • Coordinates: Latitude 39.0473446, Longitude 16.3561491
 
-Camera Model: NIKON D5100 • Exposure Time: 1/500 • Aperture: 2.0 • Focal Length: 35.0 • ISO: 100 • Location: Amsterdam, Netherlands (Netherlands) • Coordinates: Latitude 52.3702157, Longitude 4.89516789999993
+</details>
 
 </div>
 
