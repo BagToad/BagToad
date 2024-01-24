@@ -5,7 +5,7 @@
 
 ## Photo of the day
   
-  <img width="720" src="{{ unsplash-url }}" alt="{{ unsplash-alt-description }}">
+  <a href="{{ unsplash-page-url }}"><img width="720" src="{{ unsplash-raw-url }}" alt="{{ unsplash-alt-description }}"></a>
   
   <em>{{ unsplash-alt-description }}</em>
   
