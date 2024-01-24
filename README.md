@@ -2,27 +2,23 @@
 
 ----
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1702234852270-8bb491075e18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzQwMzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="a bottle of beer and a typewriter on a table">
+  <img width="720" src="https://images.unsplash.com/photo-1704902825439-15736d633c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzQwOTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="an aerial view of snow covered trees">
   
-  <em>a bottle of beer and a typewriter on a table</em>
+  <em>an aerial view of snow covered trees</em>
   
-  <em>null</em>
+  <em>Borovets forest</em>
 
-  Photo by [Melody Zimmerman](https://galleries.amaranthcreative.com/thenaturecollection/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/roseonajourney) / [portfolio](https://galleries.amaranthcreative.com/thenaturecollection/)
+  Photo by [Antonio Janeski](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ajaneski/) / [Twitter](https://twitter.com/_janeski)
   
-  Taken at null • 
+  Taken at Borovetz, Borovets, Bulgaria • [Google Maps](https://www.google.com/maps/search/?api=1&query=42.26760749861428,23.60579967498779)
   
   ---
   
 <details>
 <summary>Photography Details</summary>
   
-Camera Model: null • Exposure Time: null • Aperture: null • Focal Length: null • ISO: null • Location: null (null) • Coordinates: Latitude 0, Longitude 0
+Camera Model: null • Exposure Time: null • Aperture: null • Focal Length: null • ISO: null • Location: Borovetz, Borovets, Bulgaria (Bulgaria) • Coordinates: Latitude 42.26760749861428, Longitude 23.60579967498779
 
-</details>
-
-<details>
-  <summary></summary>
 </details>
 
 </div>
