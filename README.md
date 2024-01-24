@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-snow-covered-hillside-with-houses-and-trees-vVoGOCETjBs"><img width="720" src="https://images.unsplash.com/photo-1704409479477-09e5770e03a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzY4NzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="a snow covered hillside with houses and trees"></a>
+  <a href="https://unsplash.com/photos/a-black-and-white-photo-of-an-old-man-wearing-a-hat-g9xxy32WuaU"><img width="720" src="https://images.unsplash.com/photo-1705250984940-02b32024d182?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzc1NjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="a black and white photo of an old man wearing a hat"></a>
   
-  <em>a snow covered hillside with houses and trees</em>
+  <em>a black and white photo of an old man wearing a hat</em>
   
   <em></em>
 
-  Photo by [Henrique Ferreira](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/rick_final.gif)
+  Photo by Vitaliy Shevchenko on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Malbun, Liechtenstein • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.101516,9.609628)
+  Taken at Unknown • 
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS R5 |
-| Exposure Time | 1/800 |
-| Aperture      | 5.6 |
-| Focal Length  | 300.0 |
-| ISO           | 320 |
-| Location      | Malbun, Liechtenstein (Liechtenstein) |
-| Coordinates   | Latitude 47.101516, Longitude 9.609628 |
+| Camera Model  | NIKON D5100 |
+| Exposure Time | 1/200 |
+| Aperture      | 1.8 |
+| Focal Length  | 35.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
