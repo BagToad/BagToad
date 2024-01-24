@@ -2,20 +2,20 @@
 
 ----
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1483695028939-5bb13f8648b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzE0NDl8&ixlib=rb-4.0.3&q=80&w=1080" alt="close up photography of baked treats on tray">
+  <img width="720" src="https://images.unsplash.com/photo-1569402928543-87a35efc0606?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzE0ODF8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest during daytime">
   
-  <em>close up photography of baked treats on tray</em>
+  <em>forest during daytime</em>
   
-  <em>Pain au Chocolat</em>
+  <em>Puzzlewood</em>
 
-  Photo by [Mink Mingle](null) on [unsplash.com](https://unsplash.com/) • [instagram](https://instagram.com/minkmingle)
+  Photo by [Zoltan Tasi](https://foundation.app/@zoltan_tasi) on [unsplash.com](https://unsplash.com/) • [instagram](https://instagram.com/zoltan_tasi) / [portfolio](https://foundation.app/@zoltan_tasi)
 
   ---
   
 <details>
 <summary>Photography Details</summary>
   
-Camera Model: X-E2 • Exposure Time: 1/180 • Aperture: 1.4 • Focal Length: 35.0 • ISO: 500 • Location: null (null) • Coordinates: Latitude null, Longitude null
+Camera Model: NIKON D800E • Exposure Time: 1/25 • Aperture: 2.8 • Focal Length: 28.0 • ISO: 250 • Location: Puzzlewood, Coleford, Egyesült Királyság (Egyesült Királyság) • Coordinates: Latitude 51.7800209, Longitude -2.6149443
 
 </details>
 
