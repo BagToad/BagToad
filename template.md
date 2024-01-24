@@ -21,10 +21,6 @@ Camera Model: {{ model }} • Exposure Time: {{ exposure-time }} • Aperture: {
 
 </details>
 
-<details>
-  <summary></summary>
-</details>
-
 </div>
 
 ----
