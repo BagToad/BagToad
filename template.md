@@ -2,6 +2,9 @@
 
 ----
 <div align="center">
+
+## Photo of the day
+  
   <img width="720" src="{{ unsplash-url }}" alt="{{ unsplash-alt-description }}">
   
   <em>{{ unsplash-alt-description }}</em>
