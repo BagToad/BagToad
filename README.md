@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <img width="720" src="https://images.unsplash.com/photo-1703872612184-72abb51d140a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzYxNjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="a large waterfall in the middle of a forest">
+  <a href="https://unsplash.com/photos/a-snow-covered-hillside-with-houses-and-trees-vVoGOCETjBs"><img width="720" src="https://images.unsplash.com/photo-1704409479477-09e5770e03a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzY4NzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="a snow covered hillside with houses and trees"></a>
   
-  <em>a large waterfall in the middle of a forest</em>
+  <em>a snow covered hillside with houses and trees</em>
   
-  <em>South Falls</em>
+  <em></em>
 
-  Photo by [Eric Muhr](https://linktr.ee/ericmuhr) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ericmuhr) / [portfolio](https://linktr.ee/ericmuhr) / [Twitter](https://twitter.com/ericmuhr)
+  Photo by [Henrique Ferreira](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/rick_final.gif)
   
-  Taken at Silver Falls State Park, Oregon, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.865219,-122.626223)
+  Taken at Malbun, Liechtenstein • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.101516,9.609628)
   
   ---
   
@@ -23,12 +23,12 @@
 | Parameter     | Value |
 | ------------- | ----- |
 | Camera Model  |  EOS R5 |
-| Exposure Time | 1/8 |
-| Aperture      | 20.0 |
-| Focal Length  | 24.0 |
-| ISO           | 100 |
-| Location      | Silver Falls State Park, Oregon, USA (United States) |
-| Coordinates   | Latitude 44.865219, Longitude -122.626223 |
+| Exposure Time | 1/800 |
+| Aperture      | 5.6 |
+| Focal Length  | 300.0 |
+| ISO           | 320 |
+| Location      | Malbun, Liechtenstein (Liechtenstein) |
+| Coordinates   | Latitude 47.101516, Longitude 9.609628 |
 
 </details>
 
