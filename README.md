@@ -2,15 +2,15 @@
 
 ----
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1704283135253-218a9d250302?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzU3OTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="a man and a woman standing next to each other">
+  <img width="720" src="https://images.unsplash.com/photo-1705085728576-8c685b20b716?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzU5MTh8&ixlib=rb-4.0.3&q=80&w=1080" alt="a woman holding a child in front of a group of children">
   
-  <em>a man and a woman standing next to each other</em>
+  <em>a woman holding a child in front of a group of children</em>
   
-  <em>Wedding portraits in an all white wedding venue ballroom.</em>
+  <em></em>
 
-  Photo by [Kari Bjorn Photography](https://www.karibjorn.com/iceland-elopement-photographers) on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.karibjorn.com/iceland-elopement-photographers)
+  Photo by [Shelby Murphy Figueroa](https://www.radicalrecollection.org) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/shelbyfigueroa) / [portfolio](https://www.radicalrecollection.org)
   
-  Taken at Fayetteville, AR, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.062658,-94.160584)
+  Taken at Unknown • 
   
   ---
   
@@ -19,13 +19,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS 6D Mark II |
-| Exposure Time | 1/125 |
-| Aperture      | 5 |
-| Focal Length  | 70.0 |
-| ISO           | 400 |
-| Location      | Fayetteville, AR, USA (United States) |
-| Coordinates   | Latitude 36.062658, Longitude -94.160584 |
+| Camera Model  | ILCE-7C |
+| Exposure Time | 1/250 |
+| Aperture      | 1.8 |
+| Focal Length  | 35.0 |
+| ISO           | 3200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
