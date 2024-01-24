@@ -17,7 +17,15 @@
 <details>
 <summary>Photography Details</summary>
   
-Camera Model: {{ model }} • Exposure Time: {{ exposure-time }} • Aperture: {{ aperture }} • Focal Length: {{ focal-length }} • ISO: {{ iso }} • Location: {{ location }} ({{ country }}) • Coordinates: Latitude {{ latitude }}, Longitude {{ longitude }}
+| Parameter     | Value |
+| ------------- | ----- |
+| Camera Model  | {{ model }} |
+| Exposure Time | {{ exposure-time }} |
+| Aperture      | {{ aperture }} |
+| Focal Length  | {{ focal-length }} |
+| ISO           | {{ iso }} |
+| Location      | {{ location }} ({{ country }}) |
+| Coordinates   | Latitude {{ latitude }}, Longitude {{ longitude }} |
 
 </details>
 
