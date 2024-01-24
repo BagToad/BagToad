@@ -9,7 +9,7 @@
   <em>{{ unsplash-description }}</em>
 
   Photo by [{{ unsplash-name }}]({{ unsplash-portfolio-url }}) on [unsplash.com](https://unsplash.com/) • {{ socials }}
-
+  Taken at {{ location }} • {{ google-maps }} / {{ google-maps-street-view }}
   ---
   
 <details>
@@ -17,6 +17,10 @@
   
 Camera Model: {{ model }} • Exposure Time: {{ exposure-time }} • Aperture: {{ aperture }} • Focal Length: {{ focal-length }} • ISO: {{ iso }} • Location: {{ location }} ({{ country }}) • Coordinates: Latitude {{ latitude }}, Longitude {{ longitude }}
 
+</details>
+
+<details>
+  <summary></summary>
 </details>
 
 </div>
