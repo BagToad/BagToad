@@ -21,7 +21,7 @@ jobs:
       
       # Use the unsplash 
       - name:  Update README.md with random Unsplash image
-        uses: bagtoad/random-unsplash-action@bagtoad-dev-google-maps-links
+        uses: bagtoad/random-unsplash-action@bagtoad-dev-null-checking-improvements
         with:
             unsplash_token: ${{ secrets.UNSPLASH_TOKEN }} # Required
             github_token: ${{ secrets.GITHUB_TOKEN }} # Required
