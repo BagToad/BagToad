@@ -2,22 +2,30 @@
 
 ----
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1704902825439-15736d633c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzQwOTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="an aerial view of snow covered trees">
+  <img width="720" src="https://images.unsplash.com/photo-1703696396969-74436e241dba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzQ1MTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="a black and white photo of a curtain">
   
-  <em>an aerial view of snow covered trees</em>
+  <em>a black and white photo of a curtain</em>
   
-  <em>Borovets forest</em>
+  <em>null</em>
 
-  Photo by [Antonio Janeski](null) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ajaneski/) / [Twitter](https://twitter.com/_janeski)
+  Photo by [Melody Zimmerman](https://galleries.amaranthcreative.com/thenaturecollection/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/roseonajourney) / [portfolio](https://galleries.amaranthcreative.com/thenaturecollection/)
   
-  Taken at Borovetz, Borovets, Bulgaria • [Google Maps](https://www.google.com/maps/search/?api=1&query=42.26760749861428,23.60579967498779)
+  Taken at null • 
   
   ---
   
 <details>
 <summary>Photography Details</summary>
   
-Camera Model: null • Exposure Time: null • Aperture: null • Focal Length: null • ISO: null • Location: Borovetz, Borovets, Bulgaria (Bulgaria) • Coordinates: Latitude 42.26760749861428, Longitude 23.60579967498779
+| Parameter     | Value |
+| ------------- | ----- |
+| Camera Model  | NIKON D700 |
+| Exposure Time | 1/160 |
+| Aperture      | 3.5 |
+| Focal Length  | 50.0 |
+| ISO           | 200 |
+| Location      | null (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 </details>
 
