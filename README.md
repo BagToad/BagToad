@@ -21,10 +21,6 @@ Camera Model: null • Exposure Time: null • Aperture: null • Focal Length: 
 
 </details>
 
-<details>
-  <summary></summary>
-</details>
-
 </div>
 
 ----
