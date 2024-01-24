@@ -9,7 +9,9 @@
   <em>{{ unsplash-description }}</em>
 
   Photo by [{{ unsplash-name }}]({{ unsplash-portfolio-url }}) on [unsplash.com](https://unsplash.com/) • {{ socials }}
-  Taken at {{ location }} • {{ google-maps }} / {{ google-maps-street-view }}
+  
+  Taken at {{ location }} • {{ google-maps }}
+  
   ---
   
 <details>
