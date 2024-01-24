@@ -11,7 +11,7 @@
   
   <em>{{ unsplash-description }}</em>
 
-  Photo by [{{ unsplash-name }}]({{ unsplash-portfolio-url }}) on [unsplash.com](https://unsplash.com/) • {{ socials }}
+  Photo by {{ unsplash-name }} on [unsplash.com](https://unsplash.com/) • {{ socials }}
   
   Taken at {{ location }} • {{ google-maps }}
   
