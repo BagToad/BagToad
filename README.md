@@ -2,23 +2,27 @@
 
 ----
 <div align="center">
-  <img width="720" src="https://images.unsplash.com/photo-1440688807730-73e4e2169fb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzM4OTF8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of foggy mountain">
+  <img width="720" src="https://images.unsplash.com/photo-1702234852270-8bb491075e18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNzQwMzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="a bottle of beer and a typewriter on a table">
   
-  <em>aerial photography of foggy mountain</em>
+  <em>a bottle of beer and a typewriter on a table</em>
   
-  <em>Forest under fog</em>
+  <em>null</em>
 
-  Photo by [Carmine De Fazio](https://instagram.com/carminu/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/carminu) / [portfolio](https://instagram.com/carminu/) / [Twitter](https://twitter.com/Carmins)
+  Photo by [Melody Zimmerman](https://galleries.amaranthcreative.com/thenaturecollection/) on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/roseonajourney) / [portfolio](https://galleries.amaranthcreative.com/thenaturecollection/)
   
-  Taken at Decollatura, Italia • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0473446,16.3561491)
+  Taken at null • 
   
   ---
   
 <details>
 <summary>Photography Details</summary>
   
-Camera Model: null • Exposure Time: null • Aperture: null • Focal Length: null • ISO: null • Location: Decollatura, Italia (Italia) • Coordinates: Latitude 39.0473446, Longitude 16.3561491
+Camera Model: null • Exposure Time: null • Aperture: null • Focal Length: null • ISO: null • Location: null (null) • Coordinates: Latitude 0, Longitude 0
 
+</details>
+
+<details>
+  <summary></summary>
 </details>
 
 </div>
