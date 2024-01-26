@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-group-of-large-rocks-with-trees-growing-out-of-them-Scx0v64tVmY"><img width="720" src="https://images.unsplash.com/photo-1703696703525-2b4454dbd146?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYyMDMxMDR8&ixlib=rb-4.0.3&q=80&w=1080" alt="a group of large rocks with trees growing out of them"></a>
+  <a href="https://unsplash.com/photos/a-bird-sitting-on-a-branch-with-a-worm-in-its-mouth-6CRREj0PZL0"><img width="720" src="https://images.unsplash.com/photo-1694013018516-afd7bc03253e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYyNDg4MzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="a bird sitting on a branch with a worm in its mouth"></a>
   
-  <em>a group of large rocks with trees growing out of them</em>
+  <em>a bird sitting on a branch with a worm in its mouth</em>
   
   <em></em>
 
-  Photo by Perry Kibler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/wanderingcrow.design) / [portfolio](https://wanderingcrow.design) / [Twitter](https://twitter.com/javaporter)
+  Photo by bunting wild photography on [unsplash.com](https://unsplash.com/) • [portfolio](http://buntingwildphotography.com)
   
-  Taken at Bryce Canyon National Park, Utah, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.593038,-112.187089)
+  Taken at Calgary, AB, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.044733,-114.071883)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS R5 |
-| Exposure Time | 1/250 |
-| Aperture      | 2.8 |
-| Focal Length  | 200.0 |
-| ISO           | 100 |
-| Location      | Bryce Canyon National Park, Utah, USA (United States) |
-| Coordinates   | Latitude 37.593038, Longitude -112.187089 |
+| Camera Model  | ILCE-7RM3 |
+| Exposure Time | 1/1000 |
+| Aperture      | 6.3 |
+| Focal Length  | 600.0 |
+| ISO           | 2000 |
+| Location      | Calgary, AB, Canada (Canada) |
+| Coordinates   | Latitude 51.044733, Longitude -114.071883 |
 
 </details>
 
