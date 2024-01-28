@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-body-of-water-surrounded-by-mountains-under-a-cloudy-sky-SXwCyG4FoPk"><img width="720" src="https://images.unsplash.com/photo-1705311756049-d4720db623f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYzMzUyMzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="a body of water surrounded by mountains under a cloudy sky"></a>
+  <a href="https://unsplash.com/photos/a-blurry-image-of-a-blue-flame-on-a-black-background-__cZvKocOOQ"><img width="720" src="https://images.unsplash.com/photo-1706045569094-3d7c366ba5ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY0MjE2MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="a blurry image of a blue flame on a black background"></a>
   
-  <em>a body of water surrounded by mountains under a cloudy sky</em>
+  <em>a blurry image of a blue flame on a black background</em>
   
   <em></em>
 
-  Photo by Maria Teneva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mmmteneva)
+  Photo by Nat on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nattgw_) / [portfolio](https://webfoundry.io)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T10 |
-| Exposure Time | 1/280 |
-| Aperture      | 3.2 |
-| Focal Length  | 35.0 |
-| ISO           | 200 |
+| Camera Model  | X-T5 |
+| Exposure Time | 1/110 |
+| Aperture      | 2.8 |
+| Focal Length  | 80.0 |
+| ISO           | 6400 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude 0, Longitude 0 |
 
