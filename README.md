@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-blurry-image-of-a-blue-flame-on-a-black-background-__cZvKocOOQ"><img width="720" src="https://images.unsplash.com/photo-1706045569094-3d7c366ba5ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY0MjE2MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="a blurry image of a blue flame on a black background"></a>
+  <a href="https://unsplash.com/photos/a-living-room-with-a-white-couch-and-chairs-SZ-DsEZxzlg"><img width="720" src="https://images.unsplash.com/photo-1705326701287-346fc37a2c86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY1MDgwMjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="a living room with a white couch and chairs"></a>
   
-  <em>a blurry image of a blue flame on a black background</em>
+  <em>a living room with a white couch and chairs</em>
   
-  <em></em>
+  <em>modern living room with white furniture and classy lights</em>
 
-  Photo by Nat on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nattgw_) / [portfolio](https://webfoundry.io)
+  Photo by Pipcke on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pipcke.fr) / [portfolio](https://pipcke.fr/) / [Twitter](https://twitter.com/pipcke)
   
   Taken at Unknown • 
   
@@ -22,11 +22,11 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T5 |
-| Exposure Time | 1/110 |
-| Aperture      | 2.8 |
-| Focal Length  | 80.0 |
-| ISO           | 6400 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude 0, Longitude 0 |
 
