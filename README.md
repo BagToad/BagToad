@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/rock-formation-on-wide-field-grass-under-cloudy-blue-sky-during-daytime-M9O6GRrEEDY"><img width="720" src="https://images.unsplash.com/photo-1494625927555-6ec4433b1571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY1NDI3OTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="rock formation on wide field grass under cloudy blue sky during daytime"></a>
+  <a href="https://unsplash.com/photos/white-wooden-tree-surround-by-grass-field-during-sunset-LJD6U920zVo"><img width="720" src="https://images.unsplash.com/photo-1433477155337-9aea4e790195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY1NDMwMDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="white wooden tree surround by grass field during sunset"></a>
   
-  <em>rock formation on wide field grass under cloudy blue sky during daytime</em>
+  <em>white wooden tree surround by grass field during sunset</em>
   
-  <em>Magic landscape 😊</em>
+  <em>Mountain Valley</em>
 
-  Photo by 🧔‍♂️ Michal Kmeť on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mitkokmet) / [portfolio](http://www.michalkmet.com)
+  Photo by Jasper Boer on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/photoadventurenz) / [portfolio](http://artloversrepublic.com) / [Twitter](https://twitter.com/jasperboer)
   
-  Taken at Dolomites, Monte Piana, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4102117,11.8440350999999)
+  Taken at Unknown • 
   
   ---
   
@@ -22,64 +22,17 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
-| Exposure Time | 1/640 |
-| Aperture      | 7.1 |
-| Focal Length  | 35.0 |
+| Camera Model  | NEX-5N |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
 | ISO           | 100 |
-| Location      | Dolomites, Monte Piana, Italy (Italy) |
-| Coordinates   | Latitude 46.4102117, Longitude 11.8440350999999 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            46.4102117,
-                            11.8440350999999
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                46.710211699999995,
-                                12.1440350999999
-                            ],
-                            [
-                                46.1102117,
-                                12.1440350999999
-                            ],
-                            [
-                                46.1102117,
-                                11.544035099999899
-                            ],
-                            [
-                                46.710211699999995,
-                                11.544035099999899
-                            ],
-                            [
-                                46.710211699999995,
-                                12.1440350999999
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+
 
 </details>
 
