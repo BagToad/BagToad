@@ -27,3 +27,4 @@ jobs:
             github_token: ${{ secrets.GITHUB_TOKEN }} # Required
             template: ./template.md # Required
            #query: "edmonton, cats, magic, space, patterns, nature, abstract, art, animals, architecture, food, health, industry, music, people, places, religion, science, transportation, travel" # Optional
+            query: "landscape"
