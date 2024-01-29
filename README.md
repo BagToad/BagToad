@@ -5,13 +5,13 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-living-room-with-a-white-couch-and-chairs-SZ-DsEZxzlg"><img width="720" src="https://images.unsplash.com/photo-1705326701287-346fc37a2c86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY1MDgwMjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="a living room with a white couch and chairs"></a>
+  <a href="https://unsplash.com/photos/the-sun-is-setting-behind-a-palm-tree-wRUy2kedi0g"><img width="720" src="https://images.unsplash.com/photo-1704180479458-dbc66edced2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY1NDIyNzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="the sun is setting behind a palm tree"></a>
   
-  <em>a living room with a white couch and chairs</em>
+  <em>the sun is setting behind a palm tree</em>
   
-  <em>modern living room with white furniture and classy lights</em>
+  <em></em>
 
-  Photo by Pipcke on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pipcke.fr) / [portfolio](https://pipcke.fr/) / [Twitter](https://twitter.com/pipcke)
+  Photo by Pavan Kumar Nagendla on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/hacker_camerawork)
   
   Taken at Unknown • 
   
@@ -22,13 +22,62 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
+| Camera Model  | NIKON D5600 |
+| Exposure Time | 1/125 |
+| Aperture      | 11.0 |
+| Focal Length  | 240.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude 0, Longitude 0 |
+
+### Map
+
+{
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            0,
+                            0
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                0 + 0.3,
+                                0 + 0.3
+                            ],
+                            [
+                                0 - 0.3,
+                                0 + 0.3
+                            ],
+                            [
+                                0 - 0.3,
+                                0 - 0.3
+                            ],
+                            [
+                                0 + 0.3,
+                                0 - 0.3
+                            ],
+                            [
+                                0 + 0.3,
+                                0 + 0.3
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
 
 </details>
 
