@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-sun-is-setting-behind-a-palm-tree-wRUy2kedi0g"><img width="720" src="https://images.unsplash.com/photo-1704180479458-dbc66edced2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY1NDIyNzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="the sun is setting behind a palm tree"></a>
+  <a href="https://unsplash.com/photos/a-green-plant-in-a-glass-of-water-bv0b54n4tX8"><img width="720" src="https://images.unsplash.com/photo-1706013789928-6147cd7f571e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY1NDI0Nzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="a green plant in a glass of water"></a>
   
-  <em>the sun is setting behind a palm tree</em>
+  <em>a green plant in a glass of water</em>
   
-  <em></em>
+  <em>By FAKURIANDESIGN</em>
 
-  Photo by Pavan Kumar Nagendla on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/hacker_camerawork)
+  Photo by Milad Fakurian on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/fakuriandesign) / [portfolio](https://linktr.ee/fakurian) / [Twitter](https://twitter.com/miladfakurian)
   
-  Taken at Unknown • 
+  Taken at Lisbon, Portugal • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.722252,-9.139337)
   
   ---
   
@@ -22,17 +22,18 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5600 |
-| Exposure Time | 1/125 |
-| Aperture      | 11.0 |
-| Focal Length  | 240.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lisbon, Portugal (Portugal) |
+| Coordinates   | Latitude 38.722252, Longitude -9.139337 |
 
 ### Map
 
-{
+```geojson
+        {
             "type": "FeatureCollection",
             "features": [
                 {
@@ -40,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            0,
-                            0
+                            38.722252,
+                            -9.139337
                         ],
                         "type": "Point"
                     },
@@ -53,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                0 + 0.3,
-                                0 + 0.3
+                                38.722252 + 0.3,
+                                -9.139337 + 0.3
                             ],
                             [
-                                0 - 0.3,
-                                0 + 0.3
+                                38.722252 - 0.3,
+                                -9.139337 + 0.3
                             ],
                             [
-                                0 - 0.3,
-                                0 - 0.3
+                                38.722252 - 0.3,
+                                -9.139337 - 0.3
                             ],
                             [
-                                0 + 0.3,
-                                0 - 0.3
+                                38.722252 + 0.3,
+                                -9.139337 - 0.3
                             ],
                             [
-                                0 + 0.3,
-                                0 + 0.3
+                                38.722252 + 0.3,
+                                -9.139337 + 0.3
                             ]
                         ],
                         "type": "LineString"
@@ -78,6 +79,7 @@
                 }
             ]
         }
+        ```
 
 </details>
 
