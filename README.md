@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-field-Zm2n2O7Fph4"><img width="720" src="https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY1NDMxNjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of field"></a>
+  <a href="https://unsplash.com/photos/rock-formation-on-wide-field-grass-under-cloudy-blue-sky-during-daytime-M9O6GRrEEDY"><img width="720" src="https://images.unsplash.com/photo-1494625927555-6ec4433b1571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY1NDM2MDl8&ixlib=rb-4.0.3&q=80&w=1080" alt="rock formation on wide field grass under cloudy blue sky during daytime"></a>
   
-  <em>landscape photography of field</em>
+  <em>rock formation on wide field grass under cloudy blue sky during daytime</em>
   
-  <em>Into The Horizon</em>
+  <em>Magic landscape 😊</em>
 
-  Photo by Benjamin Davies on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bendavisual) / [portfolio](http://benjamindavies.co/) / [Twitter](https://twitter.com/daviesben33)
+  Photo by 🧔‍♂️ Michal Kmeť on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mitkokmet) / [portfolio](http://www.michalkmet.com)
   
-  Taken at Wooburn Green, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5873944182614,-0.692313111206204)
+  Taken at Dolomites, Monte Piana, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4102117,11.8440350999999)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-E2 |
-| Exposure Time | 1/950 |
-| Aperture      | 4.5 |
-| Focal Length  | 18.0 |
-| ISO           | 400 |
-| Location      | Wooburn Green, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 51.5873944182614, Longitude -0.692313111206204 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/640 |
+| Aperture      | 7.1 |
+| Focal Length  | 35.0 |
+| ISO           | 100 |
+| Location      | Dolomites, Monte Piana, Italy (Italy) |
+| Coordinates   | Latitude 46.4102117, Longitude 11.8440350999999 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -0.692313111206204,
-                            51.5873944182614
+                            11.8440350999999,
+                            46.4102117
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                -0.392313111206204,
-                                51.887394418261394
+                                12.1440350999999,
+                                46.710211699999995
                             ],
                             [
-                                -0.392313111206204,
-                                51.2873944182614
+                                12.1440350999999,
+                                46.1102117
                             ],
                             [
-                                -0.992313111206204,
-                                51.2873944182614
+                                11.544035099999899,
+                                46.1102117
                             ],
                             [
-                                -0.992313111206204,
-                                51.887394418261394
+                                11.544035099999899,
+                                46.710211699999995
                             ],
                             [
-                                -0.392313111206204,
-                                51.887394418261394
+                                12.1440350999999,
+                                46.710211699999995
                             ]
                         ],
                         "type": "LineString"
