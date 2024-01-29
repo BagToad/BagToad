@@ -30,6 +30,10 @@
 | Location      | {{ location }} ({{ country }}) |
 | Coordinates   | Latitude {{ latitude }}, Longitude {{ longitude }} |
 
+### Map
+
+{{ geojson }}
+
 </details>
 
 </div>
