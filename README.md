@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/rock-formation-on-wide-field-grass-under-cloudy-blue-sky-during-daytime-M9O6GRrEEDY"><img width="720" src="https://images.unsplash.com/photo-1494625927555-6ec4433b1571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY1NDM2MDl8&ixlib=rb-4.0.3&q=80&w=1080" alt="rock formation on wide field grass under cloudy blue sky during daytime"></a>
+  <a href="https://unsplash.com/photos/valley-near-snowy-mountain-u0ZgqJD55pE"><img width="720" src="https://images.unsplash.com/photo-1459213599465-03ab6a4d5931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY1OTQ0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="valley near snowy mountain"></a>
   
-  <em>rock formation on wide field grass under cloudy blue sky during daytime</em>
+  <em>valley near snowy mountain</em>
   
-  <em>Magic landscape 😊</em>
+  <em>The landscape of Licancabur</em>
 
-  Photo by 🧔‍♂️ Michal Kmeť on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mitkokmet) / [portfolio](http://www.michalkmet.com)
+  Photo by Marcelo Quinan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marceloquinan) / [portfolio](Http://levelofambiguity.tumblr.com)
   
-  Taken at Dolomites, Monte Piana, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4102117,11.8440350999999)
+  Taken at Licancabur • [Google Maps](https://www.google.com/maps/search/?api=1&query=-22.8333333,-67.8833333)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
-| Exposure Time | 1/640 |
-| Aperture      | 7.1 |
-| Focal Length  | 35.0 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/125 |
+| Aperture      | 14.0 |
+| Focal Length  | 18.0 |
 | ISO           | 100 |
-| Location      | Dolomites, Monte Piana, Italy (Italy) |
-| Coordinates   | Latitude 46.4102117, Longitude 11.8440350999999 |
+| Location      | Licancabur (null) |
+| Coordinates   | Latitude -22.8333333, Longitude -67.8833333 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.8440350999999,
-                            46.4102117
+                            -67.8833333,
+                            -22.8333333
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                12.1440350999999,
-                                46.710211699999995
+                                -67.5833333,
+                                -22.5333333
                             ],
                             [
-                                12.1440350999999,
-                                46.1102117
+                                -67.5833333,
+                                -23.1333333
                             ],
                             [
-                                11.544035099999899,
-                                46.1102117
+                                -68.1833333,
+                                -23.1333333
                             ],
                             [
-                                11.544035099999899,
-                                46.710211699999995
+                                -68.1833333,
+                                -22.5333333
                             ],
                             [
-                                12.1440350999999,
-                                46.710211699999995
+                                -67.5833333,
+                                -22.5333333
                             ]
                         ],
                         "type": "LineString"
