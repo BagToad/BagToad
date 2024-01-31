@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/valley-near-snowy-mountain-u0ZgqJD55pE"><img width="720" src="https://images.unsplash.com/photo-1459213599465-03ab6a4d5931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY1OTQ0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="valley near snowy mountain"></a>
+  <a href="https://unsplash.com/photos/mountain-reflection-on-body-of-water-DlkF4-dbCOU"><img width="720" src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDY2ODA4MzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain reflection on body of water"></a>
   
-  <em>valley near snowy mountain</em>
+  <em>mountain reflection on body of water</em>
   
-  <em>The landscape of Licancabur</em>
+  <em>sunrise</em>
 
-  Photo by Marcelo Quinan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marceloquinan) / [portfolio](Http://levelofambiguity.tumblr.com)
+  Photo by garrett parker on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/garrettpsystems) / [portfolio](http://amblestudios.com) / [Twitter](https://twitter.com/garrettpsystems)
   
-  Taken at Licancabur • [Google Maps](https://www.google.com/maps/search/?api=1&query=-22.8333333,-67.8833333)
+  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/125 |
-| Aperture      | 14.0 |
-| Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Licancabur (null) |
-| Coordinates   | Latitude -22.8333333, Longitude -67.8833333 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/320 |
+| Aperture      | 2.8 |
+| Focal Length  | 24.0 |
+| ISO           | 2000 |
+| Location      | Moraine Lake, Canada (Canada) |
+| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -67.8833333,
-                            -22.8333333
+                            -116.1860049,
+                            51.3217416
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                -67.5833333,
-                                -22.5333333
+                                -115.8860049,
+                                51.6217416
                             ],
                             [
-                                -67.5833333,
-                                -23.1333333
+                                -115.8860049,
+                                51.021741600000006
                             ],
                             [
-                                -68.1833333,
-                                -23.1333333
+                                -116.4860049,
+                                51.021741600000006
                             ],
                             [
-                                -68.1833333,
-                                -22.5333333
+                                -116.4860049,
+                                51.6217416
                             ],
                             [
-                                -67.5833333,
-                                -22.5333333
+                                -115.8860049,
+                                51.6217416
                             ]
                         ],
                         "type": "LineString"
