@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-mountain-across-body-of-water-Bkci_8qcdvQ"><img width="720" src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDcwMjY0Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="green mountain across body of water"></a>
+  <a href="https://unsplash.com/photos/forest-heat-by-sunbeam-RwHv7LgeC7s"><img width="720" src="https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDcxMTI4Mzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest heat by sunbeam"></a>
   
-  <em>green mountain across body of water</em>
+  <em>forest heat by sunbeam</em>
   
-  <em>travelyukon, Wet mountain valley</em>
+  <em>Mystery Forest Light</em>
 
-  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
+  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
   
-  Taken at Kluane National Park and Reserve of Canada, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=60.75,-139.5)
+  Taken at Unknown • 
   
   ---
   
@@ -22,64 +22,17 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/200 |
-| Aperture      | 22 |
-| Focal Length  | 50.0 |
-| ISO           | 640 |
-| Location      | Kluane National Park and Reserve of Canada, Canada (Canada) |
-| Coordinates   | Latitude 60.75, Longitude -139.5 |
+| Camera Model  | Canon EOS 5D |
+| Exposure Time | 1/25 |
+| Aperture      | 11.0 |
+| Focal Length  | 32.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -139.5,
-                            60.75
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -139.2,
-                                61.05
-                            ],
-                            [
-                                -139.2,
-                                60.45
-                            ],
-                            [
-                                -139.8,
-                                60.45
-                            ],
-                            [
-                                -139.8,
-                                61.05
-                            ],
-                            [
-                                -139.2,
-                                61.05
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
