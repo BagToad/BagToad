@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-near-body-of-water-cs0sK0gzqCU"><img width="720" src="https://images.unsplash.com/photo-1502481851512-e9e2529bfbf9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDc0NTg0MzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain near body of water"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDc1NDQ4Mzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photo of brown moutains"></a>
   
-  <em>mountain near body of water</em>
+  <em>aerial photo of brown moutains</em>
   
-  <em>Taken 1 year ago by @hofer teresa, daughter from my colleague in the Zillertaler Alps, Nothern Italy! I always loved this picture, i think now is the right moment to publish it!</em>
+  <em>Red highlands</em>
 
-  Photo by eberhard 🖐 grossgasteiger on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/eberhard_grossgasteiger) / [portfolio](https://narrateography.art)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
   
-  Taken at Zillertal Alps, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.022447,11.9016289)
+  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 70D |
-| Exposure Time | 20 |
-| Aperture      | 2.8 |
-| Focal Length  | 14.0 |
-| ISO           | 800 |
-| Location      | Zillertal Alps, Italy (Italy) |
-| Coordinates   | Latitude 47.022447, Longitude 11.9016289 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/640 |
+| Aperture      | 4.0 |
+| Focal Length  | 177.0 |
+| ISO           | 500 |
+| Location      | Ancient Bristlecone Pine Forest, United States (United States) |
+| Coordinates   | Latitude 37.4488186, Longitude -118.1426005 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.9016289,
-                            47.022447
+                            -118.1426005,
+                            37.4488186
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                12.201628900000001,
-                                47.322447
+                                -117.8426005,
+                                37.7488186
                             ],
                             [
-                                12.201628900000001,
-                                46.722447
+                                -117.8426005,
+                                37.148818600000006
                             ],
                             [
-                                11.6016289,
-                                46.722447
+                                -118.4426005,
+                                37.148818600000006
                             ],
                             [
-                                11.6016289,
-                                47.322447
+                                -118.4426005,
+                                37.7488186
                             ],
                             [
-                                12.201628900000001,
-                                47.322447
+                                -117.8426005,
+                                37.7488186
                             ]
                         ],
                         "type": "LineString"
