@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/view-of-seashore-sunset-tNDvFkxkBHo"><img width="720" src="https://images.unsplash.com/photo-1422493757035-1e5e03968f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDc4MDQwMzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="view of seashore sunset"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-brown-field-under-blue-sky-KV7n8nARXng"><img width="720" src="https://images.unsplash.com/photo-1431032843361-ec2cd229c751?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDc4OTA0MzN8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of brown field under blue sky"></a>
   
-  <em>view of seashore sunset</em>
+  <em>landscape photography of brown field under blue sky</em>
   
-  <em>Sunset over an Australian Beach</em>
+  <em>Countryside sunset</em>
 
-  Photo by Igor Kasalovic on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ikasalovic) / [portfolio](https://igorkasalovic.com/) / [Twitter](https://twitter.com/ikasalovic)
+  Photo by Joseph Barrientos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jbcreate) / [portfolio](http://dribbble.com/jbcreate) / [Twitter](https://twitter.com/jbcreate_)
   
-  Taken at Australia, New South Wales, Sydney • 
+  Taken at Unknown • 
   
   ---
   
@@ -22,12 +22,12 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 60D |
-| Exposure Time | 15 |
-| Aperture      | 20.0 |
-| Focal Length  | 10.0 |
-| ISO           | 100 |
-| Location      | Australia, New South Wales, Sydney (Australia) |
+| Camera Model  | ILCE-7 |
+| Exposure Time | 1/2500 |
+| Aperture      | 4.0 |
+| Focal Length  | 16.0 |
+| ISO           | 250 |
+| Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
