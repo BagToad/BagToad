@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-surrounded-by-trees-under-cloudy-sky-T-tOgjWZ0fQ"><img width="720" src="https://images.unsplash.com/photo-1516687401797-25297ff1462c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDg0MDg4MzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain surrounded by trees under cloudy sky"></a>
+  <a href="https://unsplash.com/photos/assorted-color-hot-air-balloons-during-daytime-DuBNA1QMpPA"><img width="720" src="https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDg0OTUyMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="assorted-color hot air balloons during daytime"></a>
   
-  <em>mountain surrounded by trees under cloudy sky</em>
+  <em>assorted-color hot air balloons during daytime</em>
   
-  <em>A bit less edited version of the the Yosemite Valley.</em>
+  <em>going up at dawn</em>
 
-  Photo by Aniket Deole on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aniket__) / [portfolio](http://aniket.photos) / [Twitter](https://twitter.com/AniketDeole)
+  Photo by ian dooley on [unsplash.com](https://unsplash.com/) • [portfolio](http://sadswim.com)
   
-  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
+  Taken at Albuquerque, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=35.0853336,-106.6055534)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/80 |
-| Aperture      | 8 |
-| Focal Length  | 41.0 |
-| ISO           | 200 |
-| Location      | Yosemite Valley, United States (United States) |
-| Coordinates   | Latitude 37.7455701, Longitude -119.5936038 |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 1/400 |
+| Aperture      | 5.6 |
+| Focal Length  | 38.0 |
+| ISO           | 100 |
+| Location      | Albuquerque, United States (United States) |
+| Coordinates   | Latitude 35.0853336, Longitude -106.6055534 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.5936038,
-                            37.7455701
+                            -106.6055534,
+                            35.0853336
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                -119.2936038,
-                                38.0455701
+                                -106.30555340000001,
+                                35.385333599999996
                             ],
                             [
-                                -119.2936038,
-                                37.445570100000005
+                                -106.30555340000001,
+                                34.7853336
                             ],
                             [
-                                -119.8936038,
-                                37.445570100000005
+                                -106.9055534,
+                                34.7853336
                             ],
                             [
-                                -119.8936038,
-                                38.0455701
+                                -106.9055534,
+                                35.385333599999996
                             ],
                             [
-                                -119.2936038,
-                                38.0455701
+                                -106.30555340000001,
+                                35.385333599999996
                             ]
                         ],
                         "type": "LineString"
