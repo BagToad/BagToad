@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/assorted-color-hot-air-balloons-during-daytime-DuBNA1QMpPA"><img width="720" src="https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDg0OTUyMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="assorted-color hot air balloons during daytime"></a>
+  <a href="https://unsplash.com/photos/desert-under-blue-skies-W51VK3Obcj0"><img width="720" src="https://images.unsplash.com/photo-1503453363464-743ee9ce1584?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDg1ODE2Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="desert under blue skies"></a>
   
-  <em>assorted-color hot air balloons during daytime</em>
+  <em>desert under blue skies</em>
   
-  <em>going up at dawn</em>
+  <em>GOLD/WHEAT</em>
 
-  Photo by ian dooley on [unsplash.com](https://unsplash.com/) • [portfolio](http://sadswim.com)
+  Photo by Yuriy Bogdanov on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/profepix) / [portfolio](https://www.instagram.com/profepix/)
   
-  Taken at Albuquerque, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=35.0853336,-106.6055534)
+  Taken at Ridgefield, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.815115,-122.7426008)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 1/400 |
+| Camera Model  | NIKON D700 |
+| Exposure Time | 1/1000 |
 | Aperture      | 5.6 |
-| Focal Length  | 38.0 |
-| ISO           | 100 |
-| Location      | Albuquerque, United States (United States) |
-| Coordinates   | Latitude 35.0853336, Longitude -106.6055534 |
+| Focal Length  | 50.0 |
+| ISO           | 200 |
+| Location      | Ridgefield, United States (United States) |
+| Coordinates   | Latitude 45.815115, Longitude -122.7426008 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -106.6055534,
-                            35.0853336
+                            -122.7426008,
+                            45.815115
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                -106.30555340000001,
-                                35.385333599999996
+                                -122.44260080000001,
+                                46.115114999999996
                             ],
                             [
-                                -106.30555340000001,
-                                34.7853336
+                                -122.44260080000001,
+                                45.515115
                             ],
                             [
-                                -106.9055534,
-                                34.7853336
+                                -123.0426008,
+                                45.515115
                             ],
                             [
-                                -106.9055534,
-                                35.385333599999996
+                                -123.0426008,
+                                46.115114999999996
                             ],
                             [
-                                -106.30555340000001,
-                                35.385333599999996
+                                -122.44260080000001,
+                                46.115114999999996
                             ]
                         ],
                         "type": "LineString"
