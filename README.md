@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-body-of-water-between-trees-and-mountain-sR7_ImYvt1Q"><img width="720" src="https://images.unsplash.com/photo-1502786129293-79981df4e689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDg2NjgwMzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of body of water between trees and mountain"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-raing-CfMEecyNtHc"><img width="720" src="https://images.unsplash.com/photo-1529198792282-ca6752042aa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDg3NTQ0Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain raing"></a>
   
-  <em>photo of body of water between trees and mountain</em>
+  <em>landscape photography of mountain raing</em>
   
-  <em>Rocky Mountain</em>
+  <em>The Bled´s Church</em>
 
-  Photo by Danyu Wang on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/w_danyu)
+  Photo by Francisco Ghisletti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/travellingtank)
   
-  Taken at Field, 艾伯塔省, 加拿大 • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.32713889,-116.17922222)
+  Taken at Bled, Slovenia • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.3683266,14.1145798)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | EVA-AL10 |
-| Exposure Time | 1/236 |
+| Camera Model  | SM-G900V |
+| Exposure Time | 1/1912 |
 | Aperture      | 2.2 |
-| Focal Length  | 4.5 |
-| ISO           | 50 |
-| Location      | Field, 艾伯塔省, 加拿大 (加拿大) |
-| Coordinates   | Latitude 51.32713889, Longitude -116.17922222 |
+| Focal Length  | 4.8 |
+| ISO           | 40 |
+| Location      | Bled, Slovenia (Slovenia) |
+| Coordinates   | Latitude 46.3683266, Longitude 14.1145798 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.17922222,
-                            51.32713889
+                            14.1145798,
+                            46.3683266
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                -115.87922222,
-                                51.62713889
+                                14.4145798,
+                                46.6683266
                             ],
                             [
-                                -115.87922222,
-                                51.02713889
+                                14.4145798,
+                                46.068326600000006
                             ],
                             [
-                                -116.47922222,
-                                51.02713889
+                                13.814579799999999,
+                                46.068326600000006
                             ],
                             [
-                                -116.47922222,
-                                51.62713889
+                                13.814579799999999,
+                                46.6683266
                             ],
                             [
-                                -115.87922222,
-                                51.62713889
+                                14.4145798,
+                                46.6683266
                             ]
                         ],
                         "type": "LineString"
