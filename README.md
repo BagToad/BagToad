@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-raing-CfMEecyNtHc"><img width="720" src="https://images.unsplash.com/photo-1529198792282-ca6752042aa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDg3NTQ0Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain raing"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky-XNIjmb6Ax04"><img width="720" src="https://images.unsplash.com/photo-1429704658776-3d38c9990511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDg4NDA4MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field under blue sky"></a>
   
-  <em>landscape photography of mountain raing</em>
+  <em>green grass field under blue sky</em>
   
-  <em>The Bled´s Church</em>
+  <em></em>
 
-  Photo by Francisco Ghisletti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/travellingtank)
+  Photo by John Mark Arnold on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnmarkarnold) / [portfolio](https://www.instagram.com/johnmarkarnold/) / [Twitter](https://twitter.com/JohnMarkArnold)
   
-  Taken at Bled, Slovenia • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.3683266,14.1145798)
+  Taken at Unknown • 
   
   ---
   
@@ -22,64 +22,17 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | SM-G900V |
-| Exposure Time | 1/1912 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.8 |
-| ISO           | 40 |
-| Location      | Bled, Slovenia (Slovenia) |
-| Coordinates   | Latitude 46.3683266, Longitude 14.1145798 |
+| Camera Model  | Canon EOS 550D |
+| Exposure Time | 1/1000 |
+| Aperture      | 5.6 |
+| Focal Length  | 55.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            14.1145798,
-                            46.3683266
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                14.4145798,
-                                46.6683266
-                            ],
-                            [
-                                14.4145798,
-                                46.068326600000006
-                            ],
-                            [
-                                13.814579799999999,
-                                46.068326600000006
-                            ],
-                            [
-                                13.814579799999999,
-                                46.6683266
-                            ],
-                            [
-                                14.4145798,
-                                46.6683266
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
