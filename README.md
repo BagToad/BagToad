@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/empty-road-between-trees-on-forest-v4e3JI7DDHI"><img width="720" src="https://images.unsplash.com/photo-1446329813274-7c9036bd9a1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDk5NjQwNDZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="empty road between trees on forest"></a>
+  <a href="https://unsplash.com/photos/landmark-photography-of-trees-near-rocky-mountain-under-blue-skies-daytime-ndN00KmbJ1c"><img width="720" src="https://images.unsplash.com/photo-1426604966848-d7adac402bff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTAwNTA0MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="landmark photography of trees near rocky mountain under blue skies daytime"></a>
   
-  <em>empty road between trees on forest</em>
+  <em>landmark photography of trees near rocky mountain under blue skies daytime</em>
   
-  <em></em>
+  <em>El Capitan on a sunny afternoon</em>
 
-  Photo by Sebastian Unrau on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
+  Photo by Adam Kool on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/adamkool) / [portfolio](http://twitter.com/adamkool) / [Twitter](https://twitter.com/AdamKool)
   
-  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
+  Taken at El Cap, Yosemite National Park, United States • 
   
   ---
   
@@ -22,64 +22,17 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 0.3 |
-| Aperture      | 16.0 |
-| Focal Length  | 16.0 |
-| ISO           | 100 |
-| Location      | Bad Pyrmont, Deutschland (Deutschland) |
-| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
+| Camera Model  | Canon EOS 5D Mark II |
+| Exposure Time | 1/125 |
+| Aperture      | 6.7 |
+| Focal Length  | 17.0 |
+| ISO           | 200 |
+| Location      | El Cap, Yosemite National Park, United States (United States) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            9.25209110000003,
-                            51.9855648
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                9.55209110000003,
-                                52.285564799999996
-                            ],
-                            [
-                                9.55209110000003,
-                                51.6855648
-                            ],
-                            [
-                                8.952091100000029,
-                                51.6855648
-                            ],
-                            [
-                                8.952091100000029,
-                                52.285564799999996
-                            ],
-                            [
-                                9.55209110000003,
-                                52.285564799999996
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
