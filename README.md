@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/calm-lake-surrounded-by-trees-near-mountain-range-Uszp5Gkg0AI"><img width="720" src="https://images.unsplash.com/photo-1413752362258-7af2a667b590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTAxMzY4MzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm lake surrounded by trees near mountain range"></a>
+  <a href="https://unsplash.com/photos/aerial-photography-of-beach-duvq92-VCZ4"><img width="720" src="https://images.unsplash.com/photo-1543348750-466b55f32f16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTAyMjMyNDN8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of beach"></a>
   
-  <em>calm lake surrounded by trees near mountain range</em>
+  <em>aerial photography of beach</em>
   
-  <em>You can support me via Paypal: http://paypal.me/dreamypixel</em>
+  <em></em>
 
-  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com) / [Twitter](https://twitter.com/Dreamy_Pixel)
+  Photo by Nick Perez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nickperezphotography) / [Twitter](https://twitter.com/nipez)
   
-  Taken at Unknown • 
+  Taken at Traverse City, USA • 
   
   ---
   
@@ -22,12 +22,12 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/160 |
-| Aperture      | 6.3 |
-| Focal Length  | 14.0 |
+| Camera Model  | FC1102 |
+| Exposure Time | 1/60 |
+| Aperture      | 2.6 |
+| Focal Length  | 4.5 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
+| Location      | Traverse City, USA (USA) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
