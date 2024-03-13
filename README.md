@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photography-of-beach-duvq92-VCZ4"><img width="720" src="https://images.unsplash.com/photo-1543348750-466b55f32f16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTAyMjMyNDN8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of beach"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-boat-moving-towards-the-mountain-O453M2Liufs"><img width="720" src="https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTAzMDk2Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden boat moving towards the mountain"></a>
   
-  <em>aerial photography of beach</em>
+  <em>brown wooden boat moving towards the mountain</em>
   
-  <em></em>
+  <em>On a boat on Lago di Braies</em>
 
-  Photo by Nick Perez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nickperezphotography) / [Twitter](https://twitter.com/nipez)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Traverse City, USA • 
+  Taken at Lago di Braies, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
   
   ---
   
@@ -22,17 +22,64 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FC1102 |
-| Exposure Time | 1/60 |
-| Aperture      | 2.6 |
-| Focal Length  | 4.5 |
-| ISO           | 100 |
-| Location      | Traverse City, USA (USA) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lago di Braies, Italy (Italy) |
+| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            12.0859822,
+                            46.6948731
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                12.3859822,
+                                46.9948731
+                            ],
+                            [
+                                12.3859822,
+                                46.394873100000005
+                            ],
+                            [
+                                11.7859822,
+                                46.394873100000005
+                            ],
+                            [
+                                11.7859822,
+                                46.9948731
+                            ],
+                            [
+                                12.3859822,
+                                46.9948731
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
