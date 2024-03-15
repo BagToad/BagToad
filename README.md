@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/desert-photography-during-daytime-2e3hgvDnCpM"><img width="720" src="https://images.unsplash.com/photo-1541789094913-f3809a8f3ba5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTAzOTYwMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="desert photography during daytime"></a>
+  <a href="https://unsplash.com/photos/photo-of-tall-green-trees-within-mountain-range-CqBjlUs6t50"><img width="720" src="https://images.unsplash.com/photo-1446482972539-0ed52b3e9520?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTA0ODI0MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of tall green trees within mountain range"></a>
   
-  <em>desert photography during daytime</em>
+  <em>photo of tall green trees within mountain range</em>
   
-  <em>I found myself trekking through the dunes in the middle of 33MPH winds. It was early in the morning when the winds were less violent, but when the sunrise hit the winds took a drastic change for the worse.</em>
+  <em></em>
 
-  Photo by Jeremy Bishop on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stillbish) / [portfolio](https://www.jeremybishopphotography.com)
+  Photo by Paul Summers on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/somonesummers) / [portfolio](https://www.flickr.com/photos/paul_summers/)
   
-  Taken at Death Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.5322649,-116.9325408)
+  Taken at Piute Lake, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.1621033,-119.8111751)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM3 |
-| Exposure Time | 1/1000 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/100 |
 | Aperture      | 4.0 |
-| Focal Length  | 50.0 |
-| ISO           | 160 |
-| Location      | Death Valley, United States (United States) |
-| Coordinates   | Latitude 36.5322649, Longitude -116.9325408 |
+| Focal Length  | 24.0 |
+| ISO           | 100 |
+| Location      | Piute Lake, United States (United States) |
+| Coordinates   | Latitude 38.1621033, Longitude -119.8111751 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.9325408,
-                            36.5322649
+                            -119.8111751,
+                            38.1621033
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                -116.6325408,
-                                36.8322649
+                                -119.5111751,
+                                38.462103299999995
                             ],
                             [
-                                -116.6325408,
-                                36.232264900000004
+                                -119.5111751,
+                                37.8621033
                             ],
                             [
-                                -117.2325408,
-                                36.232264900000004
+                                -120.1111751,
+                                37.8621033
                             ],
                             [
-                                -117.2325408,
-                                36.8322649
+                                -120.1111751,
+                                38.462103299999995
                             ],
                             [
-                                -116.6325408,
-                                36.8322649
+                                -119.5111751,
+                                38.462103299999995
                             ]
                         ],
                         "type": "LineString"
