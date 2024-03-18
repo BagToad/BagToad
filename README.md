@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/calm-body-of-water-surrounded-by-trees-near-cliff-mWRR1xj95hg"><img width="720" src="https://images.unsplash.com/photo-1454982523318-4b6396f39d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTA2NTUyMTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm body of water surrounded by trees near cliff"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-dock-between-lavender-flower-field-near-body-of-water-during-golden-hour-K2s_YE031CA"><img width="720" src="https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTA3NDE2NDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden dock between lavender flower field near body of water during golden hour"></a>
   
-  <em>calm body of water surrounded by trees near cliff</em>
+  <em>brown wooden dock between lavender flower field near body of water during golden hour</em>
   
-  <em>River beneath Yosemite cliffs</em>
+  <em>I had been travelling around Central America, living in a van and sharing experiences with other travelers.  Having just dropped my last travel buddy off I headed back to Lake Atitlan and found an incredible spot to camp right next to the lake.  There was this jetty sticking out into the lake where I sat watching the sunset, once again living the dream on my own. I knew something special was happening there, and now it has become BitcoinLake!</em>
 
-  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
+  Photo by Mark Harpur on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/luckybeanz_photo) / [portfolio](http://www.luckybeanz.com/blog) / [Twitter](https://twitter.com/luckybeanzphoto)
   
-  Taken at Yosemite National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.8651011,-119.5383294)
+  Taken at Lake Atitlán, Guatemala • [Google Maps](https://www.google.com/maps/search/?api=1&query=14.6852746212311,-91.2599414305909)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T5i |
-| Exposure Time | 1/200 |
-| Aperture      | 8.0 |
-| Focal Length  | 18.0 |
-| ISO           | 200 |
-| Location      | Yosemite National Park, United States (United States) |
-| Coordinates   | Latitude 37.8651011, Longitude -119.5383294 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 0.8 |
+| Aperture      | 18 |
+| Focal Length  | 11.0 |
+| ISO           | 100 |
+| Location      | Lake Atitlán, Guatemala (Guatemala) |
+| Coordinates   | Latitude 14.6852746212311, Longitude -91.2599414305909 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.5383294,
-                            37.8651011
+                            -91.2599414305909,
+                            14.6852746212311
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                -119.2383294,
-                                38.165101099999994
+                                -90.9599414305909,
+                                14.9852746212311
                             ],
                             [
-                                -119.2383294,
-                                37.5651011
+                                -90.9599414305909,
+                                14.3852746212311
                             ],
                             [
-                                -119.83832939999999,
-                                37.5651011
+                                -91.5599414305909,
+                                14.3852746212311
                             ],
                             [
-                                -119.83832939999999,
-                                38.165101099999994
+                                -91.5599414305909,
+                                14.9852746212311
                             ],
                             [
-                                -119.2383294,
-                                38.165101099999994
+                                -90.9599414305909,
+                                14.9852746212311
                             ]
                         ],
                         "type": "LineString"
