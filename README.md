@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-mountain-under-stars-phIFdC6lA4E"><img width="720" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTA4MjgwMzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="snow mountain under stars"></a>
+  <a href="https://unsplash.com/photos/forest-under-blue-sky-B5drkS_Z5RM"><img width="720" src="https://images.unsplash.com/photo-1484591974057-265bb767ef71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTA5MTQ0Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest under blue sky"></a>
   
-  <em>snow mountain under stars</em>
+  <em>forest under blue sky</em>
   
-  <em></em>
+  <em>Follow my Instagram @karsten.wuerth</em>
 
-  Photo by Benjamin Voros on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/voros_beni) / [portfolio](http://www.vorosbenjamin.com) / [Twitter](https://twitter.com/voros_benjamin)
+  Photo by Karsten Würth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karsten.wuerth)
   
-  Taken at Moena, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.37642,11.6615999000001)
+  Taken at Seiser Alm, Kastelruth, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5315731,11.6260806)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 600D |
-| Exposure Time | 1/200 |
-| Aperture      | 5.0 |
-| Focal Length  | 84.0 |
-| ISO           | 100 |
-| Location      | Moena, Italy (Italy) |
-| Coordinates   | Latitude 46.37642, Longitude 11.6615999000001 |
+| Camera Model  | PENTAX K-S2 |
+| Exposure Time | 1/50 |
+| Aperture      | 13 |
+| Focal Length  | 26.0 |
+| ISO           | 200 |
+| Location      | Seiser Alm, Kastelruth, Italy (Italy) |
+| Coordinates   | Latitude 46.5315731, Longitude 11.6260806 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.6615999000001,
-                            46.37642
+                            11.6260806,
+                            46.5315731
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                11.9615999000001,
-                                46.67642
+                                11.9260806,
+                                46.8315731
                             ],
                             [
-                                11.9615999000001,
-                                46.076420000000006
+                                11.9260806,
+                                46.231573100000006
                             ],
                             [
-                                11.3615999000001,
-                                46.076420000000006
+                                11.3260806,
+                                46.231573100000006
                             ],
                             [
-                                11.3615999000001,
-                                46.67642
+                                11.3260806,
+                                46.8315731
                             ],
                             [
-                                11.9615999000001,
-                                46.67642
+                                11.9260806,
+                                46.8315731
                             ]
                         ],
                         "type": "LineString"
