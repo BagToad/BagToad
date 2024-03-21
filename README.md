@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-under-blue-sky-B5drkS_Z5RM"><img width="720" src="https://images.unsplash.com/photo-1484591974057-265bb767ef71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTA5MTQ0Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest under blue sky"></a>
+  <a href="https://unsplash.com/photos/rock-formation-on-wide-field-grass-under-cloudy-blue-sky-during-daytime-M9O6GRrEEDY"><img width="720" src="https://images.unsplash.com/photo-1494625927555-6ec4433b1571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTEwMDA4Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="rock formation on wide field grass under cloudy blue sky during daytime"></a>
   
-  <em>forest under blue sky</em>
+  <em>rock formation on wide field grass under cloudy blue sky during daytime</em>
   
-  <em>Follow my Instagram @karsten.wuerth</em>
+  <em>Magic landscape 😊</em>
 
-  Photo by Karsten Würth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karsten.wuerth)
+  Photo by 🧔‍♂️ Michal Kmeť on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mitkokmet) / [portfolio](http://www.michalkmet.com)
   
-  Taken at Seiser Alm, Kastelruth, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5315731,11.6260806)
+  Taken at Dolomites, Monte Piana, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4102117,11.8440350999999)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | PENTAX K-S2 |
-| Exposure Time | 1/50 |
-| Aperture      | 13 |
-| Focal Length  | 26.0 |
-| ISO           | 200 |
-| Location      | Seiser Alm, Kastelruth, Italy (Italy) |
-| Coordinates   | Latitude 46.5315731, Longitude 11.6260806 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/640 |
+| Aperture      | 7.1 |
+| Focal Length  | 35.0 |
+| ISO           | 100 |
+| Location      | Dolomites, Monte Piana, Italy (Italy) |
+| Coordinates   | Latitude 46.4102117, Longitude 11.8440350999999 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.6260806,
-                            46.5315731
+                            11.8440350999999,
+                            46.4102117
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                11.9260806,
-                                46.8315731
+                                12.1440350999999,
+                                46.710211699999995
                             ],
                             [
-                                11.9260806,
-                                46.231573100000006
+                                12.1440350999999,
+                                46.1102117
                             ],
                             [
-                                11.3260806,
-                                46.231573100000006
+                                11.544035099999899,
+                                46.1102117
                             ],
                             [
-                                11.3260806,
-                                46.8315731
+                                11.544035099999899,
+                                46.710211699999995
                             ],
                             [
-                                11.9260806,
-                                46.8315731
+                                12.1440350999999,
+                                46.710211699999995
                             ]
                         ],
                         "type": "LineString"
