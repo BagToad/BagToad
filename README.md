@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/scenery-of-mountain-canyon-WeYamle9fDM"><img width="720" src="https://images.unsplash.com/photo-1479030160180-b1860951d696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTEwODcyMjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="scenery of mountain canyon"></a>
+  <a href="https://unsplash.com/photos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c"><img width="720" src="https://images.unsplash.com/photo-1511497584788-876760111969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTExNzM2Mzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="pine trees field near mountain under sunset"></a>
   
-  <em>scenery of mountain canyon</em>
+  <em>pine trees field near mountain under sunset</em>
   
-  <em></em>
+  <em>Smoky morning in Cascades</em>
 
-  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/) / [Twitter](https://twitter.com/randomlies)
+  Photo by Sergei A on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergeiakphoto) / [portfolio](https://www.cavanimages.com/contributor/17417)
   
-  Taken at Lower Antelope Canyon, Page, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.903128,-111.4132503)
+  Taken at Rampart Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4155129,-121.3402916)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100T |
-| Exposure Time | 1/450 |
-| Aperture      | 2.0 |
-| Focal Length  | 23.0 |
-| ISO           | 400 |
-| Location      | Lower Antelope Canyon, Page, United States (United States) |
-| Coordinates   | Latitude 36.903128, Longitude -111.4132503 |
+| Camera Model  | ILCE-7M2 |
+| Exposure Time | 1/60 |
+| Aperture      | 9.0 |
+| Focal Length  | 35.0 |
+| ISO           | 250 |
+| Location      | Rampart Lakes, United States (United States) |
+| Coordinates   | Latitude 47.4155129, Longitude -121.3402916 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -111.4132503,
-                            36.903128
+                            -121.3402916,
+                            47.4155129
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                -111.1132503,
-                                37.203128
+                                -121.0402916,
+                                47.7155129
                             ],
                             [
-                                -111.1132503,
-                                36.603128000000005
+                                -121.0402916,
+                                47.115512900000006
                             ],
                             [
-                                -111.7132503,
-                                36.603128000000005
+                                -121.6402916,
+                                47.115512900000006
                             ],
                             [
-                                -111.7132503,
-                                37.203128
+                                -121.6402916,
+                                47.7155129
                             ],
                             [
-                                -111.1132503,
-                                37.203128
+                                -121.0402916,
+                                47.7155129
                             ]
                         ],
                         "type": "LineString"
