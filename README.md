@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c"><img width="720" src="https://images.unsplash.com/photo-1511497584788-876760111969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTExNzM2Mzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="pine trees field near mountain under sunset"></a>
+  <a href="https://unsplash.com/photos/silhouette-photo-of-mountain-during-night-time-ln5drpv_ImI"><img width="720" src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTEyNjAwNDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of mountain during night time"></a>
   
-  <em>pine trees field near mountain under sunset</em>
+  <em>silhouette photo of mountain during night time</em>
   
-  <em>Smoky morning in Cascades</em>
+  <em>Sublime purple night sky</em>
 
-  Photo by Sergei A on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergeiakphoto) / [portfolio](https://www.cavanimages.com/contributor/17417)
+  Photo by Vincentiu Solomon on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentiusolomon) / [portfolio](http://vincentiusolomon.com)
   
-  Taken at Rampart Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4155129,-121.3402916)
+  Taken at Cima d'Asta, Scurelle, Italy • 
   
   ---
   
@@ -22,64 +22,17 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 1/60 |
-| Aperture      | 9.0 |
-| Focal Length  | 35.0 |
-| ISO           | 250 |
-| Location      | Rampart Lakes, United States (United States) |
-| Coordinates   | Latitude 47.4155129, Longitude -121.3402916 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Cima d'Asta, Scurelle, Italy (Italy) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -121.3402916,
-                            47.4155129
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -121.0402916,
-                                47.7155129
-                            ],
-                            [
-                                -121.0402916,
-                                47.115512900000006
-                            ],
-                            [
-                                -121.6402916,
-                                47.115512900000006
-                            ],
-                            [
-                                -121.6402916,
-                                47.7155129
-                            ],
-                            [
-                                -121.0402916,
-                                47.7155129
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
