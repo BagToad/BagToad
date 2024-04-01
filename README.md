@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/desert-under-blue-skies-W51VK3Obcj0"><img width="720" src="https://images.unsplash.com/photo-1503453363464-743ee9ce1584?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTE4NjQ4MzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="desert under blue skies"></a>
+  <a href="https://unsplash.com/photos/green-hills-with-forest-under-cloudy-sky-during-daytime--SO3JtE3gZo"><img width="720" src="https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTE5NTEyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green hills with forest under cloudy sky during daytime"></a>
   
-  <em>desert under blue skies</em>
+  <em>green hills with forest under cloudy sky during daytime</em>
   
-  <em>GOLD/WHEAT</em>
+  <em></em>
 
-  Photo by Yuriy Bogdanov on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/profepix) / [portfolio](https://www.instagram.com/profepix/)
+  Photo by Claudio Testa on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/testaphotography) / [portfolio](http://testa-photography.com/)
   
-  Taken at Ridgefield, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.815115,-122.7426008)
+  Taken at Haselschacher Buck, Vogtsburg, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.0959879,7.69210129999999)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D700 |
-| Exposure Time | 1/1000 |
-| Aperture      | 5.6 |
-| Focal Length  | 50.0 |
-| ISO           | 200 |
-| Location      | Ridgefield, United States (United States) |
-| Coordinates   | Latitude 45.815115, Longitude -122.7426008 |
+| Camera Model  | Canon EOS 600D |
+| Exposure Time | 1/13 |
+| Aperture      | 8.0 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Haselschacher Buck, Vogtsburg, Germany (Germany) |
+| Coordinates   | Latitude 48.0959879, Longitude 7.69210129999999 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -122.7426008,
-                            45.815115
+                            7.69210129999999,
+                            48.0959879
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                -122.44260080000001,
-                                46.115114999999996
+                                7.99210129999999,
+                                48.395987899999994
                             ],
                             [
-                                -122.44260080000001,
-                                45.515115
+                                7.99210129999999,
+                                47.7959879
                             ],
                             [
-                                -123.0426008,
-                                45.515115
+                                7.39210129999999,
+                                47.7959879
                             ],
                             [
-                                -123.0426008,
-                                46.115114999999996
+                                7.39210129999999,
+                                48.395987899999994
                             ],
                             [
-                                -122.44260080000001,
-                                46.115114999999996
+                                7.99210129999999,
+                                48.395987899999994
                             ]
                         ],
                         "type": "LineString"
