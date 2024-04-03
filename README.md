@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/desert-photography-during-daytime-2e3hgvDnCpM"><img width="720" src="https://images.unsplash.com/photo-1541789094913-f3809a8f3ba5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTIwMzc2MzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="desert photography during daytime"></a>
+  <a href="https://unsplash.com/photos/green-leafed-tree-on-desert-D8R_txR_0PE"><img width="720" src="https://images.unsplash.com/photo-1543964198-d54e4f0e44e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTIxMjQwMTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="green-leafed tree on desert"></a>
   
-  <em>desert photography during daytime</em>
+  <em>green-leafed tree on desert</em>
   
-  <em>I found myself trekking through the dunes in the middle of 33MPH winds. It was early in the morning when the winds were less violent, but when the sunrise hit the winds took a drastic change for the worse.</em>
+  <em>Alone tree has grown in the middle of Jordan desert.</em>
 
-  Photo by Jeremy Bishop on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stillbish) / [portfolio](https://www.jeremybishopphotography.com)
+  Photo by Damian Denis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dou.bled) / [portfolio](http://damiandenis.com) / [Twitter](https://twitter.com/doubbled2)
   
-  Taken at Death Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.5322649,-116.9325408)
+  Taken at Wadi Rum, Jordan • 
   
   ---
   
@@ -23,63 +23,16 @@
 | Parameter     | Value |
 | ------------- | ----- |
 | Camera Model  | ILCE-7RM3 |
-| Exposure Time | 1/1000 |
-| Aperture      | 4.0 |
-| Focal Length  | 50.0 |
-| ISO           | 160 |
-| Location      | Death Valley, United States (United States) |
-| Coordinates   | Latitude 36.5322649, Longitude -116.9325408 |
+| Exposure Time | 1/320 |
+| Aperture      | 8.0 |
+| Focal Length  | 40.0 |
+| ISO           | 100 |
+| Location      | Wadi Rum, Jordan (Jordan) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -116.9325408,
-                            36.5322649
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -116.6325408,
-                                36.8322649
-                            ],
-                            [
-                                -116.6325408,
-                                36.232264900000004
-                            ],
-                            [
-                                -117.2325408,
-                                36.232264900000004
-                            ],
-                            [
-                                -117.2325408,
-                                36.8322649
-                            ],
-                            [
-                                -116.6325408,
-                                36.8322649
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
