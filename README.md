@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leafed-tree-on-desert-D8R_txR_0PE"><img width="720" src="https://images.unsplash.com/photo-1543964198-d54e4f0e44e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTIxMjQwMTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="green-leafed tree on desert"></a>
+  <a href="https://unsplash.com/photos/body-of-water-under-sunny-sky-1WQ5RZuH9xo"><img width="720" src="https://images.unsplash.com/photo-1523978591478-c753949ff840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTIyMTA0MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water under sunny sky"></a>
   
-  <em>green-leafed tree on desert</em>
+  <em>body of water under sunny sky</em>
   
-  <em>Alone tree has grown in the middle of Jordan desert.</em>
+  <em>Beautiful morning at Andenes this february 2018.</em>
 
-  Photo by Damian Denis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dou.bled) / [portfolio](http://damiandenis.com) / [Twitter](https://twitter.com/doubbled2)
+  Photo by Pascal Debrunner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pd_visuals) / [portfolio](https://www.instagram.com/pd_visuals)
   
-  Taken at Wadi Rum, Jordan • 
+  Taken at Andenes, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.3240819636415,16.1154219814453)
   
   ---
   
@@ -22,17 +22,64 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM3 |
-| Exposure Time | 1/320 |
-| Aperture      | 8.0 |
-| Focal Length  | 40.0 |
+| Camera Model  | DSC-RX100M3 |
+| Exposure Time | 1/160 |
+| Aperture      | 5.6 |
+| Focal Length  | 8.8 |
 | ISO           | 100 |
-| Location      | Wadi Rum, Jordan (Jordan) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Andenes, Norway (Norway) |
+| Coordinates   | Latitude 69.3240819636415, Longitude 16.1154219814453 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            16.1154219814453,
+                            69.3240819636415
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                16.415421981445302,
+                                69.6240819636415
+                            ],
+                            [
+                                16.415421981445302,
+                                69.0240819636415
+                            ],
+                            [
+                                15.8154219814453,
+                                69.0240819636415
+                            ],
+                            [
+                                15.8154219814453,
+                                69.6240819636415
+                            ],
+                            [
+                                16.415421981445302,
+                                69.6240819636415
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
