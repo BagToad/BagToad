@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-house-near-body-of-water-zAjdgNXsMeg"><img width="720" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTI5MDE2MzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown house near body of water"></a>
+  <a href="https://unsplash.com/photos/valley-near-snowy-mountain-u0ZgqJD55pE"><img width="720" src="https://images.unsplash.com/photo-1459213599465-03ab6a4d5931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTI5ODgwNDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="valley near snowy mountain"></a>
   
-  <em>brown house near body of water</em>
+  <em>valley near snowy mountain</em>
   
-  <em>Boathouse on a mountain lake</em>
+  <em>The landscape of Licancabur</em>
 
-  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
+  Photo by Marcelo Quinan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marceloquinan) / [portfolio](Http://levelofambiguity.tumblr.com)
   
-  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
+  Taken at Licancabur • [Google Maps](https://www.google.com/maps/search/?api=1&query=-22.8333333,-67.8833333)
   
   ---
   
@@ -22,13 +22,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Lago di Braies (null) |
-| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/125 |
+| Aperture      | 14.0 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Licancabur (null) |
+| Coordinates   | Latitude -22.8333333, Longitude -67.8833333 |
 
 ### Map
 
@@ -41,8 +41,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0859822,
-                            46.6948731
+                            -67.8833333,
+                            -22.8333333
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3859822,
-                                46.9948731
+                                -67.5833333,
+                                -22.5333333
                             ],
                             [
-                                12.3859822,
-                                46.394873100000005
+                                -67.5833333,
+                                -23.1333333
                             ],
                             [
-                                11.7859822,
-                                46.394873100000005
+                                -68.1833333,
+                                -23.1333333
                             ],
                             [
-                                11.7859822,
-                                46.9948731
+                                -68.1833333,
+                                -22.5333333
                             ],
                             [
-                                12.3859822,
-                                46.9948731
+                                -67.5833333,
+                                -22.5333333
                             ]
                         ],
                         "type": "LineString"
