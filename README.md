@@ -5,15 +5,17 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/calm-body-of-water-surrounded-by-trees-near-cliff-mWRR1xj95hg"><img width="720" src="https://images.unsplash.com/photo-1454982523318-4b6396f39d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTMwNzU0NjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm body of water surrounded by trees near cliff"></a>
+  <a href="https://unsplash.com/photos/island-surrounded-by-water-z_9VmsxR8hs"><img width="720" src="https://images.unsplash.com/photo-1551978429-3dbfed5cacc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTMxNjA4MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="island surrounded by water"></a>
   
-  <em>calm body of water surrounded by trees near cliff</em>
+  <em>island surrounded by water</em>
   
-  <em>River beneath Yosemite cliffs</em>
+  <em>A small isle in the Eibsee at the beginning of November in 2018. Because it was a really nice and warm day some canoeists stayed at the island in the sund to relax.
 
-  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
+This is the horizontal version of a photo I already posted last year.</em>
+
+  Photo by Daniel Seßler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daniel.sessler) / [portfolio](http://danielsessler.photos)
   
-  Taken at Yosemite National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.8651011,-119.5383294)
+  Taken at Eibsee, Grainau, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4562353,10.9728807)
   
   ---
   
@@ -22,13 +24,13 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T5i |
-| Exposure Time | 1/200 |
-| Aperture      | 8.0 |
-| Focal Length  | 18.0 |
-| ISO           | 200 |
-| Location      | Yosemite National Park, United States (United States) |
-| Coordinates   | Latitude 37.8651011, Longitude -119.5383294 |
+| Camera Model  | ILCE-7R |
+| Exposure Time | 1/160 |
+| Aperture      | 4 |
+| Focal Length  | 95.0 |
+| ISO           | 100 |
+| Location      | Eibsee, Grainau, Germany (Germany) |
+| Coordinates   | Latitude 47.4562353, Longitude 10.9728807 |
 
 ### Map
 
@@ -41,8 +43,8 @@
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.5383294,
-                            37.8651011
+                            10.9728807,
+                            47.4562353
                         ],
                         "type": "Point"
                     },
@@ -54,24 +56,24 @@
                     "geometry": {
                         "coordinates": [
                             [
-                                -119.2383294,
-                                38.165101099999994
+                                11.2728807,
+                                47.7562353
                             ],
                             [
-                                -119.2383294,
-                                37.5651011
+                                11.2728807,
+                                47.156235300000006
                             ],
                             [
-                                -119.83832939999999,
-                                37.5651011
+                                10.672880699999999,
+                                47.156235300000006
                             ],
                             [
-                                -119.83832939999999,
-                                38.165101099999994
+                                10.672880699999999,
+                                47.7562353
                             ],
                             [
-                                -119.2383294,
-                                38.165101099999994
+                                11.2728807,
+                                47.7562353
                             ]
                         ],
                         "type": "LineString"
