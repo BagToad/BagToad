@@ -5,17 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/island-surrounded-by-water-z_9VmsxR8hs"><img width="720" src="https://images.unsplash.com/photo-1551978429-3dbfed5cacc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTMxNjA4MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="island surrounded by water"></a>
+  <a href="https://unsplash.com/photos/glacier-mountains-during-day-cqbLg3lZEpk"><img width="720" src="https://images.unsplash.com/photo-1544198365-f5d60b6d8190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTMyNDcyMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="glacier mountains during day"></a>
   
-  <em>island surrounded by water</em>
+  <em>glacier mountains during day</em>
   
-  <em>A small isle in the Eibsee at the beginning of November in 2018. Because it was a really nice and warm day some canoeists stayed at the island in the sund to relax.
+  <em>Torres del Paine</em>
 
-This is the horizontal version of a photo I already posted last year.</em>
-
-  Photo by Daniel Seßler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daniel.sessler) / [portfolio](http://danielsessler.photos)
+  Photo by Kurt Cotoaga on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Kydroon) / [portfolio](http://kydroon.com) / [Twitter](https://twitter.com/Kydroon)
   
-  Taken at Eibsee, Grainau, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4562353,10.9728807)
+  Taken at Unknown • 
   
   ---
   
@@ -24,64 +22,17 @@ This is the horizontal version of a photo I already posted last year.</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7R |
+| Camera Model  | Canon EOS 5D Mark II |
 | Exposure Time | 1/160 |
-| Aperture      | 4 |
-| Focal Length  | 95.0 |
-| ISO           | 100 |
-| Location      | Eibsee, Grainau, Germany (Germany) |
-| Coordinates   | Latitude 47.4562353, Longitude 10.9728807 |
+| Aperture      | 4.0 |
+| Focal Length  | 173.0 |
+| ISO           | 250 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            10.9728807,
-                            47.4562353
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                11.2728807,
-                                47.7562353
-                            ],
-                            [
-                                11.2728807,
-                                47.156235300000006
-                            ],
-                            [
-                                10.672880699999999,
-                                47.156235300000006
-                            ],
-                            [
-                                10.672880699999999,
-                                47.7562353
-                            ],
-                            [
-                                11.2728807,
-                                47.7562353
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
