@@ -5,15 +5,15 @@
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-between-highlands-8dejZGw3Hec"><img width="720" src="https://images.unsplash.com/photo-1503401639559-b16332601594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTM2NzkyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water between highlands"></a>
+  <a href="https://unsplash.com/photos/brown-hut-surrounded-by-flowers-okzxVsJNxXc"><img width="720" src="https://images.unsplash.com/photo-1431631927486-6603c868ce5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTM3NjU2MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown hut surrounded by flowers"></a>
   
-  <em>body of water between highlands</em>
+  <em>brown hut surrounded by flowers</em>
   
-  <em></em>
+  <em>You can support me via Paypal: http://paypal.me/dreamypixel</em>
 
-  Photo by Johannes Ludwig on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johannesludwig)
+  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com) / [Twitter](https://twitter.com/Dreamy_Pixel)
   
-  Taken at Plansee, Austria • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.48544,10.83574)
+  Taken at Unknown • 
   
   ---
   
@@ -22,64 +22,17 @@
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FC220 |
-| Exposure Time | 1/120 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.7 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/40 |
+| Aperture      | 16 |
+| Focal Length  | 14.0 |
 | ISO           | 100 |
-| Location      | Plansee, Austria (Austria) |
-| Coordinates   | Latitude 47.48544, Longitude 10.83574 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            10.83574,
-                            47.48544
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                11.13574,
-                                47.785439999999994
-                            ],
-                            [
-                                11.13574,
-                                47.18544
-                            ],
-                            [
-                                10.535739999999999,
-                                47.18544
-                            ],
-                            [
-                                10.535739999999999,
-                                47.785439999999994
-                            ],
-                            [
-                                11.13574,
-                                47.785439999999994
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
