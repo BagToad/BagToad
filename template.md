@@ -2,14 +2,14 @@
 
 I'm a Support Engineer for GitHub, but I like making things. Something about automating manual processes satisfies my soul ❤️
 
-Please have a look at my projects! I think they're neat and I pour my heart and soul into everything.
+Please have a look at my projects! I think they're neat, and I pour my heart and soul into everything.
 
 - 🔗 [Zendesk Link Collector](https://github.com/BagToad/Zendesk-Link-Collector) 
   - A powerful browser extension to aggregate Zendesk ticket data based on RegEx patterns.
 - 🌊 [Random Unsplash Action](https://github.com/BagToad/random-unsplash-action)
   - A lovely GitHub Action to post images to your GitHub readme (see below 🏞️)
 - 🏃 [ARC Log Collection Scripts](https://github.com/BagToad/arc-log-collection-scripts)
-  - A collection of Shell scripts to dump diagnostic information and logs from your Actions Runner Controller deployment.
+  - A collection of Shell scripts to dump diagnostic information and logs from an [Actions Runner Controller](https://github.com/actions/actions-runner-controller) deployment.
 - 🧘 Other Zendesk tweaks to make life easier 😊
   - [Add Zendesk Comment Borders](https://github.com/BagToad/add-zendesk-comment-borders)
   - [Auto-Hide Zendesk Composer](https://github.com/BagToad/Auto-Hide-Zendesk-Composer)
