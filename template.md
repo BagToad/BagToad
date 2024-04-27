@@ -2,7 +2,7 @@
 
 I'm a Support Engineer for GitHub, but I like making things. Something about automating manual processes satisfies my soul ❤️
 
-Please have a look at my projects! I think they're neat and I pour my heart and soul it.
+Please have a look at my projects! I think they're neat and I pour my heart and soul into everything.
 
 - 🔗 [Zendesk Link Collector](https://github.com/BagToad/Zendesk-Link-Collector) 
   - A powerful browser extension to aggregate Zendesk ticket data based on RegEx patterns.
