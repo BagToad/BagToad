@@ -20,7 +20,7 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kynan-ware/)
 - 🤝 Collaborate with me on literally anything
-  - 🪴 I want to learn and share experiences about topics such as JavaScript, shell, Support/Customer Service, Kubernetes, and more.
+  - 🪴 I want to learn and share experiences about topics such as JavaScript, shell scripts, Support/Customer Service, Kubernetes, and more.
   - 💡 I want to know about new projects that might align with my skills
   - 📚 I want to read interesting and well written blog posts
   - 🪨 I want to know about others' personal knowledge management systems, particularly [Obsidian](https://obsidian.md/)
