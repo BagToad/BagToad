@@ -30,15 +30,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-during-sunset-_RBcxo9AU-U"><img width="720" src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ0NTY4MzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field during sunset"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-twukN12EN7c"><img width="720" src="https://images.unsplash.com/photo-1500964757637-c85e8a162699?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ1NDMyMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountains"></a>
   
-  <em>"green grass field during sunset"</em>
+  <em>"landscape photography of mountains"</em>
   
-  <em>""</em>
+  <em>"Pink toned thoughts on a hike —
+Everything comes in waves,
+even mountains."</em>
 
-  Photo by Robert Lukeman on [unsplash.com](https://unsplash.com/) • 
+  Photo by Simon Berger on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/8momentsnow) / [Twitter](https://twitter.com/8momentsinlife)
   
-  Taken at Skye, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=57.5359261,-6.22627250000005)
+  Taken at Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.82743333,13.62928667)
   
   ---
   
@@ -47,13 +49,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/25 |
-| Aperture      | 13.0 |
-| Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Skye, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 57.5359261, Longitude -6.22627250000005 |
+| Camera Model  | E-M1 |
+| Exposure Time | 1/800 |
+| Aperture      | 4 |
+| Focal Length  | 75.0 |
+| ISO           | 200 |
+| Location      | Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich (Österreich) |
+| Coordinates   | Latitude 47.82743333, Longitude 13.62928667 |
 
 ### Map
 
@@ -66,8 +68,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -6.22627250000005,
-                            57.5359261
+                            13.62928667,
+                            47.82743333
                         ],
                         "type": "Point"
                     },
@@ -79,24 +81,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -5.92627250000005,
-                                57.835926099999995
+                                13.929286670000002,
+                                48.127433329999995
                             ],
                             [
-                                -5.92627250000005,
-                                57.2359261
+                                13.929286670000002,
+                                47.52743333
                             ],
                             [
-                                -6.52627250000005,
-                                57.2359261
+                                13.32928667,
+                                47.52743333
                             ],
                             [
-                                -6.52627250000005,
-                                57.835926099999995
+                                13.32928667,
+                                48.127433329999995
                             ],
                             [
-                                -5.92627250000005,
-                                57.835926099999995
+                                13.929286670000002,
+                                48.127433329999995
                             ]
                         ],
                         "type": "LineString"
