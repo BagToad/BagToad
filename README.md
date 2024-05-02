@@ -30,17 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-twukN12EN7c"><img width="720" src="https://images.unsplash.com/photo-1500964757637-c85e8a162699?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ1NDMyMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountains"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-raing-CfMEecyNtHc"><img width="720" src="https://images.unsplash.com/photo-1529198792282-ca6752042aa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ2Mjk2MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain raing"></a>
   
-  <em>"landscape photography of mountains"</em>
+  <em>"landscape photography of mountain raing"</em>
   
-  <em>"Pink toned thoughts on a hike —
-Everything comes in waves,
-even mountains."</em>
+  <em>"The Bled´s Church"</em>
 
-  Photo by Simon Berger on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/8momentsnow) / [Twitter](https://twitter.com/8momentsinlife)
+  Photo by Francisco Ghisletti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/travellingtank)
   
-  Taken at Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.82743333,13.62928667)
+  Taken at Bled, Slovenia • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.3683266,14.1145798)
   
   ---
   
@@ -49,13 +47,13 @@ even mountains."</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | E-M1 |
-| Exposure Time | 1/800 |
-| Aperture      | 4 |
-| Focal Length  | 75.0 |
-| ISO           | 200 |
-| Location      | Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich (Österreich) |
-| Coordinates   | Latitude 47.82743333, Longitude 13.62928667 |
+| Camera Model  | SM-G900V |
+| Exposure Time | 1/1912 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.8 |
+| ISO           | 40 |
+| Location      | Bled, Slovenia (Slovenia) |
+| Coordinates   | Latitude 46.3683266, Longitude 14.1145798 |
 
 ### Map
 
@@ -68,8 +66,8 @@ even mountains."</em>
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            13.62928667,
-                            47.82743333
+                            14.1145798,
+                            46.3683266
                         ],
                         "type": "Point"
                     },
@@ -81,24 +79,24 @@ even mountains."</em>
                     "geometry": {
                         "coordinates": [
                             [
-                                13.929286670000002,
-                                48.127433329999995
+                                14.4145798,
+                                46.6683266
                             ],
                             [
-                                13.929286670000002,
-                                47.52743333
+                                14.4145798,
+                                46.068326600000006
                             ],
                             [
-                                13.32928667,
-                                47.52743333
+                                13.814579799999999,
+                                46.068326600000006
                             ],
                             [
-                                13.32928667,
-                                48.127433329999995
+                                13.814579799999999,
+                                46.6683266
                             ],
                             [
-                                13.929286670000002,
-                                48.127433329999995
+                                14.4145798,
+                                46.6683266
                             ]
                         ],
                         "type": "LineString"
