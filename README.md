@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-raing-CfMEecyNtHc"><img width="720" src="https://images.unsplash.com/photo-1529198792282-ca6752042aa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ2Mjk2MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain raing"></a>
+  <a href="https://unsplash.com/photos/brown-house-near-body-of-water-zAjdgNXsMeg"><img width="720" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ3MTYwMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown house near body of water"></a>
   
-  <em>"landscape photography of mountain raing"</em>
+  <em>"brown house near body of water"</em>
   
-  <em>"The Bled´s Church"</em>
+  <em>"Boathouse on a mountain lake"</em>
 
-  Photo by Francisco Ghisletti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/travellingtank)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Bled, Slovenia • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.3683266,14.1145798)
+  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | SM-G900V |
-| Exposure Time | 1/1912 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.8 |
-| ISO           | 40 |
-| Location      | Bled, Slovenia (Slovenia) |
-| Coordinates   | Latitude 46.3683266, Longitude 14.1145798 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lago di Braies (null) |
+| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            14.1145798,
-                            46.3683266
+                            12.0859822,
+                            46.6948731
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                14.4145798,
-                                46.6683266
+                                12.3859822,
+                                46.9948731
                             ],
                             [
-                                14.4145798,
-                                46.068326600000006
+                                12.3859822,
+                                46.394873100000005
                             ],
                             [
-                                13.814579799999999,
-                                46.068326600000006
+                                11.7859822,
+                                46.394873100000005
                             ],
                             [
-                                13.814579799999999,
-                                46.6683266
+                                11.7859822,
+                                46.9948731
                             ],
                             [
-                                14.4145798,
-                                46.6683266
+                                12.3859822,
+                                46.9948731
                             ]
                         ],
                         "type": "LineString"
