@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/pathway-between-yellow-flower-field-hB-Vwbyxr9U"><img width="720" src="https://images.unsplash.com/photo-1534030665069-90e016e995e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ4ODg4MzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="pathway between yellow flower field"></a>
+  <a href="https://unsplash.com/photos/silhouette-photography-of-sailing-boat-on-body-of-water-sJGvoX_eVhw"><img width="720" src="https://images.unsplash.com/photo-1513436539083-9d2127e742f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTQ5NzUyMzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photography of sailing boat on body of water"></a>
   
-  <em>"pathway between yellow flower field"</em>
+  <em>"silhouette photography of sailing boat on body of water"</em>
   
-  <em>"Home landscape"</em>
+  <em>"Sleepy Boat"</em>
 
-  Photo by Raquel Pedrotti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/raquelflosspedrotti)
+  Photo by Zoltan Tasi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/zoltan_tasi) / [portfolio](https://foundation.app/@zoltan_tasi)
   
-  Taken at Unknown • 
+  Taken at Dungeness, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.919325,0.965280000000007)
   
   ---
   
@@ -47,17 +47,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T5 |
-| Exposure Time | 1/250 |
-| Aperture      | 10.0 |
-| Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | X-T1 |
+| Exposure Time | 30 |
+| Aperture      | 2 |
+| Focal Length  | 12.0 |
+| ISO           | 800 |
+| Location      | Dungeness, United Kingdom (United Kingdom) |
+| Coordinates   | Latitude 50.919325, Longitude 0.965280000000007 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            0.965280000000007,
+                            50.919325
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                1.265280000000007,
+                                51.219325
+                            ],
+                            [
+                                1.265280000000007,
+                                50.619325
+                            ],
+                            [
+                                0.665280000000007,
+                                50.619325
+                            ],
+                            [
+                                0.665280000000007,
+                                51.219325
+                            ],
+                            [
+                                1.265280000000007,
+                                51.219325
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
