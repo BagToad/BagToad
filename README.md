@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-mountain-across-body-of-water-Bkci_8qcdvQ"><img width="720" src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTUwNjE2MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green mountain across body of water"></a>
+  <a href="https://unsplash.com/photos/body-of-water-during-sunset-c6SciRp2kaQ"><img width="720" src="https://images.unsplash.com/photo-1513875528452-39400945934d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTUxNDgwMzh8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water during sunset"></a>
   
-  <em>"green mountain across body of water"</em>
+  <em>"body of water during sunset"</em>
   
-  <em>"travelyukon, Wet mountain valley"</em>
+  <em>""</em>
 
-  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
+  Photo by Rodrigo Soares on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/taptap.ninja) / [portfolio](https://rodrigosoares.me) / [Twitter](https://twitter.com/rodi01)
   
-  Taken at Kluane National Park and Reserve of Canada, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=60.75,-139.5)
+  Taken at Lake Tahoe, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0968493,-120.0323507)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/200 |
-| Aperture      | 22 |
-| Focal Length  | 50.0 |
-| ISO           | 640 |
-| Location      | Kluane National Park and Reserve of Canada, Canada (Canada) |
-| Coordinates   | Latitude 60.75, Longitude -139.5 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lake Tahoe, United States (United States) |
+| Coordinates   | Latitude 39.0968493, Longitude -120.0323507 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -139.5,
-                            60.75
+                            -120.0323507,
+                            39.0968493
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -139.2,
-                                61.05
+                                -119.7323507,
+                                39.3968493
                             ],
                             [
-                                -139.2,
-                                60.45
+                                -119.7323507,
+                                38.796849300000005
                             ],
                             [
-                                -139.8,
-                                60.45
+                                -120.33235069999999,
+                                38.796849300000005
                             ],
                             [
-                                -139.8,
-                                61.05
+                                -120.33235069999999,
+                                39.3968493
                             ],
                             [
-                                -139.2,
-                                61.05
+                                -119.7323507,
+                                39.3968493
                             ]
                         ],
                         "type": "LineString"
