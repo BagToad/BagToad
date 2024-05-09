@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-during-sunset-c6SciRp2kaQ"><img width="720" src="https://images.unsplash.com/photo-1513875528452-39400945934d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTUxNDgwMzh8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water during sunset"></a>
+  <a href="https://unsplash.com/photos/white-wooden-tree-surround-by-grass-field-during-sunset-LJD6U920zVo"><img width="720" src="https://images.unsplash.com/photo-1433477155337-9aea4e790195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTUyMzQ0MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="white wooden tree surround by grass field during sunset"></a>
   
-  <em>"body of water during sunset"</em>
+  <em>"white wooden tree surround by grass field during sunset"</em>
   
-  <em>""</em>
+  <em>"Mountain Valley"</em>
 
-  Photo by Rodrigo Soares on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/taptap.ninja) / [portfolio](https://rodrigosoares.me) / [Twitter](https://twitter.com/rodi01)
+  Photo by Jasper Boer on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/photoadventurenz) / [portfolio](http://artloversrepublic.com) / [Twitter](https://twitter.com/jasperboer)
   
-  Taken at Lake Tahoe, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0968493,-120.0323507)
+  Taken at Unknown • 
   
   ---
   
@@ -47,64 +47,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
+| Camera Model  | NEX-5N |
 | Exposure Time | null |
 | Aperture      | null |
 | Focal Length  | null |
-| ISO           | null |
-| Location      | Lake Tahoe, United States (United States) |
-| Coordinates   | Latitude 39.0968493, Longitude -120.0323507 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -120.0323507,
-                            39.0968493
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -119.7323507,
-                                39.3968493
-                            ],
-                            [
-                                -119.7323507,
-                                38.796849300000005
-                            ],
-                            [
-                                -120.33235069999999,
-                                38.796849300000005
-                            ],
-                            [
-                                -120.33235069999999,
-                                39.3968493
-                            ],
-                            [
-                                -119.7323507,
-                                39.3968493
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
