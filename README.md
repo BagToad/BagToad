@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-and-brown-mountains-under-white-sky-during-daytime-EE1B5Kvu6yg"><img width="720" src="https://images.unsplash.com/photo-1590664216212-62e763768cae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTUzMjA4MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="green and brown mountains under white sky during daytime"></a>
+  <a href="https://unsplash.com/photos/green-leaf-trees-under-blue-sky-bJHWJeiHfHc"><img width="720" src="https://images.unsplash.com/photo-1469827160215-9d29e96e72f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU0MDcyMjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leaf trees under blue sky"></a>
   
-  <em>"green and brown mountains under white sky during daytime"</em>
+  <em>"green leaf trees under blue sky"</em>
   
-  <em>"IG: clem.i"</em>
+  <em>""</em>
 
-  Photo by Clémence Bergougnoux on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/clem.i) / [portfolio](https://clemencebergougnoux.myportfolio.com/work)
+  Photo by Jeff King on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Haute-Savoie, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.175679,6.538962)
+  Taken at Unknown • 
   
   ---
   
@@ -47,64 +47,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 80D |
-| Exposure Time | 1/160 |
-| Aperture      | 11 |
-| Focal Length  | 18.0 |
-| ISO           | 250 |
-| Location      | Haute-Savoie, France (France) |
-| Coordinates   | Latitude 46.175679, Longitude 6.538962 |
+| Camera Model  | NIKON D700 |
+| Exposure Time | 1/320 |
+| Aperture      | 9.0 |
+| Focal Length  | 17.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            6.538962,
-                            46.175679
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                6.8389619999999995,
-                                46.475679
-                            ],
-                            [
-                                6.8389619999999995,
-                                45.875679000000005
-                            ],
-                            [
-                                6.238962,
-                                45.875679000000005
-                            ],
-                            [
-                                6.238962,
-                                46.475679
-                            ],
-                            [
-                                6.8389619999999995,
-                                46.475679
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
