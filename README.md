@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/five-birds-flying-on-the-sea-OD9EOzfSOh0"><img width="720" src="https://images.unsplash.com/photo-1471922694854-ff1b63b20054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU0OTM2MzN8&ixlib=rb-4.0.3&q=80&w=1080" alt="five birds flying on the sea"></a>
+  <a href="https://unsplash.com/photos/photo-of-beach-near-mountain-under-blue-sky-at-daytime-9Y5Wk7favpE"><img width="720" src="https://images.unsplash.com/photo-1501791330673-603715379ded?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU1ODAwMjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of beach near mountain under blue sky at daytime"></a>
   
-  <em>"five birds flying on the sea"</em>
+  <em>"photo of beach near mountain under blue sky at daytime"</em>
   
-  <em>""</em>
+  <em>"Horizon"</em>
 
-  Photo by frank mckenna on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/frankiefoto) / [portfolio](http://blog.frankiefoto.com)
+  Photo by Irene Dávila on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at San Diego, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.715738,-117.1610838)
+  Taken at Bannwaldsee, Schwangau, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.6006254,10.7745475)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D4 |
-| Exposure Time | 1/800 |
-| Aperture      | 5.0 |
-| Focal Length  | 14.0 |
-| ISO           | 1250 |
-| Location      | San Diego, United States (United States) |
-| Coordinates   | Latitude 32.715738, Longitude -117.1610838 |
+| Camera Model  | Canon EOS 70D |
+| Exposure Time | 1/2000 |
+| Aperture      | 5.6 |
+| Focal Length  | 50.0 |
+| ISO           | 100 |
+| Location      | Bannwaldsee, Schwangau, Germany (Germany) |
+| Coordinates   | Latitude 47.6006254, Longitude 10.7745475 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -117.1610838,
-                            32.715738
+                            10.7745475,
+                            47.6006254
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -116.8610838,
-                                33.015738
+                                11.074547500000001,
+                                47.900625399999996
                             ],
                             [
-                                -116.8610838,
-                                32.415738000000005
+                                11.074547500000001,
+                                47.3006254
                             ],
                             [
-                                -117.4610838,
-                                32.415738000000005
+                                10.4745475,
+                                47.3006254
                             ],
                             [
-                                -117.4610838,
-                                33.015738
+                                10.4745475,
+                                47.900625399999996
                             ],
                             [
-                                -116.8610838,
-                                33.015738
+                                11.074547500000001,
+                                47.900625399999996
                             ]
                         ],
                         "type": "LineString"
