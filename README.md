@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-beach-near-mountain-under-blue-sky-at-daytime-9Y5Wk7favpE"><img width="720" src="https://images.unsplash.com/photo-1501791330673-603715379ded?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU1ODAwMjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of beach near mountain under blue sky at daytime"></a>
+  <a href="https://unsplash.com/photos/green-plateau-near-water-and-grass-field-1KxBabIntpE"><img width="720" src="https://images.unsplash.com/photo-1535920917776-b0befb1c8166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU2NjY0NDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="green plateau near water and grass field"></a>
   
-  <em>"photo of beach near mountain under blue sky at daytime"</em>
+  <em>"green plateau near water and grass field"</em>
   
-  <em>"Horizon"</em>
+  <em>"Lómagnúpur mountain og Skeiðarársandur on the south coast of Iceland."</em>
 
-  Photo by Irene Dávila on [unsplash.com](https://unsplash.com/) • 
+  Photo by Sigurdur Fjalar Jonsson on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sfjalar) / [Twitter](https://twitter.com/sfjalar)
   
-  Taken at Bannwaldsee, Schwangau, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.6006254,10.7745475)
+  Taken at Unknown • 
   
   ---
   
@@ -47,64 +47,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 70D |
-| Exposure Time | 1/2000 |
-| Aperture      | 5.6 |
-| Focal Length  | 50.0 |
+| Camera Model  | ILCE-7M2 |
+| Exposure Time | 1/250 |
+| Aperture      | 8.0 |
+| Focal Length  | 16.0 |
 | ISO           | 100 |
-| Location      | Bannwaldsee, Schwangau, Germany (Germany) |
-| Coordinates   | Latitude 47.6006254, Longitude 10.7745475 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            10.7745475,
-                            47.6006254
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                11.074547500000001,
-                                47.900625399999996
-                            ],
-                            [
-                                11.074547500000001,
-                                47.3006254
-                            ],
-                            [
-                                10.4745475,
-                                47.3006254
-                            ],
-                            [
-                                10.4745475,
-                                47.900625399999996
-                            ],
-                            [
-                                11.074547500000001,
-                                47.900625399999996
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
