@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-plateau-near-water-and-grass-field-1KxBabIntpE"><img width="720" src="https://images.unsplash.com/photo-1535920917776-b0befb1c8166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU2NjY0NDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="green plateau near water and grass field"></a>
+  <a href="https://unsplash.com/photos/body-of-water-near-mountains-during-daytime-photography-SXTj90G1f5c"><img width="720" src="https://images.unsplash.com/photo-1501884428012-aa321a256730?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU3NTI4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water near mountains during daytime photography"></a>
   
-  <em>"green plateau near water and grass field"</em>
+  <em>"body of water near mountains during daytime photography"</em>
   
-  <em>"Lómagnúpur mountain og Skeiðarársandur on the south coast of Iceland."</em>
+  <em>"Taken in Milford Sound, New Zealand.   This was taken late in the afternoon on a rain-free day."</em>
 
-  Photo by Sigurdur Fjalar Jonsson on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sfjalar) / [Twitter](https://twitter.com/sfjalar)
+  Photo by Peter Hammer on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Unknown • 
+  Taken at Milford Sound, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.671625,167.9256213)
   
   ---
   
@@ -47,17 +47,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 1/250 |
-| Aperture      | 8.0 |
-| Focal Length  | 16.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/25 |
+| Aperture      | 13.0 |
+| Focal Length  | 40.0 |
+| ISO           | 200 |
+| Location      | Milford Sound, New Zealand (New Zealand) |
+| Coordinates   | Latitude -44.671625, Longitude 167.9256213 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            167.9256213,
+                            -44.671625
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                168.2256213,
+                                -44.371625
+                            ],
+                            [
+                                168.2256213,
+                                -44.971624999999996
+                            ],
+                            [
+                                167.62562129999998,
+                                -44.971624999999996
+                            ],
+                            [
+                                167.62562129999998,
+                                -44.371625
+                            ],
+                            [
+                                168.2256213,
+                                -44.371625
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
