@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-near-mountains-during-daytime-photography-SXTj90G1f5c"><img width="720" src="https://images.unsplash.com/photo-1501884428012-aa321a256730?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU3NTI4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water near mountains during daytime photography"></a>
+  <a href="https://unsplash.com/photos/grey-road-in-behind-mountain-2SOoG8-xbCA"><img width="720" src="https://images.unsplash.com/photo-1466970601638-4e5fb6556584?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTU4MzkyMjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="grey road in behind mountain"></a>
   
-  <em>"body of water near mountains during daytime photography"</em>
+  <em>"grey road in behind mountain"</em>
   
-  <em>"Taken in Milford Sound, New Zealand.   This was taken late in the afternoon on a rain-free day."</em>
+  <em>"Road towards Mount Cook"</em>
 
-  Photo by Peter Hammer on [unsplash.com](https://unsplash.com/) • 
+  Photo by Jean-Pierre Brungs on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnnybrungs)
   
-  Taken at Milford Sound, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.671625,167.9256213)
+  Taken at Mount Cook, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-43.5949749,170.1417883)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
-| Exposure Time | 1/25 |
-| Aperture      | 13.0 |
-| Focal Length  | 40.0 |
-| ISO           | 200 |
-| Location      | Milford Sound, New Zealand (New Zealand) |
-| Coordinates   | Latitude -44.671625, Longitude 167.9256213 |
+| Camera Model  | Canon EOS 700D |
+| Exposure Time | 1/100 |
+| Aperture      | 11.0 |
+| Focal Length  | 55.0 |
+| ISO           | 100 |
+| Location      | Mount Cook, New Zealand (New Zealand) |
+| Coordinates   | Latitude -43.5949749, Longitude 170.1417883 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            167.9256213,
-                            -44.671625
+                            170.1417883,
+                            -43.5949749
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                168.2256213,
-                                -44.371625
+                                170.4417883,
+                                -43.2949749
                             ],
                             [
-                                168.2256213,
-                                -44.971624999999996
+                                170.4417883,
+                                -43.894974899999994
                             ],
                             [
-                                167.62562129999998,
-                                -44.971624999999996
+                                169.8417883,
+                                -43.894974899999994
                             ],
                             [
-                                167.62562129999998,
-                                -44.371625
+                                169.8417883,
+                                -43.2949749
                             ],
                             [
-                                168.2256213,
-                                -44.371625
+                                170.4417883,
+                                -43.2949749
                             ]
                         ],
                         "type": "LineString"
