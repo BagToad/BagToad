@@ -30,13 +30,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/white-sand-aaIN3y2zcMQ"><img width="720" src="https://images.unsplash.com/photo-1559666126-84f389727b9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTYzNTc2MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="white sand"></a>
+  <a href="https://unsplash.com/photos/glacier-mountains-during-day-cqbLg3lZEpk"><img width="720" src="https://images.unsplash.com/photo-1544198365-f5d60b6d8190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY0NDQwMzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="glacier mountains during day"></a>
   
-  <em>"white sand"</em>
+  <em>"glacier mountains during day"</em>
   
-  <em>""</em>
+  <em>"Torres del Paine"</em>
 
-  Photo by John Fowler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnd.fowler) / [portfolio](http://www.flickr.com/photos/snowpeak)
+  Photo by Kurt Cotoaga on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Kydroon) / [portfolio](http://kydroon.com) / [Twitter](https://twitter.com/Kydroon)
   
   Taken at Unknown • 
   
@@ -47,11 +47,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
+| Camera Model  | Canon EOS 5D Mark II |
 | Exposure Time | 1/160 |
-| Aperture      | 10.0 |
-| Focal Length  | 230.0 |
-| ISO           | 800 |
+| Aperture      | 4.0 |
+| Focal Length  | 173.0 |
+| ISO           | 250 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
