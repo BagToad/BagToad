@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-green-grass-field-at-sunrise-4miBe6zg5r0"><img width="720" src="https://images.unsplash.com/photo-1434725039720-aaad6dd32dfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY1MzA0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of green grass field at sunrise"></a>
+  <a href="https://unsplash.com/photos/grey-wooden-cabin-near-body-of-water-JEBqFu2AOOA"><img width="720" src="https://images.unsplash.com/photo-1535747790212-30c585ab4867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY2MTY4Mzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="grey wooden cabin near body of water"></a>
   
-  <em>"photo of green grass field at sunrise"</em>
+  <em>"grey wooden cabin near body of water"</em>
   
-  <em>"You can support me via Paypal: http://paypal.me/dreamypixel"</em>
+  <em>"Braies reflections"</em>
 
-  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com) / [Twitter](https://twitter.com/Dreamy_Pixel)
+  Photo by Samuele Errico Piccarini on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/samuelepiccarini) / [portfolio](https://www.behance.net/samuelepiccarini)
   
-  Taken at Unknown • 
+  Taken at Lago di Braies, Braies, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.694333,12.0854273)
   
   ---
   
@@ -47,17 +47,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D800 |
-| Exposure Time | 1/40 |
-| Aperture      | 13 |
-| Focal Length  | 14.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | ILCE-7M2 |
+| Exposure Time | 1/60 |
+| Aperture      | 6.3 |
+| Focal Length  | 23.0 |
+| ISO           | 200 |
+| Location      | Lago di Braies, Braies, Italy (Italy) |
+| Coordinates   | Latitude 46.694333, Longitude 12.0854273 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            12.0854273,
+                            46.694333
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                12.3854273,
+                                46.994333
+                            ],
+                            [
+                                12.3854273,
+                                46.394333
+                            ],
+                            [
+                                11.785427299999998,
+                                46.394333
+                            ],
+                            [
+                                11.785427299999998,
+                                46.994333
+                            ],
+                            [
+                                12.3854273,
+                                46.994333
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
