@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/grey-wooden-cabin-near-body-of-water-JEBqFu2AOOA"><img width="720" src="https://images.unsplash.com/photo-1535747790212-30c585ab4867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY2MTY4Mzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="grey wooden cabin near body of water"></a>
+  <a href="https://unsplash.com/photos/lavender-field-c1Jp-fo53U8"><img width="720" src="https://images.unsplash.com/photo-1499002238440-d264edd596ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY3MDMyNDR8&ixlib=rb-4.0.3&q=80&w=1080" alt="lavender field"></a>
   
-  <em>"grey wooden cabin near body of water"</em>
+  <em>"lavender field"</em>
   
-  <em>"Braies reflections"</em>
+  <em>"Sunset over a lavender field"</em>
 
-  Photo by Samuele Errico Piccarini on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/samuelepiccarini) / [portfolio](https://www.behance.net/samuelepiccarini)
+  Photo by Léonard Cotte on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/EttocL) / [portfolio](https://ettocl.com) / [Twitter](https://twitter.com/EttocL)
   
-  Taken at Lago di Braies, Braies, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.694333,12.0854273)
+  Taken at Drôme, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.5298650604467,4.82497987792965)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 1/60 |
-| Aperture      | 6.3 |
-| Focal Length  | 23.0 |
-| ISO           | 200 |
-| Location      | Lago di Braies, Braies, Italy (Italy) |
-| Coordinates   | Latitude 46.694333, Longitude 12.0854273 |
+| Camera Model  | NIKON D5300 |
+| Exposure Time | 1/250 |
+| Aperture      | 8 |
+| Focal Length  | 25.0 |
+| ISO           | 100 |
+| Location      | Drôme, France (France) |
+| Coordinates   | Latitude 44.5298650604467, Longitude 4.82497987792965 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0854273,
-                            46.694333
+                            4.82497987792965,
+                            44.5298650604467
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3854273,
-                                46.994333
+                                5.12497987792965,
+                                44.8298650604467
                             ],
                             [
-                                12.3854273,
-                                46.394333
+                                5.12497987792965,
+                                44.229865060446706
                             ],
                             [
-                                11.785427299999998,
-                                46.394333
+                                4.52497987792965,
+                                44.229865060446706
                             ],
                             [
-                                11.785427299999998,
-                                46.994333
+                                4.52497987792965,
+                                44.8298650604467
                             ],
                             [
-                                12.3854273,
-                                46.994333
+                                5.12497987792965,
+                                44.8298650604467
                             ]
                         ],
                         "type": "LineString"
