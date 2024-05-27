@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/lavender-field-c1Jp-fo53U8"><img width="720" src="https://images.unsplash.com/photo-1499002238440-d264edd596ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY3MDMyNDR8&ixlib=rb-4.0.3&q=80&w=1080" alt="lavender field"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY3ODk2MzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photo of brown moutains"></a>
   
-  <em>"lavender field"</em>
+  <em>"aerial photo of brown moutains"</em>
   
-  <em>"Sunset over a lavender field"</em>
+  <em>"Red highlands"</em>
 
-  Photo by Léonard Cotte on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/EttocL) / [portfolio](https://ettocl.com) / [Twitter](https://twitter.com/EttocL)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
   
-  Taken at Drôme, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.5298650604467,4.82497987792965)
+  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5300 |
-| Exposure Time | 1/250 |
-| Aperture      | 8 |
-| Focal Length  | 25.0 |
-| ISO           | 100 |
-| Location      | Drôme, France (France) |
-| Coordinates   | Latitude 44.5298650604467, Longitude 4.82497987792965 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/640 |
+| Aperture      | 4.0 |
+| Focal Length  | 177.0 |
+| ISO           | 500 |
+| Location      | Ancient Bristlecone Pine Forest, United States (United States) |
+| Coordinates   | Latitude 37.4488186, Longitude -118.1426005 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            4.82497987792965,
-                            44.5298650604467
+                            -118.1426005,
+                            37.4488186
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                5.12497987792965,
-                                44.8298650604467
+                                -117.8426005,
+                                37.7488186
                             ],
                             [
-                                5.12497987792965,
-                                44.229865060446706
+                                -117.8426005,
+                                37.148818600000006
                             ],
                             [
-                                4.52497987792965,
-                                44.229865060446706
+                                -118.4426005,
+                                37.148818600000006
                             ],
                             [
-                                4.52497987792965,
-                                44.8298650604467
+                                -118.4426005,
+                                37.7488186
                             ],
                             [
-                                5.12497987792965,
-                                44.8298650604467
+                                -117.8426005,
+                                37.7488186
                             ]
                         ],
                         "type": "LineString"
