@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY3ODk2MzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photo of brown moutains"></a>
+  <a href="https://unsplash.com/photos/road-between-green-grass-field-near-mountains-under-blue-and-brown-sky-at-golden-hour-r9RW20TrQ0Y"><img width="720" src="https://images.unsplash.com/photo-1518098268026-4e89f1a2cd8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY4NzYwMzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="road between green grass field near mountains under blue and brown sky at golden hour"></a>
   
-  <em>"aerial photo of brown moutains"</em>
+  <em>"road between green grass field near mountains under blue and brown sky at golden hour"</em>
   
-  <em>"Red highlands"</em>
+  <em>"Amazing Sunset in Tuscany"</em>
 
-  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
+  Photo by Luca Micheli on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucamicheliphoto) / [portfolio](https://www.customerly.io/?utm_source=unsplash) / [Twitter](https://twitter.com/ilucamicheli)
   
-  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
+  Taken at San Quirico d'Orcia, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.0581804,11.6060636)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/640 |
-| Aperture      | 4.0 |
-| Focal Length  | 177.0 |
-| ISO           | 500 |
-| Location      | Ancient Bristlecone Pine Forest, United States (United States) |
-| Coordinates   | Latitude 37.4488186, Longitude -118.1426005 |
+| Camera Model  | FC6310 |
+| Exposure Time | 1/160 |
+| Aperture      | 3.5 |
+| Focal Length  | 8.8 |
+| ISO           | 100 |
+| Location      | San Quirico d'Orcia, Italy (Italy) |
+| Coordinates   | Latitude 43.0581804, Longitude 11.6060636 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -118.1426005,
-                            37.4488186
+                            11.6060636,
+                            43.0581804
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -117.8426005,
-                                37.7488186
+                                11.906063600000001,
+                                43.358180399999995
                             ],
                             [
-                                -117.8426005,
-                                37.148818600000006
+                                11.906063600000001,
+                                42.7581804
                             ],
                             [
-                                -118.4426005,
-                                37.148818600000006
+                                11.3060636,
+                                42.7581804
                             ],
                             [
-                                -118.4426005,
-                                37.7488186
+                                11.3060636,
+                                43.358180399999995
                             ],
                             [
-                                -117.8426005,
-                                37.7488186
+                                11.906063600000001,
+                                43.358180399999995
                             ]
                         ],
                         "type": "LineString"
