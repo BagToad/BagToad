@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/road-between-green-grass-field-near-mountains-under-blue-and-brown-sky-at-golden-hour-r9RW20TrQ0Y"><img width="720" src="https://images.unsplash.com/photo-1518098268026-4e89f1a2cd8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY4NzYwMzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="road between green grass field near mountains under blue and brown sky at golden hour"></a>
+  <a href="https://unsplash.com/photos/brown-mountains-under-blue-sky-4wzRuAb-KWs"><img width="720" src="https://images.unsplash.com/photo-1502790671504-542ad42d5189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY5NjI0NDJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown mountains under blue sky"></a>
   
-  <em>"road between green grass field near mountains under blue and brown sky at golden hour"</em>
+  <em>"brown mountains under blue sky"</em>
   
-  <em>"Amazing Sunset in Tuscany"</em>
+  <em>"Look up"</em>
 
-  Photo by Luca Micheli on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucamicheliphoto) / [portfolio](https://www.customerly.io/?utm_source=unsplash) / [Twitter](https://twitter.com/ilucamicheli)
+  Photo by Mohammad Alizade on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mohamad.a.z) / [portfolio](http://mohamadaz.com/)
   
-  Taken at San Quirico d'Orcia, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.0581804,11.6060636)
+  Taken at Mashhad, Iran • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2604623,59.6167548999999)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FC6310 |
-| Exposure Time | 1/160 |
+| Camera Model  | NIKON D5300 |
+| Exposure Time | 30 |
 | Aperture      | 3.5 |
-| Focal Length  | 8.8 |
-| ISO           | 100 |
-| Location      | San Quirico d'Orcia, Italy (Italy) |
-| Coordinates   | Latitude 43.0581804, Longitude 11.6060636 |
+| Focal Length  | 18.0 |
+| ISO           | 200 |
+| Location      | Mashhad, Iran (Iran) |
+| Coordinates   | Latitude 36.2604623, Longitude 59.6167548999999 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.6060636,
-                            43.0581804
+                            59.6167548999999,
+                            36.2604623
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                11.906063600000001,
-                                43.358180399999995
+                                59.916754899999894,
+                                36.5604623
                             ],
                             [
-                                11.906063600000001,
-                                42.7581804
+                                59.916754899999894,
+                                35.9604623
                             ],
                             [
-                                11.3060636,
-                                42.7581804
+                                59.3167548999999,
+                                35.9604623
                             ],
                             [
-                                11.3060636,
-                                43.358180399999995
+                                59.3167548999999,
+                                36.5604623
                             ],
                             [
-                                11.906063600000001,
-                                43.358180399999995
+                                59.916754899999894,
+                                36.5604623
                             ]
                         ],
                         "type": "LineString"
