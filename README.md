@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-mountains-under-blue-sky-4wzRuAb-KWs"><img width="720" src="https://images.unsplash.com/photo-1502790671504-542ad42d5189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTY5NjI0NDJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown mountains under blue sky"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-green-mountain-8wz1Q4Q_XAg"><img width="720" src="https://images.unsplash.com/photo-1495312040802-a929cd14a6ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcwNDg4MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of green mountain"></a>
   
-  <em>"brown mountains under blue sky"</em>
+  <em>"landscape photography of green mountain"</em>
   
-  <em>"Look up"</em>
+  <em>"Messini from afar"</em>
 
-  Photo by Mohammad Alizade on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mohamad.a.z) / [portfolio](http://mohamadaz.com/)
+  Photo by Billy Williams on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/billyryanwill) / [Twitter](https://twitter.com/billyryanwill)
   
-  Taken at Mashhad, Iran • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2604623,59.6167548999999)
+  Taken at Messina, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.1938137,15.5540152)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5300 |
-| Exposure Time | 30 |
-| Aperture      | 3.5 |
-| Focal Length  | 18.0 |
+| Camera Model  | X-Pro1 |
+| Exposure Time | 1/2000 |
+| Aperture      | 3.6 |
+| Focal Length  | 34.3 |
 | ISO           | 200 |
-| Location      | Mashhad, Iran (Iran) |
-| Coordinates   | Latitude 36.2604623, Longitude 59.6167548999999 |
+| Location      | Messina, Italy (Italy) |
+| Coordinates   | Latitude 38.1938137, Longitude 15.5540152 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            59.6167548999999,
-                            36.2604623
+                            15.5540152,
+                            38.1938137
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                59.916754899999894,
-                                36.5604623
+                                15.854015200000001,
+                                38.4938137
                             ],
                             [
-                                59.916754899999894,
-                                35.9604623
+                                15.854015200000001,
+                                37.8938137
                             ],
                             [
-                                59.3167548999999,
-                                35.9604623
+                                15.2540152,
+                                37.8938137
                             ],
                             [
-                                59.3167548999999,
-                                36.5604623
+                                15.2540152,
+                                38.4938137
                             ],
                             [
-                                59.916754899999894,
-                                36.5604623
+                                15.854015200000001,
+                                38.4938137
                             ]
                         ],
                         "type": "LineString"
