@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/birds-eye-view-photography-of-trees-and-body-of-water-mawU2PoJWfU"><img width="720" src="https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTcyMjE2MTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's eye view photography of trees and body of water"></a>
+  <a href="https://unsplash.com/photos/black-painted-house-in-the-middle-of-the-trees-zlV1Ksvifvs"><img width="720" src="https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTczMDgwMzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="black painted house in the middle of the trees"></a>
   
-  <em>"bird's eye view photography of trees and body of water"</em>
+  <em>"black painted house in the middle of the trees"</em>
   
-  <em>"Blue lake and green shore"</em>
+  <em>"(contact me for the full resoluton image)"</em>
 
-  Photo by Andreas Gücklhorn on [unsplash.com](https://unsplash.com/) • [portfolio](https://guecklhorn.com/) / [Twitter](https://twitter.com/guecklhorn)
+  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
   
-  Taken at Lake Brienz, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7267426,7.96747289999996)
+  Taken at Arnisee, Gurtnellen, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7716847,8.64337209999997)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Lake Brienz, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.7267426, Longitude 7.96747289999996 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/80 |
+| Aperture      | 18.0 |
+| Focal Length  | 60.0 |
+| ISO           | 100 |
+| Location      | Arnisee, Gurtnellen, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.7716847, Longitude 8.64337209999997 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            7.96747289999996,
-                            46.7267426
+                            8.64337209999997,
+                            46.7716847
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                8.26747289999996,
-                                47.0267426
+                                8.943372099999971,
+                                47.0716847
                             ],
                             [
-                                8.26747289999996,
-                                46.426742600000004
+                                8.943372099999971,
+                                46.471684700000004
                             ],
                             [
-                                7.66747289999996,
-                                46.426742600000004
+                                8.34337209999997,
+                                46.471684700000004
                             ],
                             [
-                                7.66747289999996,
-                                47.0267426
+                                8.34337209999997,
+                                47.0716847
                             ],
                             [
-                                8.26747289999996,
-                                47.0267426
+                                8.943372099999971,
+                                47.0716847
                             ]
                         ],
                         "type": "LineString"
