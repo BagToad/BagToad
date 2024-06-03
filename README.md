@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-painted-house-in-the-middle-of-the-trees-zlV1Ksvifvs"><img width="720" src="https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTczMDgwMzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="black painted house in the middle of the trees"></a>
+  <a href="https://unsplash.com/photos/snow-covered-mountain-under-blue-sky-during-daytime-DgdJ_0us5SE"><img width="720" src="https://images.unsplash.com/photo-1607024301817-3bbc081205cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTczOTQ0MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="snow covered mountain under blue sky during daytime"></a>
   
-  <em>"black painted house in the middle of the trees"</em>
+  <em>"snow covered mountain under blue sky during daytime"</em>
   
-  <em>"(contact me for the full resoluton image)"</em>
+  <em>"Stars over cold Alps. Italy."</em>
 
-  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
+  Photo by Marek Piwnicki on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marekpiwnicki) / [portfolio](https://marpiwnicki.github.io)
   
-  Taken at Arnisee, Gurtnellen, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7716847,8.64337209999997)
+  Taken at Lanzada, Prowincja Sondrio, Włochy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.26958,9.872099)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/80 |
-| Aperture      | 18.0 |
-| Focal Length  | 60.0 |
-| ISO           | 100 |
-| Location      | Arnisee, Gurtnellen, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.7716847, Longitude 8.64337209999997 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 10 |
+| Aperture      | 2 |
+| Focal Length  | 50.0 |
+| ISO           | 1250 |
+| Location      | Lanzada, Prowincja Sondrio, Włochy (Włochy) |
+| Coordinates   | Latitude 46.26958, Longitude 9.872099 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            8.64337209999997,
-                            46.7716847
+                            9.872099,
+                            46.26958
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                8.943372099999971,
-                                47.0716847
+                                10.172099000000001,
+                                46.569579999999995
                             ],
                             [
-                                8.943372099999971,
-                                46.471684700000004
+                                10.172099000000001,
+                                45.96958
                             ],
                             [
-                                8.34337209999997,
-                                46.471684700000004
+                                9.572099,
+                                45.96958
                             ],
                             [
-                                8.34337209999997,
-                                47.0716847
+                                9.572099,
+                                46.569579999999995
                             ],
                             [
-                                8.943372099999971,
-                                47.0716847
+                                10.172099000000001,
+                                46.569579999999995
                             ]
                         ],
                         "type": "LineString"
