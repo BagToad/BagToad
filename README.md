@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/closeup-photo-of-green-grass-field-PJCZOWuOxbU"><img width="720" src="https://images.unsplash.com/photo-1428605821565-9ffceeb3dc9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc0ODA4MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="closeup photo of green grass field"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-boat-floating-on-body-of-water-XGDBdSQ70O0"><img width="720" src="https://images.unsplash.com/photo-1505159940484-eb2b9f2588e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc1NjcyMjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden boat floating on body of water"></a>
   
-  <em>"closeup photo of green grass field"</em>
+  <em>"brown wooden boat floating on body of water"</em>
   
-  <em>""</em>
+  <em>"Early morning at Lake Bled"</em>
 
-  Photo by Jordan McQueen on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jordanfmcqueen) / [portfolio](http://jordanmcqueen.co) / [Twitter](https://twitter.com/jordanfmcqueen)
+  Photo by Artem Sapegin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sapegin) / [portfolio](https://www.buymeacoffee.com/sapegin) / [Twitter](https://twitter.com/iamsapegin)
   
-  Taken at Unknown • 
+  Taken at Lake Bled, Bled, Slovenia • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.363598,14.0938053)
   
   ---
   
@@ -47,17 +47,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/320 |
-| Aperture      | 4.0 |
-| Focal Length  | 24.0 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1 |
+| Aperture      | 18.0 |
+| Focal Length  | 36.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Lake Bled, Bled, Slovenia (Slovenia) |
+| Coordinates   | Latitude 46.363598, Longitude 14.0938053 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            14.0938053,
+                            46.363598
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                14.3938053,
+                                46.663598
+                            ],
+                            [
+                                14.3938053,
+                                46.063598000000006
+                            ],
+                            [
+                                13.793805299999999,
+                                46.063598000000006
+                            ],
+                            [
+                                13.793805299999999,
+                                46.663598
+                            ],
+                            [
+                                14.3938053,
+                                46.663598
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
