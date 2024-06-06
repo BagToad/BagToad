@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-boat-floating-on-body-of-water-XGDBdSQ70O0"><img width="720" src="https://images.unsplash.com/photo-1505159940484-eb2b9f2588e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc1NjcyMjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden boat floating on body of water"></a>
+  <a href="https://unsplash.com/photos/calm-body-of-water-surrounded-by-trees-near-cliff-mWRR1xj95hg"><img width="720" src="https://images.unsplash.com/photo-1454982523318-4b6396f39d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc2NTM2MzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm body of water surrounded by trees near cliff"></a>
   
-  <em>"brown wooden boat floating on body of water"</em>
+  <em>"calm body of water surrounded by trees near cliff"</em>
   
-  <em>"Early morning at Lake Bled"</em>
+  <em>"River beneath Yosemite cliffs"</em>
 
-  Photo by Artem Sapegin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sapegin) / [portfolio](https://www.buymeacoffee.com/sapegin) / [Twitter](https://twitter.com/iamsapegin)
+  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
   
-  Taken at Lake Bled, Bled, Slovenia • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.363598,14.0938053)
+  Taken at Yosemite National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.8651011,-119.5383294)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1 |
-| Aperture      | 18.0 |
-| Focal Length  | 36.0 |
-| ISO           | 100 |
-| Location      | Lake Bled, Bled, Slovenia (Slovenia) |
-| Coordinates   | Latitude 46.363598, Longitude 14.0938053 |
+| Camera Model  | Canon EOS REBEL T5i |
+| Exposure Time | 1/200 |
+| Aperture      | 8.0 |
+| Focal Length  | 18.0 |
+| ISO           | 200 |
+| Location      | Yosemite National Park, United States (United States) |
+| Coordinates   | Latitude 37.8651011, Longitude -119.5383294 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            14.0938053,
-                            46.363598
+                            -119.5383294,
+                            37.8651011
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                14.3938053,
-                                46.663598
+                                -119.2383294,
+                                38.165101099999994
                             ],
                             [
-                                14.3938053,
-                                46.063598000000006
+                                -119.2383294,
+                                37.5651011
                             ],
                             [
-                                13.793805299999999,
-                                46.063598000000006
+                                -119.83832939999999,
+                                37.5651011
                             ],
                             [
-                                13.793805299999999,
-                                46.663598
+                                -119.83832939999999,
+                                38.165101099999994
                             ],
                             [
-                                14.3938053,
-                                46.663598
+                                -119.2383294,
+                                38.165101099999994
                             ]
                         ],
                         "type": "LineString"
