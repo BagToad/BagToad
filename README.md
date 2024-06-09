@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-rock-formation-under-blue-sky-CSpjU6hYo_0"><img width="720" src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc4MjY0MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown rock formation under blue sky"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4"><img width="720" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTc5MTI4MzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain hit by sun rays"></a>
   
-  <em>"brown rock formation under blue sky"</em>
+  <em>"landscape photography of mountain hit by sun rays"</em>
   
-  <em>""</em>
+  <em>"Alone in the unspoilt wilderness"</em>
 
-  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
+  Photo by David Marcu on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marcu.david) / [portfolio](https://www.instagram.com/marcu.david/) / [Twitter](https://twitter.com/dmqwe)
   
-  Taken at Giau Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4830556,12.0541667)
+  Taken at Ciucaș Peak, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5217138,25.9261894)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T10 |
-| Exposure Time | 1/340 |
-| Aperture      | 1.0 |
-| Focal Length  | 50.0 |
-| ISO           | 400 |
-| Location      | Giau Pass, Italy (Italy) |
-| Coordinates   | Latitude 46.4830556, Longitude 12.0541667 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/200 |
+| Aperture      | 8.0 |
+| Focal Length  | 35.0 |
+| ISO           | 100 |
+| Location      | Ciucaș Peak, Romania (Romania) |
+| Coordinates   | Latitude 45.5217138, Longitude 25.9261894 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0541667,
-                            46.4830556
+                            25.9261894,
+                            45.5217138
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3541667,
-                                46.7830556
+                                26.2261894,
+                                45.8217138
                             ],
                             [
-                                12.3541667,
-                                46.1830556
+                                26.2261894,
+                                45.2217138
                             ],
                             [
-                                11.754166699999999,
-                                46.1830556
+                                25.626189399999998,
+                                45.2217138
                             ],
                             [
-                                11.754166699999999,
-                                46.7830556
+                                25.626189399999998,
+                                45.8217138
                             ],
                             [
-                                12.3541667,
-                                46.7830556
+                                26.2261894,
+                                45.8217138
                             ]
                         ],
                         "type": "LineString"
