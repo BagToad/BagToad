@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-rock-formation-under-blue-sky-CSpjU6hYo_0"><img width="720" src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTgwODU2MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown rock formation under blue sky"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky-XNIjmb6Ax04"><img width="720" src="https://images.unsplash.com/photo-1429704658776-3d38c9990511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTgxNzIwMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field under blue sky"></a>
   
-  <em>"brown rock formation under blue sky"</em>
+  <em>"green grass field under blue sky"</em>
   
   <em>""</em>
 
-  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
+  Photo by John Mark Arnold on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnmarkarnold) / [portfolio](https://www.instagram.com/johnmarkarnold/) / [Twitter](https://twitter.com/JohnMarkArnold)
   
-  Taken at Giau Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4830556,12.0541667)
+  Taken at Unknown • 
   
   ---
   
@@ -47,64 +47,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T10 |
-| Exposure Time | 1/340 |
-| Aperture      | 1.0 |
-| Focal Length  | 50.0 |
-| ISO           | 400 |
-| Location      | Giau Pass, Italy (Italy) |
-| Coordinates   | Latitude 46.4830556, Longitude 12.0541667 |
+| Camera Model  | Canon EOS 550D |
+| Exposure Time | 1/1000 |
+| Aperture      | 5.6 |
+| Focal Length  | 55.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            12.0541667,
-                            46.4830556
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                12.3541667,
-                                46.7830556
-                            ],
-                            [
-                                12.3541667,
-                                46.1830556
-                            ],
-                            [
-                                11.754166699999999,
-                                46.1830556
-                            ],
-                            [
-                                11.754166699999999,
-                                46.7830556
-                            ],
-                            [
-                                12.3541667,
-                                46.7830556
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
