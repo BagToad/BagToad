@@ -30,13 +30,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-concrete-road-between-steppe-QHZn3-0bbEM"><img width="720" src="https://images.unsplash.com/photo-1511576661531-b34d7da5d0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTgzNDQ4MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="black concrete road between steppe"></a>
+  <a href="https://unsplash.com/photos/forest-during-golden-hour-time-sPt5RIjKfpk"><img width="720" src="https://images.unsplash.com/photo-1553984840-b8cbc34f5215?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg0MzEyMjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest during golden hour time"></a>
   
-  <em>"black concrete road between steppe"</em>
+  <em>"forest during golden hour time"</em>
   
-  <em>"Sunset over the hills of Central California at the start of a long road trip."</em>
+  <em>""</em>
 
-  Photo by Jeremy Bishop on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stillbish) / [portfolio](https://www.jeremybishopphotography.com)
+  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
   
   Taken at Unknown • 
   
@@ -47,11 +47,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-9 |
-| Exposure Time | 1/25 |
-| Aperture      | 2.8 |
-| Focal Length  | 25.0 |
-| ISO           | 250 |
+| Camera Model  | ILCE-7 |
+| Exposure Time | 0.7 |
+| Aperture      | 13.0 |
+| Focal Length  | 200.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
