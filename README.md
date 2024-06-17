@@ -30,13 +30,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/birds-eye-view-of-grassland-beside-mountain-ucYWe5mzTMU"><img width="720" src="https://images.unsplash.com/uploads/1412026095116d2b0c90e/3bf33993?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg1MTc2Mzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's eye view of grassland beside mountain"></a>
+  <a href="https://unsplash.com/photos/mountain-covered-with-green-trees-qfmd9bu7IgA"><img width="720" src="https://images.unsplash.com/37/IHLjdHdzSvi0rgUMMlSK_TE3_0286.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg2MDQwNTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain covered with green trees"></a>
   
-  <em>"bird's eye view of grassland beside mountain"</em>
+  <em>"mountain covered with green trees"</em>
   
-  <em>"Pastures at the foot of a mountain"</em>
+  <em>"Fog over woody hills"</em>
 
-  Photo by Jeremy Cai on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jjeremycai) / [portfolio](http://jeremycai.com) / [Twitter](https://twitter.com/jjeremycai)
+  Photo by FORREST CAVALE on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/forfie) / [portfolio](http://www.cavale.io/) / [Twitter](https://twitter.com/CavaleCreative)
   
   Taken at Unknown • 
   
@@ -47,11 +47,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D80 |
-| Exposure Time | 1/500 |
-| Aperture      | 3.5 |
-| Focal Length  | 85.0 |
-| ISO           | 320 |
+| Camera Model  | NIKON D600 |
+| Exposure Time | 1/640 |
+| Aperture      | 5.6 |
+| Focal Length  | 35.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
