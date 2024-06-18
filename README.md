@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-covered-with-green-trees-qfmd9bu7IgA"><img width="720" src="https://images.unsplash.com/37/IHLjdHdzSvi0rgUMMlSK_TE3_0286.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg2MDQwNTJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain covered with green trees"></a>
+  <a href="https://unsplash.com/photos/scenery-of-mountain-canyon-WeYamle9fDM"><img width="720" src="https://images.unsplash.com/photo-1479030160180-b1860951d696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg2OTA0MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="scenery of mountain canyon"></a>
   
-  <em>"mountain covered with green trees"</em>
+  <em>"scenery of mountain canyon"</em>
   
-  <em>"Fog over woody hills"</em>
+  <em>""</em>
 
-  Photo by FORREST CAVALE on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/forfie) / [portfolio](http://www.cavale.io/) / [Twitter](https://twitter.com/CavaleCreative)
+  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/) / [Twitter](https://twitter.com/randomlies)
   
-  Taken at Unknown • 
+  Taken at Lower Antelope Canyon, Page, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.903128,-111.4132503)
   
   ---
   
@@ -47,17 +47,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D600 |
-| Exposure Time | 1/640 |
-| Aperture      | 5.6 |
-| Focal Length  | 35.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | X100T |
+| Exposure Time | 1/450 |
+| Aperture      | 2.0 |
+| Focal Length  | 23.0 |
+| ISO           | 400 |
+| Location      | Lower Antelope Canyon, Page, United States (United States) |
+| Coordinates   | Latitude 36.903128, Longitude -111.4132503 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -111.4132503,
+                            36.903128
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -111.1132503,
+                                37.203128
+                            ],
+                            [
+                                -111.1132503,
+                                36.603128000000005
+                            ],
+                            [
+                                -111.7132503,
+                                36.603128000000005
+                            ],
+                            [
+                                -111.7132503,
+                                37.203128
+                            ],
+                            [
+                                -111.1132503,
+                                37.203128
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
