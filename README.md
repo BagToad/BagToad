@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/scenery-of-mountain-canyon-WeYamle9fDM"><img width="720" src="https://images.unsplash.com/photo-1479030160180-b1860951d696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg2OTA0MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="scenery of mountain canyon"></a>
+  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg3NzY4Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="seashore during golden hour"></a>
   
-  <em>"scenery of mountain canyon"</em>
+  <em>"seashore during golden hour"</em>
   
-  <em>""</em>
+  <em>"The last night of a two week stay on the North Shore of Oahu, Hawaii."</em>
 
-  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/) / [Twitter](https://twitter.com/randomlies)
+  Photo by Sean Oulashin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
   
-  Taken at Lower Antelope Canyon, Page, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.903128,-111.4132503)
+  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100T |
-| Exposure Time | 1/450 |
-| Aperture      | 2.0 |
-| Focal Length  | 23.0 |
-| ISO           | 400 |
-| Location      | Lower Antelope Canyon, Page, United States (United States) |
-| Coordinates   | Latitude 36.903128, Longitude -111.4132503 |
+| Camera Model  | Canon EOS REBEL T3i |
+| Exposure Time | 1/250 |
+| Aperture      | 4.5 |
+| Focal Length  | 10.0 |
+| ISO           | 200 |
+| Location      | North Shore, Waialua, United States (United States) |
+| Coordinates   | Latitude 21.5616575, Longitude -158.0715983 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -111.4132503,
-                            36.903128
+                            -158.0715983,
+                            21.5616575
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -111.1132503,
-                                37.203128
+                                -157.7715983,
+                                21.8616575
                             ],
                             [
-                                -111.1132503,
-                                36.603128000000005
+                                -157.7715983,
+                                21.2616575
                             ],
                             [
-                                -111.7132503,
-                                36.603128000000005
+                                -158.37159830000002,
+                                21.2616575
                             ],
                             [
-                                -111.7132503,
-                                37.203128
+                                -158.37159830000002,
+                                21.8616575
                             ],
                             [
-                                -111.1132503,
-                                37.203128
+                                -157.7715983,
+                                21.8616575
                             ]
                         ],
                         "type": "LineString"
