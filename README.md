@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-river-and-green-grass-covered-moutain-f9qtLeroLNQ"><img width="720" src="https://images.unsplash.com/photo-1451903978882-b165bd94e45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg4NjMyMjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of river and green grass covered moutain"></a>
+  <a href="https://unsplash.com/photos/green-leafed-tree-on-desert-D8R_txR_0PE"><img width="720" src="https://images.unsplash.com/photo-1543964198-d54e4f0e44e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg5NDk2MzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="green-leafed tree on desert"></a>
   
-  <em>"photo of river and green grass covered moutain"</em>
+  <em>"green-leafed tree on desert"</em>
   
-  <em>"Mossy Mountain Hillside"</em>
+  <em>"Alone tree has grown in the middle of Jordan desert."</em>
 
-  Photo by Roma R on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/n3moy) / [Twitter](https://twitter.com/n3moy)
+  Photo by Damian Denis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dou.bled) / [portfolio](http://damiandenis.com) / [Twitter](https://twitter.com/doubbled2)
   
-  Taken at Skógafoss, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.5320952,-19.5116355)
+  Taken at Wadi Rum, Jordan • 
   
   ---
   
@@ -47,64 +47,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 500D |
-| Exposure Time | 1/1000 |
-| Aperture      | 3.5 |
-| Focal Length  | 18.0 |
+| Camera Model  | ILCE-7RM3 |
+| Exposure Time | 1/320 |
+| Aperture      | 8.0 |
+| Focal Length  | 40.0 |
 | ISO           | 100 |
-| Location      | Skógafoss, Iceland (Iceland) |
-| Coordinates   | Latitude 63.5320952, Longitude -19.5116355 |
+| Location      | Wadi Rum, Jordan (Jordan) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -19.5116355,
-                            63.5320952
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -19.2116355,
-                                63.8320952
-                            ],
-                            [
-                                -19.2116355,
-                                63.2320952
-                            ],
-                            [
-                                -19.8116355,
-                                63.2320952
-                            ],
-                            [
-                                -19.8116355,
-                                63.8320952
-                            ],
-                            [
-                                -19.2116355,
-                                63.8320952
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
