@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leafed-tree-on-desert-D8R_txR_0PE"><img width="720" src="https://images.unsplash.com/photo-1543964198-d54e4f0e44e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTg5NDk2MzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="green-leafed tree on desert"></a>
+  <a href="https://unsplash.com/photos/desert-under-clear-blue-sky-during-daytime-PP8Escz15d8"><img width="720" src="https://images.unsplash.com/photo-1488197047962-b48492212cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkwMzYwMzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="desert under clear blue sky during daytime"></a>
   
-  <em>"green-leafed tree on desert"</em>
+  <em>"desert under clear blue sky during daytime"</em>
   
-  <em>"Alone tree has grown in the middle of Jordan desert."</em>
+  <em>"I was in Namibia directing a professional stills and video crew for a commercial commission. Tracks can take months to be erased by the wind so we had to trek for miles around potential scenes so no to disturb the pristine sand dunes."</em>
 
-  Photo by Damian Denis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dou.bled) / [portfolio](http://damiandenis.com) / [Twitter](https://twitter.com/doubbled2)
+  Photo by Keith Hardy on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/keith_hardy_2001) / [portfolio](https://www.keith-hardy.co.uk)
   
-  Taken at Wadi Rum, Jordan • 
+  Taken at Namib Desert, Namibia • 
   
   ---
   
@@ -47,12 +47,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM3 |
-| Exposure Time | 1/320 |
-| Aperture      | 8.0 |
-| Focal Length  | 40.0 |
-| ISO           | 100 |
-| Location      | Wadi Rum, Jordan (Jordan) |
+| Camera Model  | NIKON D80 |
+| Exposure Time | 1/400 |
+| Aperture      | 10.0 |
+| Focal Length  | 44.0 |
+| ISO           | 320 |
+| Location      | Namib Desert, Namibia (Namibia) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
