@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/desert-under-clear-blue-sky-during-daytime-PP8Escz15d8"><img width="720" src="https://images.unsplash.com/photo-1488197047962-b48492212cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkwMzYwMzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="desert under clear blue sky during daytime"></a>
+  <a href="https://unsplash.com/photos/five-birds-flying-on-the-sea-OD9EOzfSOh0"><img width="720" src="https://images.unsplash.com/photo-1471922694854-ff1b63b20054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkxMjI0MzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="five birds flying on the sea"></a>
   
-  <em>"desert under clear blue sky during daytime"</em>
+  <em>"five birds flying on the sea"</em>
   
-  <em>"I was in Namibia directing a professional stills and video crew for a commercial commission. Tracks can take months to be erased by the wind so we had to trek for miles around potential scenes so no to disturb the pristine sand dunes."</em>
+  <em>""</em>
 
-  Photo by Keith Hardy on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/keith_hardy_2001) / [portfolio](https://www.keith-hardy.co.uk)
+  Photo by frank mckenna on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/frankiefoto) / [portfolio](http://blog.frankiefoto.com)
   
-  Taken at Namib Desert, Namibia • 
+  Taken at San Diego, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.715738,-117.1610838)
   
   ---
   
@@ -47,17 +47,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D80 |
-| Exposure Time | 1/400 |
-| Aperture      | 10.0 |
-| Focal Length  | 44.0 |
-| ISO           | 320 |
-| Location      | Namib Desert, Namibia (Namibia) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D4 |
+| Exposure Time | 1/800 |
+| Aperture      | 5.0 |
+| Focal Length  | 14.0 |
+| ISO           | 1250 |
+| Location      | San Diego, United States (United States) |
+| Coordinates   | Latitude 32.715738, Longitude -117.1610838 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -117.1610838,
+                            32.715738
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -116.8610838,
+                                33.015738
+                            ],
+                            [
+                                -116.8610838,
+                                32.415738000000005
+                            ],
+                            [
+                                -117.4610838,
+                                32.415738000000005
+                            ],
+                            [
+                                -117.4610838,
+                                33.015738
+                            ],
+                            [
+                                -116.8610838,
+                                33.015738
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
