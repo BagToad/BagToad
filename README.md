@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/five-birds-flying-on-the-sea-OD9EOzfSOh0"><img width="720" src="https://images.unsplash.com/photo-1471922694854-ff1b63b20054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkxMjI0MzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="five birds flying on the sea"></a>
+  <a href="https://unsplash.com/photos/northern-lights-over-snow-capped-mountian-LtnPejWDSAY"><img width="720" src="https://images.unsplash.com/photo-1531366936337-7c912a4589a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkyMDg4MjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="northern lights over snow-capped mountian"></a>
   
-  <em>"five birds flying on the sea"</em>
+  <em>"northern lights over snow-capped mountian"</em>
   
-  <em>""</em>
+  <em>"Amazing light display from Mother Nature, very humbled and in awe to capture a multi-hued color Aurora at Tromso, Norway."</em>
 
-  Photo by frank mckenna on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/frankiefoto) / [portfolio](http://blog.frankiefoto.com)
+  Photo by Lightscape on [unsplash.com](https://unsplash.com/) • [portfolio](https://theonepicture.com)
   
-  Taken at San Diego, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.715738,-117.1610838)
+  Taken at Tromsø, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.6492047,18.9553238999999)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D4 |
-| Exposure Time | 1/800 |
-| Aperture      | 5.0 |
-| Focal Length  | 14.0 |
-| ISO           | 1250 |
-| Location      | San Diego, United States (United States) |
-| Coordinates   | Latitude 32.715738, Longitude -117.1610838 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 25 |
+| Aperture      | 5.6 |
+| Focal Length  | 12.0 |
+| ISO           | 6400 |
+| Location      | Tromsø, Norway (Norway) |
+| Coordinates   | Latitude 69.6492047, Longitude 18.9553238999999 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -117.1610838,
-                            32.715738
+                            18.9553238999999,
+                            69.6492047
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -116.8610838,
-                                33.015738
+                                19.2553238999999,
+                                69.9492047
                             ],
                             [
-                                -116.8610838,
-                                32.415738000000005
+                                19.2553238999999,
+                                69.3492047
                             ],
                             [
-                                -117.4610838,
-                                32.415738000000005
+                                18.6553238999999,
+                                69.3492047
                             ],
                             [
-                                -117.4610838,
-                                33.015738
+                                18.6553238999999,
+                                69.9492047
                             ],
                             [
-                                -116.8610838,
-                                33.015738
+                                19.2553238999999,
+                                69.9492047
                             ]
                         ],
                         "type": "LineString"
