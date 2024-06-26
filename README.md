@@ -30,13 +30,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-mountains-under-cloudy-sky-FBJugtbHsWU"><img width="720" src="https://images.unsplash.com/photo-1499680421725-887d06c21ffd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkyOTUyMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green mountains under cloudy sky"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-footbridge-surrounded-by-pink-petaled-flowers-with-creek-underneath-during-daytime-pYyOZ8q7AII"><img width="720" src="https://images.unsplash.com/photo-1432958576632-8a39f6b97dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTkzODE2MzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"></a>
   
-  <em>"green mountains under cloudy sky"</em>
+  <em>"brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"</em>
   
-  <em>""</em>
+  <em>"Mystical garden"</em>
 
-  Photo by Anton Darius on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/thesollers) / [Twitter](https://twitter.com/DariusAnton)
+  Photo by Cosmic Timetraveler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cosmictimetraveler)
   
   Taken at Unknown • 
   
