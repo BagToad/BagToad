@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-under-blue-sky-04-C1NZk1hE"><img width="720" src="https://images.unsplash.com/photo-1484318571209-661cf29a69c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk2NDA4MzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountains under blue sky"></a>
+  <a href="https://unsplash.com/photos/desert-under-blue-skies-W51VK3Obcj0"><img width="720" src="https://images.unsplash.com/photo-1503453363464-743ee9ce1584?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk3MjcyMzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="desert under blue skies"></a>
   
-  <em>"landscape photography of mountains under blue sky"</em>
+  <em>"desert under blue skies"</em>
   
-  <em>"Have a look at Worlds End"</em>
+  <em>"GOLD/WHEAT"</em>
 
-  Photo by Lina Loos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/loosgehts_fotografie) / [portfolio](http://www.loos-gehts.de)
+  Photo by Yuriy Bogdanov on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/profepix) / [portfolio](https://www.instagram.com/profepix/)
   
-  Taken at South Africa • [Google Maps](https://www.google.com/maps/search/?api=1&query=-30.559482,22.937506)
+  Taken at Ridgefield, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.815115,-122.7426008)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/250 |
-| Aperture      | 10.0 |
-| Focal Length  | 24.0 |
-| ISO           | 100 |
-| Location      | South Africa (South Africa) |
-| Coordinates   | Latitude -30.559482, Longitude 22.937506 |
+| Camera Model  | NIKON D700 |
+| Exposure Time | 1/1000 |
+| Aperture      | 5.6 |
+| Focal Length  | 50.0 |
+| ISO           | 200 |
+| Location      | Ridgefield, United States (United States) |
+| Coordinates   | Latitude 45.815115, Longitude -122.7426008 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            22.937506,
-                            -30.559482
+                            -122.7426008,
+                            45.815115
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                23.237506,
-                                -30.259482
+                                -122.44260080000001,
+                                46.115114999999996
                             ],
                             [
-                                23.237506,
-                                -30.859482
+                                -122.44260080000001,
+                                45.515115
                             ],
                             [
-                                22.637506,
-                                -30.859482
+                                -123.0426008,
+                                45.515115
                             ],
                             [
-                                22.637506,
-                                -30.259482
+                                -123.0426008,
+                                46.115114999999996
                             ],
                             [
-                                23.237506,
-                                -30.259482
+                                -122.44260080000001,
+                                46.115114999999996
                             ]
                         ],
                         "type": "LineString"
