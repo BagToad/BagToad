@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/desert-under-blue-skies-W51VK3Obcj0"><img width="720" src="https://images.unsplash.com/photo-1503453363464-743ee9ce1584?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk3MjcyMzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="desert under blue skies"></a>
+  <a href="https://unsplash.com/photos/body-of-water-between-highlands-8dejZGw3Hec"><img width="720" src="https://images.unsplash.com/photo-1503401639559-b16332601594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk4MTM2Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water between highlands"></a>
   
-  <em>"desert under blue skies"</em>
+  <em>"body of water between highlands"</em>
   
-  <em>"GOLD/WHEAT"</em>
+  <em>""</em>
 
-  Photo by Yuriy Bogdanov on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/profepix) / [portfolio](https://www.instagram.com/profepix/)
+  Photo by Johannes Ludwig on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johannesludwig)
   
-  Taken at Ridgefield, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.815115,-122.7426008)
+  Taken at Plansee, Austria • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.48544,10.83574)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D700 |
-| Exposure Time | 1/1000 |
-| Aperture      | 5.6 |
-| Focal Length  | 50.0 |
-| ISO           | 200 |
-| Location      | Ridgefield, United States (United States) |
-| Coordinates   | Latitude 45.815115, Longitude -122.7426008 |
+| Camera Model  | FC220 |
+| Exposure Time | 1/120 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.7 |
+| ISO           | 100 |
+| Location      | Plansee, Austria (Austria) |
+| Coordinates   | Latitude 47.48544, Longitude 10.83574 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -122.7426008,
-                            45.815115
+                            10.83574,
+                            47.48544
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -122.44260080000001,
-                                46.115114999999996
+                                11.13574,
+                                47.785439999999994
                             ],
                             [
-                                -122.44260080000001,
-                                45.515115
+                                11.13574,
+                                47.18544
                             ],
                             [
-                                -123.0426008,
-                                45.515115
+                                10.535739999999999,
+                                47.18544
                             ],
                             [
-                                -123.0426008,
-                                46.115114999999996
+                                10.535739999999999,
+                                47.785439999999994
                             ],
                             [
-                                -122.44260080000001,
-                                46.115114999999996
+                                11.13574,
+                                47.785439999999994
                             ]
                         ],
                         "type": "LineString"
