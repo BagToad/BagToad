@@ -30,15 +30,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-hills-with-forest-under-cloudy-sky-during-daytime--SO3JtE3gZo"><img width="720" src="https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjAzMzIwMjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="green hills with forest under cloudy sky during daytime"></a>
+  <a href="https://unsplash.com/photos/island-surrounded-by-water-z_9VmsxR8hs"><img width="720" src="https://images.unsplash.com/photo-1551978429-3dbfed5cacc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA0MTg0NDR8&ixlib=rb-4.0.3&q=80&w=1080" alt="island surrounded by water"></a>
   
-  <em>"green hills with forest under cloudy sky during daytime"</em>
+  <em>"island surrounded by water"</em>
   
-  <em>""</em>
+  <em>"A small isle in the Eibsee at the beginning of November in 2018. Because it was a really nice and warm day some canoeists stayed at the island in the sund to relax.
 
-  Photo by Claudio Testa on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/testaphotography) / [portfolio](http://testa-photography.com/)
+This is the horizontal version of a photo I already posted last year."</em>
+
+  Photo by Daniel Seßler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daniel.sessler) / [portfolio](http://danielsessler.photos)
   
-  Taken at Haselschacher Buck, Vogtsburg, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.0959879,7.69210129999999)
+  Taken at Eibsee, Grainau, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4562353,10.9728807)
   
   ---
   
@@ -47,13 +49,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 600D |
-| Exposure Time | 1/13 |
-| Aperture      | 8.0 |
-| Focal Length  | 18.0 |
+| Camera Model  | ILCE-7R |
+| Exposure Time | 1/160 |
+| Aperture      | 4 |
+| Focal Length  | 95.0 |
 | ISO           | 100 |
-| Location      | Haselschacher Buck, Vogtsburg, Germany (Germany) |
-| Coordinates   | Latitude 48.0959879, Longitude 7.69210129999999 |
+| Location      | Eibsee, Grainau, Germany (Germany) |
+| Coordinates   | Latitude 47.4562353, Longitude 10.9728807 |
 
 ### Map
 
@@ -66,8 +68,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            7.69210129999999,
-                            48.0959879
+                            10.9728807,
+                            47.4562353
                         ],
                         "type": "Point"
                     },
@@ -79,24 +81,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                7.99210129999999,
-                                48.395987899999994
+                                11.2728807,
+                                47.7562353
                             ],
                             [
-                                7.99210129999999,
-                                47.7959879
+                                11.2728807,
+                                47.156235300000006
                             ],
                             [
-                                7.39210129999999,
-                                47.7959879
+                                10.672880699999999,
+                                47.156235300000006
                             ],
                             [
-                                7.39210129999999,
-                                48.395987899999994
+                                10.672880699999999,
+                                47.7562353
                             ],
                             [
-                                7.99210129999999,
-                                48.395987899999994
+                                11.2728807,
+                                47.7562353
                             ]
                         ],
                         "type": "LineString"
