@@ -30,15 +30,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-brown-mountain-qxCqkbF7tUc"><img width="720" src="https://images.unsplash.com/photo-1466133633688-187f0b492390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA1MDQ4MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of brown mountain"></a>
+  <a href="https://unsplash.com/photos/island-surrounded-by-water-z_9VmsxR8hs"><img width="720" src="https://images.unsplash.com/photo-1551978429-3dbfed5cacc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA1OTEyMjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="island surrounded by water"></a>
   
-  <em>"photo of brown mountain"</em>
+  <em>"island surrounded by water"</em>
   
-  <em>"Golden mountain grassland"</em>
+  <em>"A small isle in the Eibsee at the beginning of November in 2018. Because it was a really nice and warm day some canoeists stayed at the island in the sund to relax.
 
-  Photo by Jean-Pierre Brungs on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnnybrungs)
+This is the horizontal version of a photo I already posted last year."</em>
+
+  Photo by Daniel Seßler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daniel.sessler) / [portfolio](http://danielsessler.photos)
   
-  Taken at Unknown • 
+  Taken at Eibsee, Grainau, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4562353,10.9728807)
   
   ---
   
@@ -47,17 +49,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 700D |
-| Exposure Time | 1/80 |
-| Aperture      | 4.5 |
-| Focal Length  | 10.0 |
-| ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | ILCE-7R |
+| Exposure Time | 1/160 |
+| Aperture      | 4 |
+| Focal Length  | 95.0 |
+| ISO           | 100 |
+| Location      | Eibsee, Grainau, Germany (Germany) |
+| Coordinates   | Latitude 47.4562353, Longitude 10.9728807 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            10.9728807,
+                            47.4562353
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                11.2728807,
+                                47.7562353
+                            ],
+                            [
+                                11.2728807,
+                                47.156235300000006
+                            ],
+                            [
+                                10.672880699999999,
+                                47.156235300000006
+                            ],
+                            [
+                                10.672880699999999,
+                                47.7562353
+                            ],
+                            [
+                                11.2728807,
+                                47.7562353
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
