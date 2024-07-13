@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-near-mountains-during-daytime-photography-SXTj90G1f5c"><img width="720" src="https://images.unsplash.com/photo-1501884428012-aa321a256730?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA3NjQwMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water near mountains during daytime photography"></a>
+  <a href="https://unsplash.com/photos/brown-leafed-tree-near-bed-of-yellow-flowers-ht9aLtovtSo"><img width="720" src="https://images.unsplash.com/photo-1421930866250-aa0594cea05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA4NTA0MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown leafed tree near bed of yellow flowers"></a>
   
-  <em>"body of water near mountains during daytime photography"</em>
+  <em>"brown leafed tree near bed of yellow flowers"</em>
   
-  <em>"Taken in Milford Sound, New Zealand.   This was taken late in the afternoon on a rain-free day."</em>
+  <em>""</em>
 
-  Photo by Peter Hammer on [unsplash.com](https://unsplash.com/) • 
+  Photo by Gabriel Garcia Marengo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gabrielgm) / [portfolio](http://photo.gabrielgm.ch) / [Twitter](https://twitter.com/gabrielgm)
   
-  Taken at Milford Sound, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.671625,167.9256213)
+  Taken at Unknown • 
   
   ---
   
@@ -47,64 +47,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
-| Exposure Time | 1/25 |
-| Aperture      | 13.0 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/800 |
+| Aperture      | 8.0 |
 | Focal Length  | 40.0 |
-| ISO           | 200 |
-| Location      | Milford Sound, New Zealand (New Zealand) |
-| Coordinates   | Latitude -44.671625, Longitude 167.9256213 |
+| ISO           | 250 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            167.9256213,
-                            -44.671625
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                168.2256213,
-                                -44.371625
-                            ],
-                            [
-                                168.2256213,
-                                -44.971624999999996
-                            ],
-                            [
-                                167.62562129999998,
-                                -44.971624999999996
-                            ],
-                            [
-                                167.62562129999998,
-                                -44.371625
-                            ],
-                            [
-                                168.2256213,
-                                -44.371625
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
