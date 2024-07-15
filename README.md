@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/valley-near-snowy-mountain-u0ZgqJD55pE"><img width="720" src="https://images.unsplash.com/photo-1459213599465-03ab6a4d5931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjA5MzY4MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="valley near snowy mountain"></a>
+  <a href="https://unsplash.com/photos/green-pine-trees-near-teal-water-at-daytime-UkOpMcslmX8"><img width="720" src="https://images.unsplash.com/photo-1505490096310-204ef067fe6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjEwMjMyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green pine trees near teal water at daytime"></a>
   
-  <em>"valley near snowy mountain"</em>
+  <em>"green pine trees near teal water at daytime"</em>
   
-  <em>"The landscape of Licancabur"</em>
+  <em>""</em>
 
-  Photo by Marcelo Quinan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marceloquinan) / [portfolio](Http://levelofambiguity.tumblr.com)
+  Photo by Giammarco Boscaro on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/giamboscaro) / [portfolio](https://portfolio.gboscaro.duckdns.org)
   
-  Taken at Licancabur • [Google Maps](https://www.google.com/maps/search/?api=1&query=-22.8333333,-67.8833333)
+  Taken at Veneto, Italia • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.53225333,12.21688333)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
+| Camera Model  | NIKON D7200 |
 | Exposure Time | 1/125 |
-| Aperture      | 14.0 |
-| Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Licancabur (null) |
-| Coordinates   | Latitude -22.8333333, Longitude -67.8833333 |
+| Aperture      | 11.0 |
+| Focal Length  | 28.0 |
+| ISO           | 200 |
+| Location      | Veneto, Italia (Italia) |
+| Coordinates   | Latitude 46.53225333, Longitude 12.21688333 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -67.8833333,
-                            -22.8333333
+                            12.21688333,
+                            46.53225333
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -67.5833333,
-                                -22.5333333
+                                12.51688333,
+                                46.83225333
                             ],
                             [
-                                -67.5833333,
-                                -23.1333333
+                                12.51688333,
+                                46.232253330000006
                             ],
                             [
-                                -68.1833333,
-                                -23.1333333
+                                11.91688333,
+                                46.232253330000006
                             ],
                             [
-                                -68.1833333,
-                                -22.5333333
+                                11.91688333,
+                                46.83225333
                             ],
                             [
-                                -67.5833333,
-                                -22.5333333
+                                12.51688333,
+                                46.83225333
                             ]
                         ],
                         "type": "LineString"
