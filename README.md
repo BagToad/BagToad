@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-pine-trees-near-teal-water-at-daytime-UkOpMcslmX8"><img width="720" src="https://images.unsplash.com/photo-1505490096310-204ef067fe6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjEwMjMyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green pine trees near teal water at daytime"></a>
+  <a href="https://unsplash.com/photos/silhouette-photograph-of-forest--YiJvbfNDqk"><img width="720" src="https://images.unsplash.com/photo-1508163223045-1880bc36e222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjExMDk2MzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photograph of forest"></a>
   
-  <em>"green pine trees near teal water at daytime"</em>
+  <em>"silhouette photograph of forest"</em>
   
-  <em>""</em>
+  <em>"Mysterious gradient in the nature"</em>
 
-  Photo by Giammarco Boscaro on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/giamboscaro) / [portfolio](https://portfolio.gboscaro.duckdns.org)
+  Photo by Katerina Kerdi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/katekerdi) / [portfolio](https://www.instagram.com/katekerdi)
   
-  Taken at Veneto, Italia • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.53225333,12.21688333)
+  Taken at Hard, Austria • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4849228,9.69366319999995)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7200 |
-| Exposure Time | 1/125 |
-| Aperture      | 11.0 |
-| Focal Length  | 28.0 |
-| ISO           | 200 |
-| Location      | Veneto, Italia (Italia) |
-| Coordinates   | Latitude 46.53225333, Longitude 12.21688333 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/2500 |
+| Aperture      | 5.6 |
+| Focal Length  | 200.0 |
+| ISO           | 100 |
+| Location      | Hard, Austria (Austria) |
+| Coordinates   | Latitude 47.4849228, Longitude 9.69366319999995 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.21688333,
-                            46.53225333
+                            9.69366319999995,
+                            47.4849228
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.51688333,
-                                46.83225333
+                                9.99366319999995,
+                                47.7849228
                             ],
                             [
-                                12.51688333,
-                                46.232253330000006
+                                9.99366319999995,
+                                47.1849228
                             ],
                             [
-                                11.91688333,
-                                46.232253330000006
+                                9.39366319999995,
+                                47.1849228
                             ],
                             [
-                                11.91688333,
-                                46.83225333
+                                9.39366319999995,
+                                47.7849228
                             ],
                             [
-                                12.51688333,
-                                46.83225333
+                                9.99366319999995,
+                                47.7849228
                             ]
                         ],
                         "type": "LineString"
