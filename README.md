@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/river-overflow-in-between-rock-formation-p3OzJuT_Dks"><img width="720" src="https://images.unsplash.com/photo-1461301214746-1e109215d6d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjEyODI0MzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="river overflow in between rock formation"></a>
+  <a href="https://unsplash.com/photos/pathway-between-inline-trees-during-golden-hour-ps2daRcXYes"><img width="720" src="https://images.unsplash.com/photo-1445855743215-296f71d4b49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjEzNjg4MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="pathway between inline trees during golden hour"></a>
   
-  <em>"river overflow in between rock formation"</em>
+  <em>"pathway between inline trees during golden hour"</em>
   
-  <em>"Pfeiffer Beach at Dusk"</em>
+  <em>""</em>
 
-  Photo by Kace  Rodriguez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kacelogik)
+  Photo by Lukasz Szmigiel on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
   
-  Taken at Pfeiffer Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2381316,-121.8162251)
+  Taken at Biały Ług, Kędzierzyn-Koźle, Poland • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.3446736,18.2455072)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100S |
-| Exposure Time | 3 |
-| Aperture      | 16.0 |
-| Focal Length  | 23.0 |
-| ISO           | 200 |
-| Location      | Pfeiffer Beach, United States (United States) |
-| Coordinates   | Latitude 36.2381316, Longitude -121.8162251 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Biały Ług, Kędzierzyn-Koźle, Poland (Poland) |
+| Coordinates   | Latitude 50.3446736, Longitude 18.2455072 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -121.8162251,
-                            36.2381316
+                            18.2455072,
+                            50.3446736
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -121.5162251,
-                                36.5381316
+                                18.5455072,
+                                50.6446736
                             ],
                             [
-                                -121.5162251,
-                                35.938131600000006
+                                18.5455072,
+                                50.0446736
                             ],
                             [
-                                -122.1162251,
-                                35.938131600000006
+                                17.945507199999998,
+                                50.0446736
                             ],
                             [
-                                -122.1162251,
-                                36.5381316
+                                17.945507199999998,
+                                50.6446736
                             ],
                             [
-                                -121.5162251,
-                                36.5381316
+                                18.5455072,
+                                50.6446736
                             ]
                         ],
                         "type": "LineString"
