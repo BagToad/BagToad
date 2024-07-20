@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/pathway-between-inline-trees-during-golden-hour-ps2daRcXYes"><img width="720" src="https://images.unsplash.com/photo-1445855743215-296f71d4b49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjEzNjg4MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="pathway between inline trees during golden hour"></a>
+  <a href="https://unsplash.com/photos/mountain-reflection-on-body-of-water-DlkF4-dbCOU"><img width="720" src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE0NTUyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain reflection on body of water"></a>
   
-  <em>"pathway between inline trees during golden hour"</em>
+  <em>"mountain reflection on body of water"</em>
   
-  <em>""</em>
+  <em>"sunrise"</em>
 
-  Photo by Lukasz Szmigiel on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
+  Photo by garrett parker on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/garrettpsystems) / [portfolio](http://amblestudios.com) / [Twitter](https://twitter.com/garrettpsystems)
   
-  Taken at Biały Ług, Kędzierzyn-Koźle, Poland • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.3446736,18.2455072)
+  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Biały Ług, Kędzierzyn-Koźle, Poland (Poland) |
-| Coordinates   | Latitude 50.3446736, Longitude 18.2455072 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/320 |
+| Aperture      | 2.8 |
+| Focal Length  | 24.0 |
+| ISO           | 2000 |
+| Location      | Moraine Lake, Canada (Canada) |
+| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            18.2455072,
-                            50.3446736
+                            -116.1860049,
+                            51.3217416
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                18.5455072,
-                                50.6446736
+                                -115.8860049,
+                                51.6217416
                             ],
                             [
-                                18.5455072,
-                                50.0446736
+                                -115.8860049,
+                                51.021741600000006
                             ],
                             [
-                                17.945507199999998,
-                                50.0446736
+                                -116.4860049,
+                                51.021741600000006
                             ],
                             [
-                                17.945507199999998,
-                                50.6446736
+                                -116.4860049,
+                                51.6217416
                             ],
                             [
-                                18.5455072,
-                                50.6446736
+                                -115.8860049,
+                                51.6217416
                             ]
                         ],
                         "type": "LineString"
