@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-reflection-on-body-of-water-DlkF4-dbCOU"><img width="720" src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE0NTUyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain reflection on body of water"></a>
+  <a href="https://unsplash.com/photos/snowy-mountain-under-white-clouds-HpiYsNBORAw"><img width="720" src="https://images.unsplash.com/photo-1464823063530-08f10ed1a2dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE1NDE2MzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="snowy mountain under white clouds"></a>
   
-  <em>"mountain reflection on body of water"</em>
+  <em>"snowy mountain under white clouds"</em>
   
-  <em>"sunrise"</em>
+  <em>"snow roads in Yukon Territory"</em>
 
-  Photo by garrett parker on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/garrettpsystems) / [portfolio](http://amblestudios.com) / [Twitter](https://twitter.com/garrettpsystems)
+  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
   
-  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
+  Taken at Yukon Territory, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=64.2823274,-135)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/320 |
-| Aperture      | 2.8 |
-| Focal Length  | 24.0 |
-| ISO           | 2000 |
-| Location      | Moraine Lake, Canada (Canada) |
-| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/1600 |
+| Aperture      | 22.0 |
+| Focal Length  | 32.0 |
+| ISO           | 1250 |
+| Location      | Yukon Territory, Canada (Canada) |
+| Coordinates   | Latitude 64.2823274, Longitude -135 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.1860049,
-                            51.3217416
+                            -135,
+                            64.2823274
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -115.8860049,
-                                51.6217416
+                                -134.7,
+                                64.5823274
                             ],
                             [
-                                -115.8860049,
-                                51.021741600000006
+                                -134.7,
+                                63.9823274
                             ],
                             [
-                                -116.4860049,
-                                51.021741600000006
+                                -135.3,
+                                63.9823274
                             ],
                             [
-                                -116.4860049,
-                                51.6217416
+                                -135.3,
+                                64.5823274
                             ],
                             [
-                                -115.8860049,
-                                51.6217416
+                                -134.7,
+                                64.5823274
                             ]
                         ],
                         "type": "LineString"
