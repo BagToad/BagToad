@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snowy-mountain-under-white-clouds-HpiYsNBORAw"><img width="720" src="https://images.unsplash.com/photo-1464823063530-08f10ed1a2dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE1NDE2MzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="snowy mountain under white clouds"></a>
+  <a href="https://unsplash.com/photos/pathway-between-yellow-flower-field-hB-Vwbyxr9U"><img width="720" src="https://images.unsplash.com/photo-1534030665069-90e016e995e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE2MjgwMjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="pathway between yellow flower field"></a>
   
-  <em>"snowy mountain under white clouds"</em>
+  <em>"pathway between yellow flower field"</em>
   
-  <em>"snow roads in Yukon Territory"</em>
+  <em>"Home landscape"</em>
 
-  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
+  Photo by Raquel Pedrotti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/raquelflosspedrotti)
   
-  Taken at Yukon Territory, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=64.2823274,-135)
+  Taken at Unknown • 
   
   ---
   
@@ -47,64 +47,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/1600 |
-| Aperture      | 22.0 |
-| Focal Length  | 32.0 |
-| ISO           | 1250 |
-| Location      | Yukon Territory, Canada (Canada) |
-| Coordinates   | Latitude 64.2823274, Longitude -135 |
+| Camera Model  | Canon EOS REBEL T5 |
+| Exposure Time | 1/250 |
+| Aperture      | 10.0 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -135,
-                            64.2823274
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -134.7,
-                                64.5823274
-                            ],
-                            [
-                                -134.7,
-                                63.9823274
-                            ],
-                            [
-                                -135.3,
-                                63.9823274
-                            ],
-                            [
-                                -135.3,
-                                64.5823274
-                            ],
-                            [
-                                -134.7,
-                                64.5823274
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
