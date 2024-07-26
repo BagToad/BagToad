@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-under-cloudy-sky-during-sunset--G3rw6Y02D0"><img width="720" src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE4ODcyMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="trees under cloudy sky during sunset"></a>
+  <a href="https://unsplash.com/photos/brown-field-near-tree-during-daytime-sYffw0LNr7s"><img width="720" src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE5NzM2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown field near tree during daytime"></a>
   
-  <em>"trees under cloudy sky during sunset"</em>
+  <em>"brown field near tree during daytime"</em>
   
-  <em>"Hopeful Horizons"</em>
+  <em>""</em>
 
-  Photo by Dawid Zawiła on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dawidzawilafotografia) / [portfolio](https://www.facebook.com/dawidzawilafotografia/)
+  Photo by Federico Respini on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/federico.respini)
   
-  Taken at Unknown • 
+  Taken at Fribourg, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.8064773,7.16197190000003)
   
   ---
   
@@ -47,17 +47,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 450D |
-| Exposure Time | 1/125 |
-| Aperture      | 7.1 |
-| Focal Length  | 17.0 |
+| Camera Model  | NIKON D5500 |
+| Exposure Time | 1/640 |
+| Aperture      | 13.0 |
+| Focal Length  | 18.0 |
 | ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Fribourg, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.8064773, Longitude 7.16197190000003 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            7.16197190000003,
+                            46.8064773
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                7.46197190000003,
+                                47.106477299999995
+                            ],
+                            [
+                                7.46197190000003,
+                                46.5064773
+                            ],
+                            [
+                                6.8619719000000305,
+                                46.5064773
+                            ],
+                            [
+                                6.8619719000000305,
+                                47.106477299999995
+                            ],
+                            [
+                                7.46197190000003,
+                                47.106477299999995
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
