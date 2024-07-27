@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-field-near-tree-during-daytime-sYffw0LNr7s"><img width="720" src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjE5NzM2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown field near tree during daytime"></a>
+  <a href="https://unsplash.com/photos/silhoutte-of-mountains-during-sunset-dQejX2ucPBs"><img width="720" src="https://images.unsplash.com/photo-1500534623283-312aade485b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjIwNjAwMjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhoutte of mountains during sunset"></a>
   
-  <em>"brown field near tree during daytime"</em>
+  <em>"silhoutte of mountains during sunset"</em>
   
-  <em>""</em>
+  <em>"Sunset at Clingmans Dome"</em>
 
-  Photo by Federico Respini on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/federico.respini)
+  Photo by Ivana Cajina on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/von.co) / [portfolio](https://www.instagram.com/von.co/) / [Twitter](https://twitter.com/vondotco)
   
-  Taken at Fribourg, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.8064773,7.16197190000003)
+  Taken at Great Smoky Mountains National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=35.6117644,-83.4895449)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5500 |
-| Exposure Time | 1/640 |
-| Aperture      | 13.0 |
-| Focal Length  | 18.0 |
-| ISO           | 200 |
-| Location      | Fribourg, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.8064773, Longitude 7.16197190000003 |
+| Camera Model  | Canon EOS 60D |
+| Exposure Time | 1/25 |
+| Aperture      | 20.0 |
+| Focal Length  | 24.0 |
+| ISO           | 125 |
+| Location      | Great Smoky Mountains National Park, United States (United States) |
+| Coordinates   | Latitude 35.6117644, Longitude -83.4895449 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            7.16197190000003,
-                            46.8064773
+                            -83.4895449,
+                            35.6117644
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                7.46197190000003,
-                                47.106477299999995
+                                -83.1895449,
+                                35.911764399999996
                             ],
                             [
-                                7.46197190000003,
-                                46.5064773
+                                -83.1895449,
+                                35.3117644
                             ],
                             [
-                                6.8619719000000305,
-                                46.5064773
+                                -83.7895449,
+                                35.3117644
                             ],
                             [
-                                6.8619719000000305,
-                                47.106477299999995
+                                -83.7895449,
+                                35.911764399999996
                             ],
                             [
-                                7.46197190000003,
-                                47.106477299999995
+                                -83.1895449,
+                                35.911764399999996
                             ]
                         ],
                         "type": "LineString"
