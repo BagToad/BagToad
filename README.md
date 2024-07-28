@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhoutte-of-mountains-during-sunset-dQejX2ucPBs"><img width="720" src="https://images.unsplash.com/photo-1500534623283-312aade485b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjIwNjAwMjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhoutte of mountains during sunset"></a>
+  <a href="https://unsplash.com/photos/body-of-water-surrounded-by-pine-trees-during-daytime-ESkw2ayO2As"><img width="720" src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjIxNDY0MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water surrounded by pine trees during daytime"></a>
   
-  <em>"silhoutte of mountains during sunset"</em>
+  <em>"body of water surrounded by pine trees during daytime"</em>
   
-  <em>"Sunset at Clingmans Dome"</em>
+  <em>""</em>
 
-  Photo by Ivana Cajina on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/von.co) / [portfolio](https://www.instagram.com/von.co/) / [Twitter](https://twitter.com/vondotco)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Great Smoky Mountains National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=35.6117644,-83.4895449)
+  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 60D |
-| Exposure Time | 1/25 |
-| Aperture      | 20.0 |
-| Focal Length  | 24.0 |
-| ISO           | 125 |
-| Location      | Great Smoky Mountains National Park, United States (United States) |
-| Coordinates   | Latitude 35.6117644, Longitude -83.4895449 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lago di Braies (null) |
+| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -83.4895449,
-                            35.6117644
+                            12.0859822,
+                            46.6948731
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -83.1895449,
-                                35.911764399999996
+                                12.3859822,
+                                46.9948731
                             ],
                             [
-                                -83.1895449,
-                                35.3117644
+                                12.3859822,
+                                46.394873100000005
                             ],
                             [
-                                -83.7895449,
-                                35.3117644
+                                11.7859822,
+                                46.394873100000005
                             ],
                             [
-                                -83.7895449,
-                                35.911764399999996
+                                11.7859822,
+                                46.9948731
                             ],
                             [
-                                -83.1895449,
-                                35.911764399999996
+                                12.3859822,
+                                46.9948731
                             ]
                         ],
                         "type": "LineString"
