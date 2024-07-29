@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-surrounded-by-pine-trees-during-daytime-ESkw2ayO2As"><img width="720" src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjIxNDY0MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water surrounded by pine trees during daytime"></a>
+  <a href="https://unsplash.com/photos/yellow-volkswagen-van-on-road-A5rCN8626Ck"><img width="720" src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjIyMzI4MzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="yellow Volkswagen van on road"></a>
   
-  <em>"body of water surrounded by pine trees during daytime"</em>
+  <em>"yellow Volkswagen van on road"</em>
   
-  <em>""</em>
+  <em>"(contact me for the full resoluton image)"</em>
 
-  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
+  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
   
-  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
+  Taken at Arches National Park Entrance Station, Moab, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6165469,-109.6163291)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Lago di Braies (null) |
-| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/640 |
+| Aperture      | 11.0 |
+| Focal Length  | 50.0 |
+| ISO           | 400 |
+| Location      | Arches National Park Entrance Station, Moab, United States (United States) |
+| Coordinates   | Latitude 38.6165469, Longitude -109.6163291 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0859822,
-                            46.6948731
+                            -109.6163291,
+                            38.6165469
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3859822,
-                                46.9948731
+                                -109.3163291,
+                                38.9165469
                             ],
                             [
-                                12.3859822,
-                                46.394873100000005
+                                -109.3163291,
+                                38.316546900000006
                             ],
                             [
-                                11.7859822,
-                                46.394873100000005
+                                -109.9163291,
+                                38.316546900000006
                             ],
                             [
-                                11.7859822,
-                                46.9948731
+                                -109.9163291,
+                                38.9165469
                             ],
                             [
-                                12.3859822,
-                                46.9948731
+                                -109.3163291,
+                                38.9165469
                             ]
                         ],
                         "type": "LineString"
