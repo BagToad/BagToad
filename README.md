@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/yellow-volkswagen-van-on-road-A5rCN8626Ck"><img width="720" src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjIyMzI4MzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="yellow Volkswagen van on road"></a>
+  <a href="https://unsplash.com/photos/northern-lights-3l3RwQdHRHg"><img width="720" src="https://images.unsplash.com/photo-1491466424936-e304919aada7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjIzMTkyMjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="northern lights"></a>
   
-  <em>"yellow Volkswagen van on road"</em>
+  <em>"northern lights"</em>
   
-  <em>"(contact me for the full resoluton image)"</em>
+  <em>"Strolling down the canyon. It was midnight and auroras were bursting, but i was stuck in the canyon, so i tried to make as much use as i can from the position where i was.  The idea fell on my mind to light the sides with the torches and another selfie came out :)"</em>
 
-  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
+  Photo by Jonatan Pie on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/r3dmax) / [portfolio](https://www.buymeacoffee.com/r3dmax)
   
-  Taken at Arches National Park Entrance Station, Moab, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6165469,-109.6163291)
+  Taken at Stakkholtsgja canyon, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.6749122,-19.5573907)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/640 |
-| Aperture      | 11.0 |
-| Focal Length  | 50.0 |
-| ISO           | 400 |
-| Location      | Arches National Park Entrance Station, Moab, United States (United States) |
-| Coordinates   | Latitude 38.6165469, Longitude -109.6163291 |
+| Camera Model  | ILCE-7S |
+| Exposure Time | 10 |
+| Aperture      | null |
+| Focal Length  | 0.0 |
+| ISO           | 500 |
+| Location      | Stakkholtsgja canyon, Iceland (Iceland) |
+| Coordinates   | Latitude 63.6749122, Longitude -19.5573907 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -109.6163291,
-                            38.6165469
+                            -19.5573907,
+                            63.6749122
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -109.3163291,
-                                38.9165469
+                                -19.2573907,
+                                63.9749122
                             ],
                             [
-                                -109.3163291,
-                                38.316546900000006
+                                -19.2573907,
+                                63.374912200000004
                             ],
                             [
-                                -109.9163291,
-                                38.316546900000006
+                                -19.8573907,
+                                63.374912200000004
                             ],
                             [
-                                -109.9163291,
-                                38.9165469
+                                -19.8573907,
+                                63.9749122
                             ],
                             [
-                                -109.3163291,
-                                38.9165469
+                                -19.2573907,
+                                63.9749122
                             ]
                         ],
                         "type": "LineString"
