@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/northern-lights-3l3RwQdHRHg"><img width="720" src="https://images.unsplash.com/photo-1491466424936-e304919aada7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjIzMTkyMjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="northern lights"></a>
+  <a href="https://unsplash.com/photos/landscape-photo-of-green-and-brown-cliffs-xcC5ozHk_N8"><img width="720" src="https://images.unsplash.com/photo-1433190152045-5a94184895da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI0MDU2Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photo of green and brown cliffs"></a>
   
-  <em>"northern lights"</em>
+  <em>"landscape photo of green and brown cliffs"</em>
   
-  <em>"Strolling down the canyon. It was midnight and auroras were bursting, but i was stuck in the canyon, so i tried to make as much use as i can from the position where i was.  The idea fell on my mind to light the sides with the torches and another selfie came out :)"</em>
+  <em>"Beautiful cliff around beach"</em>
 
-  Photo by Jonatan Pie on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/r3dmax) / [portfolio](https://www.buymeacoffee.com/r3dmax)
+  Photo by Joseph Barrientos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jbcreate) / [portfolio](http://dribbble.com/jbcreate) / [Twitter](https://twitter.com/jbcreate_)
   
-  Taken at Stakkholtsgja canyon, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.6749122,-19.5573907)
+  Taken at Shark Fin Cove, Davenport, CA, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.0040866,-122.1854138)
   
   ---
   
@@ -47,13 +47,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7S |
-| Exposure Time | 10 |
-| Aperture      | null |
-| Focal Length  | 0.0 |
-| ISO           | 500 |
-| Location      | Stakkholtsgja canyon, Iceland (Iceland) |
-| Coordinates   | Latitude 63.6749122, Longitude -19.5573907 |
+| Camera Model  | ILCE-7 |
+| Exposure Time | 1/250 |
+| Aperture      | 11 |
+| Focal Length  | 16.0 |
+| ISO           | 800 |
+| Location      | Shark Fin Cove, Davenport, CA, USA (United States) |
+| Coordinates   | Latitude 37.0040866, Longitude -122.1854138 |
 
 ### Map
 
@@ -66,8 +66,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -19.5573907,
-                            63.6749122
+                            -122.1854138,
+                            37.0040866
                         ],
                         "type": "Point"
                     },
@@ -79,24 +79,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -19.2573907,
-                                63.9749122
+                                -121.88541380000001,
+                                37.3040866
                             ],
                             [
-                                -19.2573907,
-                                63.374912200000004
+                                -121.88541380000001,
+                                36.704086600000004
                             ],
                             [
-                                -19.8573907,
-                                63.374912200000004
+                                -122.4854138,
+                                36.704086600000004
                             ],
                             [
-                                -19.8573907,
-                                63.9749122
+                                -122.4854138,
+                                37.3040866
                             ],
                             [
-                                -19.2573907,
-                                63.9749122
+                                -121.88541380000001,
+                                37.3040866
                             ]
                         ],
                         "type": "LineString"
