@@ -4,6 +4,8 @@ I'm currently a ~Support Engineer~ _something_ for GitHub.
 
 I like making things. Something about automating manual processes satisfies my soul ❤️
 
+Check out my [Human User Guide (HUG)](https://gist.github.com/BagToad/a28f06f1c46e6e5d419b98921e835f40) to learn more about working with me.
+
 Please have a look at my projects! I think they're neat, and I pour my heart and soul into everything.
 
 - 🔗 [Zendesk Link Collector](https://github.com/BagToad/Zendesk-Link-Collector) 
@@ -30,21 +32,21 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   - 💡 I love learning about new projects/repos, especially if I happen to be able to contribute to them
   - 📚 I love to read interesting, well written, and passionate blog posts and technical write-ups, even if I don't understand it all 😅
   - 🪨 I want to know about others' personal knowledge management systems (tell me how you use [Obsidian](https://obsidian.md/))
-
+ 
 ----
 <div align="center">
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-grass-plains-under-cloudy-sky-during-daytime-VNsGywdphUY"><img width="720" src="https://images.unsplash.com/photo-1422466654108-5e533f591881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI0OTIwMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of grass plains under cloudy sky during daytime"></a>
+  <a href="https://unsplash.com/photos/brown-mountains-under-blue-sky-4wzRuAb-KWs"><img width="720" src="https://images.unsplash.com/photo-1502790671504-542ad42d5189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI1NDg5MTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown mountains under blue sky"></a>
   
-  <em>"landscape photography of grass plains under cloudy sky during daytime"</em>
+  <em>"brown mountains under blue sky"</em>
   
-  <em>"Meadow under heavy clouds"</em>
+  <em>"Look up"</em>
 
-  Photo by Matthew Smith on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/whale.fyi) / [portfolio](http://bunsenstudio.com) / [Twitter](https://twitter.com/whale)
+  Photo by Mohammad Alizade on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mohamad.a.z) / [portfolio](http://mohamadaz.com/)
   
-  Taken at Unknown • 
+  Taken at Mashhad, Iran • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2604623,59.6167548999999)
   
   ---
   
@@ -53,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/2500 |
-| Aperture      | 4.5 |
-| Focal Length  | 24.0 |
-| ISO           | 400 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D5300 |
+| Exposure Time | 30 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 200 |
+| Location      | Mashhad, Iran (Iran) |
+| Coordinates   | Latitude 36.2604623, Longitude 59.6167548999999 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            59.6167548999999,
+                            36.2604623
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                59.916754899999894,
+                                36.5604623
+                            ],
+                            [
+                                59.916754899999894,
+                                35.9604623
+                            ],
+                            [
+                                59.3167548999999,
+                                35.9604623
+                            ],
+                            [
+                                59.3167548999999,
+                                36.5604623
+                            ],
+                            [
+                                59.916754899999894,
+                                36.5604623
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
