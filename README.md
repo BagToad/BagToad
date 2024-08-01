@@ -30,15 +30,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photo-of-green-and-brown-cliffs-xcC5ozHk_N8"><img width="720" src="https://images.unsplash.com/photo-1433190152045-5a94184895da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI0MDU2Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photo of green and brown cliffs"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-grass-plains-under-cloudy-sky-during-daytime-VNsGywdphUY"><img width="720" src="https://images.unsplash.com/photo-1422466654108-5e533f591881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI0OTIwMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of grass plains under cloudy sky during daytime"></a>
   
-  <em>"landscape photo of green and brown cliffs"</em>
+  <em>"landscape photography of grass plains under cloudy sky during daytime"</em>
   
-  <em>"Beautiful cliff around beach"</em>
+  <em>"Meadow under heavy clouds"</em>
 
-  Photo by Joseph Barrientos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jbcreate) / [portfolio](http://dribbble.com/jbcreate) / [Twitter](https://twitter.com/jbcreate_)
+  Photo by Matthew Smith on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/whale.fyi) / [portfolio](http://bunsenstudio.com) / [Twitter](https://twitter.com/whale)
   
-  Taken at Shark Fin Cove, Davenport, CA, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.0040866,-122.1854138)
+  Taken at Unknown • 
   
   ---
   
@@ -47,64 +47,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 1/250 |
-| Aperture      | 11 |
-| Focal Length  | 16.0 |
-| ISO           | 800 |
-| Location      | Shark Fin Cove, Davenport, CA, USA (United States) |
-| Coordinates   | Latitude 37.0040866, Longitude -122.1854138 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/2500 |
+| Aperture      | 4.5 |
+| Focal Length  | 24.0 |
+| ISO           | 400 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -122.1854138,
-                            37.0040866
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -121.88541380000001,
-                                37.3040866
-                            ],
-                            [
-                                -121.88541380000001,
-                                36.704086600000004
-                            ],
-                            [
-                                -122.4854138,
-                                36.704086600000004
-                            ],
-                            [
-                                -122.4854138,
-                                37.3040866
-                            ],
-                            [
-                                -121.88541380000001,
-                                37.3040866
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
