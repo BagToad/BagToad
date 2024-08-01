@@ -1,16 +1,22 @@
 ### 👋 Hi there!
 
-I'm a Support Engineer for GitHub, but I like making things. Something about automating manual processes satisfies my soul ❤️
+I'm currently a ~Support Engineer~ _something_ for GitHub.
+
+I like making things. Something about automating manual processes satisfies my soul ❤️
 
 Please have a look at my projects! I think they're neat, and I pour my heart and soul into everything.
 
 - 🔗 [Zendesk Link Collector](https://github.com/BagToad/Zendesk-Link-Collector) 
   - A powerful browser extension to aggregate Zendesk ticket data based on RegEx patterns.
+- 💻 [gh-sarif](https://github.com/BagToad/gh-sarif)
+  - A GitHub CLI extension for managing GitHub Code Scanning analyses & SARIF files (written in Go)
 - 🌊 [Random Unsplash Action](https://github.com/BagToad/random-unsplash-action)
   - A lovely GitHub Action to post images to your GitHub readme (see below 🏞️)
 - 🏃 [ARC Log Collection Scripts](https://github.com/BagToad/arc-log-collection-scripts)
   - A collection of Shell scripts to dump diagnostic information and logs from an [Actions Runner Controller](https://github.com/actions/actions-runner-controller) deployment.
-- 🧘 Other Zendesk tweaks to make life easier 😊
+- 🏃 [gh-mini-arc](https://github.com/BagToad/gh-mini-arc)
+  - A GitHub CLI extension to quickly startup a codespace with a working Actions Runner Controller deployment (written as a Shell script) 🔥
+- 🧘 Other Zendesk user-script tweaks to make life easier 😊
   - [Add Zendesk Comment Borders](https://github.com/BagToad/add-zendesk-comment-borders)
   - [Auto-Hide Zendesk Composer](https://github.com/BagToad/Auto-Hide-Zendesk-Composer)
 - 🐸 [AI Generated BagToads](https://github.com/BagToad/bagtoads)
@@ -20,10 +26,10 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kynan-ware/)
 - 🤝 Collaborate with me on literally anything
-  - 🪴 I want to learn and share experiences about topics such as JavaScript, shell scripts, Support/Customer Service, Kubernetes, and more.
-  - 💡 I want to know about new projects that might align with my skills
-  - 📚 I want to read interesting and well written blog posts
-  - 🪨 I want to know about others' personal knowledge management systems, particularly [Obsidian](https://obsidian.md/)
+  - 🪴 I want to learn and share experiences about development in general
+  - 💡 I love learning about new projects/repos, especially if I happen to be able to contribute to them
+  - 📚 I love to read interesting, well written, and passionate blog posts and technical write-ups, even if I don't understand it all 😅
+  - 🪨 I want to know about others' personal knowledge management systems (tell me how you use [Obsidian](https://obsidian.md/))
 
 ----
 <div align="center">
