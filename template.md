@@ -4,6 +4,8 @@ I'm currently a ~Support Engineer~ _something_ for GitHub.
 
 I like making things. Something about automating manual processes satisfies my soul ❤️
 
+Check out my [Human User Guide (HUG)](https://gist.github.com/BagToad/a28f06f1c46e6e5d419b98921e835f40) to learn more about working with me.
+
 Please have a look at my projects! I think they're neat, and I pour my heart and soul into everything.
 
 - 🔗 [Zendesk Link Collector](https://github.com/BagToad/Zendesk-Link-Collector) 
