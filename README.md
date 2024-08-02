@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-mountains-under-blue-sky-4wzRuAb-KWs"><img width="720" src="https://images.unsplash.com/photo-1502790671504-542ad42d5189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI1NDg5MTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown mountains under blue sky"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-body-of-water-overlooking-mountain-range-ZqLeQDjY6fY"><img width="720" src="https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI1Nzg0MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of body of water overlooking mountain range"></a>
   
-  <em>"brown mountains under blue sky"</em>
+  <em>"landscape photography of body of water overlooking mountain range"</em>
   
-  <em>"Look up"</em>
+  <em>"Maligne Lake from the Spirit Island Dock. Check out other photos or videos I made on instagram: @its_tgain or TikTok: @thehikersguide"</em>
 
-  Photo by Mohammad Alizade on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mohamad.a.z) / [portfolio](http://mohamadaz.com/)
+  Photo by Tom Gainor on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/its_tgain) / [portfolio](http://tiktok.com/@thehikersguide) / [Twitter](https://twitter.com/splitrock37)
   
-  Taken at Mashhad, Iran • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2604623,59.6167548999999)
+  Taken at Maligne Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.6547556112802,-117.520967451221)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5300 |
-| Exposure Time | 30 |
-| Aperture      | 3.5 |
-| Focal Length  | 18.0 |
-| ISO           | 200 |
-| Location      | Mashhad, Iran (Iran) |
-| Coordinates   | Latitude 36.2604623, Longitude 59.6167548999999 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | 0.0 |
+| ISO           | null |
+| Location      | Maligne Lake, Canada (Canada) |
+| Coordinates   | Latitude 52.6547556112802, Longitude -117.520967451221 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            59.6167548999999,
-                            36.2604623
+                            -117.520967451221,
+                            52.6547556112802
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                59.916754899999894,
-                                36.5604623
+                                -117.220967451221,
+                                52.9547556112802
                             ],
                             [
-                                59.916754899999894,
-                                35.9604623
+                                -117.220967451221,
+                                52.354755611280204
                             ],
                             [
-                                59.3167548999999,
-                                35.9604623
+                                -117.820967451221,
+                                52.354755611280204
                             ],
                             [
-                                59.3167548999999,
-                                36.5604623
+                                -117.820967451221,
+                                52.9547556112802
                             ],
                             [
-                                59.916754899999894,
-                                36.5604623
+                                -117.220967451221,
+                                52.9547556112802
                             ]
                         ],
                         "type": "LineString"
