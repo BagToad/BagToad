@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/white-clouds-above-silhouette-of-clouds-at-day-_hpk_92Crhs"><img width="720" src="https://images.unsplash.com/photo-1484542603127-984f4f7d14cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI2NjQ4MzN8&ixlib=rb-4.0.3&q=80&w=1080" alt="white clouds above silhouette of clouds at day"></a>
+  <a href="https://unsplash.com/photos/man-looking-on-mountain-sitting-on-rock-UqyHjOgYxYY"><img width="720" src="https://images.unsplash.com/photo-1465311440653-ba9b1d9b0f5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI3NTEyMzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="man looking on mountain sitting on rock"></a>
   
-  <em>"white clouds above silhouette of clouds at day"</em>
+  <em>"man looking on mountain sitting on rock"</em>
   
-  <em>""</em>
+  <em>"Finding peace over a lake. follow @kalenemsley ig"</em>
 
-  Photo by Brady Bellini on [unsplash.com](https://unsplash.com/) • [portfolio](https://bradybellini.com/) / [Twitter](https://twitter.com/bradybellini)
+  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
   
-  Taken at Unknown • 
+  Taken at Banff, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.1783629,-115.5707694)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D3300 |
-| Exposure Time | 1/4000 |
-| Aperture      | 6.3 |
-| Focal Length  | 50.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Banff, Canada (Canada) |
+| Coordinates   | Latitude 51.1783629, Longitude -115.5707694 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -115.5707694,
+                            51.1783629
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -115.2707694,
+                                51.4783629
+                            ],
+                            [
+                                -115.2707694,
+                                50.878362900000006
+                            ],
+                            [
+                                -115.8707694,
+                                50.878362900000006
+                            ],
+                            [
+                                -115.8707694,
+                                51.4783629
+                            ],
+                            [
+                                -115.2707694,
+                                51.4783629
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
