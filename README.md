@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/man-looking-on-mountain-sitting-on-rock-UqyHjOgYxYY"><img width="720" src="https://images.unsplash.com/photo-1465311440653-ba9b1d9b0f5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI3NTEyMzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="man looking on mountain sitting on rock"></a>
+  <a href="https://unsplash.com/photos/forest-and-mountain-partially-covered-with-fog-lVDnLUACI18"><img width="720" src="https://images.unsplash.com/photo-1464039397811-476f652a343b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI4Mzc2Mzh8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest and mountain partially covered with fog"></a>
   
-  <em>"man looking on mountain sitting on rock"</em>
+  <em>"forest and mountain partially covered with fog"</em>
   
-  <em>"Finding peace over a lake. follow @kalenemsley ig"</em>
+  <em>"Foggy Green Forest"</em>
 
-  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
+  Photo by Guy Bowden on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/guybowden)
   
-  Taken at Banff, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.1783629,-115.5707694)
+  Taken at Morzine, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.179192,6.70887700000003)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Banff, Canada (Canada) |
-| Coordinates   | Latitude 51.1783629, Longitude -115.5707694 |
+| Camera Model  | DMC-LX100 |
+| Exposure Time | 1/640 |
+| Aperture      | 5.6 |
+| Focal Length  | 22.7 |
+| ISO           | 200 |
+| Location      | Morzine, France (France) |
+| Coordinates   | Latitude 46.179192, Longitude 6.70887700000003 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -115.5707694,
-                            51.1783629
+                            6.70887700000003,
+                            46.179192
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -115.2707694,
-                                51.4783629
+                                7.00887700000003,
+                                46.479192
                             ],
                             [
-                                -115.2707694,
-                                50.878362900000006
+                                7.00887700000003,
+                                45.879192
                             ],
                             [
-                                -115.8707694,
-                                50.878362900000006
+                                6.408877000000031,
+                                45.879192
                             ],
                             [
-                                -115.8707694,
-                                51.4783629
+                                6.408877000000031,
+                                46.479192
                             ],
                             [
-                                -115.2707694,
-                                51.4783629
+                                7.00887700000003,
+                                46.479192
                             ]
                         ],
                         "type": "LineString"
