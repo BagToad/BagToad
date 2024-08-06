@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-and-mountain-partially-covered-with-fog-lVDnLUACI18"><img width="720" src="https://images.unsplash.com/photo-1464039397811-476f652a343b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI4Mzc2Mzh8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest and mountain partially covered with fog"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-mountains-during-nigh-time-photography-v7daTKlZzaw"><img width="720" src="https://images.unsplash.com/photo-1485470733090-0aae1788d5af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI5MjQwMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette of mountains during nigh time photography"></a>
   
-  <em>"forest and mountain partially covered with fog"</em>
+  <em>"silhouette of mountains during nigh time photography"</em>
   
-  <em>"Foggy Green Forest"</em>
+  <em>"Taken from the top of Poon Hill before sun rise"</em>
 
-  Photo by Guy Bowden on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/guybowden)
+  Photo by Daniel Leone on [unsplash.com](https://unsplash.com/) • [portfolio](https://danielleone.com)
   
-  Taken at Morzine, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.179192,6.70887700000003)
+  Taken at Poon Hill, Ghode Pani, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.4004787,83.6940737)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-LX100 |
-| Exposure Time | 1/640 |
-| Aperture      | 5.6 |
-| Focal Length  | 22.7 |
-| ISO           | 200 |
-| Location      | Morzine, France (France) |
-| Coordinates   | Latitude 46.179192, Longitude 6.70887700000003 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Poon Hill, Ghode Pani, Nepal (Nepal) |
+| Coordinates   | Latitude 28.4004787, Longitude 83.6940737 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            6.70887700000003,
-                            46.179192
+                            83.6940737,
+                            28.4004787
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                7.00887700000003,
-                                46.479192
+                                83.9940737,
+                                28.7004787
                             ],
                             [
-                                7.00887700000003,
-                                45.879192
+                                83.9940737,
+                                28.1004787
                             ],
                             [
-                                6.408877000000031,
-                                45.879192
+                                83.3940737,
+                                28.1004787
                             ],
                             [
-                                6.408877000000031,
-                                46.479192
+                                83.3940737,
+                                28.7004787
                             ],
                             [
-                                7.00887700000003,
-                                46.479192
+                                83.9940737,
+                                28.7004787
                             ]
                         ],
                         "type": "LineString"
