@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-mountains-during-nigh-time-photography-v7daTKlZzaw"><img width="720" src="https://images.unsplash.com/photo-1485470733090-0aae1788d5af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI5MjQwMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette of mountains during nigh time photography"></a>
+  <a href="https://unsplash.com/photos/silhouette-photo-of-mountain-during-night-time-ln5drpv_ImI"><img width="720" src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMwMTA0MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of mountain during night time"></a>
   
-  <em>"silhouette of mountains during nigh time photography"</em>
+  <em>"silhouette photo of mountain during night time"</em>
   
-  <em>"Taken from the top of Poon Hill before sun rise"</em>
+  <em>"Sublime purple night sky"</em>
 
-  Photo by Daniel Leone on [unsplash.com](https://unsplash.com/) • [portfolio](https://danielleone.com)
+  Photo by Vincentiu Solomon on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentiusolomon) / [portfolio](http://vincentiusolomon.com)
   
-  Taken at Poon Hill, Ghode Pani, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.4004787,83.6940737)
+  Taken at Cima d'Asta, Scurelle, Italy • 
   
   ---
   
@@ -60,59 +60,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | Aperture      | null |
 | Focal Length  | null |
 | ISO           | null |
-| Location      | Poon Hill, Ghode Pani, Nepal (Nepal) |
-| Coordinates   | Latitude 28.4004787, Longitude 83.6940737 |
+| Location      | Cima d'Asta, Scurelle, Italy (Italy) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            83.6940737,
-                            28.4004787
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                83.9940737,
-                                28.7004787
-                            ],
-                            [
-                                83.9940737,
-                                28.1004787
-                            ],
-                            [
-                                83.3940737,
-                                28.1004787
-                            ],
-                            [
-                                83.3940737,
-                                28.7004787
-                            ],
-                            [
-                                83.9940737,
-                                28.7004787
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
