@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photo-of-mountain-during-night-time-ln5drpv_ImI"><img width="720" src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMwMTA0MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of mountain during night time"></a>
+  <a href="https://unsplash.com/photos/silhouette-photo-of-bird-stands-on-shore-at-golden-hour-6WLGMivmV00"><img width="720" src="https://images.unsplash.com/photo-1429152937938-07b5f2828cdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMwOTY4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of bird stands on shore at golden hour"></a>
   
-  <em>"silhouette photo of mountain during night time"</em>
+  <em>"silhouette photo of bird stands on shore at golden hour"</em>
   
-  <em>"Sublime purple night sky"</em>
+  <em>"Bird in sea at sunset"</em>
 
-  Photo by Vincentiu Solomon on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentiusolomon) / [portfolio](http://vincentiusolomon.com)
+  Photo by Michael Baird on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/mikebaird/)
   
-  Taken at Cima d'Asta, Scurelle, Italy • 
+  Taken at Unknown • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Cima d'Asta, Scurelle, Italy (Italy) |
+| Camera Model  | DMC-FZ50 |
+| Exposure Time | 1/80 |
+| Aperture      | 2.8 |
+| Focal Length  | 7.4 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
