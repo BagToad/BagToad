@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photo-of-bird-stands-on-shore-at-golden-hour-6WLGMivmV00"><img width="720" src="https://images.unsplash.com/photo-1429152937938-07b5f2828cdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMwOTY4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of bird stands on shore at golden hour"></a>
+  <a href="https://unsplash.com/photos/road-between-green-grass-field-near-mountains-under-blue-and-brown-sky-at-golden-hour-r9RW20TrQ0Y"><img width="720" src="https://images.unsplash.com/photo-1518098268026-4e89f1a2cd8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMxODMyNDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="road between green grass field near mountains under blue and brown sky at golden hour"></a>
   
-  <em>"silhouette photo of bird stands on shore at golden hour"</em>
+  <em>"road between green grass field near mountains under blue and brown sky at golden hour"</em>
   
-  <em>"Bird in sea at sunset"</em>
+  <em>"Amazing Sunset in Tuscany"</em>
 
-  Photo by Michael Baird on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/mikebaird/)
+  Photo by Luca Micheli on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucamicheliphoto) / [portfolio](https://www.customerly.io/?utm_source=unsplash) / [Twitter](https://twitter.com/ilucamicheli)
   
-  Taken at Unknown • 
+  Taken at San Quirico d'Orcia, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.0581804,11.6060636)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-FZ50 |
-| Exposure Time | 1/80 |
-| Aperture      | 2.8 |
-| Focal Length  | 7.4 |
-| ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | FC6310 |
+| Exposure Time | 1/160 |
+| Aperture      | 3.5 |
+| Focal Length  | 8.8 |
+| ISO           | 100 |
+| Location      | San Quirico d'Orcia, Italy (Italy) |
+| Coordinates   | Latitude 43.0581804, Longitude 11.6060636 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            11.6060636,
+                            43.0581804
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                11.906063600000001,
+                                43.358180399999995
+                            ],
+                            [
+                                11.906063600000001,
+                                42.7581804
+                            ],
+                            [
+                                11.3060636,
+                                42.7581804
+                            ],
+                            [
+                                11.3060636,
+                                43.358180399999995
+                            ],
+                            [
+                                11.906063600000001,
+                                43.358180399999995
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
