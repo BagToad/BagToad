@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/road-between-green-grass-field-near-mountains-under-blue-and-brown-sky-at-golden-hour-r9RW20TrQ0Y"><img width="720" src="https://images.unsplash.com/photo-1518098268026-4e89f1a2cd8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMxODMyNDB8&ixlib=rb-4.0.3&q=80&w=1080" alt="road between green grass field near mountains under blue and brown sky at golden hour"></a>
+  <a href="https://unsplash.com/photos/waterfalls-near-cave-at-daytime-IlvY3z4KVCI"><img width="720" src="https://images.unsplash.com/photo-1501908734255-16579c18c25f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMyNjk2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="waterfalls near cave at daytime"></a>
   
-  <em>"road between green grass field near mountains under blue and brown sky at golden hour"</em>
+  <em>"waterfalls near cave at daytime"</em>
   
-  <em>"Amazing Sunset in Tuscany"</em>
+  <em>"I hiked nearly a hundred miles in Iceland, and yet one of my best photos from the trip was only a 2-minute walk from the parking lot."</em>
 
-  Photo by Luca Micheli on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucamicheliphoto) / [portfolio](https://www.customerly.io/?utm_source=unsplash) / [Twitter](https://twitter.com/ilucamicheli)
+  Photo by Joshua Sortino on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joshuasortino) / [portfolio](http://sortino.co) / [Twitter](https://twitter.com/sortino)
   
-  Taken at San Quirico d'Orcia, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.0581804,11.6060636)
+  Taken at Seljalandsfoss, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.6156232,-19.9885687999999)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FC6310 |
-| Exposure Time | 1/160 |
-| Aperture      | 3.5 |
-| Focal Length  | 8.8 |
-| ISO           | 100 |
-| Location      | San Quirico d'Orcia, Italy (Italy) |
-| Coordinates   | Latitude 43.0581804, Longitude 11.6060636 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Seljalandsfoss, Iceland (Iceland) |
+| Coordinates   | Latitude 63.6156232, Longitude -19.9885687999999 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.6060636,
-                            43.0581804
+                            -19.9885687999999,
+                            63.6156232
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                11.906063600000001,
-                                43.358180399999995
+                                -19.6885687999999,
+                                63.9156232
                             ],
                             [
-                                11.906063600000001,
-                                42.7581804
+                                -19.6885687999999,
+                                63.315623200000005
                             ],
                             [
-                                11.3060636,
-                                42.7581804
+                                -20.2885687999999,
+                                63.315623200000005
                             ],
                             [
-                                11.3060636,
-                                43.358180399999995
+                                -20.2885687999999,
+                                63.9156232
                             ],
                             [
-                                11.906063600000001,
-                                43.358180399999995
+                                -19.6885687999999,
+                                63.9156232
                             ]
                         ],
                         "type": "LineString"
