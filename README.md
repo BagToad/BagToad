@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/waterfalls-near-cave-at-daytime-IlvY3z4KVCI"><img width="720" src="https://images.unsplash.com/photo-1501908734255-16579c18c25f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMyNjk2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="waterfalls near cave at daytime"></a>
+  <a href="https://unsplash.com/photos/photography-of-green-mountain-under-sky-hIMdKs_0cSE"><img width="720" src="https://images.unsplash.com/photo-1450101215322-bf5cd27642fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjMzNTYwMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="photography of green mountain under sky"></a>
   
-  <em>"waterfalls near cave at daytime"</em>
+  <em>"photography of green mountain under sky"</em>
   
-  <em>"I hiked nearly a hundred miles in Iceland, and yet one of my best photos from the trip was only a 2-minute walk from the parking lot."</em>
+  <em>""</em>
 
-  Photo by Joshua Sortino on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joshuasortino) / [portfolio](http://sortino.co) / [Twitter](https://twitter.com/sortino)
+  Photo by Sylvain Guiheneuc on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Seljalandsfoss, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.6156232,-19.9885687999999)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Seljalandsfoss, Iceland (Iceland) |
-| Coordinates   | Latitude 63.6156232, Longitude -19.9885687999999 |
+| Camera Model  | DMC-GF3 |
+| Exposure Time | 1/320 |
+| Aperture      | 6.3 |
+| Focal Length  | 14.0 |
+| ISO           | 160 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -19.9885687999999,
-                            63.6156232
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -19.6885687999999,
-                                63.9156232
-                            ],
-                            [
-                                -19.6885687999999,
-                                63.315623200000005
-                            ],
-                            [
-                                -20.2885687999999,
-                                63.315623200000005
-                            ],
-                            [
-                                -20.2885687999999,
-                                63.9156232
-                            ],
-                            [
-                                -19.6885687999999,
-                                63.9156232
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
