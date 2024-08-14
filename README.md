@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leafed-tree-near-withered-grass-a7IVuJwYjp8"><img width="720" src="https://images.unsplash.com/uploads/1411400493228e06a6315/ad711a20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjM1Mjg4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leafed tree near withered grass"></a>
+  <a href="https://unsplash.com/photos/wheat-field-near-pine-trees-beside-mountains-under-blue-and-white-sky-F1oeYBKJsdw"><img width="720" src="https://images.unsplash.com/photo-1446488547543-78c11468449a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjM2MTUyMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="wheat field near pine trees beside mountains under blue and white sky"></a>
   
-  <em>"green leafed tree near withered grass"</em>
+  <em>"wheat field near pine trees beside mountains under blue and white sky"</em>
   
-  <em>""</em>
+  <em>"Golden meadow in the mountains"</em>
 
-  Photo by Rodion Kutsaiev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Frostroomhead) / [Twitter](https://twitter.com/Frostroomhead)
+  Photo by Keghan Crossland on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -55,10 +55,10 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5200 |
-| Exposure Time | 1/500 |
-| Aperture      | 3.5 |
-| Focal Length  | 18.0 |
+| Camera Model  | ILCE-7SM2 |
+| Exposure Time | 1/1250 |
+| Aperture      | null |
+| Focal Length  | null |
 | ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
