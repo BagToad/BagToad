@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/wheat-field-near-pine-trees-beside-mountains-under-blue-and-white-sky-F1oeYBKJsdw"><img width="720" src="https://images.unsplash.com/photo-1446488547543-78c11468449a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjM2MTUyMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="wheat field near pine trees beside mountains under blue and white sky"></a>
+  <a href="https://unsplash.com/photos/gray-mountain-under-white-clouds-A8iLzX6OddM"><img width="720" src="https://images.unsplash.com/photo-1509565840034-3c385bbe6451?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjM3MDE2MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="gray mountain under white clouds"></a>
   
-  <em>"wheat field near pine trees beside mountains under blue and white sky"</em>
+  <em>"gray mountain under white clouds"</em>
   
-  <em>"Golden meadow in the mountains"</em>
+  <em>""</em>
 
-  Photo by Keghan Crossland on [unsplash.com](https://unsplash.com/) • 
+  Photo by S&B Vonlanthen on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7SM2 |
-| Exposure Time | 1/1250 |
+| Camera Model  | null |
+| Exposure Time | null |
 | Aperture      | null |
 | Focal Length  | null |
-| ISO           | 100 |
+| ISO           | null |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
