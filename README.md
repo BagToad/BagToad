@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-with-cloudy-skies-during-golden-hour-RbbdzZBKRDY"><img width="720" src="https://images.unsplash.com/photo-1444090542259-0af8fa96557e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjM5NjA4Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountains with cloudy skies during golden hour"></a>
+  <a href="https://unsplash.com/photos/worms-eye-view-of-mountain-during-daytime-ii5JY_46xH0"><img width="720" src="https://images.unsplash.com/photo-1508144753681-9986d4df99b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQwNDcyMTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="worms eye view of mountain during daytime"></a>
   
-  <em>"landscape photography of mountains with cloudy skies during golden hour"</em>
+  <em>"worms eye view of mountain during daytime"</em>
   
-  <em>"Orange clouds over mountains"</em>
+  <em>""</em>
 
-  Photo by Nitish Meena on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nitishq) / [portfolio](http://www.medium.com/@nitishq) / [Twitter](https://twitter.com/nitishq)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Hidden Lake Lookout trailhead, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.514217,-121.221709)
+  Taken at Sorapiss, Auronzo di Cadore, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5954770999235,12.2652839101563)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/320 |
-| Aperture      | 5.6 |
-| Focal Length  | 85.0 |
-| ISO           | 250 |
-| Location      | Hidden Lake Lookout trailhead, United States (United States) |
-| Coordinates   | Latitude 48.514217, Longitude -121.221709 |
+| Camera Model  | X-T20 |
+| Exposure Time | 1/280 |
+| Aperture      | 9.0 |
+| Focal Length  | 14.0 |
+| ISO           | 200 |
+| Location      | Sorapiss, Auronzo di Cadore, Italy (Italy) |
+| Coordinates   | Latitude 46.5954770999235, Longitude 12.2652839101563 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -121.221709,
-                            48.514217
+                            12.2652839101563,
+                            46.5954770999235
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -120.921709,
-                                48.814217
+                                12.565283910156301,
+                                46.8954770999235
                             ],
                             [
-                                -120.921709,
-                                48.214217000000005
+                                12.565283910156301,
+                                46.2954770999235
                             ],
                             [
-                                -121.521709,
-                                48.214217000000005
+                                11.9652839101563,
+                                46.2954770999235
                             ],
                             [
-                                -121.521709,
-                                48.814217
+                                11.9652839101563,
+                                46.8954770999235
                             ],
                             [
-                                -120.921709,
-                                48.814217
+                                12.565283910156301,
+                                46.8954770999235
                             ]
                         ],
                         "type": "LineString"
