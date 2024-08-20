@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/worms-eye-view-of-mountain-during-daytime-ii5JY_46xH0"><img width="720" src="https://images.unsplash.com/photo-1508144753681-9986d4df99b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQwNDcyMTd8&ixlib=rb-4.0.3&q=80&w=1080" alt="worms eye view of mountain during daytime"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-tPIHxXNbHh4"><img width="720" src="https://images.unsplash.com/photo-1473503993293-84743f5fda84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxMzM2MTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountains"></a>
   
-  <em>"worms eye view of mountain during daytime"</em>
+  <em>"landscape photography of mountains"</em>
   
   <em>""</em>
 
-  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
+  Photo by LoboStudio Hamburg on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/man_in_the_middle) / [portfolio](https://lobostudio.hamburg) / [Twitter](https://twitter.com/LoboStudioHH)
   
-  Taken at Sorapiss, Auronzo di Cadore, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5954770999235,12.2652839101563)
+  Taken at Glencoe, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.65376,-4.86014833)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T20 |
-| Exposure Time | 1/280 |
-| Aperture      | 9.0 |
-| Focal Length  | 14.0 |
-| ISO           | 200 |
-| Location      | Sorapiss, Auronzo di Cadore, Italy (Italy) |
-| Coordinates   | Latitude 46.5954770999235, Longitude 12.2652839101563 |
+| Camera Model  | Canon EOS 5D Mark II |
+| Exposure Time | 1/250 |
+| Aperture      | 6.3 |
+| Focal Length  | 100.0 |
+| ISO           | 100 |
+| Location      | Glencoe, United Kingdom (United Kingdom) |
+| Coordinates   | Latitude 56.65376, Longitude -4.86014833 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.2652839101563,
-                            46.5954770999235
+                            -4.86014833,
+                            56.65376
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.565283910156301,
-                                46.8954770999235
+                                -4.5601483300000005,
+                                56.953759999999996
                             ],
                             [
-                                12.565283910156301,
-                                46.2954770999235
+                                -4.5601483300000005,
+                                56.35376
                             ],
                             [
-                                11.9652839101563,
-                                46.2954770999235
+                                -5.16014833,
+                                56.35376
                             ],
                             [
-                                11.9652839101563,
-                                46.8954770999235
+                                -5.16014833,
+                                56.953759999999996
                             ],
                             [
-                                12.565283910156301,
-                                46.8954770999235
+                                -4.5601483300000005,
+                                56.953759999999996
                             ]
                         ],
                         "type": "LineString"
