@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-peak-during-daytime-uILhNE1VcwA"><img width="720" src="https://images.unsplash.com/photo-1465256410760-10640339c72c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQyMjAwMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain peak during daytime"></a>
+  <a href="https://unsplash.com/photos/snowfield-with-dried-trees-uYHYGgvkz_Y"><img width="720" src="https://images.unsplash.com/photo-1518627675569-e9d4fb90cdb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQzMDY0MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="snowfield with dried trees"></a>
   
-  <em>"mountain peak during daytime"</em>
+  <em>"snowfield with dried trees"</em>
   
-  <em>"Desert at Dusk"</em>
+  <em>"pink afternoon"</em>
 
-  Photo by Andrés Sanz on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sanzolome) / [Twitter](https://twitter.com/sanzolome)
+  Photo by Yang on [unsplash.com](https://unsplash.com/) • [portfolio](https://yangshuo.tuchong.com)
   
-  Taken at zapotitlan salinas Botanical Garden, Mexico • [Google Maps](https://www.google.com/maps/search/?api=1&query=18.332509,-97.4577751)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/160 |
-| Aperture      | 4.5 |
-| Focal Length  | 100.0 |
-| ISO           | 800 |
-| Location      | zapotitlan salinas Botanical Garden, Mexico (Mexico) |
-| Coordinates   | Latitude 18.332509, Longitude -97.4577751 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -97.4577751,
-                            18.332509
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -97.15777510000001,
-                                18.632509000000002
-                            ],
-                            [
-                                -97.15777510000001,
-                                18.032509
-                            ],
-                            [
-                                -97.7577751,
-                                18.032509
-                            ],
-                            [
-                                -97.7577751,
-                                18.632509000000002
-                            ],
-                            [
-                                -97.15777510000001,
-                                18.632509000000002
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
