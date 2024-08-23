@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snowfield-with-dried-trees-uYHYGgvkz_Y"><img width="720" src="https://images.unsplash.com/photo-1518627675569-e9d4fb90cdb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQzMDY0MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="snowfield with dried trees"></a>
+  <a href="https://unsplash.com/photos/birds-eye-view-of-mountain-rang-NDuPLKYRXQU"><img width="720" src="https://images.unsplash.com/photo-1431512284068-4c4002298068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQzOTI4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's-eye view of mountain rang"></a>
   
-  <em>"snowfield with dried trees"</em>
+  <em>"bird's-eye view of mountain rang"</em>
   
-  <em>"pink afternoon"</em>
+  <em>"Icy blue mountain range"</em>
 
-  Photo by Yang on [unsplash.com](https://unsplash.com/) • [portfolio](https://yangshuo.tuchong.com)
+  Photo by Elena Prokofyeva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/leni_eleni)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
+| Camera Model  | DSLR-A350 |
+| Exposure Time | 1/500 |
+| Aperture      | 8.0 |
+| Focal Length  | 80.0 |
+| ISO           | 400 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
