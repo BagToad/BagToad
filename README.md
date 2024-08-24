@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/birds-eye-view-of-mountain-rang-NDuPLKYRXQU"><img width="720" src="https://images.unsplash.com/photo-1431512284068-4c4002298068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQzOTI4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's-eye view of mountain rang"></a>
+  <a href="https://unsplash.com/photos/brown-house-near-body-of-water-zAjdgNXsMeg"><img width="720" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ0NzkyMzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown house near body of water"></a>
   
-  <em>"bird's-eye view of mountain rang"</em>
+  <em>"brown house near body of water"</em>
   
-  <em>"Icy blue mountain range"</em>
+  <em>"Boathouse on a mountain lake"</em>
 
-  Photo by Elena Prokofyeva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/leni_eleni)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Unknown • 
+  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DSLR-A350 |
-| Exposure Time | 1/500 |
-| Aperture      | 8.0 |
-| Focal Length  | 80.0 |
-| ISO           | 400 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lago di Braies (null) |
+| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            12.0859822,
+                            46.6948731
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                12.3859822,
+                                46.9948731
+                            ],
+                            [
+                                12.3859822,
+                                46.394873100000005
+                            ],
+                            [
+                                11.7859822,
+                                46.394873100000005
+                            ],
+                            [
+                                11.7859822,
+                                46.9948731
+                            ],
+                            [
+                                12.3859822,
+                                46.9948731
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
