@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-house-near-body-of-water-zAjdgNXsMeg"><img width="720" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ0NzkyMzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown house near body of water"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-near-sea-under-white-clouds-at-daytime-oyrtK2hJqBY"><img width="720" src="https://images.unsplash.com/uploads/14126758789351371c7ec/aa322c2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ1NjU2MzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field near sea under white clouds at daytime"></a>
   
-  <em>"brown house near body of water"</em>
+  <em>"green grass field near sea under white clouds at daytime"</em>
   
-  <em>"Boathouse on a mountain lake"</em>
+  <em>"Clouds over grassy shore"</em>
 
-  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
+  Photo by Urban Vintage on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/urban_vintage.ro) / [portfolio](https://urban-vintage.ro/) / [Twitter](https://twitter.com/dmqwe)
   
-  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Lago di Braies (null) |
-| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/640 |
+| Aperture      | 8.0 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            12.0859822,
-                            46.6948731
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                12.3859822,
-                                46.9948731
-                            ],
-                            [
-                                12.3859822,
-                                46.394873100000005
-                            ],
-                            [
-                                11.7859822,
-                                46.394873100000005
-                            ],
-                            [
-                                11.7859822,
-                                46.9948731
-                            ],
-                            [
-                                12.3859822,
-                                46.9948731
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
