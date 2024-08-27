@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-covered-with-green-grass-ZVbv1akA-l4"><img width="720" src="https://images.unsplash.com/photo-1438786657495-640937046d18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ2NTIwMjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain covered with green grass"></a>
+  <a href="https://unsplash.com/photos/waterfalls-at-daytime-zNN6ubHmruI"><img width="720" src="https://images.unsplash.com/photo-1476610182048-b716b8518aae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ3Mzg0MzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="waterfalls at daytime"></a>
   
-  <em>"mountain covered with green grass"</em>
+  <em>"waterfalls at daytime"</em>
   
-  <em>"Écosse valley and mountains"</em>
+  <em>"Idyllic landscape with a waterfall"</em>
 
-  Photo by Claudel Rheault on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chevalreal) / [portfolio](http://realcheval.co) / [Twitter](https://twitter.com/realcheval)
+  Photo by Robert Lukeman on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Écosse • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.4906712,-4.20264580000003)
+  Taken at Seljalandsfoss Waterfall, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.6154947,-19.9900532)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T2i |
-| Exposure Time | 1/1600 |
-| Aperture      | 3.5 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1.6 |
+| Aperture      | 18.0 |
 | Focal Length  | 18.0 |
 | ISO           | 100 |
-| Location      | Écosse (null) |
-| Coordinates   | Latitude 56.4906712, Longitude -4.20264580000003 |
+| Location      | Seljalandsfoss Waterfall, Iceland (Iceland) |
+| Coordinates   | Latitude 63.6154947, Longitude -19.9900532 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -4.20264580000003,
-                            56.4906712
+                            -19.9900532,
+                            63.6154947
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -3.9026458000000304,
-                                56.7906712
+                                -19.690053199999998,
+                                63.915494699999996
                             ],
                             [
-                                -3.9026458000000304,
-                                56.190671200000004
+                                -19.690053199999998,
+                                63.3154947
                             ],
                             [
-                                -4.50264580000003,
-                                56.190671200000004
+                                -20.2900532,
+                                63.3154947
                             ],
                             [
-                                -4.50264580000003,
-                                56.7906712
+                                -20.2900532,
+                                63.915494699999996
                             ],
                             [
-                                -3.9026458000000304,
-                                56.7906712
+                                -19.690053199999998,
+                                63.915494699999996
                             ]
                         ],
                         "type": "LineString"
