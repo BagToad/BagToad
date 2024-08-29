@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountains-covered-with-fogs-gdE-5Oui1Y0"><img width="720" src="https://images.unsplash.com/photo-1508108712903-49b7ef9b1df8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ4MjQ4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountains covered with fogs"></a>
+  <a href="https://unsplash.com/photos/green-leafed-tree-near-withered-grass-a7IVuJwYjp8"><img width="720" src="https://images.unsplash.com/uploads/1411400493228e06a6315/ad711a20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ5MTEyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leafed tree near withered grass"></a>
   
-  <em>"mountains covered with fogs"</em>
+  <em>"green leafed tree near withered grass"</em>
   
   <em>""</em>
 
-  Photo by Alessio Soggetti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/asoggetti) / [portfolio](https://asoggetti.it) / [Twitter](https://twitter.com/asoggetti)
+  Photo by Rodion Kutsaiev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Frostroomhead) / [Twitter](https://twitter.com/Frostroomhead)
   
-  Taken at Pian delle Betulle, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.0287224,9.39993030000005)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D750 |
-| Exposure Time | 1/1250 |
-| Aperture      | 9 |
-| Focal Length  | 170 |
-| ISO           | 200 |
-| Location      | Pian delle Betulle, Italy (Italy) |
-| Coordinates   | Latitude 46.0287224, Longitude 9.39993030000005 |
+| Camera Model  | NIKON D5200 |
+| Exposure Time | 1/500 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            9.39993030000005,
-                            46.0287224
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                9.69993030000005,
-                                46.3287224
-                            ],
-                            [
-                                9.69993030000005,
-                                45.7287224
-                            ],
-                            [
-                                9.099930300000048,
-                                45.7287224
-                            ],
-                            [
-                                9.099930300000048,
-                                46.3287224
-                            ],
-                            [
-                                9.69993030000005,
-                                46.3287224
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
