@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-and-mountain-partially-covered-with-fog-lVDnLUACI18"><img width="720" src="https://images.unsplash.com/photo-1464039397811-476f652a343b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU1MTYwMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest and mountain partially covered with fog"></a>
+  <a href="https://unsplash.com/photos/pathway-between-inline-trees-during-golden-hour-ps2daRcXYes"><img width="720" src="https://images.unsplash.com/photo-1445855743215-296f71d4b49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU2MDI0MjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="pathway between inline trees during golden hour"></a>
   
-  <em>"forest and mountain partially covered with fog"</em>
+  <em>"pathway between inline trees during golden hour"</em>
   
-  <em>"Foggy Green Forest"</em>
+  <em>""</em>
 
-  Photo by Guy Bowden on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/guybowden)
+  Photo by Lukasz Szmigiel on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
   
-  Taken at Morzine, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.179192,6.70887700000003)
+  Taken at Biały Ług, Kędzierzyn-Koźle, Poland • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.3446736,18.2455072)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-LX100 |
-| Exposure Time | 1/640 |
-| Aperture      | 5.6 |
-| Focal Length  | 22.7 |
-| ISO           | 200 |
-| Location      | Morzine, France (France) |
-| Coordinates   | Latitude 46.179192, Longitude 6.70887700000003 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Biały Ług, Kędzierzyn-Koźle, Poland (Poland) |
+| Coordinates   | Latitude 50.3446736, Longitude 18.2455072 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            6.70887700000003,
-                            46.179192
+                            18.2455072,
+                            50.3446736
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                7.00887700000003,
-                                46.479192
+                                18.5455072,
+                                50.6446736
                             ],
                             [
-                                7.00887700000003,
-                                45.879192
+                                18.5455072,
+                                50.0446736
                             ],
                             [
-                                6.408877000000031,
-                                45.879192
+                                17.945507199999998,
+                                50.0446736
                             ],
                             [
-                                6.408877000000031,
-                                46.479192
+                                17.945507199999998,
+                                50.6446736
                             ],
                             [
-                                7.00887700000003,
-                                46.479192
+                                18.5455072,
+                                50.6446736
                             ]
                         ],
                         "type": "LineString"
