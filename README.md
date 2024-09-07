@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/pathway-between-inline-trees-during-golden-hour-ps2daRcXYes"><img width="720" src="https://images.unsplash.com/photo-1445855743215-296f71d4b49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU2MDI0MjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="pathway between inline trees during golden hour"></a>
+  <a href="https://unsplash.com/photos/birds-eye-view-photograph-of-green-mountains-01_igFr7hd4"><img width="720" src="https://images.unsplash.com/photo-1501854140801-50d01698950b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU2ODg4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's eye view photograph of green mountains"></a>
   
-  <em>"pathway between inline trees during golden hour"</em>
+  <em>"bird's eye view photograph of green mountains"</em>
   
-  <em>""</em>
+  <em>"Body Grassland in Yili，Xinjiang，China"</em>
 
-  Photo by Lukasz Szmigiel on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
+  Photo by Qingbao Meng on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ideasboom)
   
-  Taken at Biały Ług, Kędzierzyn-Koźle, Poland • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.3446736,18.2455072)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Biały Ług, Kędzierzyn-Koźle, Poland (Poland) |
-| Coordinates   | Latitude 50.3446736, Longitude 18.2455072 |
+| Camera Model  | NIKON D750 |
+| Exposure Time | 1/800 |
+| Aperture      | 5.0 |
+| Focal Length  | 82.0 |
+| ISO           | 250 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            18.2455072,
-                            50.3446736
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                18.5455072,
-                                50.6446736
-                            ],
-                            [
-                                18.5455072,
-                                50.0446736
-                            ],
-                            [
-                                17.945507199999998,
-                                50.0446736
-                            ],
-                            [
-                                17.945507199999998,
-                                50.6446736
-                            ],
-                            [
-                                18.5455072,
-                                50.6446736
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
