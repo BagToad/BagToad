@@ -38,15 +38,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-rock-formation-under-blue-sky-CSpjU6hYo_0"><img width="720" src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU3NzUyMTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown rock formation under blue sky"></a>
+  <a href="https://unsplash.com/photos/aerial-photography-of-river-and-rock-mountain-during-daytime-view--RuRzumDbWQ"><img width="720" src="https://images.unsplash.com/photo-1507409613952-518459ac866e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU4NjE2MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of river and rock mountain during daytime view"></a>
   
-  <em>"brown rock formation under blue sky"</em>
+  <em>"aerial photography of river and rock mountain during daytime view"</em>
   
-  <em>""</em>
+  <em>"It may be a classic and often photographed view, but seeing it for yourself still is something special.
 
-  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
+Buy awesome, limited edtition, photo prints: handpictphoto.com"</em>
+
+  Photo by Johny Goerend on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnygoerend) / [portfolio](https://linktr.ee/johnygoerend) / [Twitter](https://twitter.com/JohnyGoerendETH)
   
-  Taken at Giau Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4830556,12.0541667)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +57,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T10 |
-| Exposure Time | 1/340 |
-| Aperture      | 1.0 |
-| Focal Length  | 50.0 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 30 |
+| Aperture      | 4 |
+| Focal Length  | 18.0 |
 | ISO           | 400 |
-| Location      | Giau Pass, Italy (Italy) |
-| Coordinates   | Latitude 46.4830556, Longitude 12.0541667 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            12.0541667,
-                            46.4830556
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                12.3541667,
-                                46.7830556
-                            ],
-                            [
-                                12.3541667,
-                                46.1830556
-                            ],
-                            [
-                                11.754166699999999,
-                                46.1830556
-                            ],
-                            [
-                                11.754166699999999,
-                                46.7830556
-                            ],
-                            [
-                                12.3541667,
-                                46.7830556
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
