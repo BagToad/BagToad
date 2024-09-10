@@ -38,17 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photography-of-river-and-rock-mountain-during-daytime-view--RuRzumDbWQ"><img width="720" src="https://images.unsplash.com/photo-1507409613952-518459ac866e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU4NjE2MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of river and rock mountain during daytime view"></a>
+  <a href="https://unsplash.com/photos/silhoutte-of-mountains-during-sunset-dQejX2ucPBs"><img width="720" src="https://images.unsplash.com/photo-1500534623283-312aade485b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU5NDgwMzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhoutte of mountains during sunset"></a>
   
-  <em>"aerial photography of river and rock mountain during daytime view"</em>
+  <em>"silhoutte of mountains during sunset"</em>
   
-  <em>"It may be a classic and often photographed view, but seeing it for yourself still is something special.
+  <em>"Sunset at Clingmans Dome"</em>
 
-Buy awesome, limited edtition, photo prints: handpictphoto.com"</em>
-
-  Photo by Johny Goerend on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnygoerend) / [portfolio](https://linktr.ee/johnygoerend) / [Twitter](https://twitter.com/JohnyGoerendETH)
+  Photo by Ivana Cajina on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/von.co) / [portfolio](https://www.instagram.com/von.co/) / [Twitter](https://twitter.com/vondotco)
   
-  Taken at Unknown • 
+  Taken at Great Smoky Mountains National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=35.6117644,-83.4895449)
   
   ---
   
@@ -57,17 +55,64 @@ Buy awesome, limited edtition, photo prints: handpictphoto.com"</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 30 |
-| Aperture      | 4 |
-| Focal Length  | 18.0 |
-| ISO           | 400 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 60D |
+| Exposure Time | 1/25 |
+| Aperture      | 20.0 |
+| Focal Length  | 24.0 |
+| ISO           | 125 |
+| Location      | Great Smoky Mountains National Park, United States (United States) |
+| Coordinates   | Latitude 35.6117644, Longitude -83.4895449 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -83.4895449,
+                            35.6117644
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -83.1895449,
+                                35.911764399999996
+                            ],
+                            [
+                                -83.1895449,
+                                35.3117644
+                            ],
+                            [
+                                -83.7895449,
+                                35.3117644
+                            ],
+                            [
+                                -83.7895449,
+                                35.911764399999996
+                            ],
+                            [
+                                -83.1895449,
+                                35.911764399999996
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
