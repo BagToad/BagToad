@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhoutte-of-mountains-during-sunset-dQejX2ucPBs"><img width="720" src="https://images.unsplash.com/photo-1500534623283-312aade485b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjU5NDgwMzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhoutte of mountains during sunset"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjYwMzQ0MzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photo of brown moutains"></a>
   
-  <em>"silhoutte of mountains during sunset"</em>
+  <em>"aerial photo of brown moutains"</em>
   
-  <em>"Sunset at Clingmans Dome"</em>
+  <em>"Red highlands"</em>
 
-  Photo by Ivana Cajina on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/von.co) / [portfolio](https://www.instagram.com/von.co/) / [Twitter](https://twitter.com/vondotco)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
   
-  Taken at Great Smoky Mountains National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=35.6117644,-83.4895449)
+  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 60D |
-| Exposure Time | 1/25 |
-| Aperture      | 20.0 |
-| Focal Length  | 24.0 |
-| ISO           | 125 |
-| Location      | Great Smoky Mountains National Park, United States (United States) |
-| Coordinates   | Latitude 35.6117644, Longitude -83.4895449 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/640 |
+| Aperture      | 4.0 |
+| Focal Length  | 177.0 |
+| ISO           | 500 |
+| Location      | Ancient Bristlecone Pine Forest, United States (United States) |
+| Coordinates   | Latitude 37.4488186, Longitude -118.1426005 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -83.4895449,
-                            35.6117644
+                            -118.1426005,
+                            37.4488186
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -83.1895449,
-                                35.911764399999996
+                                -117.8426005,
+                                37.7488186
                             ],
                             [
-                                -83.1895449,
-                                35.3117644
+                                -117.8426005,
+                                37.148818600000006
                             ],
                             [
-                                -83.7895449,
-                                35.3117644
+                                -118.4426005,
+                                37.148818600000006
                             ],
                             [
-                                -83.7895449,
-                                35.911764399999996
+                                -118.4426005,
+                                37.7488186
                             ],
                             [
-                                -83.1895449,
-                                35.911764399999996
+                                -117.8426005,
+                                37.7488186
                             ]
                         ],
                         "type": "LineString"
