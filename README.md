@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjYwMzQ0MzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photo of brown moutains"></a>
+  <a href="https://unsplash.com/photos/mountains-at-golden-hour-wndpWTiDuT0"><img width="720" src="https://images.unsplash.com/photo-1494935362342-566c6d6e75b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjYxMjA4Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountains at golden hour"></a>
   
-  <em>"aerial photo of brown moutains"</em>
+  <em>"mountains at golden hour"</em>
   
-  <em>"Red highlands"</em>
+  <em>"Green mountains and clouds"</em>
 
-  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
+  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
   
-  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
+  Taken at Monte Altissimo di Nago, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.810556,10.888056)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/640 |
-| Aperture      | 4.0 |
-| Focal Length  | 177.0 |
-| ISO           | 500 |
-| Location      | Ancient Bristlecone Pine Forest, United States (United States) |
-| Coordinates   | Latitude 37.4488186, Longitude -118.1426005 |
+| Camera Model  | X-T10 |
+| Exposure Time | 1/680 |
+| Aperture      | 14.0 |
+| Focal Length  | 27.0 |
+| ISO           | 1000 |
+| Location      | Monte Altissimo di Nago, Italy (Italy) |
+| Coordinates   | Latitude 45.810556, Longitude 10.888056 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -118.1426005,
-                            37.4488186
+                            10.888056,
+                            45.810556
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -117.8426005,
-                                37.7488186
+                                11.188056000000001,
+                                46.110555999999995
                             ],
                             [
-                                -117.8426005,
-                                37.148818600000006
+                                11.188056000000001,
+                                45.510556
                             ],
                             [
-                                -118.4426005,
-                                37.148818600000006
+                                10.588056,
+                                45.510556
                             ],
                             [
-                                -118.4426005,
-                                37.7488186
+                                10.588056,
+                                46.110555999999995
                             ],
                             [
-                                -117.8426005,
-                                37.7488186
+                                11.188056000000001,
+                                46.110555999999995
                             ]
                         ],
                         "type": "LineString"
