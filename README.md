@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountains-at-golden-hour-wndpWTiDuT0"><img width="720" src="https://images.unsplash.com/photo-1494935362342-566c6d6e75b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjYxMjA4Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountains at golden hour"></a>
+  <a href="https://unsplash.com/photos/green-leafed-tree-near-withered-grass-a7IVuJwYjp8"><img width="720" src="https://images.unsplash.com/uploads/1411400493228e06a6315/ad711a20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjYyMDcyMjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leafed tree near withered grass"></a>
   
-  <em>"mountains at golden hour"</em>
+  <em>"green leafed tree near withered grass"</em>
   
-  <em>"Green mountains and clouds"</em>
+  <em>""</em>
 
-  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
+  Photo by Rodion Kutsaiev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Frostroomhead) / [Twitter](https://twitter.com/Frostroomhead)
   
-  Taken at Monte Altissimo di Nago, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.810556,10.888056)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T10 |
-| Exposure Time | 1/680 |
-| Aperture      | 14.0 |
-| Focal Length  | 27.0 |
-| ISO           | 1000 |
-| Location      | Monte Altissimo di Nago, Italy (Italy) |
-| Coordinates   | Latitude 45.810556, Longitude 10.888056 |
+| Camera Model  | NIKON D5200 |
+| Exposure Time | 1/500 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            10.888056,
-                            45.810556
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                11.188056000000001,
-                                46.110555999999995
-                            ],
-                            [
-                                11.188056000000001,
-                                45.510556
-                            ],
-                            [
-                                10.588056,
-                                45.510556
-                            ],
-                            [
-                                10.588056,
-                                46.110555999999995
-                            ],
-                            [
-                                11.188056000000001,
-                                46.110555999999995
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
