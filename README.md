@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-surrounding-with-trees-_LuLiJc1cdo"><img width="720" src="https://images.unsplash.com/photo-1465189684280-6a8fa9b19a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjYyOTM2MTZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water surrounding with trees"></a>
+  <a href="https://unsplash.com/photos/calm-body-of-water-surrounded-by-trees-near-cliff-mWRR1xj95hg"><img width="720" src="https://images.unsplash.com/photo-1454982523318-4b6396f39d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjYzODAwMzN8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm body of water surrounded by trees near cliff"></a>
   
-  <em>"body of water surrounding with trees"</em>
+  <em>"calm body of water surrounded by trees near cliff"</em>
   
-  <em>"follow @kalenemsley on ig"</em>
+  <em>"River beneath Yosemite cliffs"</em>
 
-  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
+  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
   
-  Taken at Kinney Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.0828746,-119.1923101)
+  Taken at Yosemite National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.8651011,-119.5383294)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/125 |
-| Aperture      | 4.0 |
-| Focal Length  | 70.0 |
+| Camera Model  | Canon EOS REBEL T5i |
+| Exposure Time | 1/200 |
+| Aperture      | 8.0 |
+| Focal Length  | 18.0 |
 | ISO           | 200 |
-| Location      | Kinney Lake, Canada (Canada) |
-| Coordinates   | Latitude 53.0828746, Longitude -119.1923101 |
+| Location      | Yosemite National Park, United States (United States) |
+| Coordinates   | Latitude 37.8651011, Longitude -119.5383294 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.1923101,
-                            53.0828746
+                            -119.5383294,
+                            37.8651011
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -118.8923101,
-                                53.382874599999994
+                                -119.2383294,
+                                38.165101099999994
                             ],
                             [
-                                -118.8923101,
-                                52.7828746
+                                -119.2383294,
+                                37.5651011
                             ],
                             [
-                                -119.4923101,
-                                52.7828746
+                                -119.83832939999999,
+                                37.5651011
                             ],
                             [
-                                -119.4923101,
-                                53.382874599999994
+                                -119.83832939999999,
+                                38.165101099999994
                             ],
                             [
-                                -118.8923101,
-                                53.382874599999994
+                                -119.2383294,
+                                38.165101099999994
                             ]
                         ],
                         "type": "LineString"
