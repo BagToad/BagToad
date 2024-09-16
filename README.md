@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/calm-body-of-water-surrounded-by-trees-near-cliff-mWRR1xj95hg"><img width="720" src="https://images.unsplash.com/photo-1454982523318-4b6396f39d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjYzODAwMzN8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm body of water surrounded by trees near cliff"></a>
+  <a href="https://unsplash.com/photos/snowy-mountain-g30P1zcOzXo"><img width="720" src="https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY0NjY0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="snowy mountain"></a>
   
-  <em>"calm body of water surrounded by trees near cliff"</em>
+  <em>"snowy mountain"</em>
   
-  <em>"River beneath Yosemite cliffs"</em>
+  <em>"Taken from the top of Poon Hill before sun rise"</em>
 
-  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
+  Photo by Daniel Leone on [unsplash.com](https://unsplash.com/) • [portfolio](https://danielleone.com)
   
-  Taken at Yosemite National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.8651011,-119.5383294)
+  Taken at Poon Hill, Ghode Pani, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.4004787,83.6940737)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T5i |
-| Exposure Time | 1/200 |
-| Aperture      | 8.0 |
-| Focal Length  | 18.0 |
+| Camera Model  | PENTAX K-5 |
+| Exposure Time | 13 |
+| Aperture      | 1.8 |
+| Focal Length  | 31.0 |
 | ISO           | 200 |
-| Location      | Yosemite National Park, United States (United States) |
-| Coordinates   | Latitude 37.8651011, Longitude -119.5383294 |
+| Location      | Poon Hill, Ghode Pani, Nepal (Nepal) |
+| Coordinates   | Latitude 28.4004787, Longitude 83.6940737 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.5383294,
-                            37.8651011
+                            83.6940737,
+                            28.4004787
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -119.2383294,
-                                38.165101099999994
+                                83.9940737,
+                                28.7004787
                             ],
                             [
-                                -119.2383294,
-                                37.5651011
+                                83.9940737,
+                                28.1004787
                             ],
                             [
-                                -119.83832939999999,
-                                37.5651011
+                                83.3940737,
+                                28.1004787
                             ],
                             [
-                                -119.83832939999999,
-                                38.165101099999994
+                                83.3940737,
+                                28.7004787
                             ],
                             [
-                                -119.2383294,
-                                38.165101099999994
+                                83.9940737,
+                                28.7004787
                             ]
                         ],
                         "type": "LineString"
