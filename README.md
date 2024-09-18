@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-footbridge-surrounded-by-pink-petaled-flowers-with-creek-underneath-during-daytime-pYyOZ8q7AII"><img width="720" src="https://images.unsplash.com/photo-1432958576632-8a39f6b97dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY1NTI4MjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"></a>
+  <a href="https://unsplash.com/photos/river-overflow-in-between-rock-formation-p3OzJuT_Dks"><img width="720" src="https://images.unsplash.com/photo-1461301214746-1e109215d6d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY2MzkyMzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="river overflow in between rock formation"></a>
   
-  <em>"brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"</em>
+  <em>"river overflow in between rock formation"</em>
   
-  <em>"Mystical garden"</em>
+  <em>"Pfeiffer Beach at Dusk"</em>
 
-  Photo by Cosmic Timetraveler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cosmictimetraveler)
+  Photo by Kace  Rodriguez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kacelogik)
   
-  Taken at Unknown • 
+  Taken at Pfeiffer Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2381316,-121.8162251)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | X100S |
+| Exposure Time | 3 |
+| Aperture      | 16.0 |
+| Focal Length  | 23.0 |
+| ISO           | 200 |
+| Location      | Pfeiffer Beach, United States (United States) |
+| Coordinates   | Latitude 36.2381316, Longitude -121.8162251 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -121.8162251,
+                            36.2381316
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -121.5162251,
+                                36.5381316
+                            ],
+                            [
+                                -121.5162251,
+                                35.938131600000006
+                            ],
+                            [
+                                -122.1162251,
+                                35.938131600000006
+                            ],
+                            [
+                                -122.1162251,
+                                36.5381316
+                            ],
+                            [
+                                -121.5162251,
+                                36.5381316
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
