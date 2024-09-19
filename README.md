@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/river-overflow-in-between-rock-formation-p3OzJuT_Dks"><img width="720" src="https://images.unsplash.com/photo-1461301214746-1e109215d6d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY2MzkyMzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="river overflow in between rock formation"></a>
+  <a href="https://unsplash.com/photos/birds-view-of-tall-trees-covered-with-smokes-89PFnHKg8HE"><img width="720" src="https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY3MjU2MzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's view of tall trees covered with smokes"></a>
   
-  <em>"river overflow in between rock formation"</em>
+  <em>"bird's view of tall trees covered with smokes"</em>
   
-  <em>"Pfeiffer Beach at Dusk"</em>
+  <em>"We were looking to capture a foggy sunrise view of Half-Dome in Yosemite, but the weather wasn’t cooperating with us. The fog that did show up was low-lying and moving quickly through the trees like a ghostly river meandering through the canyon, swirling around the tallest trees in small eddies. Like too many forests, the valley is infested with borers, which has killed thousands of trees. The splash of golden trees mixed with the green is actually really beautiful, but a sad reminder of how fragile the forest is."</em>
 
-  Photo by Kace  Rodriguez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kacelogik)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
   
-  Taken at Pfeiffer Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2381316,-121.8162251)
+  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100S |
-| Exposure Time | 3 |
-| Aperture      | 16.0 |
-| Focal Length  | 23.0 |
-| ISO           | 200 |
-| Location      | Pfeiffer Beach, United States (United States) |
-| Coordinates   | Latitude 36.2381316, Longitude -121.8162251 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/25 |
+| Aperture      | 8.0 |
+| Focal Length  | 159.0 |
+| ISO           | 250 |
+| Location      | Yosemite Valley, United States (United States) |
+| Coordinates   | Latitude 37.7455701, Longitude -119.5936038 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -121.8162251,
-                            36.2381316
+                            -119.5936038,
+                            37.7455701
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -121.5162251,
-                                36.5381316
+                                -119.2936038,
+                                38.0455701
                             ],
                             [
-                                -121.5162251,
-                                35.938131600000006
+                                -119.2936038,
+                                37.445570100000005
                             ],
                             [
-                                -122.1162251,
-                                35.938131600000006
+                                -119.8936038,
+                                37.445570100000005
                             ],
                             [
-                                -122.1162251,
-                                36.5381316
+                                -119.8936038,
+                                38.0455701
                             ],
                             [
-                                -121.5162251,
-                                36.5381316
+                                -119.2936038,
+                                38.0455701
                             ]
                         ],
                         "type": "LineString"
