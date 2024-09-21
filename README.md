@@ -38,13 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky-XNIjmb6Ax04"><img width="720" src="https://images.unsplash.com/photo-1429704658776-3d38c9990511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY4MTIwMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field under blue sky"></a>
+  <a href="https://unsplash.com/photos/aerial-photography-of-river-and-rock-mountain-during-daytime-view--RuRzumDbWQ"><img width="720" src="https://images.unsplash.com/photo-1507409613952-518459ac866e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY4OTg0MzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of river and rock mountain during daytime view"></a>
   
-  <em>"green grass field under blue sky"</em>
+  <em>"aerial photography of river and rock mountain during daytime view"</em>
   
-  <em>""</em>
+  <em>"It may be a classic and often photographed view, but seeing it for yourself still is something special.
 
-  Photo by John Mark Arnold on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnmarkarnold) / [portfolio](https://www.instagram.com/johnmarkarnold/) / [Twitter](https://twitter.com/JohnMarkArnold)
+Buy awesome, limited edtition, photo prints: handpictphoto.com"</em>
+
+  Photo by Johny Goerend on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnygoerend) / [portfolio](https://linktr.ee/johnygoerend) / [Twitter](https://twitter.com/JohnyGoerendETH)
   
   Taken at Unknown • 
   
@@ -55,11 +57,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 550D |
-| Exposure Time | 1/1000 |
-| Aperture      | 5.6 |
-| Focal Length  | 55.0 |
-| ISO           | 200 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 30 |
+| Aperture      | 4 |
+| Focal Length  | 18.0 |
+| ISO           | 400 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
