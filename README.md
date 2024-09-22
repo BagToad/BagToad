@@ -38,17 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photography-of-river-and-rock-mountain-during-daytime-view--RuRzumDbWQ"><img width="720" src="https://images.unsplash.com/photo-1507409613952-518459ac866e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY4OTg0MzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of river and rock mountain during daytime view"></a>
+  <a href="https://unsplash.com/photos/blue-ocean-in-front-of-rockl-u_nsiSvPEak"><img width="720" src="https://images.unsplash.com/photo-1464254786740-b97e5420c299?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY5ODQ4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="blue ocean in front of rockl"></a>
   
-  <em>"aerial photography of river and rock mountain during daytime view"</em>
+  <em>"blue ocean in front of rockl"</em>
   
-  <em>"It may be a classic and often photographed view, but seeing it for yourself still is something special.
+  <em>"Shoreline at sunset"</em>
 
-Buy awesome, limited edtition, photo prints: handpictphoto.com"</em>
-
-  Photo by Johny Goerend on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnygoerend) / [portfolio](https://linktr.ee/johnygoerend) / [Twitter](https://twitter.com/JohnyGoerendETH)
+  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
   
-  Taken at Unknown • 
+  Taken at Three Tables Beach, Haleiwa, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.6468156553021,-158.063293385181)
   
   ---
   
@@ -57,17 +55,64 @@ Buy awesome, limited edtition, photo prints: handpictphoto.com"</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 30 |
-| Aperture      | 4 |
-| Focal Length  | 18.0 |
-| ISO           | 400 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 83 |
+| Aperture      | 8.0 |
+| Focal Length  | 40.0 |
+| ISO           | 100 |
+| Location      | Three Tables Beach, Haleiwa, United States (United States) |
+| Coordinates   | Latitude 21.6468156553021, Longitude -158.063293385181 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -158.063293385181,
+                            21.6468156553021
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -157.763293385181,
+                                21.9468156553021
+                            ],
+                            [
+                                -157.763293385181,
+                                21.3468156553021
+                            ],
+                            [
+                                -158.363293385181,
+                                21.3468156553021
+                            ],
+                            [
+                                -158.363293385181,
+                                21.9468156553021
+                            ],
+                            [
+                                -157.763293385181,
+                                21.9468156553021
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
