@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/blue-ocean-in-front-of-rockl-u_nsiSvPEak"><img width="720" src="https://images.unsplash.com/photo-1464254786740-b97e5420c299?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjY5ODQ4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="blue ocean in front of rockl"></a>
+  <a href="https://unsplash.com/photos/mountains-under-white-clouds-at-daytime-pZ-XFIrJMtE"><img width="720" src="https://images.unsplash.com/photo-1547234935-80c7145ec969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjcwNzEyMjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountains under white clouds at daytime"></a>
   
-  <em>"blue ocean in front of rockl"</em>
+  <em>"mountains under white clouds at daytime"</em>
   
-  <em>"Shoreline at sunset"</em>
+  <em>"mars like places on earth"</em>
 
-  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
+  Photo by Juli Kosolapova on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/yuli_superson)
   
-  Taken at Three Tables Beach, Haleiwa, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.6468156553021,-158.063293385181)
+  Taken at Wadi Rum,  Aqaba, Jordan • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 83 |
-| Aperture      | 8.0 |
-| Focal Length  | 40.0 |
-| ISO           | 100 |
-| Location      | Three Tables Beach, Haleiwa, United States (United States) |
-| Coordinates   | Latitude 21.6468156553021, Longitude -158.063293385181 |
+| Camera Model  | NIKON D300S |
+| Exposure Time | 1/1600 |
+| Aperture      | 7.1 |
+| Focal Length  | 72.0 |
+| ISO           | 200 |
+| Location      | Wadi Rum,  Aqaba, Jordan (Jordan) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -158.063293385181,
-                            21.6468156553021
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -157.763293385181,
-                                21.9468156553021
-                            ],
-                            [
-                                -157.763293385181,
-                                21.3468156553021
-                            ],
-                            [
-                                -158.363293385181,
-                                21.3468156553021
-                            ],
-                            [
-                                -158.363293385181,
-                                21.9468156553021
-                            ],
-                            [
-                                -157.763293385181,
-                                21.9468156553021
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
