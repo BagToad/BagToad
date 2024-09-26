@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snowy-mountain-g30P1zcOzXo"><img width="720" src="https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjcyNDQwMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="snowy mountain"></a>
+  <a href="https://unsplash.com/photos/mountain-covered-with-green-grass-ZVbv1akA-l4"><img width="720" src="https://images.unsplash.com/photo-1438786657495-640937046d18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjczMzA0MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain covered with green grass"></a>
   
-  <em>"snowy mountain"</em>
+  <em>"mountain covered with green grass"</em>
   
-  <em>"Taken from the top of Poon Hill before sun rise"</em>
+  <em>"Écosse valley and mountains"</em>
 
-  Photo by Daniel Leone on [unsplash.com](https://unsplash.com/) • [portfolio](https://danielleone.com)
+  Photo by Claudel Rheault on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chevalreal) / [portfolio](http://realcheval.co) / [Twitter](https://twitter.com/realcheval)
   
-  Taken at Poon Hill, Ghode Pani, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.4004787,83.6940737)
+  Taken at Écosse • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.4906712,-4.20264580000003)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | PENTAX K-5 |
-| Exposure Time | 13 |
-| Aperture      | 1.8 |
-| Focal Length  | 31.0 |
-| ISO           | 200 |
-| Location      | Poon Hill, Ghode Pani, Nepal (Nepal) |
-| Coordinates   | Latitude 28.4004787, Longitude 83.6940737 |
+| Camera Model  | Canon EOS REBEL T2i |
+| Exposure Time | 1/1600 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Écosse (null) |
+| Coordinates   | Latitude 56.4906712, Longitude -4.20264580000003 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            83.6940737,
-                            28.4004787
+                            -4.20264580000003,
+                            56.4906712
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                83.9940737,
-                                28.7004787
+                                -3.9026458000000304,
+                                56.7906712
                             ],
                             [
-                                83.9940737,
-                                28.1004787
+                                -3.9026458000000304,
+                                56.190671200000004
                             ],
                             [
-                                83.3940737,
-                                28.1004787
+                                -4.50264580000003,
+                                56.190671200000004
                             ],
                             [
-                                83.3940737,
-                                28.7004787
+                                -4.50264580000003,
+                                56.7906712
                             ],
                             [
-                                83.9940737,
-                                28.7004787
+                                -3.9026458000000304,
+                                56.7906712
                             ]
                         ],
                         "type": "LineString"
