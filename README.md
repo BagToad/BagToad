@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-covered-with-green-grass-ZVbv1akA-l4"><img width="720" src="https://images.unsplash.com/photo-1438786657495-640937046d18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjczMzA0MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain covered with green grass"></a>
+  <a href="https://unsplash.com/photos/river-between-trees-under-blue-sky-OWwK_0_EnxY"><img width="720" src="https://images.unsplash.com/photo-1442120108414-42e7ea50d0b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc0MTY4MzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="river between trees under blue sky"></a>
   
-  <em>"mountain covered with green grass"</em>
+  <em>"river between trees under blue sky"</em>
   
-  <em>"Écosse valley and mountains"</em>
+  <em>"River in the rainforest"</em>
 
-  Photo by Claudel Rheault on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chevalreal) / [portfolio](http://realcheval.co) / [Twitter](https://twitter.com/realcheval)
+  Photo by Eutah Mizushima on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/eutahm) / [portfolio](https://www.linkedin.com/in/eutahmizushima)
   
-  Taken at Écosse • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.4906712,-4.20264580000003)
+  Taken at マレーシア, Balok, Malaysia • [Google Maps](https://www.google.com/maps/search/?api=1&query=4.210484,101.975766)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T2i |
-| Exposure Time | 1/1600 |
-| Aperture      | 3.5 |
-| Focal Length  | 18.0 |
+| Camera Model  | HERO4 Silver |
+| Exposure Time | 1/200 |
+| Aperture      | 2.8 |
+| Focal Length  | 3.0 |
 | ISO           | 100 |
-| Location      | Écosse (null) |
-| Coordinates   | Latitude 56.4906712, Longitude -4.20264580000003 |
+| Location      | マレーシア, Balok, Malaysia (Malaysia) |
+| Coordinates   | Latitude 4.210484, Longitude 101.975766 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -4.20264580000003,
-                            56.4906712
+                            101.975766,
+                            4.210484
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -3.9026458000000304,
-                                56.7906712
+                                102.27576599999999,
+                                4.510484
                             ],
                             [
-                                -3.9026458000000304,
-                                56.190671200000004
+                                102.27576599999999,
+                                3.9104840000000003
                             ],
                             [
-                                -4.50264580000003,
-                                56.190671200000004
+                                101.675766,
+                                3.9104840000000003
                             ],
                             [
-                                -4.50264580000003,
-                                56.7906712
+                                101.675766,
+                                4.510484
                             ],
                             [
-                                -3.9026458000000304,
-                                56.7906712
+                                102.27576599999999,
+                                4.510484
                             ]
                         ],
                         "type": "LineString"
