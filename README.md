@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/river-between-trees-under-blue-sky-OWwK_0_EnxY"><img width="720" src="https://images.unsplash.com/photo-1442120108414-42e7ea50d0b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc0MTY4MzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="river between trees under blue sky"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-toCqTyxsT4Q"><img width="720" src="https://images.unsplash.com/photo-1470164971321-eb5ac2c35f2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc1MDMyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountains"></a>
   
-  <em>"river between trees under blue sky"</em>
+  <em>"landscape photography of mountains"</em>
   
-  <em>"River in the rainforest"</em>
+  <em>"Arizona cacti"</em>
 
-  Photo by Eutah Mizushima on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/eutahm) / [portfolio](https://www.linkedin.com/in/eutahmizushima)
+  Photo by Robert Murray on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at マレーシア, Balok, Malaysia • [Google Maps](https://www.google.com/maps/search/?api=1&query=4.210484,101.975766)
+  Taken at Arizona, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=34.0489281,-111.0937311)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | HERO4 Silver |
-| Exposure Time | 1/200 |
-| Aperture      | 2.8 |
-| Focal Length  | 3.0 |
+| Camera Model  | Canon EOS 5D Mark II |
+| Exposure Time | 1/160 |
+| Aperture      | 11.0 |
+| Focal Length  | 38.0 |
 | ISO           | 100 |
-| Location      | マレーシア, Balok, Malaysia (Malaysia) |
-| Coordinates   | Latitude 4.210484, Longitude 101.975766 |
+| Location      | Arizona, United States (United States) |
+| Coordinates   | Latitude 34.0489281, Longitude -111.0937311 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            101.975766,
-                            4.210484
+                            -111.0937311,
+                            34.0489281
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                102.27576599999999,
-                                4.510484
+                                -110.7937311,
+                                34.348928099999995
                             ],
                             [
-                                102.27576599999999,
-                                3.9104840000000003
+                                -110.7937311,
+                                33.7489281
                             ],
                             [
-                                101.675766,
-                                3.9104840000000003
+                                -111.3937311,
+                                33.7489281
                             ],
                             [
-                                101.675766,
-                                4.510484
+                                -111.3937311,
+                                34.348928099999995
                             ],
                             [
-                                102.27576599999999,
-                                4.510484
+                                -110.7937311,
+                                34.348928099999995
                             ]
                         ],
                         "type": "LineString"
