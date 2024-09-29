@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-toCqTyxsT4Q"><img width="720" src="https://images.unsplash.com/photo-1470164971321-eb5ac2c35f2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc1MDMyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountains"></a>
+  <a href="https://unsplash.com/photos/lone-road-going-to-mountains-A-NVHPka9Rk"><img width="720" src="https://images.unsplash.com/photo-1494783367193-149034c05e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc1ODk2MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="lone road going to mountains"></a>
   
-  <em>"landscape photography of mountains"</em>
+  <em>"lone road going to mountains"</em>
   
-  <em>"Arizona cacti"</em>
+  <em>"To you use this picture, link the source to my website https://diego.cool – thank you!"</em>
 
-  Photo by Robert Murray on [unsplash.com](https://unsplash.com/) • 
+  Photo by Diego Jimenez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/diegojimenez) / [portfolio](http://diego.cool) / [Twitter](https://twitter.com/diegojimenez)
   
-  Taken at Arizona, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=34.0489281,-111.0937311)
+  Taken at Atacama Desert, Antofagasta, Chile • [Google Maps](https://www.google.com/maps/search/?api=1&query=-23.863419,-69.132849)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark II |
-| Exposure Time | 1/160 |
-| Aperture      | 11.0 |
-| Focal Length  | 38.0 |
+| Camera Model  | Canon EOS 70D |
+| Exposure Time | 1/250 |
+| Aperture      | 10 |
+| Focal Length  | 18.0 |
 | ISO           | 100 |
-| Location      | Arizona, United States (United States) |
-| Coordinates   | Latitude 34.0489281, Longitude -111.0937311 |
+| Location      | Atacama Desert, Antofagasta, Chile (Chile) |
+| Coordinates   | Latitude -23.863419, Longitude -69.132849 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -111.0937311,
-                            34.0489281
+                            -69.132849,
+                            -23.863419
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -110.7937311,
-                                34.348928099999995
+                                -68.832849,
+                                -23.563419
                             ],
                             [
-                                -110.7937311,
-                                33.7489281
+                                -68.832849,
+                                -24.163419
                             ],
                             [
-                                -111.3937311,
-                                33.7489281
+                                -69.43284899999999,
+                                -24.163419
                             ],
                             [
-                                -111.3937311,
-                                34.348928099999995
+                                -69.43284899999999,
+                                -23.563419
                             ],
                             [
-                                -110.7937311,
-                                34.348928099999995
+                                -68.832849,
+                                -23.563419
                             ]
                         ],
                         "type": "LineString"
