@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/lone-road-going-to-mountains-A-NVHPka9Rk"><img width="720" src="https://images.unsplash.com/photo-1494783367193-149034c05e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc1ODk2MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="lone road going to mountains"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4"><img width="720" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc2NzYwMzh8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain hit by sun rays"></a>
   
-  <em>"lone road going to mountains"</em>
+  <em>"landscape photography of mountain hit by sun rays"</em>
   
-  <em>"To you use this picture, link the source to my website https://diego.cool – thank you!"</em>
+  <em>"Alone in the unspoilt wilderness"</em>
 
-  Photo by Diego Jimenez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/diegojimenez) / [portfolio](http://diego.cool) / [Twitter](https://twitter.com/diegojimenez)
+  Photo by Urban Vintage on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/urban_vintage.ro) / [portfolio](https://urban-vintage.ro/) / [Twitter](https://twitter.com/dmqwe)
   
-  Taken at Atacama Desert, Antofagasta, Chile • [Google Maps](https://www.google.com/maps/search/?api=1&query=-23.863419,-69.132849)
+  Taken at Ciucaș Peak, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5217138,25.9261894)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 70D |
-| Exposure Time | 1/250 |
-| Aperture      | 10 |
-| Focal Length  | 18.0 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/200 |
+| Aperture      | 8.0 |
+| Focal Length  | 35.0 |
 | ISO           | 100 |
-| Location      | Atacama Desert, Antofagasta, Chile (Chile) |
-| Coordinates   | Latitude -23.863419, Longitude -69.132849 |
+| Location      | Ciucaș Peak, Romania (Romania) |
+| Coordinates   | Latitude 45.5217138, Longitude 25.9261894 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -69.132849,
-                            -23.863419
+                            25.9261894,
+                            45.5217138
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -68.832849,
-                                -23.563419
+                                26.2261894,
+                                45.8217138
                             ],
                             [
-                                -68.832849,
-                                -24.163419
+                                26.2261894,
+                                45.2217138
                             ],
                             [
-                                -69.43284899999999,
-                                -24.163419
+                                25.626189399999998,
+                                45.2217138
                             ],
                             [
-                                -69.43284899999999,
-                                -23.563419
+                                25.626189399999998,
+                                45.8217138
                             ],
                             [
-                                -68.832849,
-                                -23.563419
+                                26.2261894,
+                                45.8217138
                             ]
                         ],
                         "type": "LineString"
