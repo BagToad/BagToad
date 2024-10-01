@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4"><img width="720" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc2NzYwMzh8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain hit by sun rays"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-during-sunset-_RBcxo9AU-U"><img width="720" src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc3NjI0Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field during sunset"></a>
   
-  <em>"landscape photography of mountain hit by sun rays"</em>
+  <em>"green grass field during sunset"</em>
   
-  <em>"Alone in the unspoilt wilderness"</em>
+  <em>""</em>
 
-  Photo by Urban Vintage on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/urban_vintage.ro) / [portfolio](https://urban-vintage.ro/) / [Twitter](https://twitter.com/dmqwe)
+  Photo by Robert Lukeman on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Ciucaș Peak, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5217138,25.9261894)
+  Taken at Skye, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=57.5359261,-6.22627250000005)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
-| Exposure Time | 1/200 |
-| Aperture      | 8.0 |
-| Focal Length  | 35.0 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/25 |
+| Aperture      | 13.0 |
+| Focal Length  | 18.0 |
 | ISO           | 100 |
-| Location      | Ciucaș Peak, Romania (Romania) |
-| Coordinates   | Latitude 45.5217138, Longitude 25.9261894 |
+| Location      | Skye, United Kingdom (United Kingdom) |
+| Coordinates   | Latitude 57.5359261, Longitude -6.22627250000005 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            25.9261894,
-                            45.5217138
+                            -6.22627250000005,
+                            57.5359261
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                26.2261894,
-                                45.8217138
+                                -5.92627250000005,
+                                57.835926099999995
                             ],
                             [
-                                26.2261894,
-                                45.2217138
+                                -5.92627250000005,
+                                57.2359261
                             ],
                             [
-                                25.626189399999998,
-                                45.2217138
+                                -6.52627250000005,
+                                57.2359261
                             ],
                             [
-                                25.626189399999998,
-                                45.8217138
+                                -6.52627250000005,
+                                57.835926099999995
                             ],
                             [
-                                26.2261894,
-                                45.8217138
+                                -5.92627250000005,
+                                57.835926099999995
                             ]
                         ],
                         "type": "LineString"
