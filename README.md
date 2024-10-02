@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-during-sunset-_RBcxo9AU-U"><img width="720" src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc3NjI0Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field during sunset"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-ranges-under-purple-and-pink-skies--g7axSVst6Y"><img width="720" src="https://images.unsplash.com/photo-1466854076813-4aa9ac0fc347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc4NDg4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain ranges under purple and pink skies"></a>
   
-  <em>"green grass field during sunset"</em>
+  <em>"landscape photography of mountain ranges under purple and pink skies"</em>
   
   <em>""</em>
 
-  Photo by Robert Lukeman on [unsplash.com](https://unsplash.com/) • 
+  Photo by Štefan Štefančík on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stefancikphotography)
   
-  Taken at Skye, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=57.5359261,-6.22627250000005)
+  Taken at Kôprovský štít, Vysoké Tatry, Slovakia • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.1827063,20.0485728)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/25 |
-| Aperture      | 13.0 |
+| Camera Model  | SLT-A58 |
+| Exposure Time | 10 |
+| Aperture      | 11.0 |
 | Focal Length  | 18.0 |
 | ISO           | 100 |
-| Location      | Skye, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 57.5359261, Longitude -6.22627250000005 |
+| Location      | Kôprovský štít, Vysoké Tatry, Slovakia (Slovakia) |
+| Coordinates   | Latitude 49.1827063, Longitude 20.0485728 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -6.22627250000005,
-                            57.5359261
+                            20.0485728,
+                            49.1827063
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -5.92627250000005,
-                                57.835926099999995
+                                20.3485728,
+                                49.4827063
                             ],
                             [
-                                -5.92627250000005,
-                                57.2359261
+                                20.3485728,
+                                48.8827063
                             ],
                             [
-                                -6.52627250000005,
-                                57.2359261
+                                19.748572799999998,
+                                48.8827063
                             ],
                             [
-                                -6.52627250000005,
-                                57.835926099999995
+                                19.748572799999998,
+                                49.4827063
                             ],
                             [
-                                -5.92627250000005,
-                                57.835926099999995
+                                20.3485728,
+                                49.4827063
                             ]
                         ],
                         "type": "LineString"
