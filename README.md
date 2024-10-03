@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-ranges-under-purple-and-pink-skies--g7axSVst6Y"><img width="720" src="https://images.unsplash.com/photo-1466854076813-4aa9ac0fc347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc4NDg4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain ranges under purple and pink skies"></a>
+  <a href="https://unsplash.com/photos/birds-eye-view-photograph-of-green-mountains-01_igFr7hd4"><img width="720" src="https://images.unsplash.com/photo-1501854140801-50d01698950b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc5MzUyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's eye view photograph of green mountains"></a>
   
-  <em>"landscape photography of mountain ranges under purple and pink skies"</em>
+  <em>"bird's eye view photograph of green mountains"</em>
   
-  <em>""</em>
+  <em>"Body Grassland in Yili，Xinjiang，China"</em>
 
-  Photo by Štefan Štefančík on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stefancikphotography)
+  Photo by Qingbao Meng on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ideasboom)
   
-  Taken at Kôprovský štít, Vysoké Tatry, Slovakia • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.1827063,20.0485728)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | SLT-A58 |
-| Exposure Time | 10 |
-| Aperture      | 11.0 |
-| Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Kôprovský štít, Vysoké Tatry, Slovakia (Slovakia) |
-| Coordinates   | Latitude 49.1827063, Longitude 20.0485728 |
+| Camera Model  | NIKON D750 |
+| Exposure Time | 1/800 |
+| Aperture      | 5.0 |
+| Focal Length  | 82.0 |
+| ISO           | 250 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            20.0485728,
-                            49.1827063
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                20.3485728,
-                                49.4827063
-                            ],
-                            [
-                                20.3485728,
-                                48.8827063
-                            ],
-                            [
-                                19.748572799999998,
-                                48.8827063
-                            ],
-                            [
-                                19.748572799999998,
-                                49.4827063
-                            ],
-                            [
-                                20.3485728,
-                                49.4827063
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
