@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-dew-during-sunrise-xJ2tjuUHD9M"><img width="720" src="https://images.unsplash.com/photo-1444927714506-8492d94b4e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgwMjE2Mzd8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain dew during sunrise"></a>
+  <a href="https://unsplash.com/photos/mountain-covered-with-green-trees-qfmd9bu7IgA"><img width="720" src="https://images.unsplash.com/37/IHLjdHdzSvi0rgUMMlSK_TE3_0286.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgxMDgwMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain covered with green trees"></a>
   
-  <em>"mountain dew during sunrise"</em>
+  <em>"mountain covered with green trees"</em>
   
-  <em>"Hazy mountains"</em>
+  <em>"Fog over woody hills"</em>
 
-  Photo by Paul Earle on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/paulearlephotography) / [portfolio](http://paulearlephotography.com/)
+  Photo by FORREST CAVALE on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/forfie) / [portfolio](http://www.cavale.io/) / [Twitter](https://twitter.com/CavaleCreative)
   
   Taken at Unknown • 
   
@@ -55,10 +55,10 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/400 |
-| Aperture      | 10.0 |
-| Focal Length  | 135.0 |
+| Camera Model  | NIKON D600 |
+| Exposure Time | 1/640 |
+| Aperture      | 5.6 |
+| Focal Length  | 35.0 |
 | ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
