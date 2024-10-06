@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-covered-with-green-trees-qfmd9bu7IgA"><img width="720" src="https://images.unsplash.com/37/IHLjdHdzSvi0rgUMMlSK_TE3_0286.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgxMDgwMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain covered with green trees"></a>
+  <a href="https://unsplash.com/photos/silhouette-photo-of-bird-stands-on-shore-at-golden-hour-6WLGMivmV00"><img width="720" src="https://images.unsplash.com/photo-1429152937938-07b5f2828cdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgxOTQ0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of bird stands on shore at golden hour"></a>
   
-  <em>"mountain covered with green trees"</em>
+  <em>"silhouette photo of bird stands on shore at golden hour"</em>
   
-  <em>"Fog over woody hills"</em>
+  <em>"Bird in sea at sunset"</em>
 
-  Photo by FORREST CAVALE on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/forfie) / [portfolio](http://www.cavale.io/) / [Twitter](https://twitter.com/CavaleCreative)
+  Photo by Michael Baird on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/mikebaird/)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D600 |
-| Exposure Time | 1/640 |
-| Aperture      | 5.6 |
-| Focal Length  | 35.0 |
-| ISO           | 100 |
+| Camera Model  | DMC-FZ50 |
+| Exposure Time | 1/80 |
+| Aperture      | 2.8 |
+| Focal Length  | 7.4 |
+| ISO           | 200 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
