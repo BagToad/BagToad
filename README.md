@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photo-of-bird-stands-on-shore-at-golden-hour-6WLGMivmV00"><img width="720" src="https://images.unsplash.com/photo-1429152937938-07b5f2828cdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgxOTQ0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of bird stands on shore at golden hour"></a>
+  <a href="https://unsplash.com/photos/forest-heat-by-sunbeam-RwHv7LgeC7s"><img width="720" src="https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgyODA4MjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest heat by sunbeam"></a>
   
-  <em>"silhouette photo of bird stands on shore at golden hour"</em>
+  <em>"forest heat by sunbeam"</em>
   
-  <em>"Bird in sea at sunset"</em>
+  <em>"Mystery Forest Light"</em>
 
-  Photo by Michael Baird on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/mikebaird/)
+  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-FZ50 |
-| Exposure Time | 1/80 |
-| Aperture      | 2.8 |
-| Focal Length  | 7.4 |
-| ISO           | 200 |
+| Camera Model  | Canon EOS 5D |
+| Exposure Time | 1/25 |
+| Aperture      | 11.0 |
+| Focal Length  | 32.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
