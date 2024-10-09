@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-heat-by-sunbeam-RwHv7LgeC7s"><img width="720" src="https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjgzNjcyMzN8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest heat by sunbeam"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-asphalt-road-under-cloudy-sky-during-daytime-jIdKrtJF8Uk"><img width="720" src="https://images.unsplash.com/photo-1425342605259-25d80e320565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg0NTM2MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of asphalt road under cloudy sky during daytime"></a>
   
-  <em>"forest heat by sunbeam"</em>
+  <em>"landscape photography of asphalt road under cloudy sky during daytime"</em>
   
-  <em>"Mystery Forest Light"</em>
+  <em>""</em>
 
-  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
+  Photo by Amanda Sandlin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/amandasandlin) / [portfolio](http://amandasandlin.com) / [Twitter](https://twitter.com/atwildwoman)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D |
-| Exposure Time | 1/25 |
-| Aperture      | 11.0 |
-| Focal Length  | 32.0 |
-| ISO           | 100 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
