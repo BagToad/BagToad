@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-toCqTyxsT4Q"><img width="720" src="https://images.unsplash.com/photo-1470164971321-eb5ac2c35f2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg2MjY0Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountains"></a>
+  <a href="https://unsplash.com/photos/hot-air-balloon-contest-t7YycgAoVSw"><img width="720" src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg3MTI4Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="hot air balloon contest"></a>
   
-  <em>"landscape photography of mountains"</em>
+  <em>"hot air balloon contest"</em>
   
-  <em>"Arizona cacti"</em>
+  <em>""</em>
 
-  Photo by Robert Murray on [unsplash.com](https://unsplash.com/) • 
+  Photo by Daniela Cuevas on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cuevascuevas) / [Twitter](https://twitter.com/notyourcuevas)
   
-  Taken at Arizona, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=34.0489281,-111.0937311)
+  Taken at Cappadocia, Turky • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark II |
-| Exposure Time | 1/160 |
-| Aperture      | 11.0 |
-| Focal Length  | 38.0 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/250 |
+| Aperture      | 6.3 |
+| Focal Length  | 50.0 |
 | ISO           | 100 |
-| Location      | Arizona, United States (United States) |
-| Coordinates   | Latitude 34.0489281, Longitude -111.0937311 |
+| Location      | Cappadocia, Turky (Turky) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -111.0937311,
-                            34.0489281
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -110.7937311,
-                                34.348928099999995
-                            ],
-                            [
-                                -110.7937311,
-                                33.7489281
-                            ],
-                            [
-                                -111.3937311,
-                                33.7489281
-                            ],
-                            [
-                                -111.3937311,
-                                34.348928099999995
-                            ],
-                            [
-                                -110.7937311,
-                                34.348928099999995
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
