@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/hot-air-balloon-contest-t7YycgAoVSw"><img width="720" src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg5NzIwMzR8&ixlib=rb-4.0.3&q=80&w=1080" alt="hot air balloon contest"></a>
+  <a href="https://unsplash.com/photos/birds-eye-view-of-mountain-rang-NDuPLKYRXQU"><img width="720" src="https://images.unsplash.com/photo-1431512284068-4c4002298068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkwNTg0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's-eye view of mountain rang"></a>
   
-  <em>"hot air balloon contest"</em>
+  <em>"bird's-eye view of mountain rang"</em>
   
-  <em>""</em>
+  <em>"Icy blue mountain range"</em>
 
-  Photo by Daniela Cuevas on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cuevascuevas) / [Twitter](https://twitter.com/notyourcuevas)
+  Photo by Elena Prokofyeva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/leni_eleni)
   
-  Taken at Cappadocia, Turky • 
+  Taken at Unknown • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/250 |
-| Aperture      | 6.3 |
-| Focal Length  | 50.0 |
-| ISO           | 100 |
-| Location      | Cappadocia, Turky (Turky) |
+| Camera Model  | DSLR-A350 |
+| Exposure Time | 1/500 |
+| Aperture      | 8.0 |
+| Focal Length  | 80.0 |
+| ISO           | 400 |
+| Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
