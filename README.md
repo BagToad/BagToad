@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/birds-eye-view-of-mountain-rang-NDuPLKYRXQU"><img width="720" src="https://images.unsplash.com/photo-1431512284068-4c4002298068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkwNTg0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's-eye view of mountain rang"></a>
+  <a href="https://unsplash.com/photos/parorama-photography-of-mountain-under-cloudy-sky-Ni4NgA64TFQ"><img width="720" src="https://images.unsplash.com/photo-1419064642531-e575728395f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkxNDQ4MzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="parorama photography of mountain under cloudy sky"></a>
   
-  <em>"bird's-eye view of mountain rang"</em>
+  <em>"parorama photography of mountain under cloudy sky"</em>
   
-  <em>"Icy blue mountain range"</em>
+  <em>"Misty mountains overlooking a lake"</em>
 
-  Photo by Elena Prokofyeva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/leni_eleni)
+  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DSLR-A350 |
-| Exposure Time | 1/500 |
+| Camera Model  | DSLR-A900 |
+| Exposure Time | 1/100 |
 | Aperture      | 8.0 |
-| Focal Length  | 80.0 |
-| ISO           | 400 |
+| Focal Length  | 35.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
