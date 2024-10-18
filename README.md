@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/parorama-photography-of-mountain-under-cloudy-sky-Ni4NgA64TFQ"><img width="720" src="https://images.unsplash.com/photo-1419064642531-e575728395f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkxNDQ4MzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="parorama photography of mountain under cloudy sky"></a>
+  <a href="https://unsplash.com/photos/photography-of-green-mountain-under-sky-hIMdKs_0cSE"><img width="720" src="https://images.unsplash.com/photo-1450101215322-bf5cd27642fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkyMzEyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="photography of green mountain under sky"></a>
   
-  <em>"parorama photography of mountain under cloudy sky"</em>
+  <em>"photography of green mountain under sky"</em>
   
-  <em>"Misty mountains overlooking a lake"</em>
+  <em>""</em>
 
-  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
+  Photo by Sylvain Guiheneuc on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DSLR-A900 |
-| Exposure Time | 1/100 |
-| Aperture      | 8.0 |
-| Focal Length  | 35.0 |
-| ISO           | 100 |
+| Camera Model  | DMC-GF3 |
+| Exposure Time | 1/320 |
+| Aperture      | 6.3 |
+| Focal Length  | 14.0 |
+| ISO           | 160 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
