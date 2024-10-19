@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photography-of-green-mountain-under-sky-hIMdKs_0cSE"><img width="720" src="https://images.unsplash.com/photo-1450101215322-bf5cd27642fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkyMzEyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="photography of green mountain under sky"></a>
+  <a href="https://unsplash.com/photos/body-of-water-covered-with-fog-eBDdgbM5dSo"><img width="720" src="https://images.unsplash.com/photo-1432256851563-20155d0b7a39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjkzMTc2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water covered with fog"></a>
   
-  <em>"photography of green mountain under sky"</em>
+  <em>"body of water covered with fog"</em>
   
-  <em>""</em>
+  <em>"Foggy hills by the ocean"</em>
 
-  Photo by Sylvain Guiheneuc on [unsplash.com](https://unsplash.com/) • 
+  Photo by p j on [unsplash.com](https://unsplash.com/) • [portfolio](https://usefathom.com)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-GF3 |
-| Exposure Time | 1/320 |
-| Aperture      | 6.3 |
-| Focal Length  | 14.0 |
-| ISO           | 160 |
+| Camera Model  | X-E2 |
+| Exposure Time | 1/350 |
+| Aperture      | 11.0 |
+| Focal Length  | 200.0 |
+| ISO           | 200 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
