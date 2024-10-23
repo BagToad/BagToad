@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snowy-mountain-under-white-clouds-HpiYsNBORAw"><img width="720" src="https://images.unsplash.com/photo-1464823063530-08f10ed1a2dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk1NzY4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="snowy mountain under white clouds"></a>
+  <a href="https://unsplash.com/photos/green-trees-on-gray-rock-mountain-beside-body-of-water-eWFdaPRFjwE"><img width="720" src="https://images.unsplash.com/photo-1437652633673-cc02b9c67a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk2NjMyMjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="green trees on gray rock mountain beside body of water"></a>
   
-  <em>"snowy mountain under white clouds"</em>
+  <em>"green trees on gray rock mountain beside body of water"</em>
   
-  <em>"snow roads in Yukon Territory"</em>
+  <em>""</em>
 
-  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
+  Photo by Stefan Kunze on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/born_on_may_20th) / [portfolio](https://www.bornonmay20th.com)
   
-  Taken at Yukon Territory, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=64.2823274,-135)
+  Taken at Mallorca, Llubí, Spain • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.6952629,3.01757120000002)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/1600 |
-| Aperture      | 22.0 |
-| Focal Length  | 32.0 |
-| ISO           | 1250 |
-| Location      | Yukon Territory, Canada (Canada) |
-| Coordinates   | Latitude 64.2823274, Longitude -135 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Mallorca, Llubí, Spain (Spain) |
+| Coordinates   | Latitude 39.6952629, Longitude 3.01757120000002 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -135,
-                            64.2823274
+                            3.01757120000002,
+                            39.6952629
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -134.7,
-                                64.5823274
+                                3.3175712000000197,
+                                39.9952629
                             ],
                             [
-                                -134.7,
-                                63.9823274
+                                3.3175712000000197,
+                                39.395262900000006
                             ],
                             [
-                                -135.3,
-                                63.9823274
+                                2.71757120000002,
+                                39.395262900000006
                             ],
                             [
-                                -135.3,
-                                64.5823274
+                                2.71757120000002,
+                                39.9952629
                             ],
                             [
-                                -134.7,
-                                64.5823274
+                                3.3175712000000197,
+                                39.9952629
                             ]
                         ],
                         "type": "LineString"
