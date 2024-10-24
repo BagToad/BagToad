@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-trees-on-gray-rock-mountain-beside-body-of-water-eWFdaPRFjwE"><img width="720" src="https://images.unsplash.com/photo-1437652633673-cc02b9c67a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk2NjMyMjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="green trees on gray rock mountain beside body of water"></a>
+  <a href="https://unsplash.com/photos/brown-rock-formation-under-blue-sky-CSpjU6hYo_0"><img width="720" src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk3NDk2MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown rock formation under blue sky"></a>
   
-  <em>"green trees on gray rock mountain beside body of water"</em>
+  <em>"brown rock formation under blue sky"</em>
   
   <em>""</em>
 
-  Photo by Stefan Kunze on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/born_on_may_20th) / [portfolio](https://www.bornonmay20th.com)
+  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
   
-  Taken at Mallorca, Llubí, Spain • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.6952629,3.01757120000002)
+  Taken at Giau Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4830556,12.0541667)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Mallorca, Llubí, Spain (Spain) |
-| Coordinates   | Latitude 39.6952629, Longitude 3.01757120000002 |
+| Camera Model  | X-T10 |
+| Exposure Time | 1/340 |
+| Aperture      | 1.0 |
+| Focal Length  | 50.0 |
+| ISO           | 400 |
+| Location      | Giau Pass, Italy (Italy) |
+| Coordinates   | Latitude 46.4830556, Longitude 12.0541667 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            3.01757120000002,
-                            39.6952629
+                            12.0541667,
+                            46.4830556
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                3.3175712000000197,
-                                39.9952629
+                                12.3541667,
+                                46.7830556
                             ],
                             [
-                                3.3175712000000197,
-                                39.395262900000006
+                                12.3541667,
+                                46.1830556
                             ],
                             [
-                                2.71757120000002,
-                                39.395262900000006
+                                11.754166699999999,
+                                46.1830556
                             ],
                             [
-                                2.71757120000002,
-                                39.9952629
+                                11.754166699999999,
+                                46.7830556
                             ],
                             [
-                                3.3175712000000197,
-                                39.9952629
+                                12.3541667,
+                                46.7830556
                             ]
                         ],
                         "type": "LineString"
