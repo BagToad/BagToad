@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/worms-eye-view-of-mountain-during-daytime-ii5JY_46xH0"><img width="720" src="https://images.unsplash.com/photo-1508144753681-9986d4df99b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjk5MjI0MjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="worms eye view of mountain during daytime"></a>
+  <a href="https://unsplash.com/photos/body-of-water-surrounding-with-trees-_LuLiJc1cdo"><img width="720" src="https://images.unsplash.com/photo-1465189684280-6a8fa9b19a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzAwMDg4MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water surrounding with trees"></a>
   
-  <em>"worms eye view of mountain during daytime"</em>
+  <em>"body of water surrounding with trees"</em>
   
-  <em>""</em>
+  <em>"follow @kalenemsley on ig"</em>
 
-  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
+  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
   
-  Taken at Sorapiss, Auronzo di Cadore, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5954770999235,12.2652839101563)
+  Taken at Kinney Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.0828746,-119.1923101)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T20 |
-| Exposure Time | 1/280 |
-| Aperture      | 9.0 |
-| Focal Length  | 14.0 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/125 |
+| Aperture      | 4.0 |
+| Focal Length  | 70.0 |
 | ISO           | 200 |
-| Location      | Sorapiss, Auronzo di Cadore, Italy (Italy) |
-| Coordinates   | Latitude 46.5954770999235, Longitude 12.2652839101563 |
+| Location      | Kinney Lake, Canada (Canada) |
+| Coordinates   | Latitude 53.0828746, Longitude -119.1923101 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.2652839101563,
-                            46.5954770999235
+                            -119.1923101,
+                            53.0828746
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.565283910156301,
-                                46.8954770999235
+                                -118.8923101,
+                                53.382874599999994
                             ],
                             [
-                                12.565283910156301,
-                                46.2954770999235
+                                -118.8923101,
+                                52.7828746
                             ],
                             [
-                                11.9652839101563,
-                                46.2954770999235
+                                -119.4923101,
+                                52.7828746
                             ],
                             [
-                                11.9652839101563,
-                                46.8954770999235
+                                -119.4923101,
+                                53.382874599999994
                             ],
                             [
-                                12.565283910156301,
-                                46.8954770999235
+                                -118.8923101,
+                                53.382874599999994
                             ]
                         ],
                         "type": "LineString"
