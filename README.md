@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-field-near-tree-during-daytime-sYffw0LNr7s"><img width="720" src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzAwOTUyMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown field near tree during daytime"></a>
+  <a href="https://unsplash.com/photos/hot-air-balloon-contest-t7YycgAoVSw"><img width="720" src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzAxODE2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="hot air balloon contest"></a>
   
-  <em>"brown field near tree during daytime"</em>
+  <em>"hot air balloon contest"</em>
   
   <em>""</em>
 
-  Photo by Federico Respini on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/federico.respini)
+  Photo by Daniela Cuevas on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cuevascuevas) / [Twitter](https://twitter.com/notyourcuevas)
   
-  Taken at Fribourg, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.8064773,7.16197190000003)
+  Taken at Cappadocia, Turky • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5500 |
-| Exposure Time | 1/640 |
-| Aperture      | 13.0 |
-| Focal Length  | 18.0 |
-| ISO           | 200 |
-| Location      | Fribourg, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.8064773, Longitude 7.16197190000003 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/250 |
+| Aperture      | 6.3 |
+| Focal Length  | 50.0 |
+| ISO           | 100 |
+| Location      | Cappadocia, Turky (Turky) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            7.16197190000003,
-                            46.8064773
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                7.46197190000003,
-                                47.106477299999995
-                            ],
-                            [
-                                7.46197190000003,
-                                46.5064773
-                            ],
-                            [
-                                6.8619719000000305,
-                                46.5064773
-                            ],
-                            [
-                                6.8619719000000305,
-                                47.106477299999995
-                            ],
-                            [
-                                7.46197190000003,
-                                47.106477299999995
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
