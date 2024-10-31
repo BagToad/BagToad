@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/hot-air-balloon-contest-t7YycgAoVSw"><img width="720" src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzAxODE2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="hot air balloon contest"></a>
+  <a href="https://unsplash.com/photos/body-of-water-surrounding-with-trees-_LuLiJc1cdo"><img width="720" src="https://images.unsplash.com/photo-1465189684280-6a8fa9b19a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzAzNTQ0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water surrounding with trees"></a>
   
-  <em>"hot air balloon contest"</em>
+  <em>"body of water surrounding with trees"</em>
   
-  <em>""</em>
+  <em>"follow @kalenemsley on ig"</em>
 
-  Photo by Daniela Cuevas on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cuevascuevas) / [Twitter](https://twitter.com/notyourcuevas)
+  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
   
-  Taken at Cappadocia, Turky • 
+  Taken at Kinney Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.0828746,-119.1923101)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/250 |
-| Aperture      | 6.3 |
-| Focal Length  | 50.0 |
-| ISO           | 100 |
-| Location      | Cappadocia, Turky (Turky) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/125 |
+| Aperture      | 4.0 |
+| Focal Length  | 70.0 |
+| ISO           | 200 |
+| Location      | Kinney Lake, Canada (Canada) |
+| Coordinates   | Latitude 53.0828746, Longitude -119.1923101 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -119.1923101,
+                            53.0828746
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -118.8923101,
+                                53.382874599999994
+                            ],
+                            [
+                                -118.8923101,
+                                52.7828746
+                            ],
+                            [
+                                -119.4923101,
+                                52.7828746
+                            ],
+                            [
+                                -119.4923101,
+                                53.382874599999994
+                            ],
+                            [
+                                -118.8923101,
+                                53.382874599999994
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
