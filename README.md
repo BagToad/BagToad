@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-surrounding-with-trees-_LuLiJc1cdo"><img width="720" src="https://images.unsplash.com/photo-1465189684280-6a8fa9b19a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzAzNTQ0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water surrounding with trees"></a>
+  <a href="https://unsplash.com/photos/three-brown-wooden-boat-on-blue-lake-water-taken-at-daytime-T7K4aEPoGGk"><img width="720" src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA0NDA4MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="three brown wooden boat on blue lake water taken at daytime"></a>
   
-  <em>"body of water surrounding with trees"</em>
+  <em>"three brown wooden boat on blue lake water taken at daytime"</em>
   
-  <em>"follow @kalenemsley on ig"</em>
+  <em>""</em>
 
-  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
+  Photo by Pietro De Grandi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/peter_mc_greats) / [portfolio](https://www.instagram.com/peter_mc_greats/)
   
-  Taken at Kinney Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.0828746,-119.1923101)
+  Taken at Pragser Wildsee, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6946966,12.0854459)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/125 |
-| Aperture      | 4.0 |
-| Focal Length  | 70.0 |
-| ISO           | 200 |
-| Location      | Kinney Lake, Canada (Canada) |
-| Coordinates   | Latitude 53.0828746, Longitude -119.1923101 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Pragser Wildsee, Italy (Italy) |
+| Coordinates   | Latitude 46.6946966, Longitude 12.0854459 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.1923101,
-                            53.0828746
+                            12.0854459,
+                            46.6946966
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -118.8923101,
-                                53.382874599999994
+                                12.3854459,
+                                46.9946966
                             ],
                             [
-                                -118.8923101,
-                                52.7828746
+                                12.3854459,
+                                46.3946966
                             ],
                             [
-                                -119.4923101,
-                                52.7828746
+                                11.7854459,
+                                46.3946966
                             ],
                             [
-                                -119.4923101,
-                                53.382874599999994
+                                11.7854459,
+                                46.9946966
                             ],
                             [
-                                -118.8923101,
-                                53.382874599999994
+                                12.3854459,
+                                46.9946966
                             ]
                         ],
                         "type": "LineString"
