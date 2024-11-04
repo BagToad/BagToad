@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photography-of-mountain-and-river-uOi3lg8fGl4"><img width="720" src="https://images.unsplash.com/photo-1473800447596-01729482b8eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA2MTM2MzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of mountain and river"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-footbridge-surrounded-by-pink-petaled-flowers-with-creek-underneath-during-daytime-pYyOZ8q7AII"><img width="720" src="https://images.unsplash.com/photo-1432958576632-8a39f6b97dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA3MDAwMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"></a>
   
-  <em>"aerial photography of mountain and river"</em>
+  <em>"brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"</em>
   
-  <em>"sunrise Bettmerhorn snowy mountains"</em>
+  <em>"Mystical garden"</em>
 
-  Photo by Samuel Ferrara on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/samuelferrara) / [portfolio](http://samferrara.ch) / [Twitter](https://twitter.com/samferrarach)
+  Photo by Cosmic Timetraveler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cosmictimetraveler)
   
-  Taken at Bettmerhorn, Bettmeralp, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4141773,8.08007969999994)
+  Taken at Unknown • 
   
   ---
   
@@ -60,59 +60,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | Aperture      | null |
 | Focal Length  | null |
 | ISO           | null |
-| Location      | Bettmerhorn, Bettmeralp, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.4141773, Longitude 8.08007969999994 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            8.08007969999994,
-                            46.4141773
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                8.380079699999941,
-                                46.714177299999996
-                            ],
-                            [
-                                8.380079699999941,
-                                46.1141773
-                            ],
-                            [
-                                7.78007969999994,
-                                46.1141773
-                            ],
-                            [
-                                7.78007969999994,
-                                46.714177299999996
-                            ],
-                            [
-                                8.380079699999941,
-                                46.714177299999996
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
