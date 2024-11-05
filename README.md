@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-footbridge-surrounded-by-pink-petaled-flowers-with-creek-underneath-during-daytime-pYyOZ8q7AII"><img width="720" src="https://images.unsplash.com/photo-1432958576632-8a39f6b97dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA3MDAwMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"></a>
+  <a href="https://unsplash.com/photos/huge-rock-near-beach-0A_b9G-Rm6w"><img width="720" src="https://images.unsplash.com/photo-1474433188271-d3f339f41911?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA3ODY0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="huge rock near beach"></a>
   
-  <em>"brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"</em>
+  <em>"huge rock near beach"</em>
   
-  <em>"Mystical garden"</em>
+  <em>"Little Corona Beach sunrise"</em>
 
-  Photo by Cosmic Timetraveler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cosmictimetraveler)
+  Photo by Austin Neill on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/arstyy) / [Twitter](https://twitter.com/austinneill)
   
-  Taken at Unknown • 
+  Taken at Little Corona Beach, Newport Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=33.5898884,-117.8689629)
   
   ---
   
@@ -60,12 +60,59 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | Aperture      | null |
 | Focal Length  | null |
 | ISO           | null |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Little Corona Beach, Newport Beach, United States (United States) |
+| Coordinates   | Latitude 33.5898884, Longitude -117.8689629 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -117.8689629,
+                            33.5898884
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -117.5689629,
+                                33.8898884
+                            ],
+                            [
+                                -117.5689629,
+                                33.2898884
+                            ],
+                            [
+                                -118.1689629,
+                                33.2898884
+                            ],
+                            [
+                                -118.1689629,
+                                33.8898884
+                            ],
+                            [
+                                -117.5689629,
+                                33.8898884
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
