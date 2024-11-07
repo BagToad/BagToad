@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/flying-birds-above-herd-of-animals-near-trees-jj2ab1xIxrg"><img width="720" src="https://images.unsplash.com/photo-1506333438925-a6203045b492?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA4NzI4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="flying birds above herd of animals near trees"></a>
+  <a href="https://unsplash.com/photos/forest-under-blue-sky-B5drkS_Z5RM"><img width="720" src="https://images.unsplash.com/photo-1484591974057-265bb767ef71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzA5NTkyMzN8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest under blue sky"></a>
   
-  <em>"flying birds above herd of animals near trees"</em>
+  <em>"forest under blue sky"</em>
   
-  <em>"Landscape"</em>
+  <em>"Follow my Instagram @karsten.wuerth"</em>
 
-  Photo by Vincent van Zalinge on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentvanzalinge)
+  Photo by Karsten Würth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karsten.wuerth)
   
-  Taken at Oostvaardersplassen, Lelystad, Netherlands • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.4656505879563,5.39205570111085)
+  Taken at Seiser Alm, Kastelruth, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5315731,11.6260806)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Oostvaardersplassen, Lelystad, Netherlands (Netherlands) |
-| Coordinates   | Latitude 52.4656505879563, Longitude 5.39205570111085 |
+| Camera Model  | PENTAX K-S2 |
+| Exposure Time | 1/50 |
+| Aperture      | 13 |
+| Focal Length  | 26.0 |
+| ISO           | 200 |
+| Location      | Seiser Alm, Kastelruth, Italy (Italy) |
+| Coordinates   | Latitude 46.5315731, Longitude 11.6260806 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            5.39205570111085,
-                            52.4656505879563
+                            11.6260806,
+                            46.5315731
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                5.69205570111085,
-                                52.765650587956294
+                                11.9260806,
+                                46.8315731
                             ],
                             [
-                                5.69205570111085,
-                                52.1656505879563
+                                11.9260806,
+                                46.231573100000006
                             ],
                             [
-                                5.0920557011108505,
-                                52.1656505879563
+                                11.3260806,
+                                46.231573100000006
                             ],
                             [
-                                5.0920557011108505,
-                                52.765650587956294
+                                11.3260806,
+                                46.8315731
                             ],
                             [
-                                5.69205570111085,
-                                52.765650587956294
+                                11.9260806,
+                                46.8315731
                             ]
                         ],
                         "type": "LineString"
