@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-during-daytime-IEHPDNk2-8w"><img width="720" src="https://images.unsplash.com/photo-1470104240373-bc1812eddc9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzEwNDU2MzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain during daytime"></a>
+  <a href="https://unsplash.com/photos/landscape-photo-of-mountains-during-golden-hour-wpMQWrjwPLs"><img width="720" src="https://images.unsplash.com/photo-1464061884326-64f6ebd57f83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzExMzIwMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photo of mountains during golden hour"></a>
   
-  <em>"landscape photography of mountain during daytime"</em>
+  <em>"landscape photo of mountains during golden hour"</em>
   
   <em>""</em>
 
-  Photo by Samuel Ferrara on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/samuelferrara) / [portfolio](http://samferrara.ch) / [Twitter](https://twitter.com/samferrarach)
+  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
   
-  Taken at Unknown • 
+  Taken at Monte Bregagno, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.097222,9.22111100000006)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5DS |
-| Exposure Time | 1/60 |
-| Aperture      | 2.8 |
-| Focal Length  | 85.0 |
+| Camera Model  | ILCE-7 |
+| Exposure Time | 1/15 |
+| Aperture      | null |
+| Focal Length  | null |
 | ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Monte Bregagno, Italy (Italy) |
+| Coordinates   | Latitude 46.097222, Longitude 9.22111100000006 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            9.22111100000006,
+                            46.097222
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                9.52111100000006,
+                                46.397222
+                            ],
+                            [
+                                9.52111100000006,
+                                45.797222000000005
+                            ],
+                            [
+                                8.921111000000058,
+                                45.797222000000005
+                            ],
+                            [
+                                8.921111000000058,
+                                46.397222
+                            ],
+                            [
+                                9.52111100000006,
+                                46.397222
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
