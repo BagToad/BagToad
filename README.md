@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photo-of-mountains-during-golden-hour-wpMQWrjwPLs"><img width="720" src="https://images.unsplash.com/photo-1464061884326-64f6ebd57f83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzExMzIwMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photo of mountains during golden hour"></a>
+  <a href="https://unsplash.com/photos/forest-and-mountain-partially-covered-with-fog-lVDnLUACI18"><img width="720" src="https://images.unsplash.com/photo-1464039397811-476f652a343b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzEyMTg0MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest and mountain partially covered with fog"></a>
   
-  <em>"landscape photo of mountains during golden hour"</em>
+  <em>"forest and mountain partially covered with fog"</em>
   
-  <em>""</em>
+  <em>"Foggy Green Forest"</em>
 
-  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
+  Photo by Guy Bowden on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/guybowden)
   
-  Taken at Monte Bregagno, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.097222,9.22111100000006)
+  Taken at Morzine, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.179192,6.70887700000003)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 1/15 |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | 100 |
-| Location      | Monte Bregagno, Italy (Italy) |
-| Coordinates   | Latitude 46.097222, Longitude 9.22111100000006 |
+| Camera Model  | DMC-LX100 |
+| Exposure Time | 1/640 |
+| Aperture      | 5.6 |
+| Focal Length  | 22.7 |
+| ISO           | 200 |
+| Location      | Morzine, France (France) |
+| Coordinates   | Latitude 46.179192, Longitude 6.70887700000003 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.22111100000006,
-                            46.097222
+                            6.70887700000003,
+                            46.179192
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.52111100000006,
-                                46.397222
+                                7.00887700000003,
+                                46.479192
                             ],
                             [
-                                9.52111100000006,
-                                45.797222000000005
+                                7.00887700000003,
+                                45.879192
                             ],
                             [
-                                8.921111000000058,
-                                45.797222000000005
+                                6.408877000000031,
+                                45.879192
                             ],
                             [
-                                8.921111000000058,
-                                46.397222
+                                6.408877000000031,
+                                46.479192
                             ],
                             [
-                                9.52111100000006,
-                                46.397222
+                                7.00887700000003,
+                                46.479192
                             ]
                         ],
                         "type": "LineString"
