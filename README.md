@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-under-blue-sky-B5drkS_Z5RM"><img width="720" src="https://images.unsplash.com/photo-1484591974057-265bb767ef71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzEzOTEyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest under blue sky"></a>
+  <a href="https://unsplash.com/photos/birds-eye-view-of-mountain-rang-NDuPLKYRXQU"><img width="720" src="https://images.unsplash.com/photo-1431512284068-4c4002298068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE0Nzc2Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's-eye view of mountain rang"></a>
   
-  <em>"forest under blue sky"</em>
+  <em>"bird's-eye view of mountain rang"</em>
   
-  <em>"Follow my Instagram @karsten.wuerth"</em>
+  <em>"Icy blue mountain range"</em>
 
-  Photo by Karsten Würth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karsten.wuerth)
+  Photo by Elena Prokofyeva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/leni_eleni)
   
-  Taken at Seiser Alm, Kastelruth, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5315731,11.6260806)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | PENTAX K-S2 |
-| Exposure Time | 1/50 |
-| Aperture      | 13 |
-| Focal Length  | 26.0 |
-| ISO           | 200 |
-| Location      | Seiser Alm, Kastelruth, Italy (Italy) |
-| Coordinates   | Latitude 46.5315731, Longitude 11.6260806 |
+| Camera Model  | DSLR-A350 |
+| Exposure Time | 1/500 |
+| Aperture      | 8.0 |
+| Focal Length  | 80.0 |
+| ISO           | 400 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            11.6260806,
-                            46.5315731
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                11.9260806,
-                                46.8315731
-                            ],
-                            [
-                                11.9260806,
-                                46.231573100000006
-                            ],
-                            [
-                                11.3260806,
-                                46.231573100000006
-                            ],
-                            [
-                                11.3260806,
-                                46.8315731
-                            ],
-                            [
-                                11.9260806,
-                                46.8315731
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
