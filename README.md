@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-on-forest-with-sun-rays-sp-p7uuT0tw"><img width="720" src="https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE1NjQwMjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="trees on forest with sun rays"></a>
+  <a href="https://unsplash.com/photos/evergreen-trees-on-slope-of-snowy-mountain-T9CktnMI8TQ"><img width="720" src="https://images.unsplash.com/photo-1481278403982-f2d9f387cdcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE2NTA0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="evergreen trees on slope of snowy mountain"></a>
   
-  <em>"trees on forest with sun rays"</em>
+  <em>"evergreen trees on slope of snowy mountain"</em>
   
-  <em>"Entering another dimension..."</em>
+  <em>"on the way to Corwatsch on a misty morning."</em>
 
-  Photo by Sebastian Unrau on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
+  Photo by mike  dennler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/howlingred) / [portfolio](http://www.madchinproductions.com) / [Twitter](https://twitter.com/redjunction)
   
-  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
+  Taken at Pontresina, Grisons, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.40835333,9.81610333)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
+| Camera Model  | Canon EOS 5D Mark III |
 | Exposure Time | 1/160 |
-| Aperture      | 8 |
-| Focal Length  | 16.0 |
-| ISO           | 250 |
-| Location      | Bad Pyrmont, Deutschland (Deutschland) |
-| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
+| Aperture      | 5.6 |
+| Focal Length  | 105.0 |
+| ISO           | 100 |
+| Location      | Pontresina, Grisons, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.40835333, Longitude 9.81610333 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.25209110000003,
-                            51.9855648
+                            9.81610333,
+                            46.40835333
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.55209110000003,
-                                52.285564799999996
+                                10.116103330000001,
+                                46.708353329999994
                             ],
                             [
-                                9.55209110000003,
-                                51.6855648
+                                10.116103330000001,
+                                46.10835333
                             ],
                             [
-                                8.952091100000029,
-                                51.6855648
+                                9.51610333,
+                                46.10835333
                             ],
                             [
-                                8.952091100000029,
-                                52.285564799999996
+                                9.51610333,
+                                46.708353329999994
                             ],
                             [
-                                9.55209110000003,
-                                52.285564799999996
+                                10.116103330000001,
+                                46.708353329999994
                             ]
                         ],
                         "type": "LineString"
