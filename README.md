@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-covered-with-fog-eBDdgbM5dSo"><img width="720" src="https://images.unsplash.com/photo-1432256851563-20155d0b7a39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE4MjMyMjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water covered with fog"></a>
+  <a href="https://unsplash.com/photos/birds-eye-view-photograph-of-green-mountains-01_igFr7hd4"><img width="720" src="https://images.unsplash.com/photo-1501854140801-50d01698950b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE5MDk2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's eye view photograph of green mountains"></a>
   
-  <em>"body of water covered with fog"</em>
+  <em>"bird's eye view photograph of green mountains"</em>
   
-  <em>"Foggy hills by the ocean"</em>
+  <em>"Body Grassland in Yili，Xinjiang，China"</em>
 
-  Photo by p j on [unsplash.com](https://unsplash.com/) • [portfolio](https://usefathom.com)
+  Photo by Qingbao Meng on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ideasboom)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-E2 |
-| Exposure Time | 1/350 |
-| Aperture      | 11.0 |
-| Focal Length  | 200.0 |
-| ISO           | 200 |
+| Camera Model  | NIKON D750 |
+| Exposure Time | 1/800 |
+| Aperture      | 5.0 |
+| Focal Length  | 82.0 |
+| ISO           | 250 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
