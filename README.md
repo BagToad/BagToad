@@ -38,15 +38,16 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-mountains-during-nigh-time-photography-v7daTKlZzaw"><img width="720" src="https://images.unsplash.com/photo-1485470733090-0aae1788d5af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzE5OTYwMjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette of mountains during nigh time photography"></a>
+  <a href="https://unsplash.com/photos/mountain-range-and-forest-during-daytime-BR1WANLLpDU"><img width="720" src="https://images.unsplash.com/photo-1501446690852-da55df7bfe07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIwODI0MzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain range and forest during daytime"></a>
   
-  <em>"silhouette of mountains during nigh time photography"</em>
+  <em>"mountain range and forest during daytime"</em>
   
-  <em>"Taken from the top of Poon Hill before sun rise"</em>
+  <em>"We are now in the mountains and they are in us, kindling enthusiasm, making every nerve quiver, filling every pore and cell of us.” 
+― John Muir"</em>
 
-  Photo by Daniel Leone on [unsplash.com](https://unsplash.com/) • [portfolio](https://danielleone.com)
+  Photo by Florian van Duyn on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/flovayn)
   
-  Taken at Poon Hill, Ghode Pani, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.4004787,83.6940737)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +56,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Poon Hill, Ghode Pani, Nepal (Nepal) |
-| Coordinates   | Latitude 28.4004787, Longitude 83.6940737 |
+| Camera Model  | Canon EOS 5D Mark II |
+| Exposure Time | 1/200 |
+| Aperture      | 8.0 |
+| Focal Length  | 35.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            83.6940737,
-                            28.4004787
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                83.9940737,
-                                28.7004787
-                            ],
-                            [
-                                83.9940737,
-                                28.1004787
-                            ],
-                            [
-                                83.3940737,
-                                28.1004787
-                            ],
-                            [
-                                83.3940737,
-                                28.7004787
-                            ],
-                            [
-                                83.9940737,
-                                28.7004787
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
