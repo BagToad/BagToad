@@ -38,16 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-range-and-forest-during-daytime-BR1WANLLpDU"><img width="720" src="https://images.unsplash.com/photo-1501446690852-da55df7bfe07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIwODI0MzV8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain range and forest during daytime"></a>
+  <a href="https://unsplash.com/photos/house-in-middle-of-grass-field-M0OIyN5u8ZM"><img width="720" src="https://images.unsplash.com/photo-1552598715-7eeb9232a2ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzIxNjg4MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="house in middle of grass field"></a>
   
-  <em>"mountain range and forest during daytime"</em>
+  <em>"house in middle of grass field"</em>
   
-  <em>"We are now in the mountains and they are in us, kindling enthusiasm, making every nerve quiver, filling every pore and cell of us.” 
-― John Muir"</em>
+  <em>"Nature is so beautiful"</em>
 
-  Photo by Florian van Duyn on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/flovayn)
+  Photo by Engjell Gjepali on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/feeltherealnature) / [portfolio](http://instagr.am/feeltherealnature) / [Twitter](https://twitter.com/iamengjell)
   
-  Taken at Unknown • 
+  Taken at Tuscany, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.771051,11.248621)
   
   ---
   
@@ -56,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark II |
-| Exposure Time | 1/200 |
-| Aperture      | 8.0 |
-| Focal Length  | 35.0 |
+| Camera Model  | NIKON D500 |
+| Exposure Time | 20 |
+| Aperture      | 11 |
+| Focal Length  | 62.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Tuscany, Italy (Italy) |
+| Coordinates   | Latitude 43.771051, Longitude 11.248621 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            11.248621,
+                            43.771051
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                11.548621,
+                                44.071051
+                            ],
+                            [
+                                11.548621,
+                                43.471051
+                            ],
+                            [
+                                10.948621,
+                                43.471051
+                            ],
+                            [
+                                10.948621,
+                                44.071051
+                            ],
+                            [
+                                11.548621,
+                                44.071051
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
