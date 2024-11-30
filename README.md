@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-muddy-road-in-forest-CoD2Q92UaEg"><img width="720" src="https://images.unsplash.com/photo-1445964047600-cdbdb873673d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI4NjAwMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of muddy road in forest"></a>
+  <a href="https://unsplash.com/photos/body-of-water-between-highlands-8dejZGw3Hec"><img width="720" src="https://images.unsplash.com/photo-1503401639559-b16332601594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI5NDY0Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water between highlands"></a>
   
-  <em>"photo of muddy road in forest"</em>
+  <em>"body of water between highlands"</em>
   
   <em>""</em>
 
-  Photo by Sebastian Unrau on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
+  Photo by Johannes Ludwig on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johannesludwig)
   
-  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
+  Taken at Plansee, Austria • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.48544,10.83574)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 1/25 |
-| Aperture      | 8.0 |
-| Focal Length  | 16.0 |
+| Camera Model  | FC220 |
+| Exposure Time | 1/120 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.7 |
 | ISO           | 100 |
-| Location      | Bad Pyrmont, Deutschland (Deutschland) |
-| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
+| Location      | Plansee, Austria (Austria) |
+| Coordinates   | Latitude 47.48544, Longitude 10.83574 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.25209110000003,
-                            51.9855648
+                            10.83574,
+                            47.48544
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.55209110000003,
-                                52.285564799999996
+                                11.13574,
+                                47.785439999999994
                             ],
                             [
-                                9.55209110000003,
-                                51.6855648
+                                11.13574,
+                                47.18544
                             ],
                             [
-                                8.952091100000029,
-                                51.6855648
+                                10.535739999999999,
+                                47.18544
                             ],
                             [
-                                8.952091100000029,
-                                52.285564799999996
+                                10.535739999999999,
+                                47.785439999999994
                             ],
                             [
-                                9.55209110000003,
-                                52.285564799999996
+                                11.13574,
+                                47.785439999999994
                             ]
                         ],
                         "type": "LineString"
