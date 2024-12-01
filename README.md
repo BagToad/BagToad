@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-between-highlands-8dejZGw3Hec"><img width="720" src="https://images.unsplash.com/photo-1503401639559-b16332601594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzI5NDY0Mjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water between highlands"></a>
+  <a href="https://unsplash.com/photos/forest-heat-by-sunbeam-RwHv7LgeC7s"><img width="720" src="https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzMwMzI4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest heat by sunbeam"></a>
   
-  <em>"body of water between highlands"</em>
+  <em>"forest heat by sunbeam"</em>
   
-  <em>""</em>
+  <em>"Mystery Forest Light"</em>
 
-  Photo by Johannes Ludwig on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johannesludwig)
+  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
   
-  Taken at Plansee, Austria • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.48544,10.83574)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FC220 |
-| Exposure Time | 1/120 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.7 |
+| Camera Model  | Canon EOS 5D |
+| Exposure Time | 1/25 |
+| Aperture      | 11.0 |
+| Focal Length  | 32.0 |
 | ISO           | 100 |
-| Location      | Plansee, Austria (Austria) |
-| Coordinates   | Latitude 47.48544, Longitude 10.83574 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            10.83574,
-                            47.48544
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                11.13574,
-                                47.785439999999994
-                            ],
-                            [
-                                11.13574,
-                                47.18544
-                            ],
-                            [
-                                10.535739999999999,
-                                47.18544
-                            ],
-                            [
-                                10.535739999999999,
-                                47.785439999999994
-                            ],
-                            [
-                                11.13574,
-                                47.785439999999994
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
