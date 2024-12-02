@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-heat-by-sunbeam-RwHv7LgeC7s"><img width="720" src="https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzMwMzI4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest heat by sunbeam"></a>
+  <a href="https://unsplash.com/photos/snowy-mountain-g30P1zcOzXo"><img width="720" src="https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzMxMTkyMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="snowy mountain"></a>
   
-  <em>"forest heat by sunbeam"</em>
+  <em>"snowy mountain"</em>
   
-  <em>"Mystery Forest Light"</em>
+  <em>"Taken from the top of Poon Hill before sun rise"</em>
 
-  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
+  Photo by Daniel Leone on [unsplash.com](https://unsplash.com/) • [portfolio](https://danielleone.com)
   
-  Taken at Unknown • 
+  Taken at Poon Hill, Ghode Pani, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.4004787,83.6940737)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D |
-| Exposure Time | 1/25 |
-| Aperture      | 11.0 |
-| Focal Length  | 32.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | PENTAX K-5 |
+| Exposure Time | 13 |
+| Aperture      | 1.8 |
+| Focal Length  | 31.0 |
+| ISO           | 200 |
+| Location      | Poon Hill, Ghode Pani, Nepal (Nepal) |
+| Coordinates   | Latitude 28.4004787, Longitude 83.6940737 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            83.6940737,
+                            28.4004787
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                83.9940737,
+                                28.7004787
+                            ],
+                            [
+                                83.9940737,
+                                28.1004787
+                            ],
+                            [
+                                83.3940737,
+                                28.1004787
+                            ],
+                            [
+                                83.3940737,
+                                28.7004787
+                            ],
+                            [
+                                83.9940737,
+                                28.7004787
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
