@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photography-of-clouds-iE9k36TlRmI"><img width="720" src="https://images.unsplash.com/photo-1465205568425-23fdd3805e49?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzMyOTIwMzN8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of clouds"></a>
+  <a href="https://unsplash.com/photos/body-of-water-during-sunset-c6SciRp2kaQ"><img width="720" src="https://images.unsplash.com/photo-1513875528452-39400945934d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzMzNzg0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water during sunset"></a>
   
-  <em>"aerial photography of clouds"</em>
+  <em>"body of water during sunset"</em>
   
-  <em>"Foggy Landscapes"</em>
+  <em>""</em>
 
-  Photo by Jan Schulz # Webdesigner Stuttgart on [unsplash.com](https://unsplash.com/) • [portfolio](http://www.0711concept.de)
+  Photo by Rodrigo Soares on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/taptap.ninja) / [portfolio](https://rodrigosoares.me) / [Twitter](https://twitter.com/rodi01)
   
-  Taken at Unknown • 
+  Taken at Lake Tahoe, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0968493,-120.0323507)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 600D |
-| Exposure Time | 1/800 |
-| Aperture      | 10.0 |
-| Focal Length  | 250.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lake Tahoe, United States (United States) |
+| Coordinates   | Latitude 39.0968493, Longitude -120.0323507 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -120.0323507,
+                            39.0968493
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -119.7323507,
+                                39.3968493
+                            ],
+                            [
+                                -119.7323507,
+                                38.796849300000005
+                            ],
+                            [
+                                -120.33235069999999,
+                                38.796849300000005
+                            ],
+                            [
+                                -120.33235069999999,
+                                39.3968493
+                            ],
+                            [
+                                -119.7323507,
+                                39.3968493
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
