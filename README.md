@@ -38,14 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-range-and-forest-during-daytime-BR1WANLLpDU"><img width="720" src="https://images.unsplash.com/photo-1501446690852-da55df7bfe07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM0NjQ4MzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain range and forest during daytime"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-under-cloudy-sky-between-body-of-water-at-daytime-2oFdVd00xOg"><img width="720" src="https://images.unsplash.com/photo-1469521669194-babb45599def?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM1NTEyMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain under cloudy sky between body of water at daytime"></a>
   
-  <em>"mountain range and forest during daytime"</em>
+  <em>"landscape photography of mountain under cloudy sky between body of water at daytime"</em>
   
-  <em>"We are now in the mountains and they are in us, kindling enthusiasm, making every nerve quiver, filling every pore and cell of us.” 
-― John Muir"</em>
+  <em>"Blue lake and white peaks"</em>
 
-  Photo by Florian van Duyn on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/flovayn)
+  Photo by Samuel Scrimshaw on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/samscrim) / [portfolio](http://www.instagram.com/samscrim) / [Twitter](https://twitter.com/samscrim)
   
   Taken at Unknown • 
   
@@ -56,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark II |
-| Exposure Time | 1/200 |
-| Aperture      | 8.0 |
-| Focal Length  | 35.0 |
-| ISO           | 100 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/40 |
+| Aperture      | 20.0 |
+| Focal Length  | 32.0 |
+| ISO           | 200 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
