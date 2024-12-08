@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-under-cloudy-sky-between-body-of-water-at-daytime-2oFdVd00xOg"><img width="720" src="https://images.unsplash.com/photo-1469521669194-babb45599def?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM1NTEyMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain under cloudy sky between body of water at daytime"></a>
+  <a href="https://unsplash.com/photos/asphalt-road-between-green-grass-field-near-mountains-LoMs1_wq3tU"><img width="720" src="https://images.unsplash.com/photo-1431887773042-803ed52bed26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM2Mzc2MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="asphalt road between green grass field near mountains"></a>
   
-  <em>"landscape photography of mountain under cloudy sky between body of water at daytime"</em>
+  <em>"asphalt road between green grass field near mountains"</em>
   
-  <em>"Blue lake and white peaks"</em>
+  <em>"Winding road"</em>
 
-  Photo by Samuel Scrimshaw on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/samscrim) / [portfolio](http://www.instagram.com/samscrim) / [Twitter](https://twitter.com/samscrim)
+  Photo by Jared Erondu on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/erondu) / [portfolio](http://read.cv/erondu) / [Twitter](https://twitter.com/erondu)
   
-  Taken at Unknown • 
+  Taken at Pan Toll Rd, Mill Valley, CA 94941, USA, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.90762222,-122.61625556)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/40 |
-| Aperture      | 20.0 |
-| Focal Length  | 32.0 |
-| ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | iPhone 6 |
+| Exposure Time | 1/142 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.2 |
+| ISO           | 32 |
+| Location      | Pan Toll Rd, Mill Valley, CA 94941, USA, United States (United States) |
+| Coordinates   | Latitude 37.90762222, Longitude -122.61625556 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -122.61625556,
+                            37.90762222
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -122.31625556,
+                                38.20762222
+                            ],
+                            [
+                                -122.31625556,
+                                37.60762222
+                            ],
+                            [
+                                -122.91625556,
+                                37.60762222
+                            ],
+                            [
+                                -122.91625556,
+                                38.20762222
+                            ],
+                            [
+                                -122.31625556,
+                                38.20762222
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
