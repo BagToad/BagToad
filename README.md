@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/asphalt-road-between-green-grass-field-near-mountains-LoMs1_wq3tU"><img width="720" src="https://images.unsplash.com/photo-1431887773042-803ed52bed26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM2Mzc2MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="asphalt road between green grass field near mountains"></a>
+  <a href="https://unsplash.com/photos/pine-trees-in-front-of-mountain-ranges-r2vxqvKXng8"><img width="720" src="https://images.unsplash.com/photo-1500885168199-dc1fde1d8177?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM3MjQwMzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="pine trees in front of mountain ranges"></a>
   
-  <em>"asphalt road between green grass field near mountains"</em>
+  <em>"pine trees in front of mountain ranges"</em>
   
-  <em>"Winding road"</em>
+  <em>"The Alpstein in northwest Switzerland is so dense and small, it is just perfect for touristy pictures. I live here but still feel like a tourist every single time."</em>
 
-  Photo by Jared Erondu on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/erondu) / [portfolio](http://read.cv/erondu) / [Twitter](https://twitter.com/erondu)
+  Photo by Niklas Tidbury on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ntidbury) / [Twitter](https://twitter.com/niklastidbury)
   
-  Taken at Pan Toll Rd, Mill Valley, CA 94941, USA, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.90762222,-122.61625556)
+  Taken at Plattenbödeli, Rüte, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.2742053,9.4571565)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 6 |
-| Exposure Time | 1/142 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.2 |
-| ISO           | 32 |
-| Location      | Pan Toll Rd, Mill Valley, CA 94941, USA, United States (United States) |
-| Coordinates   | Latitude 37.90762222, Longitude -122.61625556 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/2000 |
+| Aperture      | 3.2 |
+| Focal Length  | 24.0 |
+| ISO           | 100 |
+| Location      | Plattenbödeli, Rüte, Switzerland (Switzerland) |
+| Coordinates   | Latitude 47.2742053, Longitude 9.4571565 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -122.61625556,
-                            37.90762222
+                            9.4571565,
+                            47.2742053
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -122.31625556,
-                                38.20762222
+                                9.7571565,
+                                47.574205299999996
                             ],
                             [
-                                -122.31625556,
-                                37.60762222
+                                9.7571565,
+                                46.9742053
                             ],
                             [
-                                -122.91625556,
-                                37.60762222
+                                9.1571565,
+                                46.9742053
                             ],
                             [
-                                -122.91625556,
-                                38.20762222
+                                9.1571565,
+                                47.574205299999996
                             ],
                             [
-                                -122.31625556,
-                                38.20762222
+                                9.7571565,
+                                47.574205299999996
                             ]
                         ],
                         "type": "LineString"
