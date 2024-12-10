@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/pine-trees-in-front-of-mountain-ranges-r2vxqvKXng8"><img width="720" src="https://images.unsplash.com/photo-1500885168199-dc1fde1d8177?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM3MjQwMzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="pine trees in front of mountain ranges"></a>
+  <a href="https://unsplash.com/photos/forest-and-mountain-partially-covered-with-fog-lVDnLUACI18"><img width="720" src="https://images.unsplash.com/photo-1464039397811-476f652a343b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM4MTA0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest and mountain partially covered with fog"></a>
   
-  <em>"pine trees in front of mountain ranges"</em>
+  <em>"forest and mountain partially covered with fog"</em>
   
-  <em>"The Alpstein in northwest Switzerland is so dense and small, it is just perfect for touristy pictures. I live here but still feel like a tourist every single time."</em>
+  <em>"Foggy Green Forest"</em>
 
-  Photo by Niklas Tidbury on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ntidbury) / [Twitter](https://twitter.com/niklastidbury)
+  Photo by Guy Bowden on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/guybowden)
   
-  Taken at Plattenbödeli, Rüte, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.2742053,9.4571565)
+  Taken at Morzine, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.179192,6.70887700000003)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/2000 |
-| Aperture      | 3.2 |
-| Focal Length  | 24.0 |
-| ISO           | 100 |
-| Location      | Plattenbödeli, Rüte, Switzerland (Switzerland) |
-| Coordinates   | Latitude 47.2742053, Longitude 9.4571565 |
+| Camera Model  | DMC-LX100 |
+| Exposure Time | 1/640 |
+| Aperture      | 5.6 |
+| Focal Length  | 22.7 |
+| ISO           | 200 |
+| Location      | Morzine, France (France) |
+| Coordinates   | Latitude 46.179192, Longitude 6.70887700000003 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.4571565,
-                            47.2742053
+                            6.70887700000003,
+                            46.179192
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.7571565,
-                                47.574205299999996
+                                7.00887700000003,
+                                46.479192
                             ],
                             [
-                                9.7571565,
-                                46.9742053
+                                7.00887700000003,
+                                45.879192
                             ],
                             [
-                                9.1571565,
-                                46.9742053
+                                6.408877000000031,
+                                45.879192
                             ],
                             [
-                                9.1571565,
-                                47.574205299999996
+                                6.408877000000031,
+                                46.479192
                             ],
                             [
-                                9.7571565,
-                                47.574205299999996
+                                7.00887700000003,
+                                46.479192
                             ]
                         ],
                         "type": "LineString"
