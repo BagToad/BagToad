@@ -38,15 +38,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-and-mountain-partially-covered-with-fog-lVDnLUACI18"><img width="720" src="https://images.unsplash.com/photo-1464039397811-476f652a343b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM4MTA0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest and mountain partially covered with fog"></a>
+  <a href="https://unsplash.com/photos/aerial-photography-of-mountains-and-near-trees-during-daytime-aZjw7xI3QAA"><img width="720" src="https://images.unsplash.com/photo-1500622944204-b135684e99fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM4OTY4Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of mountains and near trees during daytime"></a>
   
-  <em>"forest and mountain partially covered with fog"</em>
+  <em>"aerial photography of mountains and near trees during daytime"</em>
   
-  <em>"Foggy Green Forest"</em>
+  <em>"Hills —
+as remnants from
+aeons of erosion."</em>
 
-  Photo by Guy Bowden on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/guybowden)
+  Photo by Simon Berger on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simonmatzinger/)
   
-  Taken at Morzine, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.179192,6.70887700000003)
+  Taken at Viñales, Provinz Pinar del Río, Kuba • [Google Maps](https://www.google.com/maps/search/?api=1&query=22.61483,-83.72229667)
   
   ---
   
@@ -55,13 +57,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-LX100 |
-| Exposure Time | 1/640 |
+| Camera Model  | DMC-GF3 |
+| Exposure Time | 1/250 |
 | Aperture      | 5.6 |
-| Focal Length  | 22.7 |
-| ISO           | 200 |
-| Location      | Morzine, France (France) |
-| Coordinates   | Latitude 46.179192, Longitude 6.70887700000003 |
+| Focal Length  | 14.0 |
+| ISO           | 160 |
+| Location      | Viñales, Provinz Pinar del Río, Kuba (Kuba) |
+| Coordinates   | Latitude 22.61483, Longitude -83.72229667 |
 
 ### Map
 
@@ -74,8 +76,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            6.70887700000003,
-                            46.179192
+                            -83.72229667,
+                            22.61483
                         ],
                         "type": "Point"
                     },
@@ -87,24 +89,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                7.00887700000003,
-                                46.479192
+                                -83.42229667000001,
+                                22.914830000000002
                             ],
                             [
-                                7.00887700000003,
-                                45.879192
+                                -83.42229667000001,
+                                22.31483
                             ],
                             [
-                                6.408877000000031,
-                                45.879192
+                                -84.02229667,
+                                22.31483
                             ],
                             [
-                                6.408877000000031,
-                                46.479192
+                                -84.02229667,
+                                22.914830000000002
                             ],
                             [
-                                7.00887700000003,
-                                46.479192
+                                -83.42229667000001,
+                                22.914830000000002
                             ]
                         ],
                         "type": "LineString"
