@@ -38,17 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photography-of-mountains-and-near-trees-during-daytime-aZjw7xI3QAA"><img width="720" src="https://images.unsplash.com/photo-1500622944204-b135684e99fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM4OTY4Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photography of mountains and near trees during daytime"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-and-lake-EKIyHUrUHWU"><img width="720" src="https://images.unsplash.com/photo-1429081172764-c0ee67ab9afd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM5ODMyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain and lake"></a>
   
-  <em>"aerial photography of mountains and near trees during daytime"</em>
+  <em>"landscape photography of mountain and lake"</em>
   
-  <em>"Hills —
-as remnants from
-aeons of erosion."</em>
+  <em>""</em>
 
-  Photo by Simon Berger on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simonmatzinger/)
+  Photo by Adriel Kloppenburg on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/adrielnz) / [portfolio](https://adriel.co.nz) / [Twitter](https://twitter.com/adriel)
   
-  Taken at Viñales, Provinz Pinar del Río, Kuba • [Google Maps](https://www.google.com/maps/search/?api=1&query=22.61483,-83.72229667)
+  Taken at Unknown • 
   
   ---
   
@@ -57,64 +55,17 @@ aeons of erosion."</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-GF3 |
-| Exposure Time | 1/250 |
-| Aperture      | 5.6 |
-| Focal Length  | 14.0 |
-| ISO           | 160 |
-| Location      | Viñales, Provinz Pinar del Río, Kuba (Kuba) |
-| Coordinates   | Latitude 22.61483, Longitude -83.72229667 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/80 |
+| Aperture      | 8.0 |
+| Focal Length  | 24.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -83.72229667,
-                            22.61483
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -83.42229667000001,
-                                22.914830000000002
-                            ],
-                            [
-                                -83.42229667000001,
-                                22.31483
-                            ],
-                            [
-                                -84.02229667,
-                                22.31483
-                            ],
-                            [
-                                -84.02229667,
-                                22.914830000000002
-                            ],
-                            [
-                                -83.42229667000001,
-                                22.914830000000002
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
