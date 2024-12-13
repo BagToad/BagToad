@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-and-lake-EKIyHUrUHWU"><img width="720" src="https://images.unsplash.com/photo-1429081172764-c0ee67ab9afd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM5ODMyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain and lake"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky-XNIjmb6Ax04"><img width="720" src="https://images.unsplash.com/photo-1429704658776-3d38c9990511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQwNjk2Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field under blue sky"></a>
   
-  <em>"landscape photography of mountain and lake"</em>
+  <em>"green grass field under blue sky"</em>
   
   <em>""</em>
 
-  Photo by Adriel Kloppenburg on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/adrielnz) / [portfolio](https://adriel.co.nz) / [Twitter](https://twitter.com/adriel)
+  Photo by John Mark Arnold on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnmarkarnold) / [portfolio](https://www.instagram.com/johnmarkarnold/) / [Twitter](https://twitter.com/JohnMarkArnold)
   
   Taken at Unknown • 
   
@@ -55,10 +55,10 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/80 |
-| Aperture      | 8.0 |
-| Focal Length  | 24.0 |
+| Camera Model  | Canon EOS 550D |
+| Exposure Time | 1/1000 |
+| Aperture      | 5.6 |
+| Focal Length  | 55.0 |
 | ISO           | 200 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
