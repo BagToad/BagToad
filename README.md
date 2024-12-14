@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky-XNIjmb6Ax04"><img width="720" src="https://images.unsplash.com/photo-1429704658776-3d38c9990511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQwNjk2Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field under blue sky"></a>
+  <a href="https://unsplash.com/photos/foggy-mountain-summit-1Z2niiBPg5A"><img width="720" src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQxNTYwMjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="foggy mountain summit"></a>
   
-  <em>"green grass field under blue sky"</em>
+  <em>"foggy mountain summit"</em>
   
-  <em>""</em>
+  <em>"Taking The Scenic Route"</em>
 
-  Photo by John Mark Arnold on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnmarkarnold) / [portfolio](https://www.instagram.com/johnmarkarnold/) / [Twitter](https://twitter.com/JohnMarkArnold)
+  Photo by v2osk on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/v2osk) / [portfolio](https://www.flickr.com/photos/62438406@N00/albums)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 550D |
-| Exposure Time | 1/1000 |
-| Aperture      | 5.6 |
-| Focal Length  | 55.0 |
-| ISO           | 200 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/40 |
+| Aperture      | 11.0 |
+| Focal Length  | 24.0 |
+| ISO           | 50 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
