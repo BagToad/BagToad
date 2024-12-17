@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-mountain-under-cumulos-clouds-kKDPBa5GmT4"><img width="720" src="https://images.unsplash.com/photo-1460751329354-07d91b47af38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQzMjg4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown mountain under cumulos clouds"></a>
+  <a href="https://unsplash.com/photos/black-concrete-road-between-steppe-QHZn3-0bbEM"><img width="720" src="https://images.unsplash.com/photo-1511576661531-b34d7da5d0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ0MTUyMzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="black concrete road between steppe"></a>
   
-  <em>"brown mountain under cumulos clouds"</em>
+  <em>"black concrete road between steppe"</em>
   
-  <em>""</em>
+  <em>"Sunset over the hills of Central California at the start of a long road trip."</em>
 
-  Photo by Dorin Vancea on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/dorinvancea)
+  Photo by Jeremy Bishop on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stillbish) / [portfolio](https://www.jeremybishopphotography.com)
   
-  Taken at Brecon Beacons, Brecon, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.8814731,-3.44350399999996)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 1/500 |
-| Aperture      | 8.0 |
-| Focal Length  | 35.0 |
-| ISO           | 100 |
-| Location      | Brecon Beacons, Brecon, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 51.8814731, Longitude -3.44350399999996 |
+| Camera Model  | ILCE-9 |
+| Exposure Time | 1/25 |
+| Aperture      | 2.8 |
+| Focal Length  | 25.0 |
+| ISO           | 250 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -3.44350399999996,
-                            51.8814731
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -3.14350399999996,
-                                52.1814731
-                            ],
-                            [
-                                -3.14350399999996,
-                                51.581473100000004
-                            ],
-                            [
-                                -3.7435039999999598,
-                                51.581473100000004
-                            ],
-                            [
-                                -3.7435039999999598,
-                                52.1814731
-                            ],
-                            [
-                                -3.14350399999996,
-                                52.1814731
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
