@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-concrete-road-between-steppe-QHZn3-0bbEM"><img width="720" src="https://images.unsplash.com/photo-1511576661531-b34d7da5d0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ0MTUyMzF8&ixlib=rb-4.0.3&q=80&w=1080" alt="black concrete road between steppe"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-ranges-under-purple-and-pink-skies--g7axSVst6Y"><img width="720" src="https://images.unsplash.com/photo-1466854076813-4aa9ac0fc347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ1MDE2MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain ranges under purple and pink skies"></a>
   
-  <em>"black concrete road between steppe"</em>
+  <em>"landscape photography of mountain ranges under purple and pink skies"</em>
   
-  <em>"Sunset over the hills of Central California at the start of a long road trip."</em>
+  <em>""</em>
 
-  Photo by Jeremy Bishop on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stillbish) / [portfolio](https://www.jeremybishopphotography.com)
+  Photo by Štefan Štefančík on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stefancikphotography)
   
-  Taken at Unknown • 
+  Taken at Kôprovský štít, Vysoké Tatry, Slovakia • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.1827063,20.0485728)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-9 |
-| Exposure Time | 1/25 |
-| Aperture      | 2.8 |
-| Focal Length  | 25.0 |
-| ISO           | 250 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | SLT-A58 |
+| Exposure Time | 10 |
+| Aperture      | 11.0 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Kôprovský štít, Vysoké Tatry, Slovakia (Slovakia) |
+| Coordinates   | Latitude 49.1827063, Longitude 20.0485728 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            20.0485728,
+                            49.1827063
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                20.3485728,
+                                49.4827063
+                            ],
+                            [
+                                20.3485728,
+                                48.8827063
+                            ],
+                            [
+                                19.748572799999998,
+                                48.8827063
+                            ],
+                            [
+                                19.748572799999998,
+                                49.4827063
+                            ],
+                            [
+                                20.3485728,
+                                49.4827063
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
