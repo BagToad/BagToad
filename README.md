@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-ranges-under-purple-and-pink-skies--g7axSVst6Y"><img width="720" src="https://images.unsplash.com/photo-1466854076813-4aa9ac0fc347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ1MDE2MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain ranges under purple and pink skies"></a>
+  <a href="https://unsplash.com/photos/green-trees-on-gray-rock-mountain-beside-body-of-water-eWFdaPRFjwE"><img width="720" src="https://images.unsplash.com/photo-1437652633673-cc02b9c67a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ1ODgwMjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="green trees on gray rock mountain beside body of water"></a>
   
-  <em>"landscape photography of mountain ranges under purple and pink skies"</em>
+  <em>"green trees on gray rock mountain beside body of water"</em>
   
   <em>""</em>
 
-  Photo by Štefan Štefančík on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stefancikphotography)
+  Photo by Stefan Kunze on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/born_on_may_20th) / [portfolio](https://www.bornonmay20th.com)
   
-  Taken at Kôprovský štít, Vysoké Tatry, Slovakia • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.1827063,20.0485728)
+  Taken at Mallorca, Llubí, Spain • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.6952629,3.01757120000002)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | SLT-A58 |
-| Exposure Time | 10 |
-| Aperture      | 11.0 |
-| Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Kôprovský štít, Vysoké Tatry, Slovakia (Slovakia) |
-| Coordinates   | Latitude 49.1827063, Longitude 20.0485728 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Mallorca, Llubí, Spain (Spain) |
+| Coordinates   | Latitude 39.6952629, Longitude 3.01757120000002 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            20.0485728,
-                            49.1827063
+                            3.01757120000002,
+                            39.6952629
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                20.3485728,
-                                49.4827063
+                                3.3175712000000197,
+                                39.9952629
                             ],
                             [
-                                20.3485728,
-                                48.8827063
+                                3.3175712000000197,
+                                39.395262900000006
                             ],
                             [
-                                19.748572799999998,
-                                48.8827063
+                                2.71757120000002,
+                                39.395262900000006
                             ],
                             [
-                                19.748572799999998,
-                                49.4827063
+                                2.71757120000002,
+                                39.9952629
                             ],
                             [
-                                20.3485728,
-                                49.4827063
+                                3.3175712000000197,
+                                39.9952629
                             ]
                         ],
                         "type": "LineString"
