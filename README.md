@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-trees-on-gray-rock-mountain-beside-body-of-water-eWFdaPRFjwE"><img width="720" src="https://images.unsplash.com/photo-1437652633673-cc02b9c67a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ1ODgwMjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="green trees on gray rock mountain beside body of water"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-dock-between-lavender-flower-field-near-body-of-water-during-golden-hour-K2s_YE031CA"><img width="720" src="https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ2NzQ0MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden dock between lavender flower field near body of water during golden hour"></a>
   
-  <em>"green trees on gray rock mountain beside body of water"</em>
+  <em>"brown wooden dock between lavender flower field near body of water during golden hour"</em>
   
-  <em>""</em>
+  <em>"I had been travelling around Central America, living in a van and sharing experiences with other travelers.  Having just dropped my last travel buddy off I headed back to Lake Atitlan and found an incredible spot to camp right next to the lake.  There was this jetty sticking out into the lake where I sat watching the sunset, once again living the dream on my own. I knew something special was happening there, and now it has become BitcoinLake!"</em>
 
-  Photo by Stefan Kunze on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/born_on_may_20th) / [portfolio](https://www.bornonmay20th.com)
+  Photo by Mark Harpur on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/luckybeanz_photo) / [portfolio](http://www.luckybeanz.com/blog) / [Twitter](https://twitter.com/luckybeanzphoto)
   
-  Taken at Mallorca, Llubí, Spain • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.6952629,3.01757120000002)
+  Taken at Lake Atitlán, Guatemala • [Google Maps](https://www.google.com/maps/search/?api=1&query=14.6852746212311,-91.2599414305909)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Mallorca, Llubí, Spain (Spain) |
-| Coordinates   | Latitude 39.6952629, Longitude 3.01757120000002 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 0.8 |
+| Aperture      | 18 |
+| Focal Length  | 11.0 |
+| ISO           | 100 |
+| Location      | Lake Atitlán, Guatemala (Guatemala) |
+| Coordinates   | Latitude 14.6852746212311, Longitude -91.2599414305909 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            3.01757120000002,
-                            39.6952629
+                            -91.2599414305909,
+                            14.6852746212311
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                3.3175712000000197,
-                                39.9952629
+                                -90.9599414305909,
+                                14.9852746212311
                             ],
                             [
-                                3.3175712000000197,
-                                39.395262900000006
+                                -90.9599414305909,
+                                14.3852746212311
                             ],
                             [
-                                2.71757120000002,
-                                39.395262900000006
+                                -91.5599414305909,
+                                14.3852746212311
                             ],
                             [
-                                2.71757120000002,
-                                39.9952629
+                                -91.5599414305909,
+                                14.9852746212311
                             ],
                             [
-                                3.3175712000000197,
-                                39.9952629
+                                -90.9599414305909,
+                                14.9852746212311
                             ]
                         ],
                         "type": "LineString"
