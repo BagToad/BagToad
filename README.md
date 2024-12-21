@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-dock-between-lavender-flower-field-near-body-of-water-during-golden-hour-K2s_YE031CA"><img width="720" src="https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ2NzQ0MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden dock between lavender flower field near body of water during golden hour"></a>
+  <a href="https://unsplash.com/photos/birds-view-of-tall-trees-covered-with-smokes-89PFnHKg8HE"><img width="720" src="https://images.unsplash.com/photo-1482192596544-9eb780fc7f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ3NjA4Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="bird's view of tall trees covered with smokes"></a>
   
-  <em>"brown wooden dock between lavender flower field near body of water during golden hour"</em>
+  <em>"bird's view of tall trees covered with smokes"</em>
   
-  <em>"I had been travelling around Central America, living in a van and sharing experiences with other travelers.  Having just dropped my last travel buddy off I headed back to Lake Atitlan and found an incredible spot to camp right next to the lake.  There was this jetty sticking out into the lake where I sat watching the sunset, once again living the dream on my own. I knew something special was happening there, and now it has become BitcoinLake!"</em>
+  <em>"We were looking to capture a foggy sunrise view of Half-Dome in Yosemite, but the weather wasn’t cooperating with us. The fog that did show up was low-lying and moving quickly through the trees like a ghostly river meandering through the canyon, swirling around the tallest trees in small eddies. Like too many forests, the valley is infested with borers, which has killed thousands of trees. The splash of golden trees mixed with the green is actually really beautiful, but a sad reminder of how fragile the forest is."</em>
 
-  Photo by Mark Harpur on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/luckybeanz_photo) / [portfolio](http://www.luckybeanz.com/blog) / [Twitter](https://twitter.com/luckybeanzphoto)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
   
-  Taken at Lake Atitlán, Guatemala • [Google Maps](https://www.google.com/maps/search/?api=1&query=14.6852746212311,-91.2599414305909)
+  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 7D |
-| Exposure Time | 0.8 |
-| Aperture      | 18 |
-| Focal Length  | 11.0 |
-| ISO           | 100 |
-| Location      | Lake Atitlán, Guatemala (Guatemala) |
-| Coordinates   | Latitude 14.6852746212311, Longitude -91.2599414305909 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/25 |
+| Aperture      | 8.0 |
+| Focal Length  | 159.0 |
+| ISO           | 250 |
+| Location      | Yosemite Valley, United States (United States) |
+| Coordinates   | Latitude 37.7455701, Longitude -119.5936038 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -91.2599414305909,
-                            14.6852746212311
+                            -119.5936038,
+                            37.7455701
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -90.9599414305909,
-                                14.9852746212311
+                                -119.2936038,
+                                38.0455701
                             ],
                             [
-                                -90.9599414305909,
-                                14.3852746212311
+                                -119.2936038,
+                                37.445570100000005
                             ],
                             [
-                                -91.5599414305909,
-                                14.3852746212311
+                                -119.8936038,
+                                37.445570100000005
                             ],
                             [
-                                -91.5599414305909,
-                                14.9852746212311
+                                -119.8936038,
+                                38.0455701
                             ],
                             [
-                                -90.9599414305909,
-                                14.9852746212311
+                                -119.2936038,
+                                38.0455701
                             ]
                         ],
                         "type": "LineString"
