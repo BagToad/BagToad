@@ -38,17 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-twukN12EN7c"><img width="720" src="https://images.unsplash.com/photo-1500964757637-c85e8a162699?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ4NDcyMjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountains"></a>
+  <a href="https://unsplash.com/photos/brown-mountain-under-cumulos-clouds-kKDPBa5GmT4"><img width="720" src="https://images.unsplash.com/photo-1460751329354-07d91b47af38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ5MzM2Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown mountain under cumulos clouds"></a>
   
-  <em>"landscape photography of mountains"</em>
+  <em>"brown mountain under cumulos clouds"</em>
   
-  <em>"Pink toned thoughts on a hike —
-Everything comes in waves,
-even mountains."</em>
+  <em>""</em>
 
-  Photo by Simon Berger on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simon_berger/)
+  Photo by Dorin Vancea on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/dorinvancea)
   
-  Taken at Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.82743333,13.62928667)
+  Taken at Brecon Beacons, Brecon, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.8814731,-3.44350399999996)
   
   ---
   
@@ -57,13 +55,13 @@ even mountains."</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | E-M1 |
-| Exposure Time | 1/800 |
-| Aperture      | 4 |
-| Focal Length  | 75.0 |
-| ISO           | 200 |
-| Location      | Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich (Österreich) |
-| Coordinates   | Latitude 47.82743333, Longitude 13.62928667 |
+| Camera Model  | ILCE-7 |
+| Exposure Time | 1/500 |
+| Aperture      | 8.0 |
+| Focal Length  | 35.0 |
+| ISO           | 100 |
+| Location      | Brecon Beacons, Brecon, United Kingdom (United Kingdom) |
+| Coordinates   | Latitude 51.8814731, Longitude -3.44350399999996 |
 
 ### Map
 
@@ -76,8 +74,8 @@ even mountains."</em>
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            13.62928667,
-                            47.82743333
+                            -3.44350399999996,
+                            51.8814731
                         ],
                         "type": "Point"
                     },
@@ -89,24 +87,24 @@ even mountains."</em>
                     "geometry": {
                         "coordinates": [
                             [
-                                13.929286670000002,
-                                48.127433329999995
+                                -3.14350399999996,
+                                52.1814731
                             ],
                             [
-                                13.929286670000002,
-                                47.52743333
+                                -3.14350399999996,
+                                51.581473100000004
                             ],
                             [
-                                13.32928667,
-                                47.52743333
+                                -3.7435039999999598,
+                                51.581473100000004
                             ],
                             [
-                                13.32928667,
-                                48.127433329999995
+                                -3.7435039999999598,
+                                52.1814731
                             ],
                             [
-                                13.929286670000002,
-                                48.127433329999995
+                                -3.14350399999996,
+                                52.1814731
                             ]
                         ],
                         "type": "LineString"
