@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-mountain-under-cumulos-clouds-kKDPBa5GmT4"><img width="720" src="https://images.unsplash.com/photo-1460751329354-07d91b47af38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzQ5MzM2Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown mountain under cumulos clouds"></a>
+  <a href="https://unsplash.com/photos/pathway-between-inline-trees-during-golden-hour-ps2daRcXYes"><img width="720" src="https://images.unsplash.com/photo-1445855743215-296f71d4b49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUwMjAwMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="pathway between inline trees during golden hour"></a>
   
-  <em>"brown mountain under cumulos clouds"</em>
+  <em>"pathway between inline trees during golden hour"</em>
   
   <em>""</em>
 
-  Photo by Dorin Vancea on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/dorinvancea)
+  Photo by Lukasz Szmigiel on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
   
-  Taken at Brecon Beacons, Brecon, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.8814731,-3.44350399999996)
+  Taken at Biały Ług, Kędzierzyn-Koźle, Poland • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.3446736,18.2455072)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 1/500 |
-| Aperture      | 8.0 |
-| Focal Length  | 35.0 |
-| ISO           | 100 |
-| Location      | Brecon Beacons, Brecon, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 51.8814731, Longitude -3.44350399999996 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Biały Ług, Kędzierzyn-Koźle, Poland (Poland) |
+| Coordinates   | Latitude 50.3446736, Longitude 18.2455072 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -3.44350399999996,
-                            51.8814731
+                            18.2455072,
+                            50.3446736
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -3.14350399999996,
-                                52.1814731
+                                18.5455072,
+                                50.6446736
                             ],
                             [
-                                -3.14350399999996,
-                                51.581473100000004
+                                18.5455072,
+                                50.0446736
                             ],
                             [
-                                -3.7435039999999598,
-                                51.581473100000004
+                                17.945507199999998,
+                                50.0446736
                             ],
                             [
-                                -3.7435039999999598,
-                                52.1814731
+                                17.945507199999998,
+                                50.6446736
                             ],
                             [
-                                -3.14350399999996,
-                                52.1814731
+                                18.5455072,
+                                50.6446736
                             ]
                         ],
                         "type": "LineString"
