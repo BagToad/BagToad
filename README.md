@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/pathway-between-inline-trees-during-golden-hour-ps2daRcXYes"><img width="720" src="https://images.unsplash.com/photo-1445855743215-296f71d4b49c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUwMjAwMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="pathway between inline trees during golden hour"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-green-mountain-8wz1Q4Q_XAg"><img width="720" src="https://images.unsplash.com/photo-1495312040802-a929cd14a6ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUxMDY0Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of green mountain"></a>
   
-  <em>"pathway between inline trees during golden hour"</em>
+  <em>"landscape photography of green mountain"</em>
   
-  <em>""</em>
+  <em>"Messini from afar"</em>
 
-  Photo by Lukasz Szmigiel on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
+  Photo by Billy Williams on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/billyryanwill) / [Twitter](https://twitter.com/billyryanwill)
   
-  Taken at Biały Ług, Kędzierzyn-Koźle, Poland • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.3446736,18.2455072)
+  Taken at Messina, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.1938137,15.5540152)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Biały Ług, Kędzierzyn-Koźle, Poland (Poland) |
-| Coordinates   | Latitude 50.3446736, Longitude 18.2455072 |
+| Camera Model  | X-Pro1 |
+| Exposure Time | 1/2000 |
+| Aperture      | 3.6 |
+| Focal Length  | 34.3 |
+| ISO           | 200 |
+| Location      | Messina, Italy (Italy) |
+| Coordinates   | Latitude 38.1938137, Longitude 15.5540152 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            18.2455072,
-                            50.3446736
+                            15.5540152,
+                            38.1938137
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                18.5455072,
-                                50.6446736
+                                15.854015200000001,
+                                38.4938137
                             ],
                             [
-                                18.5455072,
-                                50.0446736
+                                15.854015200000001,
+                                37.8938137
                             ],
                             [
-                                17.945507199999998,
-                                50.0446736
+                                15.2540152,
+                                37.8938137
                             ],
                             [
-                                17.945507199999998,
-                                50.6446736
+                                15.2540152,
+                                38.4938137
                             ],
                             [
-                                18.5455072,
-                                50.6446736
+                                15.854015200000001,
+                                38.4938137
                             ]
                         ],
                         "type": "LineString"
