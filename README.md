@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/scenery-of-mountain-with-lake-zshyCr6HGw0"><img width="720" src="https://images.unsplash.com/photo-1493585552824-131927c85da2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUxOTI4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="scenery of mountain with lake"></a>
+  <a href="https://unsplash.com/photos/pine-trees-in-front-of-mountain-ranges-r2vxqvKXng8"><img width="720" src="https://images.unsplash.com/photo-1500885168199-dc1fde1d8177?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUyNzkyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="pine trees in front of mountain ranges"></a>
   
-  <em>"scenery of mountain with lake"</em>
+  <em>"pine trees in front of mountain ranges"</em>
   
-  <em>"View from Herzogstand over Lake Walchen, Bavaria."</em>
+  <em>"The Alpstein in northwest Switzerland is so dense and small, it is just perfect for touristy pictures. I live here but still feel like a tourist every single time."</em>
 
-  Photo by Chris Holgersson on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/van.tale) / [portfolio](http://vindora.co) / [Twitter](https://twitter.com/ChrisMilchglas)
+  Photo by Niklas Tidbury on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ntidbury) / [Twitter](https://twitter.com/niklastidbury)
   
-  Taken at Walchensee, Kochel, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.6128371993498,11.3087977737916)
+  Taken at Plattenbödeli, Rüte, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.2742053,9.4571565)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100S |
-| Exposure Time | 1/950 |
-| Aperture      | 9.0 |
-| Focal Length  | 23.0 |
-| ISO           | 800 |
-| Location      | Walchensee, Kochel, Germany (Germany) |
-| Coordinates   | Latitude 47.6128371993498, Longitude 11.3087977737916 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/2000 |
+| Aperture      | 3.2 |
+| Focal Length  | 24.0 |
+| ISO           | 100 |
+| Location      | Plattenbödeli, Rüte, Switzerland (Switzerland) |
+| Coordinates   | Latitude 47.2742053, Longitude 9.4571565 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.3087977737916,
-                            47.6128371993498
+                            9.4571565,
+                            47.2742053
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                11.6087977737916,
-                                47.912837199349795
+                                9.7571565,
+                                47.574205299999996
                             ],
                             [
-                                11.6087977737916,
-                                47.3128371993498
+                                9.7571565,
+                                46.9742053
                             ],
                             [
-                                11.0087977737916,
-                                47.3128371993498
+                                9.1571565,
+                                46.9742053
                             ],
                             [
-                                11.0087977737916,
-                                47.912837199349795
+                                9.1571565,
+                                47.574205299999996
                             ],
                             [
-                                11.6087977737916,
-                                47.912837199349795
+                                9.7571565,
+                                47.574205299999996
                             ]
                         ],
                         "type": "LineString"
