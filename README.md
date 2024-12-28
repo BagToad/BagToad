@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/pine-trees-in-front-of-mountain-ranges-r2vxqvKXng8"><img width="720" src="https://images.unsplash.com/photo-1500885168199-dc1fde1d8177?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUyNzkyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="pine trees in front of mountain ranges"></a>
+  <a href="https://unsplash.com/photos/scenery-of-mountain-canyon-WeYamle9fDM"><img width="720" src="https://images.unsplash.com/photo-1479030160180-b1860951d696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzUzNjU2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="scenery of mountain canyon"></a>
   
-  <em>"pine trees in front of mountain ranges"</em>
+  <em>"scenery of mountain canyon"</em>
   
-  <em>"The Alpstein in northwest Switzerland is so dense and small, it is just perfect for touristy pictures. I live here but still feel like a tourist every single time."</em>
+  <em>""</em>
 
-  Photo by Niklas Tidbury on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ntidbury) / [Twitter](https://twitter.com/niklastidbury)
+  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/) / [Twitter](https://twitter.com/randomlies)
   
-  Taken at Plattenbödeli, Rüte, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.2742053,9.4571565)
+  Taken at Lower Antelope Canyon, Page, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.903128,-111.4132503)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/2000 |
-| Aperture      | 3.2 |
-| Focal Length  | 24.0 |
-| ISO           | 100 |
-| Location      | Plattenbödeli, Rüte, Switzerland (Switzerland) |
-| Coordinates   | Latitude 47.2742053, Longitude 9.4571565 |
+| Camera Model  | X100T |
+| Exposure Time | 1/450 |
+| Aperture      | 2.0 |
+| Focal Length  | 23.0 |
+| ISO           | 400 |
+| Location      | Lower Antelope Canyon, Page, United States (United States) |
+| Coordinates   | Latitude 36.903128, Longitude -111.4132503 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.4571565,
-                            47.2742053
+                            -111.4132503,
+                            36.903128
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.7571565,
-                                47.574205299999996
+                                -111.1132503,
+                                37.203128
                             ],
                             [
-                                9.7571565,
-                                46.9742053
+                                -111.1132503,
+                                36.603128000000005
                             ],
                             [
-                                9.1571565,
-                                46.9742053
+                                -111.7132503,
+                                36.603128000000005
                             ],
                             [
-                                9.1571565,
-                                47.574205299999996
+                                -111.7132503,
+                                37.203128
                             ],
                             [
-                                9.7571565,
-                                47.574205299999996
+                                -111.1132503,
+                                37.203128
                             ]
                         ],
                         "type": "LineString"
