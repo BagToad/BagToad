@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-surrounded-by-trees-NRQV-hBF10M"><img width="720" src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU1Mzg0MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water surrounded by trees"></a>
+  <a href="https://unsplash.com/photos/mountain-peak-during-daytime-uILhNE1VcwA"><img width="720" src="https://images.unsplash.com/photo-1465256410760-10640339c72c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU2MjQ4MjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain peak during daytime"></a>
   
-  <em>"body of water surrounded by trees"</em>
+  <em>"mountain peak during daytime"</em>
   
-  <em>"I was freezing cold staying in the tent cabins in Half Dome (formerly Curry) Village in Yosemite Valley with my dad who was there for work, so I got up and drove around the valley at 6 am. There’s been lots of fires in the area and the valley was filled with this thick smoke. Stopped at a turnout near Tunnel View and shot this photo - I really love the symmetry of it and the smooth gradients the smoke produces."</em>
+  <em>"Desert at Dusk"</em>
 
-  Photo by Bailey Zindel on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/baileyzindel) / [portfolio](http://halfheartmedia.com)
+  Photo by Andrés Sanz on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sanzolome) / [Twitter](https://twitter.com/sanzolome)
   
-  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
+  Taken at zapotitlan salinas Botanical Garden, Mexico • [Google Maps](https://www.google.com/maps/search/?api=1&query=18.332509,-97.4577751)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D800 |
-| Exposure Time | 1/60 |
-| Aperture      | 11.0 |
-| Focal Length  | 28.0 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/160 |
+| Aperture      | 4.5 |
+| Focal Length  | 100.0 |
 | ISO           | 800 |
-| Location      | Yosemite Valley, United States (United States) |
-| Coordinates   | Latitude 37.7455701, Longitude -119.5936038 |
+| Location      | zapotitlan salinas Botanical Garden, Mexico (Mexico) |
+| Coordinates   | Latitude 18.332509, Longitude -97.4577751 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.5936038,
-                            37.7455701
+                            -97.4577751,
+                            18.332509
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -119.2936038,
-                                38.0455701
+                                -97.15777510000001,
+                                18.632509000000002
                             ],
                             [
-                                -119.2936038,
-                                37.445570100000005
+                                -97.15777510000001,
+                                18.032509
                             ],
                             [
-                                -119.8936038,
-                                37.445570100000005
+                                -97.7577751,
+                                18.032509
                             ],
                             [
-                                -119.8936038,
-                                38.0455701
+                                -97.7577751,
+                                18.632509000000002
                             ],
                             [
-                                -119.2936038,
-                                38.0455701
+                                -97.15777510000001,
+                                18.632509000000002
                             ]
                         ],
                         "type": "LineString"
