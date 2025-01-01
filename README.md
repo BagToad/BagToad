@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-peak-during-daytime-uILhNE1VcwA"><img width="720" src="https://images.unsplash.com/photo-1465256410760-10640339c72c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU2MjQ4MjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain peak during daytime"></a>
+  <a href="https://unsplash.com/photos/forest-and-mountain-partially-covered-with-fog-lVDnLUACI18"><img width="720" src="https://images.unsplash.com/photo-1464039397811-476f652a343b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU3MTEyMjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest and mountain partially covered with fog"></a>
   
-  <em>"mountain peak during daytime"</em>
+  <em>"forest and mountain partially covered with fog"</em>
   
-  <em>"Desert at Dusk"</em>
+  <em>"Foggy Green Forest"</em>
 
-  Photo by Andrés Sanz on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sanzolome) / [Twitter](https://twitter.com/sanzolome)
+  Photo by Guy Bowden on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/guybowden)
   
-  Taken at zapotitlan salinas Botanical Garden, Mexico • [Google Maps](https://www.google.com/maps/search/?api=1&query=18.332509,-97.4577751)
+  Taken at Morzine, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.179192,6.70887700000003)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/160 |
-| Aperture      | 4.5 |
-| Focal Length  | 100.0 |
-| ISO           | 800 |
-| Location      | zapotitlan salinas Botanical Garden, Mexico (Mexico) |
-| Coordinates   | Latitude 18.332509, Longitude -97.4577751 |
+| Camera Model  | DMC-LX100 |
+| Exposure Time | 1/640 |
+| Aperture      | 5.6 |
+| Focal Length  | 22.7 |
+| ISO           | 200 |
+| Location      | Morzine, France (France) |
+| Coordinates   | Latitude 46.179192, Longitude 6.70887700000003 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -97.4577751,
-                            18.332509
+                            6.70887700000003,
+                            46.179192
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -97.15777510000001,
-                                18.632509000000002
+                                7.00887700000003,
+                                46.479192
                             ],
                             [
-                                -97.15777510000001,
-                                18.032509
+                                7.00887700000003,
+                                45.879192
                             ],
                             [
-                                -97.7577751,
-                                18.032509
+                                6.408877000000031,
+                                45.879192
                             ],
                             [
-                                -97.7577751,
-                                18.632509000000002
+                                6.408877000000031,
+                                46.479192
                             ],
                             [
-                                -97.15777510000001,
-                                18.632509000000002
+                                7.00887700000003,
+                                46.479192
                             ]
                         ],
                         "type": "LineString"
