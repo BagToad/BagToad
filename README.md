@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-and-mountain-partially-covered-with-fog-lVDnLUACI18"><img width="720" src="https://images.unsplash.com/photo-1464039397811-476f652a343b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU3MTEyMjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="forest and mountain partially covered with fog"></a>
+  <a href="https://unsplash.com/photos/mountains-covered-with-fog-during-daytime-ijFuMdN_02E"><img width="720" src="https://images.unsplash.com/photo-1490791539531-102a1e0beb7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU3OTc2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountains covered with fog during daytime"></a>
   
-  <em>"forest and mountain partially covered with fog"</em>
+  <em>"mountains covered with fog during daytime"</em>
   
-  <em>"Foggy Green Forest"</em>
+  <em>"Himalayas"</em>
 
-  Photo by Guy Bowden on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/guybowden)
+  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.art/?lang=eng) / [Twitter](https://twitter.com/serg_pesterev)
   
-  Taken at Morzine, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.179192,6.70887700000003)
+  Taken at Langtang National Park, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.1015975882249,85.3694826717041)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-LX100 |
-| Exposure Time | 1/640 |
-| Aperture      | 5.6 |
-| Focal Length  | 22.7 |
-| ISO           | 200 |
-| Location      | Morzine, France (France) |
-| Coordinates   | Latitude 46.179192, Longitude 6.70887700000003 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/80 |
+| Aperture      | 11.0 |
+| Focal Length  | 24.0 |
+| ISO           | 100 |
+| Location      | Langtang National Park, Nepal (Nepal) |
+| Coordinates   | Latitude 28.1015975882249, Longitude 85.3694826717041 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            6.70887700000003,
-                            46.179192
+                            85.3694826717041,
+                            28.1015975882249
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                7.00887700000003,
-                                46.479192
+                                85.6694826717041,
+                                28.401597588224902
                             ],
                             [
-                                7.00887700000003,
-                                45.879192
+                                85.6694826717041,
+                                27.8015975882249
                             ],
                             [
-                                6.408877000000031,
-                                45.879192
+                                85.06948267170411,
+                                27.8015975882249
                             ],
                             [
-                                6.408877000000031,
-                                46.479192
+                                85.06948267170411,
+                                28.401597588224902
                             ],
                             [
-                                7.00887700000003,
-                                46.479192
+                                85.6694826717041,
+                                28.401597588224902
                             ]
                         ],
                         "type": "LineString"
