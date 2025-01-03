@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountains-covered-with-fog-during-daytime-ijFuMdN_02E"><img width="720" src="https://images.unsplash.com/photo-1490791539531-102a1e0beb7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU3OTc2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountains covered with fog during daytime"></a>
+  <a href="https://unsplash.com/photos/brown-field-near-tree-during-daytime-sYffw0LNr7s"><img width="720" src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU4ODQwMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown field near tree during daytime"></a>
   
-  <em>"mountains covered with fog during daytime"</em>
+  <em>"brown field near tree during daytime"</em>
   
-  <em>"Himalayas"</em>
+  <em>""</em>
 
-  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.art/?lang=eng) / [Twitter](https://twitter.com/serg_pesterev)
+  Photo by Federico Respini on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/federico.respini)
   
-  Taken at Langtang National Park, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.1015975882249,85.3694826717041)
+  Taken at Fribourg, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.8064773,7.16197190000003)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D800 |
-| Exposure Time | 1/80 |
-| Aperture      | 11.0 |
-| Focal Length  | 24.0 |
-| ISO           | 100 |
-| Location      | Langtang National Park, Nepal (Nepal) |
-| Coordinates   | Latitude 28.1015975882249, Longitude 85.3694826717041 |
+| Camera Model  | NIKON D5500 |
+| Exposure Time | 1/640 |
+| Aperture      | 13.0 |
+| Focal Length  | 18.0 |
+| ISO           | 200 |
+| Location      | Fribourg, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.8064773, Longitude 7.16197190000003 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            85.3694826717041,
-                            28.1015975882249
+                            7.16197190000003,
+                            46.8064773
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                85.6694826717041,
-                                28.401597588224902
+                                7.46197190000003,
+                                47.106477299999995
                             ],
                             [
-                                85.6694826717041,
-                                27.8015975882249
+                                7.46197190000003,
+                                46.5064773
                             ],
                             [
-                                85.06948267170411,
-                                27.8015975882249
+                                6.8619719000000305,
+                                46.5064773
                             ],
                             [
-                                85.06948267170411,
-                                28.401597588224902
+                                6.8619719000000305,
+                                47.106477299999995
                             ],
                             [
-                                85.6694826717041,
-                                28.401597588224902
+                                7.46197190000003,
+                                47.106477299999995
                             ]
                         ],
                         "type": "LineString"
