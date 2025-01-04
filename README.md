@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-field-near-tree-during-daytime-sYffw0LNr7s"><img width="720" src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU4ODQwMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown field near tree during daytime"></a>
+  <a href="https://unsplash.com/photos/lone-road-going-to-mountains-A-NVHPka9Rk"><img width="720" src="https://images.unsplash.com/photo-1494783367193-149034c05e8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU5NzA0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="lone road going to mountains"></a>
   
-  <em>"brown field near tree during daytime"</em>
+  <em>"lone road going to mountains"</em>
   
-  <em>""</em>
+  <em>"To you use this picture, link the source to my website https://diego.cool – thank you!"</em>
 
-  Photo by Federico Respini on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/federico.respini)
+  Photo by Diego Jimenez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/diegojimenez) / [portfolio](http://diego.cool) / [Twitter](https://twitter.com/diegojimenez)
   
-  Taken at Fribourg, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.8064773,7.16197190000003)
+  Taken at Atacama Desert, Antofagasta, Chile • [Google Maps](https://www.google.com/maps/search/?api=1&query=-23.863419,-69.132849)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5500 |
-| Exposure Time | 1/640 |
-| Aperture      | 13.0 |
+| Camera Model  | Canon EOS 70D |
+| Exposure Time | 1/250 |
+| Aperture      | 10 |
 | Focal Length  | 18.0 |
-| ISO           | 200 |
-| Location      | Fribourg, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.8064773, Longitude 7.16197190000003 |
+| ISO           | 100 |
+| Location      | Atacama Desert, Antofagasta, Chile (Chile) |
+| Coordinates   | Latitude -23.863419, Longitude -69.132849 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            7.16197190000003,
-                            46.8064773
+                            -69.132849,
+                            -23.863419
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                7.46197190000003,
-                                47.106477299999995
+                                -68.832849,
+                                -23.563419
                             ],
                             [
-                                7.46197190000003,
-                                46.5064773
+                                -68.832849,
+                                -24.163419
                             ],
                             [
-                                6.8619719000000305,
-                                46.5064773
+                                -69.43284899999999,
+                                -24.163419
                             ],
                             [
-                                6.8619719000000305,
-                                47.106477299999995
+                                -69.43284899999999,
+                                -23.563419
                             ],
                             [
-                                7.46197190000003,
-                                47.106477299999995
+                                -68.832849,
+                                -23.563419
                             ]
                         ],
                         "type": "LineString"
