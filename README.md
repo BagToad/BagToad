@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/three-brown-wooden-boat-on-blue-lake-water-taken-at-daytime-T7K4aEPoGGk"><img width="720" src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzYxNDMyMjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="three brown wooden boat on blue lake water taken at daytime"></a>
+  <a href="https://unsplash.com/photos/landscape-photo-of-mountains-during-golden-hour-wpMQWrjwPLs"><img width="720" src="https://images.unsplash.com/photo-1464061884326-64f6ebd57f83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzYyMjk2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photo of mountains during golden hour"></a>
   
-  <em>"three brown wooden boat on blue lake water taken at daytime"</em>
+  <em>"landscape photo of mountains during golden hour"</em>
   
   <em>""</em>
 
-  Photo by Pietro De Grandi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/peter_mc_greats) / [portfolio](https://www.instagram.com/peter_mc_greats/)
+  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
   
-  Taken at Pragser Wildsee, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6946966,12.0854459)
+  Taken at Monte Bregagno, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.097222,9.22111100000006)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
+| Camera Model  | ILCE-7 |
+| Exposure Time | 1/15 |
 | Aperture      | null |
 | Focal Length  | null |
-| ISO           | null |
-| Location      | Pragser Wildsee, Italy (Italy) |
-| Coordinates   | Latitude 46.6946966, Longitude 12.0854459 |
+| ISO           | 100 |
+| Location      | Monte Bregagno, Italy (Italy) |
+| Coordinates   | Latitude 46.097222, Longitude 9.22111100000006 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0854459,
-                            46.6946966
+                            9.22111100000006,
+                            46.097222
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3854459,
-                                46.9946966
+                                9.52111100000006,
+                                46.397222
                             ],
                             [
-                                12.3854459,
-                                46.3946966
+                                9.52111100000006,
+                                45.797222000000005
                             ],
                             [
-                                11.7854459,
-                                46.3946966
+                                8.921111000000058,
+                                45.797222000000005
                             ],
                             [
-                                11.7854459,
-                                46.9946966
+                                8.921111000000058,
+                                46.397222
                             ],
                             [
-                                12.3854459,
-                                46.9946966
+                                9.52111100000006,
+                                46.397222
                             ]
                         ],
                         "type": "LineString"
