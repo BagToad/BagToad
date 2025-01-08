@@ -38,15 +38,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photo-of-mountains-during-golden-hour-wpMQWrjwPLs"><img width="720" src="https://images.unsplash.com/photo-1464061884326-64f6ebd57f83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzYyMjk2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photo of mountains during golden hour"></a>
+  <a href="https://unsplash.com/photos/aerial-view-of-grass-mountains-x1w_Q78xNEY"><img width="720" src="https://images.unsplash.com/photo-1502472584811-0a2f2feb8968?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzYzMTYwMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial view of grass mountains"></a>
   
-  <em>"landscape photo of mountains during golden hour"</em>
+  <em>"aerial view of grass mountains"</em>
   
-  <em>""</em>
+  <em>"I remember seeing a picture like this a long time ago. I knew at that point that I would have to go and experience it for myself one day. After some research, it turns out that if you wait until the end of the Summer the sun sets right at the top of the valley resulting in this magnificent sunset! 
 
-  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
+I still feel like the picture doesn’t even do it justice!"</em>
+
+  Photo by Grant Ritchie on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/grantritchie) / [portfolio](http://instagram.com/grantritchie) / [Twitter](https://twitter.com/Grantritchie)
   
-  Taken at Monte Bregagno, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.097222,9.22111100000006)
+  Taken at Winnats Pass, Hope Valley, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.3409363,-1.79970109999999)
   
   ---
   
@@ -55,13 +57,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 1/15 |
+| Camera Model  | null |
+| Exposure Time | null |
 | Aperture      | null |
 | Focal Length  | null |
-| ISO           | 100 |
-| Location      | Monte Bregagno, Italy (Italy) |
-| Coordinates   | Latitude 46.097222, Longitude 9.22111100000006 |
+| ISO           | null |
+| Location      | Winnats Pass, Hope Valley, United Kingdom (United Kingdom) |
+| Coordinates   | Latitude 53.3409363, Longitude -1.79970109999999 |
 
 ### Map
 
@@ -74,8 +76,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.22111100000006,
-                            46.097222
+                            -1.79970109999999,
+                            53.3409363
                         ],
                         "type": "Point"
                     },
@@ -87,24 +89,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.52111100000006,
-                                46.397222
+                                -1.49970109999999,
+                                53.6409363
                             ],
                             [
-                                9.52111100000006,
-                                45.797222000000005
+                                -1.49970109999999,
+                                53.040936300000006
                             ],
                             [
-                                8.921111000000058,
-                                45.797222000000005
+                                -2.09970109999999,
+                                53.040936300000006
                             ],
                             [
-                                8.921111000000058,
-                                46.397222
+                                -2.09970109999999,
+                                53.6409363
                             ],
                             [
-                                9.52111100000006,
-                                46.397222
+                                -1.49970109999999,
+                                53.6409363
                             ]
                         ],
                         "type": "LineString"
