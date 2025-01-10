@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-qez8mNJ3ilU"><img width="720" src="https://images.unsplash.com/photo-1548325713-2011bf7f1ef6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzY0MDI0MjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field"></a>
+  <a href="https://unsplash.com/photos/hot-air-balloon-contest-t7YycgAoVSw"><img width="720" src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzY0ODg4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="hot air balloon contest"></a>
   
-  <em>"green grass field"</em>
+  <em>"hot air balloon contest"</em>
   
   <em>""</em>
 
-  Photo by Bruno van der Kraan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/brunovdkraan) / [portfolio](http://www.instagram.com/brunovdkraan/) / [Twitter](https://twitter.com/BrunovdKraan)
+  Photo by Daniela Cuevas on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cuevascuevas) / [Twitter](https://twitter.com/notyourcuevas)
   
-  Taken at Unknown • 
+  Taken at Cappadocia, Turky • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DC-GH5 |
-| Exposure Time | 1/1250 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/250 |
 | Aperture      | 6.3 |
-| Focal Length  | 17.0 |
-| ISO           | 200 |
-| Location      | Unknown (null) |
+| Focal Length  | 50.0 |
+| ISO           | 100 |
+| Location      | Cappadocia, Turky (Turky) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
