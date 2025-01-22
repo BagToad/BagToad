@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-body-of-water-between-trees-and-mountain-sR7_ImYvt1Q"><img width="720" src="https://images.unsplash.com/photo-1502786129293-79981df4e689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc0MzkyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of body of water between trees and mountain"></a>
+  <a href="https://unsplash.com/photos/ground-covered-with-snow-cFplR9ZGnAk"><img width="720" src="https://images.unsplash.com/photo-1418985991508-e47386d96a71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc1MjU2Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="ground covered with snow"></a>
   
-  <em>"photo of body of water between trees and mountain"</em>
+  <em>"ground covered with snow"</em>
   
-  <em>"Rocky Mountain"</em>
+  <em>"Frozen mountainous landscape"</em>
 
-  Photo by Danyu Wang on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/w_danyu)
+  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
   
-  Taken at Field, 艾伯塔省, 加拿大 • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.32713889,-116.17922222)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | EVA-AL10 |
-| Exposure Time | 1/236 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.5 |
-| ISO           | 50 |
-| Location      | Field, 艾伯塔省, 加拿大 (加拿大) |
-| Coordinates   | Latitude 51.32713889, Longitude -116.17922222 |
+| Camera Model  | DSLR-A900 |
+| Exposure Time | 1/80 |
+| Aperture      | 11.0 |
+| Focal Length  | 17.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -116.17922222,
-                            51.32713889
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -115.87922222,
-                                51.62713889
-                            ],
-                            [
-                                -115.87922222,
-                                51.02713889
-                            ],
-                            [
-                                -116.47922222,
-                                51.02713889
-                            ],
-                            [
-                                -116.47922222,
-                                51.62713889
-                            ],
-                            [
-                                -115.87922222,
-                                51.62713889
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
