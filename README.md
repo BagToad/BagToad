@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/ground-covered-with-snow-cFplR9ZGnAk"><img width="720" src="https://images.unsplash.com/photo-1418985991508-e47386d96a71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc1MjU2Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="ground covered with snow"></a>
+  <a href="https://unsplash.com/photos/blue-ocean-in-front-of-rockl-u_nsiSvPEak"><img width="720" src="https://images.unsplash.com/photo-1464254786740-b97e5420c299?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc2MTIwMjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="blue ocean in front of rockl"></a>
   
-  <em>"ground covered with snow"</em>
+  <em>"blue ocean in front of rockl"</em>
   
-  <em>"Frozen mountainous landscape"</em>
+  <em>"Shoreline at sunset"</em>
 
-  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
+  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
   
-  Taken at Unknown • 
+  Taken at Three Tables Beach, Haleiwa, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.6468156553021,-158.063293385181)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DSLR-A900 |
-| Exposure Time | 1/80 |
-| Aperture      | 11.0 |
-| Focal Length  | 17.0 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 83 |
+| Aperture      | 8.0 |
+| Focal Length  | 40.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Three Tables Beach, Haleiwa, United States (United States) |
+| Coordinates   | Latitude 21.6468156553021, Longitude -158.063293385181 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -158.063293385181,
+                            21.6468156553021
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -157.763293385181,
+                                21.9468156553021
+                            ],
+                            [
+                                -157.763293385181,
+                                21.3468156553021
+                            ],
+                            [
+                                -158.363293385181,
+                                21.3468156553021
+                            ],
+                            [
+                                -158.363293385181,
+                                21.9468156553021
+                            ],
+                            [
+                                -157.763293385181,
+                                21.9468156553021
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
