@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-and-lake-EKIyHUrUHWU"><img width="720" src="https://images.unsplash.com/photo-1429081172764-c0ee67ab9afd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc2OTg0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of mountain and lake"></a>
+  <a href="https://unsplash.com/photos/sun-rides-over-rolling-sand-dunes-of-the-sahara-desert-LzVB84KkZOE"><img width="720" src="https://images.unsplash.com/photo-1491425432462-010715fd7ed7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc3ODQ4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="Sun rides over rolling sand dunes of the Sahara Desert"></a>
   
-  <em>"landscape photography of mountain and lake"</em>
+  <em>"Sun rides over rolling sand dunes of the Sahara Desert"</em>
   
-  <em>""</em>
+  <em>"Le Roi Soleil"</em>
 
-  Photo by Adriel Kloppenburg on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/adrielnz) / [portfolio](https://adriel.co.nz) / [Twitter](https://twitter.com/adriel)
+  Photo by Nicolas Jehly on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nicolasjehly) / [portfolio](https://www.nicolasjehly.com/) / [Twitter](https://twitter.com/Nicolas_Jehly)
   
-  Taken at Unknown • 
+  Taken at Sahara Desert • [Google Maps](https://www.google.com/maps/search/?api=1&query=23.4162027,25.66283)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/80 |
-| Aperture      | 8.0 |
-| Focal Length  | 24.0 |
-| ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Sahara Desert (null) |
+| Coordinates   | Latitude 23.4162027, Longitude 25.66283 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            25.66283,
+                            23.4162027
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                25.96283,
+                                23.7162027
+                            ],
+                            [
+                                25.96283,
+                                23.1162027
+                            ],
+                            [
+                                25.36283,
+                                23.1162027
+                            ],
+                            [
+                                25.36283,
+                                23.7162027
+                            ],
+                            [
+                                25.96283,
+                                23.7162027
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
