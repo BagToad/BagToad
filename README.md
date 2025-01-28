@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-painted-house-in-the-middle-of-the-trees-zlV1Ksvifvs"><img width="720" src="https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzc5NTc2MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="black painted house in the middle of the trees"></a>
+  <a href="https://unsplash.com/photos/body-of-water-during-sunset-c6SciRp2kaQ"><img width="720" src="https://images.unsplash.com/photo-1513875528452-39400945934d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzgwNDQwMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water during sunset"></a>
   
-  <em>"black painted house in the middle of the trees"</em>
+  <em>"body of water during sunset"</em>
   
-  <em>"(contact me for the full resoluton image)"</em>
+  <em>""</em>
 
-  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
+  Photo by Rodrigo Soares on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/taptap.ninja) / [portfolio](https://rodrigosoares.me) / [Twitter](https://twitter.com/rodi01)
   
-  Taken at Arnisee, Gurtnellen, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7716847,8.64337209999997)
+  Taken at Lake Tahoe, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0968493,-120.0323507)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/80 |
-| Aperture      | 18.0 |
-| Focal Length  | 60.0 |
-| ISO           | 100 |
-| Location      | Arnisee, Gurtnellen, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.7716847, Longitude 8.64337209999997 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lake Tahoe, United States (United States) |
+| Coordinates   | Latitude 39.0968493, Longitude -120.0323507 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            8.64337209999997,
-                            46.7716847
+                            -120.0323507,
+                            39.0968493
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                8.943372099999971,
-                                47.0716847
+                                -119.7323507,
+                                39.3968493
                             ],
                             [
-                                8.943372099999971,
-                                46.471684700000004
+                                -119.7323507,
+                                38.796849300000005
                             ],
                             [
-                                8.34337209999997,
-                                46.471684700000004
+                                -120.33235069999999,
+                                38.796849300000005
                             ],
                             [
-                                8.34337209999997,
-                                47.0716847
+                                -120.33235069999999,
+                                39.3968493
                             ],
                             [
-                                8.943372099999971,
-                                47.0716847
+                                -119.7323507,
+                                39.3968493
                             ]
                         ],
                         "type": "LineString"
