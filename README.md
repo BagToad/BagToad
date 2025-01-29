@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-during-sunset-c6SciRp2kaQ"><img width="720" src="https://images.unsplash.com/photo-1513875528452-39400945934d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzgwNDQwMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water during sunset"></a>
+  <a href="https://unsplash.com/photos/view-of-seashore-sunset-tNDvFkxkBHo"><img width="720" src="https://images.unsplash.com/photo-1422493757035-1e5e03968f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzgxMzA0MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="view of seashore sunset"></a>
   
-  <em>"body of water during sunset"</em>
+  <em>"view of seashore sunset"</em>
   
-  <em>""</em>
+  <em>"Sunset over an Australian Beach"</em>
 
-  Photo by Rodrigo Soares on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/taptap.ninja) / [portfolio](https://rodrigosoares.me) / [Twitter](https://twitter.com/rodi01)
+  Photo by Igor Kasalovic on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ikasalovic) / [portfolio](https://igorkasalovic.com/) / [Twitter](https://twitter.com/ikasalovic)
   
-  Taken at Lake Tahoe, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0968493,-120.0323507)
+  Taken at Australia, New South Wales, Sydney • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Lake Tahoe, United States (United States) |
-| Coordinates   | Latitude 39.0968493, Longitude -120.0323507 |
+| Camera Model  | Canon EOS 60D |
+| Exposure Time | 15 |
+| Aperture      | 20.0 |
+| Focal Length  | 10.0 |
+| ISO           | 100 |
+| Location      | Australia, New South Wales, Sydney (Australia) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -120.0323507,
-                            39.0968493
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -119.7323507,
-                                39.3968493
-                            ],
-                            [
-                                -119.7323507,
-                                38.796849300000005
-                            ],
-                            [
-                                -120.33235069999999,
-                                38.796849300000005
-                            ],
-                            [
-                                -120.33235069999999,
-                                39.3968493
-                            ],
-                            [
-                                -119.7323507,
-                                39.3968493
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
