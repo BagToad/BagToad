@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-mountain-across-body-of-water-Bkci_8qcdvQ"><img width="720" src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzgzMDMyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green mountain across body of water"></a>
+  <a href="https://unsplash.com/photos/empty-street-in-between-of-tall-trees-during-golden-hour-gyIRjKPXupE"><img width="720" src="https://images.unsplash.com/photo-1505028106030-e07ea1bd80c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzgzODk2MjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="empty street in between of tall trees during golden hour"></a>
   
-  <em>"green mountain across body of water"</em>
+  <em>"empty street in between of tall trees during golden hour"</em>
   
-  <em>"travelyukon, Wet mountain valley"</em>
+  <em>"Tree tunnel"</em>
 
-  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
+  Photo by Leo_Visions on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Leo_visions_) / [portfolio](https://linktr.ee/stephenleo1982) / [Twitter](https://twitter.com/stephenleo1982)
   
-  Taken at Kluane National Park and Reserve of Canada, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=60.75,-139.5)
+  Taken at Point Reyes National Seashore, Inverness, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.55588056,-121.3979)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/200 |
-| Aperture      | 22 |
-| Focal Length  | 50.0 |
-| ISO           | 640 |
-| Location      | Kluane National Park and Reserve of Canada, Canada (Canada) |
-| Coordinates   | Latitude 60.75, Longitude -139.5 |
+| Camera Model  | Canon EOS 5D Mark IV |
+| Exposure Time | 1/320 |
+| Aperture      | 2.8 |
+| Focal Length  | 130.0 |
+| ISO           | 320 |
+| Location      | Point Reyes National Seashore, Inverness, United States (United States) |
+| Coordinates   | Latitude 38.55588056, Longitude -121.3979 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -139.5,
-                            60.75
+                            -121.3979,
+                            38.55588056
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -139.2,
-                                61.05
+                                -121.09790000000001,
+                                38.855880559999996
                             ],
                             [
-                                -139.2,
-                                60.45
+                                -121.09790000000001,
+                                38.25588056
                             ],
                             [
-                                -139.8,
-                                60.45
+                                -121.6979,
+                                38.25588056
                             ],
                             [
-                                -139.8,
-                                61.05
+                                -121.6979,
+                                38.855880559999996
                             ],
                             [
-                                -139.2,
-                                61.05
+                                -121.09790000000001,
+                                38.855880559999996
                             ]
                         ],
                         "type": "LineString"
