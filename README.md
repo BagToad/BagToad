@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/desert-under-clear-blue-sky-during-daytime-PP8Escz15d8"><img width="720" src="https://images.unsplash.com/photo-1488197047962-b48492212cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg0NzYwMzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="desert under clear blue sky during daytime"></a>
+  <a href="https://unsplash.com/photos/green-hills-with-forest-under-cloudy-sky-during-daytime--SO3JtE3gZo"><img width="720" src="https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg1NjI0MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green hills with forest under cloudy sky during daytime"></a>
   
-  <em>"desert under clear blue sky during daytime"</em>
+  <em>"green hills with forest under cloudy sky during daytime"</em>
   
-  <em>"I was in Namibia directing a professional stills and video crew for a commercial commission. Tracks can take months to be erased by the wind so we had to trek for miles around potential scenes so no to disturb the pristine sand dunes."</em>
+  <em>""</em>
 
-  Photo by Keith Hardy on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/keith_hardy_2001) / [portfolio](https://www.keith-hardy.co.uk)
+  Photo by Claudio Testa on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/testaphotography) / [portfolio](http://testa-photography.com/)
   
-  Taken at Namib Desert, Namibia • 
+  Taken at Haselschacher Buck, Vogtsburg, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.0959879,7.69210129999999)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D80 |
-| Exposure Time | 1/400 |
-| Aperture      | 10.0 |
-| Focal Length  | 44.0 |
-| ISO           | 320 |
-| Location      | Namib Desert, Namibia (Namibia) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 600D |
+| Exposure Time | 1/13 |
+| Aperture      | 8.0 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Haselschacher Buck, Vogtsburg, Germany (Germany) |
+| Coordinates   | Latitude 48.0959879, Longitude 7.69210129999999 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            7.69210129999999,
+                            48.0959879
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                7.99210129999999,
+                                48.395987899999994
+                            ],
+                            [
+                                7.99210129999999,
+                                47.7959879
+                            ],
+                            [
+                                7.39210129999999,
+                                47.7959879
+                            ],
+                            [
+                                7.39210129999999,
+                                48.395987899999994
+                            ],
+                            [
+                                7.99210129999999,
+                                48.395987899999994
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
