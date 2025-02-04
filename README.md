@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-hills-with-forest-under-cloudy-sky-during-daytime--SO3JtE3gZo"><img width="720" src="https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg1NjI0MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green hills with forest under cloudy sky during daytime"></a>
+  <a href="https://unsplash.com/photos/white-wooden-tree-surround-by-grass-field-during-sunset-LJD6U920zVo"><img width="720" src="https://images.unsplash.com/photo-1433477155337-9aea4e790195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg2NDg4MzZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="white wooden tree surround by grass field during sunset"></a>
   
-  <em>"green hills with forest under cloudy sky during daytime"</em>
+  <em>"white wooden tree surround by grass field during sunset"</em>
   
-  <em>""</em>
+  <em>"Mountain Valley"</em>
 
-  Photo by Claudio Testa on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/testaphotography) / [portfolio](http://testa-photography.com/)
+  Photo by Jasper Boer on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/photoadventurenz) / [portfolio](http://artloversrepublic.com) / [Twitter](https://twitter.com/jasperboer)
   
-  Taken at Haselschacher Buck, Vogtsburg, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.0959879,7.69210129999999)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 600D |
-| Exposure Time | 1/13 |
-| Aperture      | 8.0 |
-| Focal Length  | 18.0 |
+| Camera Model  | NEX-5N |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
 | ISO           | 100 |
-| Location      | Haselschacher Buck, Vogtsburg, Germany (Germany) |
-| Coordinates   | Latitude 48.0959879, Longitude 7.69210129999999 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            7.69210129999999,
-                            48.0959879
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                7.99210129999999,
-                                48.395987899999994
-                            ],
-                            [
-                                7.99210129999999,
-                                47.7959879
-                            ],
-                            [
-                                7.39210129999999,
-                                47.7959879
-                            ],
-                            [
-                                7.39210129999999,
-                                48.395987899999994
-                            ],
-                            [
-                                7.99210129999999,
-                                48.395987899999994
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
