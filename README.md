@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-leafed-tree-near-bed-of-yellow-flowers-ht9aLtovtSo"><img width="720" src="https://images.unsplash.com/photo-1421930866250-aa0594cea05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg3MzUyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown leafed tree near bed of yellow flowers"></a>
+  <a href="https://unsplash.com/photos/grey-road-in-behind-mountain-2SOoG8-xbCA"><img width="720" src="https://images.unsplash.com/photo-1466970601638-4e5fb6556584?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg4MjE2MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="grey road in behind mountain"></a>
   
-  <em>"brown leafed tree near bed of yellow flowers"</em>
+  <em>"grey road in behind mountain"</em>
   
-  <em>""</em>
+  <em>"Road towards Mount Cook"</em>
 
-  Photo by Gabriel Garcia Marengo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gabrielgm) / [portfolio](http://photo.gabrielgm.ch) / [Twitter](https://twitter.com/gabrielgm)
+  Photo by Jean-Pierre Brungs on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnnybrungs)
   
-  Taken at Unknown • 
+  Taken at Mount Cook, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-43.5949749,170.1417883)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/800 |
-| Aperture      | 8.0 |
-| Focal Length  | 40.0 |
-| ISO           | 250 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 700D |
+| Exposure Time | 1/100 |
+| Aperture      | 11.0 |
+| Focal Length  | 55.0 |
+| ISO           | 100 |
+| Location      | Mount Cook, New Zealand (New Zealand) |
+| Coordinates   | Latitude -43.5949749, Longitude 170.1417883 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            170.1417883,
+                            -43.5949749
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                170.4417883,
+                                -43.2949749
+                            ],
+                            [
+                                170.4417883,
+                                -43.894974899999994
+                            ],
+                            [
+                                169.8417883,
+                                -43.894974899999994
+                            ],
+                            [
+                                169.8417883,
+                                -43.2949749
+                            ],
+                            [
+                                170.4417883,
+                                -43.2949749
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
