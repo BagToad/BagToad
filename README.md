@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-and-beige-trees-beside-mountains-cuKKa0vWZSY"><img width="720" src="https://images.unsplash.com/photo-1503424886307-b090341d25d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg5MDgwMjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="green and beige trees beside mountains"></a>
+  <a href="https://unsplash.com/photos/silhouette-photo-of-mountain-during-night-time-ln5drpv_ImI"><img width="720" src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzg5OTQ0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of mountain during night time"></a>
   
-  <em>"green and beige trees beside mountains"</em>
+  <em>"silhouette photo of mountain during night time"</em>
   
-  <em>"Fall Color Dallas Divide"</em>
+  <em>"Sublime purple night sky"</em>
 
-  Photo by Thomas Morse on [unsplash.com](https://unsplash.com/) • 
+  Photo by Vincentiu Solomon on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentiusolomon) / [portfolio](http://vincentiusolomon.com)
   
-  Taken at Ridgway, Colorado, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.06217167,-107.81276)
+  Taken at Cima d'Asta, Scurelle, Italy • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/160 |
-| Aperture      | 6.3 |
-| Focal Length  | 28.0 |
-| ISO           | 200 |
-| Location      | Ridgway, Colorado, United States (United States) |
-| Coordinates   | Latitude 38.06217167, Longitude -107.81276 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Cima d'Asta, Scurelle, Italy (Italy) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -107.81276,
-                            38.06217167
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -107.51276,
-                                38.362171669999995
-                            ],
-                            [
-                                -107.51276,
-                                37.76217167
-                            ],
-                            [
-                                -108.11276,
-                                37.76217167
-                            ],
-                            [
-                                -108.11276,
-                                38.362171669999995
-                            ],
-                            [
-                                -107.51276,
-                                38.362171669999995
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
