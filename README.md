@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky--nYBR0LFTvQ"><img width="720" src="https://images.unsplash.com/photo-1518717202715-9fa9d099f58a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzkwODA4Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field under blue sky"></a>
+  <a href="https://unsplash.com/photos/brown-rock-formation-y-b_FOmJXdg"><img width="720" src="https://images.unsplash.com/photo-1490879112094-281fea0883dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzkxNjcyMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown rock formation"></a>
   
-  <em>"green grass field under blue sky"</em>
+  <em>"brown rock formation"</em>
   
-  <em>""</em>
+  <em>"Ogoy island"</em>
 
-  Photo by Chris Barbalis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ChrisBarbalis) / [Twitter](https://twitter.com/ChrisBarbalis)
+  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.art/?lang=eng) / [Twitter](https://twitter.com/serg_pesterev)
   
-  Taken at Montescudaio, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.3315882,10.6027654)
+  Taken at Olkhon Island, Russia • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.1229954660365,106.971974018066)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D3300 |
-| Exposure Time | 1/320 |
-| Aperture      | 9 |
-| Focal Length  | 28.0 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/500 |
+| Aperture      | 10.0 |
+| Focal Length  | 16.0 |
 | ISO           | 100 |
-| Location      | Montescudaio, Italy (Italy) |
-| Coordinates   | Latitude 43.3315882, Longitude 10.6027654 |
+| Location      | Olkhon Island, Russia (Russia) |
+| Coordinates   | Latitude 53.1229954660365, Longitude 106.971974018066 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            10.6027654,
-                            43.3315882
+                            106.971974018066,
+                            53.1229954660365
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                10.9027654,
-                                43.631588199999996
+                                107.271974018066,
+                                53.4229954660365
                             ],
                             [
-                                10.9027654,
-                                43.0315882
+                                107.271974018066,
+                                52.8229954660365
                             ],
                             [
-                                10.302765399999998,
-                                43.0315882
+                                106.67197401806601,
+                                52.8229954660365
                             ],
                             [
-                                10.302765399999998,
-                                43.631588199999996
+                                106.67197401806601,
+                                53.4229954660365
                             ],
                             [
-                                10.9027654,
-                                43.631588199999996
+                                107.271974018066,
+                                53.4229954660365
                             ]
                         ],
                         "type": "LineString"
