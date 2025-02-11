@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-rock-formation-y-b_FOmJXdg"><img width="720" src="https://images.unsplash.com/photo-1490879112094-281fea0883dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzkxNjcyMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown rock formation"></a>
+  <a href="https://unsplash.com/photos/hot-air-balloon-contest-t7YycgAoVSw"><img width="720" src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzkyNTM2MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="hot air balloon contest"></a>
   
-  <em>"brown rock formation"</em>
+  <em>"hot air balloon contest"</em>
   
-  <em>"Ogoy island"</em>
+  <em>""</em>
 
-  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.art/?lang=eng) / [Twitter](https://twitter.com/serg_pesterev)
+  Photo by Daniela Cuevas on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cuevascuevas) / [Twitter](https://twitter.com/notyourcuevas)
   
-  Taken at Olkhon Island, Russia • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.1229954660365,106.971974018066)
+  Taken at Cappadocia, Turky • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D800 |
-| Exposure Time | 1/500 |
-| Aperture      | 10.0 |
-| Focal Length  | 16.0 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/250 |
+| Aperture      | 6.3 |
+| Focal Length  | 50.0 |
 | ISO           | 100 |
-| Location      | Olkhon Island, Russia (Russia) |
-| Coordinates   | Latitude 53.1229954660365, Longitude 106.971974018066 |
+| Location      | Cappadocia, Turky (Turky) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            106.971974018066,
-                            53.1229954660365
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                107.271974018066,
-                                53.4229954660365
-                            ],
-                            [
-                                107.271974018066,
-                                52.8229954660365
-                            ],
-                            [
-                                106.67197401806601,
-                                52.8229954660365
-                            ],
-                            [
-                                106.67197401806601,
-                                53.4229954660365
-                            ],
-                            [
-                                107.271974018066,
-                                53.4229954660365
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
