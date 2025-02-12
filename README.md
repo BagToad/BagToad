@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/hot-air-balloon-contest-t7YycgAoVSw"><img width="720" src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzkyNTM2MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="hot air balloon contest"></a>
+  <a href="https://unsplash.com/photos/five-birds-flying-on-the-sea-OD9EOzfSOh0"><img width="720" src="https://images.unsplash.com/photo-1471922694854-ff1b63b20054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzkzNDAwMzh8&ixlib=rb-4.0.3&q=80&w=1080" alt="five birds flying on the sea"></a>
   
-  <em>"hot air balloon contest"</em>
+  <em>"five birds flying on the sea"</em>
   
   <em>""</em>
 
-  Photo by Daniela Cuevas on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cuevascuevas) / [Twitter](https://twitter.com/notyourcuevas)
+  Photo by frank mckenna on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/frankiefoto) / [portfolio](http://blog.frankiefoto.com)
   
-  Taken at Cappadocia, Turky • 
+  Taken at San Diego, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.715738,-117.1610838)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/250 |
-| Aperture      | 6.3 |
-| Focal Length  | 50.0 |
-| ISO           | 100 |
-| Location      | Cappadocia, Turky (Turky) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D4 |
+| Exposure Time | 1/800 |
+| Aperture      | 5.0 |
+| Focal Length  | 14.0 |
+| ISO           | 1250 |
+| Location      | San Diego, United States (United States) |
+| Coordinates   | Latitude 32.715738, Longitude -117.1610838 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -117.1610838,
+                            32.715738
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -116.8610838,
+                                33.015738
+                            ],
+                            [
+                                -116.8610838,
+                                32.415738000000005
+                            ],
+                            [
+                                -117.4610838,
+                                32.415738000000005
+                            ],
+                            [
+                                -117.4610838,
+                                33.015738
+                            ],
+                            [
+                                -116.8610838,
+                                33.015738
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
