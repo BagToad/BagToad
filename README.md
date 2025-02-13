@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/five-birds-flying-on-the-sea-OD9EOzfSOh0"><img width="720" src="https://images.unsplash.com/photo-1471922694854-ff1b63b20054?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzkzNDAwMzh8&ixlib=rb-4.0.3&q=80&w=1080" alt="five birds flying on the sea"></a>
+  <a href="https://unsplash.com/photos/silhouette-photo-of-mountain-during-night-time-ln5drpv_ImI"><img width="720" src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzk0MjY0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of mountain during night time"></a>
   
-  <em>"five birds flying on the sea"</em>
+  <em>"silhouette photo of mountain during night time"</em>
   
-  <em>""</em>
+  <em>"Sublime purple night sky"</em>
 
-  Photo by frank mckenna on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/frankiefoto) / [portfolio](http://blog.frankiefoto.com)
+  Photo by Vincentiu Solomon on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentiusolomon) / [portfolio](http://vincentiusolomon.com)
   
-  Taken at San Diego, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=32.715738,-117.1610838)
+  Taken at Cima d'Asta, Scurelle, Italy • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D4 |
-| Exposure Time | 1/800 |
-| Aperture      | 5.0 |
-| Focal Length  | 14.0 |
-| ISO           | 1250 |
-| Location      | San Diego, United States (United States) |
-| Coordinates   | Latitude 32.715738, Longitude -117.1610838 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Cima d'Asta, Scurelle, Italy (Italy) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -117.1610838,
-                            32.715738
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -116.8610838,
-                                33.015738
-                            ],
-                            [
-                                -116.8610838,
-                                32.415738000000005
-                            ],
-                            [
-                                -117.4610838,
-                                32.415738000000005
-                            ],
-                            [
-                                -117.4610838,
-                                33.015738
-                            ],
-                            [
-                                -116.8610838,
-                                33.015738
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
