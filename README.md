@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photo-of-mountain-during-night-time-ln5drpv_ImI"><img width="720" src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzk0MjY0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of mountain during night time"></a>
+  <a href="https://unsplash.com/photos/photo-of-river-and-green-grass-covered-moutain-f9qtLeroLNQ"><img width="720" src="https://images.unsplash.com/photo-1451903978882-b165bd94e45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzk1MTI4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of river and green grass covered moutain"></a>
   
-  <em>"silhouette photo of mountain during night time"</em>
+  <em>"photo of river and green grass covered moutain"</em>
   
-  <em>"Sublime purple night sky"</em>
+  <em>"Mossy Mountain Hillside"</em>
 
-  Photo by Vincentiu Solomon on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentiusolomon) / [portfolio](http://vincentiusolomon.com)
+  Photo by Roma R on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/n3moy) / [Twitter](https://twitter.com/n3moy)
   
-  Taken at Cima d'Asta, Scurelle, Italy • 
+  Taken at Skógafoss, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.5320952,-19.5116355)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Cima d'Asta, Scurelle, Italy (Italy) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 500D |
+| Exposure Time | 1/1000 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Skógafoss, Iceland (Iceland) |
+| Coordinates   | Latitude 63.5320952, Longitude -19.5116355 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -19.5116355,
+                            63.5320952
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -19.2116355,
+                                63.8320952
+                            ],
+                            [
+                                -19.2116355,
+                                63.2320952
+                            ],
+                            [
+                                -19.8116355,
+                                63.2320952
+                            ],
+                            [
+                                -19.8116355,
+                                63.8320952
+                            ],
+                            [
+                                -19.2116355,
+                                63.8320952
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
