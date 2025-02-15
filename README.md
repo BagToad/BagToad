@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-river-and-green-grass-covered-moutain-f9qtLeroLNQ"><img width="720" src="https://images.unsplash.com/photo-1451903978882-b165bd94e45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzk1MTI4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of river and green grass covered moutain"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-dock-between-lavender-flower-field-near-body-of-water-during-golden-hour-K2s_YE031CA"><img width="720" src="https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzk1OTkyMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden dock between lavender flower field near body of water during golden hour"></a>
   
-  <em>"photo of river and green grass covered moutain"</em>
+  <em>"brown wooden dock between lavender flower field near body of water during golden hour"</em>
   
-  <em>"Mossy Mountain Hillside"</em>
+  <em>"I had been travelling around Central America, living in a van and sharing experiences with other travelers.  Having just dropped my last travel buddy off I headed back to Lake Atitlan and found an incredible spot to camp right next to the lake.  There was this jetty sticking out into the lake where I sat watching the sunset, once again living the dream on my own. I knew something special was happening there, and now it has become BitcoinLake!"</em>
 
-  Photo by Roma R on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/n3moy) / [Twitter](https://twitter.com/n3moy)
+  Photo by Mark Harpur on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/luckybeanz_photo) / [portfolio](http://www.luckybeanz.com/blog) / [Twitter](https://twitter.com/luckybeanzphoto)
   
-  Taken at Skógafoss, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.5320952,-19.5116355)
+  Taken at Lake Atitlán, Guatemala • [Google Maps](https://www.google.com/maps/search/?api=1&query=14.6852746212311,-91.2599414305909)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 500D |
-| Exposure Time | 1/1000 |
-| Aperture      | 3.5 |
-| Focal Length  | 18.0 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 0.8 |
+| Aperture      | 18 |
+| Focal Length  | 11.0 |
 | ISO           | 100 |
-| Location      | Skógafoss, Iceland (Iceland) |
-| Coordinates   | Latitude 63.5320952, Longitude -19.5116355 |
+| Location      | Lake Atitlán, Guatemala (Guatemala) |
+| Coordinates   | Latitude 14.6852746212311, Longitude -91.2599414305909 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -19.5116355,
-                            63.5320952
+                            -91.2599414305909,
+                            14.6852746212311
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -19.2116355,
-                                63.8320952
+                                -90.9599414305909,
+                                14.9852746212311
                             ],
                             [
-                                -19.2116355,
-                                63.2320952
+                                -90.9599414305909,
+                                14.3852746212311
                             ],
                             [
-                                -19.8116355,
-                                63.2320952
+                                -91.5599414305909,
+                                14.3852746212311
                             ],
                             [
-                                -19.8116355,
-                                63.8320952
+                                -91.5599414305909,
+                                14.9852746212311
                             ],
                             [
-                                -19.2116355,
-                                63.8320952
+                                -90.9599414305909,
+                                14.9852746212311
                             ]
                         ],
                         "type": "LineString"
