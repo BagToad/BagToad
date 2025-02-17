@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-with-house-during-daytime-lzbFllF05XY"><img width="720" src="https://images.unsplash.com/photo-1470423725703-b136e2a8254c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzk2ODU2MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field with house during daytime"></a>
+  <a href="https://unsplash.com/photos/view-of-seashore-sunset-tNDvFkxkBHo"><img width="720" src="https://images.unsplash.com/photo-1422493757035-1e5e03968f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mzk3NzIwMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="view of seashore sunset"></a>
   
-  <em>"green grass field with house during daytime"</em>
+  <em>"view of seashore sunset"</em>
   
-  <em>""</em>
+  <em>"Sunset over an Australian Beach"</em>
 
-  Photo by Arno Smit on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/_entreprenerd) / [portfolio](https://www.instagram.com/_entreprenerd) / [Twitter](https://twitter.com/_entreprenerd)
+  Photo by Igor Kasalovic on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ikasalovic) / [portfolio](https://igorkasalovic.com/) / [Twitter](https://twitter.com/ikasalovic)
   
-  Taken at Unknown • 
+  Taken at Australia, New South Wales, Sydney • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T10 |
-| Exposure Time | 1/3200 |
-| Aperture      | 4.0 |
-| Focal Length  | 35.0 |
-| ISO           | 200 |
-| Location      | Unknown (null) |
+| Camera Model  | Canon EOS 60D |
+| Exposure Time | 15 |
+| Aperture      | 20.0 |
+| Focal Length  | 10.0 |
+| ISO           | 100 |
+| Location      | Australia, New South Wales, Sydney (Australia) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
