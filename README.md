@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-during-sunset-_RBcxo9AU-U"><img width="720" src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAwMzEyMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field during sunset"></a>
+  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAxMTc2MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="seashore during golden hour"></a>
   
-  <em>"green grass field during sunset"</em>
+  <em>"seashore during golden hour"</em>
   
-  <em>""</em>
+  <em>"The last night of a two week stay on the North Shore of Oahu, Hawaii."</em>
 
-  Photo by Robert Lukeman on [unsplash.com](https://unsplash.com/) • 
+  Photo by Sean Oulashin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
   
-  Taken at Skye, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=57.5359261,-6.22627250000005)
+  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/25 |
-| Aperture      | 13.0 |
-| Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Skye, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 57.5359261, Longitude -6.22627250000005 |
+| Camera Model  | Canon EOS REBEL T3i |
+| Exposure Time | 1/250 |
+| Aperture      | 4.5 |
+| Focal Length  | 10.0 |
+| ISO           | 200 |
+| Location      | North Shore, Waialua, United States (United States) |
+| Coordinates   | Latitude 21.5616575, Longitude -158.0715983 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -6.22627250000005,
-                            57.5359261
+                            -158.0715983,
+                            21.5616575
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -5.92627250000005,
-                                57.835926099999995
+                                -157.7715983,
+                                21.8616575
                             ],
                             [
-                                -5.92627250000005,
-                                57.2359261
+                                -157.7715983,
+                                21.2616575
                             ],
                             [
-                                -6.52627250000005,
-                                57.2359261
+                                -158.37159830000002,
+                                21.2616575
                             ],
                             [
-                                -6.52627250000005,
-                                57.835926099999995
+                                -158.37159830000002,
+                                21.8616575
                             ],
                             [
-                                -5.92627250000005,
-                                57.835926099999995
+                                -157.7715983,
+                                21.8616575
                             ]
                         ],
                         "type": "LineString"
