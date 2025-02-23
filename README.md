@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leaf-trees-under-blue-sky-bJHWJeiHfHc"><img width="720" src="https://images.unsplash.com/photo-1469827160215-9d29e96e72f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAyMDQwMjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="green leaf trees under blue sky"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-dock-in-fornt-body-of-water-MS7KD9Ti7FQ"><img width="720" src="https://images.unsplash.com/reserve/O7A9fAvYSXC7NTdz8gLQ_IMGP1039.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAyOTA0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden dock in fornt body of water"></a>
   
-  <em>"green leaf trees under blue sky"</em>
+  <em>"brown wooden dock in fornt body of water"</em>
   
-  <em>""</em>
+  <em>"Wooden path to the beach"</em>
 
-  Photo by Jeff King on [unsplash.com](https://unsplash.com/) • 
+  Photo by Aleksandra Boguslawska on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aleksandra.boguslawska) / [portfolio](https://www.instagram.com/aleksandra.boguslawska/)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D700 |
-| Exposure Time | 1/320 |
-| Aperture      | 9.0 |
-| Focal Length  | 17.0 |
-| ISO           | 200 |
+| Camera Model  | PENTAX K-x |
+| Exposure Time | 1/200 |
+| Aperture      | 11.0 |
+| Focal Length  | 40.0 |
+| ISO           | 400 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
