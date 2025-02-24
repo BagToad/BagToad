@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-dock-in-fornt-body-of-water-MS7KD9Ti7FQ"><img width="720" src="https://images.unsplash.com/reserve/O7A9fAvYSXC7NTdz8gLQ_IMGP1039.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAyOTA0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown wooden dock in fornt body of water"></a>
+  <a href="https://unsplash.com/photos/view-of-seashore-sunset-tNDvFkxkBHo"><img width="720" src="https://images.unsplash.com/photo-1422493757035-1e5e03968f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDAzNzY4MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="view of seashore sunset"></a>
   
-  <em>"brown wooden dock in fornt body of water"</em>
+  <em>"view of seashore sunset"</em>
   
-  <em>"Wooden path to the beach"</em>
+  <em>"Sunset over an Australian Beach"</em>
 
-  Photo by Aleksandra Boguslawska on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aleksandra.boguslawska) / [portfolio](https://www.instagram.com/aleksandra.boguslawska/)
+  Photo by Igor Kasalovic on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ikasalovic) / [portfolio](https://igorkasalovic.com/) / [Twitter](https://twitter.com/ikasalovic)
   
-  Taken at Unknown • 
+  Taken at Australia, New South Wales, Sydney • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | PENTAX K-x |
-| Exposure Time | 1/200 |
-| Aperture      | 11.0 |
-| Focal Length  | 40.0 |
-| ISO           | 400 |
-| Location      | Unknown (null) |
+| Camera Model  | Canon EOS 60D |
+| Exposure Time | 15 |
+| Aperture      | 20.0 |
+| Focal Length  | 10.0 |
+| ISO           | 100 |
+| Location      | Australia, New South Wales, Sydney (Australia) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
