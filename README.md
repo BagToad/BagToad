@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-under-sunny-sky-1WQ5RZuH9xo"><img width="720" src="https://images.unsplash.com/photo-1523978591478-c753949ff840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDA4MDg4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water under sunny sky"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-green-trees-ugnrXk1129g"><img width="720" src="https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDA4OTUyMzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photo of green trees"></a>
   
-  <em>"body of water under sunny sky"</em>
+  <em>"aerial photo of green trees"</em>
   
-  <em>"Beautiful morning at Andenes this february 2018."</em>
+  <em>"This photo was taken in the high mountains of Adjara, Georgia, while I was doing my project there. It was summer, but the temperature didn’t feel like it. I spent most of my days standing in front of this amazing view, thinking about the life that was waiting for me back in capital. Suddenly, I  had a very strong desire to talk with the fog. Loudly. Thought it had many stories to tell too."</em>
 
-  Photo by Pascal Debrunner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pd_visuals) / [portfolio](https://www.instagram.com/pd_visuals)
+  Photo by Marita Kavelashvili on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/maritaextrabold)
   
-  Taken at Andenes, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.3240819636415,16.1154219814453)
+  Taken at Adjara, Georgia • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.6005626,42.0688382999999)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DSC-RX100M3 |
-| Exposure Time | 1/160 |
-| Aperture      | 5.6 |
-| Focal Length  | 8.8 |
-| ISO           | 100 |
-| Location      | Andenes, Norway (Norway) |
-| Coordinates   | Latitude 69.3240819636415, Longitude 16.1154219814453 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/4000 |
+| Aperture      | 2.8 |
+| Focal Length  | 40.0 |
+| ISO           | 1000 |
+| Location      | Adjara, Georgia (Georgia) |
+| Coordinates   | Latitude 41.6005626, Longitude 42.0688382999999 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            16.1154219814453,
-                            69.3240819636415
+                            42.0688382999999,
+                            41.6005626
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                16.415421981445302,
-                                69.6240819636415
+                                42.3688382999999,
+                                41.9005626
                             ],
                             [
-                                16.415421981445302,
-                                69.0240819636415
+                                42.3688382999999,
+                                41.300562600000006
                             ],
                             [
-                                15.8154219814453,
-                                69.0240819636415
+                                41.768838299999906,
+                                41.300562600000006
                             ],
                             [
-                                15.8154219814453,
-                                69.6240819636415
+                                41.768838299999906,
+                                41.9005626
                             ],
                             [
-                                16.415421981445302,
-                                69.6240819636415
+                                42.3688382999999,
+                                41.9005626
                             ]
                         ],
                         "type": "LineString"
