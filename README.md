@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photo-of-green-trees-ugnrXk1129g"><img width="720" src="https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDA4OTUyMzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial photo of green trees"></a>
+  <a href="https://unsplash.com/photos/green-pine-trees-near-teal-water-at-daytime-UkOpMcslmX8"><img width="720" src="https://images.unsplash.com/photo-1505490096310-204ef067fe6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDA5ODE2Mzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="green pine trees near teal water at daytime"></a>
   
-  <em>"aerial photo of green trees"</em>
+  <em>"green pine trees near teal water at daytime"</em>
   
-  <em>"This photo was taken in the high mountains of Adjara, Georgia, while I was doing my project there. It was summer, but the temperature didn’t feel like it. I spent most of my days standing in front of this amazing view, thinking about the life that was waiting for me back in capital. Suddenly, I  had a very strong desire to talk with the fog. Loudly. Thought it had many stories to tell too."</em>
+  <em>""</em>
 
-  Photo by Marita Kavelashvili on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/maritaextrabold)
+  Photo by Giammarco Boscaro on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/giamboscaro) / [portfolio](https://portfolio.gboscaro.duckdns.org)
   
-  Taken at Adjara, Georgia • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.6005626,42.0688382999999)
+  Taken at Veneto, Italia • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.53225333,12.21688333)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
-| Exposure Time | 1/4000 |
-| Aperture      | 2.8 |
-| Focal Length  | 40.0 |
-| ISO           | 1000 |
-| Location      | Adjara, Georgia (Georgia) |
-| Coordinates   | Latitude 41.6005626, Longitude 42.0688382999999 |
+| Camera Model  | NIKON D7200 |
+| Exposure Time | 1/125 |
+| Aperture      | 11.0 |
+| Focal Length  | 28.0 |
+| ISO           | 200 |
+| Location      | Veneto, Italia (Italia) |
+| Coordinates   | Latitude 46.53225333, Longitude 12.21688333 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            42.0688382999999,
-                            41.6005626
+                            12.21688333,
+                            46.53225333
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                42.3688382999999,
-                                41.9005626
+                                12.51688333,
+                                46.83225333
                             ],
                             [
-                                42.3688382999999,
-                                41.300562600000006
+                                12.51688333,
+                                46.232253330000006
                             ],
                             [
-                                41.768838299999906,
-                                41.300562600000006
+                                11.91688333,
+                                46.232253330000006
                             ],
                             [
-                                41.768838299999906,
-                                41.9005626
+                                11.91688333,
+                                46.83225333
                             ],
                             [
-                                42.3688382999999,
-                                41.9005626
+                                12.51688333,
+                                46.83225333
                             ]
                         ],
                         "type": "LineString"
