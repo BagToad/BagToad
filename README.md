@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-pine-trees-near-teal-water-at-daytime-UkOpMcslmX8"><img width="720" src="https://images.unsplash.com/photo-1505490096310-204ef067fe6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDA5ODE2Mzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="green pine trees near teal water at daytime"></a>
+  <a href="https://unsplash.com/photos/snow-mountain-under-stars-phIFdC6lA4E"><img width="720" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDEwNjgwMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="snow mountain under stars"></a>
   
-  <em>"green pine trees near teal water at daytime"</em>
+  <em>"snow mountain under stars"</em>
   
   <em>""</em>
 
-  Photo by Giammarco Boscaro on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/giamboscaro) / [portfolio](https://portfolio.gboscaro.duckdns.org)
+  Photo by Benjamin Voros on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/voros_beni) / [portfolio](http://www.vorosbenjamin.com) / [Twitter](https://twitter.com/voros_benjamin)
   
-  Taken at Veneto, Italia • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.53225333,12.21688333)
+  Taken at Moena, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.37642,11.6615999000001)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7200 |
-| Exposure Time | 1/125 |
-| Aperture      | 11.0 |
-| Focal Length  | 28.0 |
-| ISO           | 200 |
-| Location      | Veneto, Italia (Italia) |
-| Coordinates   | Latitude 46.53225333, Longitude 12.21688333 |
+| Camera Model  | Canon EOS 600D |
+| Exposure Time | 1/200 |
+| Aperture      | 5.0 |
+| Focal Length  | 84.0 |
+| ISO           | 100 |
+| Location      | Moena, Italy (Italy) |
+| Coordinates   | Latitude 46.37642, Longitude 11.6615999000001 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.21688333,
-                            46.53225333
+                            11.6615999000001,
+                            46.37642
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.51688333,
-                                46.83225333
+                                11.9615999000001,
+                                46.67642
                             ],
                             [
-                                12.51688333,
-                                46.232253330000006
+                                11.9615999000001,
+                                46.076420000000006
                             ],
                             [
-                                11.91688333,
-                                46.232253330000006
+                                11.3615999000001,
+                                46.076420000000006
                             ],
                             [
-                                11.91688333,
-                                46.83225333
+                                11.3615999000001,
+                                46.67642
                             ],
                             [
-                                12.51688333,
-                                46.83225333
+                                11.9615999000001,
+                                46.67642
                             ]
                         ],
                         "type": "LineString"
