@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-mountain-under-stars-phIFdC6lA4E"><img width="720" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDEwNjgwMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="snow mountain under stars"></a>
+  <a href="https://unsplash.com/photos/brown-concrete-structure-7kLufxYoqWk"><img width="720" src="https://images.unsplash.com/photo-1434730737257-3e97ad16f4b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDExNTQ0MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown concrete structure"></a>
   
-  <em>"snow mountain under stars"</em>
+  <em>"brown concrete structure"</em>
   
-  <em>""</em>
+  <em>"Surreal Desert Skies"</em>
 
-  Photo by Benjamin Voros on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/voros_beni) / [portfolio](http://www.vorosbenjamin.com) / [Twitter](https://twitter.com/voros_benjamin)
+  Photo by SoloTravelGoals on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/solotravelgoals) / [Twitter](https://twitter.com/MikeNay_)
   
-  Taken at Moena, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.37642,11.6615999000001)
+  Taken at Delicate Arch Utah, Moab, United States • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 600D |
-| Exposure Time | 1/200 |
-| Aperture      | 5.0 |
-| Focal Length  | 84.0 |
-| ISO           | 100 |
-| Location      | Moena, Italy (Italy) |
-| Coordinates   | Latitude 46.37642, Longitude 11.6615999000001 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Delicate Arch Utah, Moab, United States (United States) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            11.6615999000001,
-                            46.37642
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                11.9615999000001,
-                                46.67642
-                            ],
-                            [
-                                11.9615999000001,
-                                46.076420000000006
-                            ],
-                            [
-                                11.3615999000001,
-                                46.076420000000006
-                            ],
-                            [
-                                11.3615999000001,
-                                46.67642
-                            ],
-                            [
-                                11.9615999000001,
-                                46.67642
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
