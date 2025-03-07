@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-lake-and-mountain-73F4pKoUkM0"><img width="720" src="https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDEyNDA4Mzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of lake and mountain"></a>
+  <a href="https://unsplash.com/photos/body-of-water-between-highlands-8dejZGw3Hec"><img width="720" src="https://images.unsplash.com/photo-1503401639559-b16332601594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDEzMjcyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water between highlands"></a>
   
-  <em>"landscape photography of lake and mountain"</em>
+  <em>"body of water between highlands"</em>
   
   <em>""</em>
 
-  Photo by Tobias Keller on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kellertobs) / [Twitter](https://twitter.com/tokeller)
+  Photo by Johannes Ludwig on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johannesludwig)
   
-  Taken at Lake Tekapo, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-43.9874318732414,170.463728526465)
+  Taken at Plansee, Austria • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.48544,10.83574)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 600D |
-| Exposure Time | 1/125 |
-| Aperture      | 6.3 |
-| Focal Length  | 55.0 |
+| Camera Model  | FC220 |
+| Exposure Time | 1/120 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.7 |
 | ISO           | 100 |
-| Location      | Lake Tekapo, New Zealand (New Zealand) |
-| Coordinates   | Latitude -43.9874318732414, Longitude 170.463728526465 |
+| Location      | Plansee, Austria (Austria) |
+| Coordinates   | Latitude 47.48544, Longitude 10.83574 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            170.463728526465,
-                            -43.9874318732414
+                            10.83574,
+                            47.48544
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                170.763728526465,
-                                -43.6874318732414
+                                11.13574,
+                                47.785439999999994
                             ],
                             [
-                                170.763728526465,
-                                -44.287431873241395
+                                11.13574,
+                                47.18544
                             ],
                             [
-                                170.16372852646498,
-                                -44.287431873241395
+                                10.535739999999999,
+                                47.18544
                             ],
                             [
-                                170.16372852646498,
-                                -43.6874318732414
+                                10.535739999999999,
+                                47.785439999999994
                             ],
                             [
-                                170.763728526465,
-                                -43.6874318732414
+                                11.13574,
+                                47.785439999999994
                             ]
                         ],
                         "type": "LineString"
