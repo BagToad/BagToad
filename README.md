@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-between-highlands-8dejZGw3Hec"><img width="720" src="https://images.unsplash.com/photo-1503401639559-b16332601594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDEzMjcyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water between highlands"></a>
+  <a href="https://unsplash.com/photos/green-and-brown-mountains-under-white-clouds-and-blue-sky-during-daytime-YKN_G9L9nMA"><img width="720" src="https://images.unsplash.com/photo-1584148721201-b6432e0d5106?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE0MTM2Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="green and brown mountains under white clouds and blue sky during daytime"></a>
   
-  <em>"body of water between highlands"</em>
+  <em>"green and brown mountains under white clouds and blue sky during daytime"</em>
   
-  <em>""</em>
+  <em>"North Cascades"</em>
 
-  Photo by Johannes Ludwig on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johannesludwig)
+  Photo by Toan Chu on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/toanbchu) / [portfolio](http://toanchu.com)
   
-  Taken at Plansee, Austria • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.48544,10.83574)
+  Taken at Mount Baker, Washington, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.776687,-121.814414)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FC220 |
-| Exposure Time | 1/120 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.7 |
-| ISO           | 100 |
-| Location      | Plansee, Austria (Austria) |
-| Coordinates   | Latitude 47.48544, Longitude 10.83574 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | 5 |
+| Focal Length  | 18.0 |
+| ISO           | null |
+| Location      | Mount Baker, Washington, USA (United States) |
+| Coordinates   | Latitude 48.776687, Longitude -121.814414 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            10.83574,
-                            47.48544
+                            -121.814414,
+                            48.776687
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                11.13574,
-                                47.785439999999994
+                                -121.514414,
+                                49.076687
                             ],
                             [
-                                11.13574,
-                                47.18544
+                                -121.514414,
+                                48.476687000000005
                             ],
                             [
-                                10.535739999999999,
-                                47.18544
+                                -122.114414,
+                                48.476687000000005
                             ],
                             [
-                                10.535739999999999,
-                                47.785439999999994
+                                -122.114414,
+                                49.076687
                             ],
                             [
-                                11.13574,
-                                47.785439999999994
+                                -121.514414,
+                                49.076687
                             ]
                         ],
                         "type": "LineString"
