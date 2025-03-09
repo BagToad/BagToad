@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-and-brown-mountains-under-white-clouds-and-blue-sky-during-daytime-YKN_G9L9nMA"><img width="720" src="https://images.unsplash.com/photo-1584148721201-b6432e0d5106?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE0MTM2Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="green and brown mountains under white clouds and blue sky during daytime"></a>
+  <a href="https://unsplash.com/photos/mountain-surrounded-by-trees-under-cloudy-sky-T-tOgjWZ0fQ"><img width="720" src="https://images.unsplash.com/photo-1516687401797-25297ff1462c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE1MDAwMTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain surrounded by trees under cloudy sky"></a>
   
-  <em>"green and brown mountains under white clouds and blue sky during daytime"</em>
+  <em>"mountain surrounded by trees under cloudy sky"</em>
   
-  <em>"North Cascades"</em>
+  <em>"A bit less edited version of the the Yosemite Valley."</em>
 
-  Photo by Toan Chu on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/toanbchu) / [portfolio](http://toanchu.com)
+  Photo by Aniket Deole on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aniket__) / [portfolio](http://aniket.photos) / [Twitter](https://twitter.com/AniketDeole)
   
-  Taken at Mount Baker, Washington, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.776687,-121.814414)
+  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | 5 |
-| Focal Length  | 18.0 |
-| ISO           | null |
-| Location      | Mount Baker, Washington, USA (United States) |
-| Coordinates   | Latitude 48.776687, Longitude -121.814414 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/80 |
+| Aperture      | 8 |
+| Focal Length  | 41.0 |
+| ISO           | 200 |
+| Location      | Yosemite Valley, United States (United States) |
+| Coordinates   | Latitude 37.7455701, Longitude -119.5936038 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -121.814414,
-                            48.776687
+                            -119.5936038,
+                            37.7455701
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -121.514414,
-                                49.076687
+                                -119.2936038,
+                                38.0455701
                             ],
                             [
-                                -121.514414,
-                                48.476687000000005
+                                -119.2936038,
+                                37.445570100000005
                             ],
                             [
-                                -122.114414,
-                                48.476687000000005
+                                -119.8936038,
+                                37.445570100000005
                             ],
                             [
-                                -122.114414,
-                                49.076687
+                                -119.8936038,
+                                38.0455701
                             ],
                             [
-                                -121.514414,
-                                49.076687
+                                -119.2936038,
+                                38.0455701
                             ]
                         ],
                         "type": "LineString"
