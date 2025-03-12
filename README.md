@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-between-brown-mountains-ARVFsI-32Uk"><img width="720" src="https://images.unsplash.com/photo-1549558549-415fe4c37b60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE2NzI4Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water between brown mountains"></a>
+  <a href="https://unsplash.com/photos/tree-between-green-land-during-golden-hour-T-LfvX-7IVg"><img width="720" src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE3NTkyMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="tree between green land during golden hour"></a>
   
-  <em>"body of water between brown mountains"</em>
+  <em>"tree between green land during golden hour"</em>
   
-  <em>""</em>
+  <em>"Sunset tree in Kenya Safari, Africa"</em>
 
-  Photo by Mar Bustos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mar_mediterraneo) / [portfolio](https://www.instagram.com/mar__mediterraneo/)
+  Photo by Damian Patkowski on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/damian.patkowski) / [Twitter](https://twitter.com/damianpatkowski)
   
-  Taken at Unknown • 
+  Taken at Tsavo East National Park Kenya, Africa, Kenya • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | 5500 |
-| Exposure Time | 300 |
-| Aperture      | 16 |
-| Focal Length  | 12 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
+| Camera Model  | NIKON D5200 |
+| Exposure Time | 1/2000 |
+| Aperture      | 8.0 |
+| Focal Length  | 25.0 |
+| ISO           | 400 |
+| Location      | Tsavo East National Park Kenya, Africa, Kenya (Kenya) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
