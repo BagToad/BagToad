@@ -38,15 +38,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-mountain-under-blue-sky-during-daytime-DgdJ_0us5SE"><img width="720" src="https://images.unsplash.com/photo-1607024301817-3bbc081205cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE5MzIwMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="snow covered mountain under blue sky during daytime"></a>
+  <a href="https://unsplash.com/photos/island-surrounded-by-water-z_9VmsxR8hs"><img width="720" src="https://images.unsplash.com/photo-1551978429-3dbfed5cacc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIwMTg0MzB8&ixlib=rb-4.0.3&q=80&w=1080" alt="island surrounded by water"></a>
   
-  <em>"snow covered mountain under blue sky during daytime"</em>
+  <em>"island surrounded by water"</em>
   
-  <em>"Stars over cold Alps. Italy."</em>
+  <em>"A small isle in the Eibsee at the beginning of November in 2018. Because it was a really nice and warm day some canoeists stayed at the island in the sund to relax.
 
-  Photo by Marek Piwnicki on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marekpiwnicki) / [portfolio](https://marpiwnicki.github.io)
+This is the horizontal version of a photo I already posted last year."</em>
+
+  Photo by Daniel Seßler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daniel.sessler) / [portfolio](http://danielsessler.photos)
   
-  Taken at Lanzada, Prowincja Sondrio, Włochy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.26958,9.872099)
+  Taken at Eibsee, Grainau, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4562353,10.9728807)
   
   ---
   
@@ -55,13 +57,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 10 |
-| Aperture      | 2 |
-| Focal Length  | 50.0 |
-| ISO           | 1250 |
-| Location      | Lanzada, Prowincja Sondrio, Włochy (Włochy) |
-| Coordinates   | Latitude 46.26958, Longitude 9.872099 |
+| Camera Model  | ILCE-7R |
+| Exposure Time | 1/160 |
+| Aperture      | 4 |
+| Focal Length  | 95.0 |
+| ISO           | 100 |
+| Location      | Eibsee, Grainau, Germany (Germany) |
+| Coordinates   | Latitude 47.4562353, Longitude 10.9728807 |
 
 ### Map
 
@@ -74,8 +76,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.872099,
-                            46.26958
+                            10.9728807,
+                            47.4562353
                         ],
                         "type": "Point"
                     },
@@ -87,24 +89,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                10.172099000000001,
-                                46.569579999999995
+                                11.2728807,
+                                47.7562353
                             ],
                             [
-                                10.172099000000001,
-                                45.96958
+                                11.2728807,
+                                47.156235300000006
                             ],
                             [
-                                9.572099,
-                                45.96958
+                                10.672880699999999,
+                                47.156235300000006
                             ],
                             [
-                                9.572099,
-                                46.569579999999995
+                                10.672880699999999,
+                                47.7562353
                             ],
                             [
-                                10.172099000000001,
-                                46.569579999999995
+                                11.2728807,
+                                47.7562353
                             ]
                         ],
                         "type": "LineString"
