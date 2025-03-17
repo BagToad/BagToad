@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/huge-rock-near-beach-0A_b9G-Rm6w"><img width="720" src="https://images.unsplash.com/photo-1474433188271-d3f339f41911?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIxMDQ4MTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="huge rock near beach"></a>
+  <a href="https://unsplash.com/photos/calm-lake-surrounded-by-trees-near-mountain-range-Uszp5Gkg0AI"><img width="720" src="https://images.unsplash.com/photo-1413752362258-7af2a667b590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIxOTEyMjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm lake surrounded by trees near mountain range"></a>
   
-  <em>"huge rock near beach"</em>
+  <em>"calm lake surrounded by trees near mountain range"</em>
   
-  <em>"Little Corona Beach sunrise"</em>
+  <em>"You can support me via Paypal: http://paypal.me/dreamypixel"</em>
 
-  Photo by Austin Neill on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/arstyy) / [Twitter](https://twitter.com/austinneill)
+  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
   
-  Taken at Little Corona Beach, Newport Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=33.5898884,-117.8689629)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Little Corona Beach, Newport Beach, United States (United States) |
-| Coordinates   | Latitude 33.5898884, Longitude -117.8689629 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/160 |
+| Aperture      | 6.3 |
+| Focal Length  | 14.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -117.8689629,
-                            33.5898884
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -117.5689629,
-                                33.8898884
-                            ],
-                            [
-                                -117.5689629,
-                                33.2898884
-                            ],
-                            [
-                                -118.1689629,
-                                33.2898884
-                            ],
-                            [
-                                -118.1689629,
-                                33.8898884
-                            ],
-                            [
-                                -117.5689629,
-                                33.8898884
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
