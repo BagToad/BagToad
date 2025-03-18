@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/calm-lake-surrounded-by-trees-near-mountain-range-Uszp5Gkg0AI"><img width="720" src="https://images.unsplash.com/photo-1413752362258-7af2a667b590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIxOTEyMjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm lake surrounded by trees near mountain range"></a>
+  <a href="https://unsplash.com/photos/green-and-beige-trees-beside-mountains-cuKKa0vWZSY"><img width="720" src="https://images.unsplash.com/photo-1503424886307-b090341d25d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIyNzc2MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green and beige trees beside mountains"></a>
   
-  <em>"calm lake surrounded by trees near mountain range"</em>
+  <em>"green and beige trees beside mountains"</em>
   
-  <em>"You can support me via Paypal: http://paypal.me/dreamypixel"</em>
+  <em>"Fall Color Dallas Divide"</em>
 
-  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
+  Photo by Thomas Morse on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Unknown • 
+  Taken at Ridgway, Colorado, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.06217167,-107.81276)
   
   ---
   
@@ -58,14 +58,61 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | Camera Model  | NIKON D7000 |
 | Exposure Time | 1/160 |
 | Aperture      | 6.3 |
-| Focal Length  | 14.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Focal Length  | 28.0 |
+| ISO           | 200 |
+| Location      | Ridgway, Colorado, United States (United States) |
+| Coordinates   | Latitude 38.06217167, Longitude -107.81276 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -107.81276,
+                            38.06217167
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -107.51276,
+                                38.362171669999995
+                            ],
+                            [
+                                -107.51276,
+                                37.76217167
+                            ],
+                            [
+                                -108.11276,
+                                37.76217167
+                            ],
+                            [
+                                -108.11276,
+                                38.362171669999995
+                            ],
+                            [
+                                -107.51276,
+                                38.362171669999995
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
