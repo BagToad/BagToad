@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-and-beige-trees-beside-mountains-cuKKa0vWZSY"><img width="720" src="https://images.unsplash.com/photo-1503424886307-b090341d25d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIyNzc2MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green and beige trees beside mountains"></a>
+  <a href="https://unsplash.com/photos/black-concrete-road-between-steppe-QHZn3-0bbEM"><img width="720" src="https://images.unsplash.com/photo-1511576661531-b34d7da5d0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIzNjQwMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="black concrete road between steppe"></a>
   
-  <em>"green and beige trees beside mountains"</em>
+  <em>"black concrete road between steppe"</em>
   
-  <em>"Fall Color Dallas Divide"</em>
+  <em>"Sunset over the hills of Central California at the start of a long road trip."</em>
 
-  Photo by Thomas Morse on [unsplash.com](https://unsplash.com/) • 
+  Photo by Jeremy Bishop on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stillbish) / [portfolio](https://www.jeremybishopphotography.com)
   
-  Taken at Ridgway, Colorado, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.06217167,-107.81276)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/160 |
-| Aperture      | 6.3 |
-| Focal Length  | 28.0 |
-| ISO           | 200 |
-| Location      | Ridgway, Colorado, United States (United States) |
-| Coordinates   | Latitude 38.06217167, Longitude -107.81276 |
+| Camera Model  | ILCE-9 |
+| Exposure Time | 1/25 |
+| Aperture      | 2.8 |
+| Focal Length  | 25.0 |
+| ISO           | 250 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -107.81276,
-                            38.06217167
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -107.51276,
-                                38.362171669999995
-                            ],
-                            [
-                                -107.51276,
-                                37.76217167
-                            ],
-                            [
-                                -108.11276,
-                                37.76217167
-                            ],
-                            [
-                                -108.11276,
-                                38.362171669999995
-                            ],
-                            [
-                                -107.51276,
-                                38.362171669999995
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
