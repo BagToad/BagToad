@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-concrete-road-between-steppe-QHZn3-0bbEM"><img width="720" src="https://images.unsplash.com/photo-1511576661531-b34d7da5d0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDIzNjQwMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="black concrete road between steppe"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-snowy-mountains-gdQnsMbhkUs"><img width="720" src="https://images.unsplash.com/photo-1506104489822-562ca25152fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI0NTA0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of snowy mountains"></a>
   
-  <em>"black concrete road between steppe"</em>
+  <em>"landscape photography of snowy mountains"</em>
   
-  <em>"Sunset over the hills of Central California at the start of a long road trip."</em>
+  <em>"Moraine Lake at 6AM"</em>
 
-  Photo by Jeremy Bishop on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stillbish) / [portfolio](https://www.jeremybishopphotography.com)
+  Photo by Redd Francisco on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/radd.films) / [portfolio](https://www.raddfilms.com/)
   
-  Taken at Unknown • 
+  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-9 |
-| Exposure Time | 1/25 |
+| Camera Model  | ILCE-7S |
+| Exposure Time | 1/100 |
 | Aperture      | 2.8 |
-| Focal Length  | 25.0 |
-| ISO           | 250 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Focal Length  | 16.0 |
+| ISO           | 100 |
+| Location      | Moraine Lake, Canada (Canada) |
+| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -116.1860049,
+                            51.3217416
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -115.8860049,
+                                51.6217416
+                            ],
+                            [
+                                -115.8860049,
+                                51.021741600000006
+                            ],
+                            [
+                                -116.4860049,
+                                51.021741600000006
+                            ],
+                            [
+                                -116.4860049,
+                                51.6217416
+                            ],
+                            [
+                                -115.8860049,
+                                51.6217416
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
