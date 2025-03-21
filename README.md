@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-snowy-mountains-gdQnsMbhkUs"><img width="720" src="https://images.unsplash.com/photo-1506104489822-562ca25152fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI0NTA0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of snowy mountains"></a>
+  <a href="https://unsplash.com/photos/brown-house-near-body-of-water-zAjdgNXsMeg"><img width="720" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI1MzY4Mjd8&ixlib=rb-4.0.3&q=80&w=1080" alt="brown house near body of water"></a>
   
-  <em>"landscape photography of snowy mountains"</em>
+  <em>"brown house near body of water"</em>
   
-  <em>"Moraine Lake at 6AM"</em>
+  <em>"Boathouse on a mountain lake"</em>
 
-  Photo by Redd Francisco on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/radd.films) / [portfolio](https://www.raddfilms.com/)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
+  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7S |
-| Exposure Time | 1/100 |
-| Aperture      | 2.8 |
-| Focal Length  | 16.0 |
-| ISO           | 100 |
-| Location      | Moraine Lake, Canada (Canada) |
-| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lago di Braies (null) |
+| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.1860049,
-                            51.3217416
+                            12.0859822,
+                            46.6948731
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -115.8860049,
-                                51.6217416
+                                12.3859822,
+                                46.9948731
                             ],
                             [
-                                -115.8860049,
-                                51.021741600000006
+                                12.3859822,
+                                46.394873100000005
                             ],
                             [
-                                -116.4860049,
-                                51.021741600000006
+                                11.7859822,
+                                46.394873100000005
                             ],
                             [
-                                -116.4860049,
-                                51.6217416
+                                11.7859822,
+                                46.9948731
                             ],
                             [
-                                -115.8860049,
-                                51.6217416
+                                12.3859822,
+                                46.9948731
                             ]
                         ],
                         "type": "LineString"
