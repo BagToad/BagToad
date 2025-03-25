@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-during-sunset-_RBcxo9AU-U"><img width="720" src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI3OTYwMzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field during sunset"></a>
+  <a href="https://unsplash.com/photos/trees-and-rocks-on-foot-of-the-mountain-Jb8ClLr_Kjo"><img width="720" src="https://images.unsplash.com/photo-1445712525433-eba07da78bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI4ODI0MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="trees and rocks on foot of the mountain"></a>
   
-  <em>"green grass field during sunset"</em>
+  <em>"trees and rocks on foot of the mountain"</em>
   
-  <em>""</em>
+  <em>"Rock slide"</em>
 
-  Photo by Robert Lukeman on [unsplash.com](https://unsplash.com/) • 
+  Photo by John Salzarulo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnsalzaurlo) / [portfolio](http://www.johnsalzarulo.com/) / [Twitter](https://twitter.com/johnsalzarulo)
   
-  Taken at Skye, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=57.5359261,-6.22627250000005)
+  Taken at Yosemite National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.865101,-119.538329)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/25 |
-| Aperture      | 13.0 |
+| Camera Model  | X-E2 |
+| Exposure Time | 1/180 |
+| Aperture      | 5.6 |
 | Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Skye, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 57.5359261, Longitude -6.22627250000005 |
+| ISO           | 800 |
+| Location      | Yosemite National Park, United States (United States) |
+| Coordinates   | Latitude 37.865101, Longitude -119.538329 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -6.22627250000005,
-                            57.5359261
+                            -119.538329,
+                            37.865101
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -5.92627250000005,
-                                57.835926099999995
+                                -119.23832900000001,
+                                38.165101
                             ],
                             [
-                                -5.92627250000005,
-                                57.2359261
+                                -119.23832900000001,
+                                37.565101000000006
                             ],
                             [
-                                -6.52627250000005,
-                                57.2359261
+                                -119.838329,
+                                37.565101000000006
                             ],
                             [
-                                -6.52627250000005,
-                                57.835926099999995
+                                -119.838329,
+                                38.165101
                             ],
                             [
-                                -5.92627250000005,
-                                57.835926099999995
+                                -119.23832900000001,
+                                38.165101
                             ]
                         ],
                         "type": "LineString"
