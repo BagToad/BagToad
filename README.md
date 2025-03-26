@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-and-rocks-on-foot-of-the-mountain-Jb8ClLr_Kjo"><img width="720" src="https://images.unsplash.com/photo-1445712525433-eba07da78bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI4ODI0MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="trees and rocks on foot of the mountain"></a>
+  <a href="https://unsplash.com/photos/empty-street-in-between-of-tall-trees-during-golden-hour-gyIRjKPXupE"><img width="720" src="https://images.unsplash.com/photo-1505028106030-e07ea1bd80c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI5Njg4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="empty street in between of tall trees during golden hour"></a>
   
-  <em>"trees and rocks on foot of the mountain"</em>
+  <em>"empty street in between of tall trees during golden hour"</em>
   
-  <em>"Rock slide"</em>
+  <em>"Tree tunnel"</em>
 
-  Photo by John Salzarulo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnsalzaurlo) / [portfolio](http://www.johnsalzarulo.com/) / [Twitter](https://twitter.com/johnsalzarulo)
+  Photo by Leo_Visions on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Leo_visions_) / [portfolio](https://linktr.ee/stephenleo1982) / [Twitter](https://twitter.com/stephenleo1982)
   
-  Taken at Yosemite National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.865101,-119.538329)
+  Taken at Point Reyes National Seashore, Inverness, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.55588056,-121.3979)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-E2 |
-| Exposure Time | 1/180 |
-| Aperture      | 5.6 |
-| Focal Length  | 18.0 |
-| ISO           | 800 |
-| Location      | Yosemite National Park, United States (United States) |
-| Coordinates   | Latitude 37.865101, Longitude -119.538329 |
+| Camera Model  | Canon EOS 5D Mark IV |
+| Exposure Time | 1/320 |
+| Aperture      | 2.8 |
+| Focal Length  | 130.0 |
+| ISO           | 320 |
+| Location      | Point Reyes National Seashore, Inverness, United States (United States) |
+| Coordinates   | Latitude 38.55588056, Longitude -121.3979 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.538329,
-                            37.865101
+                            -121.3979,
+                            38.55588056
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -119.23832900000001,
-                                38.165101
+                                -121.09790000000001,
+                                38.855880559999996
                             ],
                             [
-                                -119.23832900000001,
-                                37.565101000000006
+                                -121.09790000000001,
+                                38.25588056
                             ],
                             [
-                                -119.838329,
-                                37.565101000000006
+                                -121.6979,
+                                38.25588056
                             ],
                             [
-                                -119.838329,
-                                38.165101
+                                -121.6979,
+                                38.855880559999996
                             ],
                             [
-                                -119.23832900000001,
-                                38.165101
+                                -121.09790000000001,
+                                38.855880559999996
                             ]
                         ],
                         "type": "LineString"
