@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/empty-street-in-between-of-tall-trees-during-golden-hour-gyIRjKPXupE"><img width="720" src="https://images.unsplash.com/photo-1505028106030-e07ea1bd80c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDI5Njg4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="empty street in between of tall trees during golden hour"></a>
+  <a href="https://unsplash.com/photos/orange-petaled-flowers-near-green-trees-at-daytime-NLF6hTe4PAg"><img width="720" src="https://images.unsplash.com/photo-1465147264724-326b45c3c59b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDMwNTUyMjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="orange petaled flowers near green trees at daytime"></a>
   
-  <em>"empty street in between of tall trees during golden hour"</em>
+  <em>"orange petaled flowers near green trees at daytime"</em>
   
-  <em>"Tree tunnel"</em>
+  <em>""</em>
 
-  Photo by Leo_Visions on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Leo_visions_) / [portfolio](https://linktr.ee/stephenleo1982) / [Twitter](https://twitter.com/stephenleo1982)
+  Photo by Henry Be on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/enrico.bet)
   
-  Taken at Point Reyes National Seashore, Inverness, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.55588056,-121.3979)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark IV |
-| Exposure Time | 1/320 |
-| Aperture      | 2.8 |
-| Focal Length  | 130.0 |
-| ISO           | 320 |
-| Location      | Point Reyes National Seashore, Inverness, United States (United States) |
-| Coordinates   | Latitude 38.55588056, Longitude -121.3979 |
+| Camera Model  | NIKON D5100 |
+| Exposure Time | 1/1250 |
+| Aperture      | 5.0 |
+| Focal Length  | 50.0 |
+| ISO           | 160 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -121.3979,
-                            38.55588056
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -121.09790000000001,
-                                38.855880559999996
-                            ],
-                            [
-                                -121.09790000000001,
-                                38.25588056
-                            ],
-                            [
-                                -121.6979,
-                                38.25588056
-                            ],
-                            [
-                                -121.6979,
-                                38.855880559999996
-                            ],
-                            [
-                                -121.09790000000001,
-                                38.855880559999996
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
