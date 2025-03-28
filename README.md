@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/orange-petaled-flowers-near-green-trees-at-daytime-NLF6hTe4PAg"><img width="720" src="https://images.unsplash.com/photo-1465147264724-326b45c3c59b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDMwNTUyMjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="orange petaled flowers near green trees at daytime"></a>
+  <a href="https://unsplash.com/photos/view-of-seashore-sunset-tNDvFkxkBHo"><img width="720" src="https://images.unsplash.com/photo-1422493757035-1e5e03968f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDMxNDE2MzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="view of seashore sunset"></a>
   
-  <em>"orange petaled flowers near green trees at daytime"</em>
+  <em>"view of seashore sunset"</em>
   
-  <em>""</em>
+  <em>"Sunset over an Australian Beach"</em>
 
-  Photo by Henry Be on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/enrico.bet)
+  Photo by Igor Kasalovic on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ikasalovic) / [portfolio](https://igorkasalovic.com/) / [Twitter](https://twitter.com/ikasalovic)
   
-  Taken at Unknown • 
+  Taken at Australia, New South Wales, Sydney • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5100 |
-| Exposure Time | 1/1250 |
-| Aperture      | 5.0 |
-| Focal Length  | 50.0 |
-| ISO           | 160 |
-| Location      | Unknown (null) |
+| Camera Model  | Canon EOS 60D |
+| Exposure Time | 15 |
+| Aperture      | 20.0 |
+| Focal Length  | 10.0 |
+| ISO           | 100 |
+| Location      | Australia, New South Wales, Sydney (Australia) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
