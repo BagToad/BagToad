@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/view-of-seashore-sunset-tNDvFkxkBHo"><img width="720" src="https://images.unsplash.com/photo-1422493757035-1e5e03968f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDMxNDE2MzJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="view of seashore sunset"></a>
+  <a href="https://unsplash.com/photos/withered-trees-under-clear-blue-sky-S2Q5mdOrrVc"><img width="720" src="https://images.unsplash.com/photo-1559160581-44bd4222d397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDMyMjgwMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="withered trees under clear blue sky"></a>
   
-  <em>"view of seashore sunset"</em>
+  <em>"withered trees under clear blue sky"</em>
   
-  <em>"Sunset over an Australian Beach"</em>
+  <em>""</em>
 
-  Photo by Igor Kasalovic on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ikasalovic) / [portfolio](https://igorkasalovic.com/) / [Twitter](https://twitter.com/ikasalovic)
+  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
   
-  Taken at Australia, New South Wales, Sydney • 
+  Taken at Deadvlei, Sossusvlei, Namibia • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 60D |
-| Exposure Time | 15 |
-| Aperture      | 20.0 |
-| Focal Length  | 10.0 |
-| ISO           | 100 |
-| Location      | Australia, New South Wales, Sydney (Australia) |
+| Camera Model  | X100T |
+| Exposure Time | 1/600 |
+| Aperture      | 5.6 |
+| Focal Length  | 23.0 |
+| ISO           | 200 |
+| Location      | Deadvlei, Sossusvlei, Namibia (Namibia) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
