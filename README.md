@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/withered-trees-under-clear-blue-sky-S2Q5mdOrrVc"><img width="720" src="https://images.unsplash.com/photo-1559160581-44bd4222d397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDMyMjgwMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="withered trees under clear blue sky"></a>
+  <a href="https://unsplash.com/photos/yellow-volkswagen-van-on-road-A5rCN8626Ck"><img width="720" src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDMzMTQ0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="yellow Volkswagen van on road"></a>
   
-  <em>"withered trees under clear blue sky"</em>
+  <em>"yellow Volkswagen van on road"</em>
   
-  <em>""</em>
+  <em>"(contact me for the full resoluton image)"</em>
 
-  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
+  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
   
-  Taken at Deadvlei, Sossusvlei, Namibia • 
+  Taken at Arches National Park Entrance Station, Moab, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6165469,-109.6163291)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100T |
-| Exposure Time | 1/600 |
-| Aperture      | 5.6 |
-| Focal Length  | 23.0 |
-| ISO           | 200 |
-| Location      | Deadvlei, Sossusvlei, Namibia (Namibia) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/640 |
+| Aperture      | 11.0 |
+| Focal Length  | 50.0 |
+| ISO           | 400 |
+| Location      | Arches National Park Entrance Station, Moab, United States (United States) |
+| Coordinates   | Latitude 38.6165469, Longitude -109.6163291 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -109.6163291,
+                            38.6165469
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -109.3163291,
+                                38.9165469
+                            ],
+                            [
+                                -109.3163291,
+                                38.316546900000006
+                            ],
+                            [
+                                -109.9163291,
+                                38.316546900000006
+                            ],
+                            [
+                                -109.9163291,
+                                38.9165469
+                            ],
+                            [
+                                -109.3163291,
+                                38.9165469
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
