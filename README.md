@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/yellow-volkswagen-van-on-road-A5rCN8626Ck"><img width="720" src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDMzMTQ0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="yellow Volkswagen van on road"></a>
+  <a href="https://unsplash.com/photos/lavender-field-c1Jp-fo53U8"><img width="720" src="https://images.unsplash.com/photo-1499002238440-d264edd596ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM0MDA4Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="lavender field"></a>
   
-  <em>"yellow Volkswagen van on road"</em>
+  <em>"lavender field"</em>
   
-  <em>"(contact me for the full resoluton image)"</em>
+  <em>"Sunset over a lavender field"</em>
 
-  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
+  Photo by Léonard Cotte on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/EttocL) / [portfolio](https://ettocl.com) / [Twitter](https://twitter.com/EttocL)
   
-  Taken at Arches National Park Entrance Station, Moab, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6165469,-109.6163291)
+  Taken at Drôme, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.5298650604467,4.82497987792965)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/640 |
-| Aperture      | 11.0 |
-| Focal Length  | 50.0 |
-| ISO           | 400 |
-| Location      | Arches National Park Entrance Station, Moab, United States (United States) |
-| Coordinates   | Latitude 38.6165469, Longitude -109.6163291 |
+| Camera Model  | NIKON D5300 |
+| Exposure Time | 1/250 |
+| Aperture      | 8 |
+| Focal Length  | 25.0 |
+| ISO           | 100 |
+| Location      | Drôme, France (France) |
+| Coordinates   | Latitude 44.5298650604467, Longitude 4.82497987792965 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -109.6163291,
-                            38.6165469
+                            4.82497987792965,
+                            44.5298650604467
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -109.3163291,
-                                38.9165469
+                                5.12497987792965,
+                                44.8298650604467
                             ],
                             [
-                                -109.3163291,
-                                38.316546900000006
+                                5.12497987792965,
+                                44.229865060446706
                             ],
                             [
-                                -109.9163291,
-                                38.316546900000006
+                                4.52497987792965,
+                                44.229865060446706
                             ],
                             [
-                                -109.9163291,
-                                38.9165469
+                                4.52497987792965,
+                                44.8298650604467
                             ],
                             [
-                                -109.3163291,
-                                38.9165469
+                                5.12497987792965,
+                                44.8298650604467
                             ]
                         ],
                         "type": "LineString"
