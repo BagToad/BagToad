@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/lavender-field-c1Jp-fo53U8"><img width="720" src="https://images.unsplash.com/photo-1499002238440-d264edd596ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM0MDA4Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="lavender field"></a>
+  <a href="https://unsplash.com/photos/pathway-between-yellow-flower-field-hB-Vwbyxr9U"><img width="720" src="https://images.unsplash.com/photo-1534030665069-90e016e995e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM0ODcyMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="pathway between yellow flower field"></a>
   
-  <em>"lavender field"</em>
+  <em>"pathway between yellow flower field"</em>
   
-  <em>"Sunset over a lavender field"</em>
+  <em>"Home landscape"</em>
 
-  Photo by Léonard Cotte on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/EttocL) / [portfolio](https://ettocl.com) / [Twitter](https://twitter.com/EttocL)
+  Photo by Raquel Pedrotti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/raquelflosspedrotti)
   
-  Taken at Drôme, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.5298650604467,4.82497987792965)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5300 |
+| Camera Model  | Canon EOS REBEL T5 |
 | Exposure Time | 1/250 |
-| Aperture      | 8 |
-| Focal Length  | 25.0 |
+| Aperture      | 10.0 |
+| Focal Length  | 18.0 |
 | ISO           | 100 |
-| Location      | Drôme, France (France) |
-| Coordinates   | Latitude 44.5298650604467, Longitude 4.82497987792965 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            4.82497987792965,
-                            44.5298650604467
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                5.12497987792965,
-                                44.8298650604467
-                            ],
-                            [
-                                5.12497987792965,
-                                44.229865060446706
-                            ],
-                            [
-                                4.52497987792965,
-                                44.229865060446706
-                            ],
-                            [
-                                4.52497987792965,
-                                44.8298650604467
-                            ],
-                            [
-                                5.12497987792965,
-                                44.8298650604467
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
