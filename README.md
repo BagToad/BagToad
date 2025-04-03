@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/river-overflow-in-between-rock-formation-p3OzJuT_Dks"><img width="720" src="https://images.unsplash.com/photo-1461301214746-1e109215d6d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM1NzM2MjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="river overflow in between rock formation"></a>
+  <a href="https://unsplash.com/photos/body-of-water-on-mountain-y0i1lh-T0_w"><img width="720" src="https://images.unsplash.com/photo-1437209484568-e63b90a34f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM2NjAwMjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water on mountain"></a>
   
-  <em>"river overflow in between rock formation"</em>
+  <em>"body of water on mountain"</em>
   
-  <em>"Pfeiffer Beach at Dusk"</em>
+  <em>""</em>
 
-  Photo by Kace  Rodriguez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kacelogik)
+  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
   
-  Taken at Pfeiffer Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2381316,-121.8162251)
+  Taken at Valparola Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5333,11.9833)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100S |
-| Exposure Time | 3 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/60 |
 | Aperture      | 16.0 |
-| Focal Length  | 23.0 |
-| ISO           | 200 |
-| Location      | Pfeiffer Beach, United States (United States) |
-| Coordinates   | Latitude 36.2381316, Longitude -121.8162251 |
+| Focal Length  | 14.0 |
+| ISO           | 100 |
+| Location      | Valparola Pass, Italy (Italy) |
+| Coordinates   | Latitude 46.5333, Longitude 11.9833 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -121.8162251,
-                            36.2381316
+                            11.9833,
+                            46.5333
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -121.5162251,
-                                36.5381316
+                                12.2833,
+                                46.833299999999994
                             ],
                             [
-                                -121.5162251,
-                                35.938131600000006
+                                12.2833,
+                                46.2333
                             ],
                             [
-                                -122.1162251,
-                                35.938131600000006
+                                11.6833,
+                                46.2333
                             ],
                             [
-                                -122.1162251,
-                                36.5381316
+                                11.6833,
+                                46.833299999999994
                             ],
                             [
-                                -121.5162251,
-                                36.5381316
+                                12.2833,
+                                46.833299999999994
                             ]
                         ],
                         "type": "LineString"
