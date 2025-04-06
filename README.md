@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-under-sunny-sky-1WQ5RZuH9xo"><img width="720" src="https://images.unsplash.com/photo-1523978591478-c753949ff840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM4MzI4MjR8&ixlib=rb-4.0.3&q=80&w=1080" alt="body of water under sunny sky"></a>
+  <a href="https://unsplash.com/photos/valley-near-snowy-mountain-u0ZgqJD55pE"><img width="720" src="https://images.unsplash.com/photo-1459213599465-03ab6a4d5931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM5MTkyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="valley near snowy mountain"></a>
   
-  <em>"body of water under sunny sky"</em>
+  <em>"valley near snowy mountain"</em>
   
-  <em>"Beautiful morning at Andenes this february 2018."</em>
+  <em>"The landscape of Licancabur"</em>
 
-  Photo by Pascal Debrunner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pd_visuals) / [portfolio](https://www.instagram.com/pd_visuals)
+  Photo by Marcelo Quinan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marceloquinan) / [portfolio](Http://levelofambiguity.tumblr.com)
   
-  Taken at Andenes, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.3240819636415,16.1154219814453)
+  Taken at Licancabur • [Google Maps](https://www.google.com/maps/search/?api=1&query=-22.8333333,-67.8833333)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DSC-RX100M3 |
-| Exposure Time | 1/160 |
-| Aperture      | 5.6 |
-| Focal Length  | 8.8 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/125 |
+| Aperture      | 14.0 |
+| Focal Length  | 18.0 |
 | ISO           | 100 |
-| Location      | Andenes, Norway (Norway) |
-| Coordinates   | Latitude 69.3240819636415, Longitude 16.1154219814453 |
+| Location      | Licancabur (null) |
+| Coordinates   | Latitude -22.8333333, Longitude -67.8833333 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            16.1154219814453,
-                            69.3240819636415
+                            -67.8833333,
+                            -22.8333333
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                16.415421981445302,
-                                69.6240819636415
+                                -67.5833333,
+                                -22.5333333
                             ],
                             [
-                                16.415421981445302,
-                                69.0240819636415
+                                -67.5833333,
+                                -23.1333333
                             ],
                             [
-                                15.8154219814453,
-                                69.0240819636415
+                                -68.1833333,
+                                -23.1333333
                             ],
                             [
-                                15.8154219814453,
-                                69.6240819636415
+                                -68.1833333,
+                                -22.5333333
                             ],
                             [
-                                16.415421981445302,
-                                69.6240819636415
+                                -67.5833333,
+                                -22.5333333
                             ]
                         ],
                         "type": "LineString"
