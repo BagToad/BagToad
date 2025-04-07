@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/valley-near-snowy-mountain-u0ZgqJD55pE"><img width="720" src="https://images.unsplash.com/photo-1459213599465-03ab6a4d5931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDM5MTkyMjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="valley near snowy mountain"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-near-sea-under-white-clouds-at-daytime-oyrtK2hJqBY"><img width="720" src="https://images.unsplash.com/uploads/14126758789351371c7ec/aa322c2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQwMDU2MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field near sea under white clouds at daytime"></a>
   
-  <em>"valley near snowy mountain"</em>
+  <em>"green grass field near sea under white clouds at daytime"</em>
   
-  <em>"The landscape of Licancabur"</em>
+  <em>"Clouds over grassy shore"</em>
 
-  Photo by Marcelo Quinan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marceloquinan) / [portfolio](Http://levelofambiguity.tumblr.com)
+  Photo by Urban Vintage on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/urban_vintage.ro) / [portfolio](https://urban-vintage.ro/) / [Twitter](https://twitter.com/dmqwe)
   
-  Taken at Licancabur • [Google Maps](https://www.google.com/maps/search/?api=1&query=-22.8333333,-67.8833333)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/125 |
-| Aperture      | 14.0 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/640 |
+| Aperture      | 8.0 |
 | Focal Length  | 18.0 |
 | ISO           | 100 |
-| Location      | Licancabur (null) |
-| Coordinates   | Latitude -22.8333333, Longitude -67.8833333 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -67.8833333,
-                            -22.8333333
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -67.5833333,
-                                -22.5333333
-                            ],
-                            [
-                                -67.5833333,
-                                -23.1333333
-                            ],
-                            [
-                                -68.1833333,
-                                -23.1333333
-                            ],
-                            [
-                                -68.1833333,
-                                -22.5333333
-                            ],
-                            [
-                                -67.5833333,
-                                -22.5333333
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
