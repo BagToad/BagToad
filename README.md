@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/orange-petaled-flowers-near-green-trees-at-daytime-NLF6hTe4PAg"><img width="720" src="https://images.unsplash.com/photo-1465147264724-326b45c3c59b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQxNzg0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="orange petaled flowers near green trees at daytime"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-with-house-during-daytime-lzbFllF05XY"><img width="720" src="https://images.unsplash.com/photo-1470423725703-b136e2a8254c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQyNjQ4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field with house during daytime"></a>
   
-  <em>"orange petaled flowers near green trees at daytime"</em>
+  <em>"green grass field with house during daytime"</em>
   
   <em>""</em>
 
-  Photo by Henry Be on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/enrico.bet)
+  Photo by Arno Smit on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/_entreprenerd) / [portfolio](https://www.instagram.com/_entreprenerd) / [Twitter](https://twitter.com/_entreprenerd)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5100 |
-| Exposure Time | 1/1250 |
-| Aperture      | 5.0 |
-| Focal Length  | 50.0 |
-| ISO           | 160 |
+| Camera Model  | X-T10 |
+| Exposure Time | 1/3200 |
+| Aperture      | 4.0 |
+| Focal Length  | 35.0 |
+| ISO           | 200 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
