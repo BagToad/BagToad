@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-with-house-during-daytime-lzbFllF05XY"><img width="720" src="https://images.unsplash.com/photo-1470423725703-b136e2a8254c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQyNjQ4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field with house during daytime"></a>
+  <a href="https://unsplash.com/photos/black-sailing-boat-digital-wallpaper-DKix6Un55mw"><img width="720" src="https://images.unsplash.com/photo-1534447677768-be436bb09401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQzNTEyMjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="black sailing boat digital wallpaper"></a>
   
-  <em>"green grass field with house during daytime"</em>
+  <em>"black sailing boat digital wallpaper"</em>
   
-  <em>""</em>
+  <em>"Star reflection"</em>
 
-  Photo by Arno Smit on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/_entreprenerd) / [portfolio](https://www.instagram.com/_entreprenerd) / [Twitter](https://twitter.com/_entreprenerd)
+  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T10 |
-| Exposure Time | 1/3200 |
-| Aperture      | 4.0 |
-| Focal Length  | 35.0 |
-| ISO           | 200 |
+| Camera Model  | ILCE-7M2 |
+| Exposure Time | 30 |
+| Aperture      | 4.5 |
+| Focal Length  | 12.0 |
+| ISO           | 3200 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
