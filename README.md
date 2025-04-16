@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-mountains-during-nigh-time-photography-v7daTKlZzaw"><img width="720" src="https://images.unsplash.com/photo-1485470733090-0aae1788d5af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ2OTY4Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette of mountains during nigh time photography"></a>
+  <a href="https://unsplash.com/photos/calm-lake-surrounded-by-trees-near-mountain-range-Uszp5Gkg0AI"><img width="720" src="https://images.unsplash.com/photo-1413752362258-7af2a667b590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ3ODMyMjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm lake surrounded by trees near mountain range"></a>
   
-  <em>"silhouette of mountains during nigh time photography"</em>
+  <em>"calm lake surrounded by trees near mountain range"</em>
   
-  <em>"Taken from the top of Poon Hill before sun rise"</em>
+  <em>"You can support me via Paypal: http://paypal.me/dreamypixel"</em>
 
-  Photo by Daniel Leone on [unsplash.com](https://unsplash.com/) • [portfolio](https://danielleone.com)
+  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
   
-  Taken at Poon Hill, Ghode Pani, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.4004787,83.6940737)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Poon Hill, Ghode Pani, Nepal (Nepal) |
-| Coordinates   | Latitude 28.4004787, Longitude 83.6940737 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/160 |
+| Aperture      | 6.3 |
+| Focal Length  | 14.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            83.6940737,
-                            28.4004787
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                83.9940737,
-                                28.7004787
-                            ],
-                            [
-                                83.9940737,
-                                28.1004787
-                            ],
-                            [
-                                83.3940737,
-                                28.1004787
-                            ],
-                            [
-                                83.3940737,
-                                28.7004787
-                            ],
-                            [
-                                83.9940737,
-                                28.7004787
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
