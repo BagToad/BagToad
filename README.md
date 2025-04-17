@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/calm-lake-surrounded-by-trees-near-mountain-range-Uszp5Gkg0AI"><img width="720" src="https://images.unsplash.com/photo-1413752362258-7af2a667b590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ3ODMyMjh8&ixlib=rb-4.0.3&q=80&w=1080" alt="calm lake surrounded by trees near mountain range"></a>
+  <a href="https://unsplash.com/photos/red-petaled-flowers-during-golden-hour-CcRZ4k3c6gA"><img width="720" src="https://images.unsplash.com/photo-1531583044854-c6b7d8490ecf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ4Njk2MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="red petaled flowers during golden hour"></a>
   
-  <em>"calm lake surrounded by trees near mountain range"</em>
+  <em>"red petaled flowers during golden hour"</em>
   
-  <em>"You can support me via Paypal: http://paypal.me/dreamypixel"</em>
+  <em>"poignant scene, poppies as the sun goes down"</em>
 
-  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
+  Photo by Derek Mack on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -55,10 +55,10 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/160 |
-| Aperture      | 6.3 |
-| Focal Length  | 14.0 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 5 |
+| Aperture      | 22.0 |
+| Focal Length  | 50.0 |
 | ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
