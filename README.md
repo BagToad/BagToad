@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky-XNIjmb6Ax04"><img width="720" src="https://images.unsplash.com/photo-1429704658776-3d38c9990511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ5NTYwMjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="green grass field under blue sky"></a>
+  <a href="https://unsplash.com/photos/green-mountain-across-body-of-water-Bkci_8qcdvQ"><img width="720" src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDUwNDI0MjV8&ixlib=rb-4.0.3&q=80&w=1080" alt="green mountain across body of water"></a>
   
-  <em>"green grass field under blue sky"</em>
+  <em>"green mountain across body of water"</em>
   
-  <em>""</em>
+  <em>"travelyukon, Wet mountain valley"</em>
 
-  Photo by John Mark Arnold on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnmarkarnold) / [portfolio](https://www.instagram.com/johnmarkarnold/) / [Twitter](https://twitter.com/JohnMarkArnold)
+  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
   
-  Taken at Unknown • 
+  Taken at Kluane National Park and Reserve of Canada, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=60.75,-139.5)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 550D |
-| Exposure Time | 1/1000 |
-| Aperture      | 5.6 |
-| Focal Length  | 55.0 |
-| ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/200 |
+| Aperture      | 22 |
+| Focal Length  | 50.0 |
+| ISO           | 640 |
+| Location      | Kluane National Park and Reserve of Canada, Canada (Canada) |
+| Coordinates   | Latitude 60.75, Longitude -139.5 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -139.5,
+                            60.75
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -139.2,
+                                61.05
+                            ],
+                            [
+                                -139.2,
+                                60.45
+                            ],
+                            [
+                                -139.8,
+                                60.45
+                            ],
+                            [
+                                -139.8,
+                                61.05
+                            ],
+                            [
+                                -139.2,
+                                61.05
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
