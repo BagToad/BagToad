@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-brown-field-under-blue-sky-KV7n8nARXng"><img width="720" src="https://images.unsplash.com/photo-1431032843361-ec2cd229c751?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDUxMjg4MTl8&ixlib=rb-4.0.3&q=80&w=1080" alt="landscape photography of brown field under blue sky"></a>
+  <a href="https://unsplash.com/photos/mountain-near-on-body-of-water-photo-hXXRLtTxXCU"><img width="720" src="https://images.unsplash.com/photo-1484902945377-bd2a38e625cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDUyMTUyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain near on body of water photo"></a>
   
-  <em>"landscape photography of brown field under blue sky"</em>
+  <em>"mountain near on body of water photo"</em>
   
-  <em>"Countryside sunset"</em>
+  <em>"Reflection"</em>
 
-  Photo by Joseph Barrientos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jbcreate) / [portfolio](http://dribbble.com/jbcreate) / [Twitter](https://twitter.com/jbcreate_)
+  Photo by Brigitta Schneiter on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 1/2500 |
-| Aperture      | 4.0 |
-| Focal Length  | 16.0 |
-| ISO           | 250 |
+| Camera Model  | NIKON D7200 |
+| Exposure Time | 1/200 |
+| Aperture      | 14.0 |
+| Focal Length  | 62.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
