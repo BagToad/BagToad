@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-near-on-body-of-water-photo-hXXRLtTxXCU"><img width="720" src="https://images.unsplash.com/photo-1484902945377-bd2a38e625cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDUyMTUyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain near on body of water photo"></a>
+  <a href="https://unsplash.com/photos/mountain-surrounded-by-trees-under-cloudy-sky-T-tOgjWZ0fQ"><img width="720" src="https://images.unsplash.com/photo-1516687401797-25297ff1462c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDUzMDE2MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain surrounded by trees under cloudy sky"></a>
   
-  <em>"mountain near on body of water photo"</em>
+  <em>"mountain surrounded by trees under cloudy sky"</em>
   
-  <em>"Reflection"</em>
+  <em>"A bit less edited version of the the Yosemite Valley."</em>
 
-  Photo by Brigitta Schneiter on [unsplash.com](https://unsplash.com/) • 
+  Photo by Aniket Deole on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aniket__) / [portfolio](http://aniket.photos) / [Twitter](https://twitter.com/AniketDeole)
   
-  Taken at Unknown • 
+  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7200 |
-| Exposure Time | 1/200 |
-| Aperture      | 14.0 |
-| Focal Length  | 62.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/80 |
+| Aperture      | 8 |
+| Focal Length  | 41.0 |
+| ISO           | 200 |
+| Location      | Yosemite Valley, United States (United States) |
+| Coordinates   | Latitude 37.7455701, Longitude -119.5936038 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -119.5936038,
+                            37.7455701
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -119.2936038,
+                                38.0455701
+                            ],
+                            [
+                                -119.2936038,
+                                37.445570100000005
+                            ],
+                            [
+                                -119.8936038,
+                                37.445570100000005
+                            ],
+                            [
+                                -119.8936038,
+                                38.0455701
+                            ],
+                            [
+                                -119.2936038,
+                                38.0455701
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
