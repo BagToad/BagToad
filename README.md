@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-surrounded-by-trees-under-cloudy-sky-T-tOgjWZ0fQ"><img width="720" src="https://images.unsplash.com/photo-1516687401797-25297ff1462c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDUzMDE2MjZ8&ixlib=rb-4.0.3&q=80&w=1080" alt="mountain surrounded by trees under cloudy sky"></a>
+  <a href="https://unsplash.com/photos/aerial-shot-of-forest-2Hzmz15wGik"><img width="720" src="https://images.unsplash.com/photo-1511884642898-4c92249e20b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDUzODgwMjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial shot of forest"></a>
   
-  <em>"mountain surrounded by trees under cloudy sky"</em>
+  <em>"aerial shot of forest"</em>
   
-  <em>"A bit less edited version of the the Yosemite Valley."</em>
+  <em>"Nov in Sierra"</em>
 
-  Photo by Aniket Deole on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aniket__) / [portfolio](http://aniket.photos) / [Twitter](https://twitter.com/AniketDeole)
+  Photo by pine  watt on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pinewatt) / [portfolio](https://instagram.com/pinewatt/) / [Twitter](https://twitter.com/pinewatt)
   
-  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/80 |
-| Aperture      | 8 |
-| Focal Length  | 41.0 |
-| ISO           | 200 |
-| Location      | Yosemite Valley, United States (United States) |
-| Coordinates   | Latitude 37.7455701, Longitude -119.5936038 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 1/400 |
+| Aperture      | 8.0 |
+| Focal Length  | 24.0 |
+| ISO           | 3200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -119.5936038,
-                            37.7455701
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -119.2936038,
-                                38.0455701
-                            ],
-                            [
-                                -119.2936038,
-                                37.445570100000005
-                            ],
-                            [
-                                -119.8936038,
-                                37.445570100000005
-                            ],
-                            [
-                                -119.8936038,
-                                38.0455701
-                            ],
-                            [
-                                -119.2936038,
-                                38.0455701
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
