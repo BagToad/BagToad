@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-shot-of-forest-2Hzmz15wGik"><img width="720" src="https://images.unsplash.com/photo-1511884642898-4c92249e20b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDUzODgwMjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="aerial shot of forest"></a>
+  <a href="https://unsplash.com/photos/silhouette-photo-of-mountain-during-night-time-ln5drpv_ImI"><img width="720" src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDU0NzQ0MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photo of mountain during night time"></a>
   
-  <em>"aerial shot of forest"</em>
+  <em>"silhouette photo of mountain during night time"</em>
   
-  <em>"Nov in Sierra"</em>
+  <em>"Sublime purple night sky"</em>
 
-  Photo by pine  watt on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pinewatt) / [portfolio](https://instagram.com/pinewatt/) / [Twitter](https://twitter.com/pinewatt)
+  Photo by Vincentiu Solomon on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/vincentiusolomon) / [portfolio](http://vincentiusolomon.com)
   
-  Taken at Unknown • 
+  Taken at Cima d'Asta, Scurelle, Italy • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 7D |
-| Exposure Time | 1/400 |
-| Aperture      | 8.0 |
-| Focal Length  | 24.0 |
-| ISO           | 3200 |
-| Location      | Unknown (null) |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Cima d'Asta, Scurelle, Italy (Italy) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
