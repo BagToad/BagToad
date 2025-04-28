@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDU3MzM2MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="seashore during golden hour"></a>
+  <a href="https://unsplash.com/photos/photo-of-beach-near-mountain-under-blue-sky-at-daytime-9Y5Wk7favpE"><img width="720" src="https://images.unsplash.com/photo-1501791330673-603715379ded?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDU4MjAxMzl8&ixlib=rb-4.0.3&q=80&w=1080" alt="photo of beach near mountain under blue sky at daytime"></a>
   
-  <em>"seashore during golden hour"</em>
+  <em>"photo of beach near mountain under blue sky at daytime"</em>
   
-  <em>"The last night of a two week stay on the North Shore of Oahu, Hawaii."</em>
+  <em>"Horizon"</em>
 
-  Photo by Sean Oulashin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
+  Photo by Irene Dávila on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
+  Taken at Bannwaldsee, Schwangau, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.6006254,10.7745475)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T3i |
-| Exposure Time | 1/250 |
-| Aperture      | 4.5 |
-| Focal Length  | 10.0 |
-| ISO           | 200 |
-| Location      | North Shore, Waialua, United States (United States) |
-| Coordinates   | Latitude 21.5616575, Longitude -158.0715983 |
+| Camera Model  | Canon EOS 70D |
+| Exposure Time | 1/2000 |
+| Aperture      | 5.6 |
+| Focal Length  | 50.0 |
+| ISO           | 100 |
+| Location      | Bannwaldsee, Schwangau, Germany (Germany) |
+| Coordinates   | Latitude 47.6006254, Longitude 10.7745475 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -158.0715983,
-                            21.5616575
+                            10.7745475,
+                            47.6006254
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -157.7715983,
-                                21.8616575
+                                11.074547500000001,
+                                47.900625399999996
                             ],
                             [
-                                -157.7715983,
-                                21.2616575
+                                11.074547500000001,
+                                47.3006254
                             ],
                             [
-                                -158.37159830000002,
-                                21.2616575
+                                10.4745475,
+                                47.3006254
                             ],
                             [
-                                -158.37159830000002,
-                                21.8616575
+                                10.4745475,
+                                47.900625399999996
                             ],
                             [
-                                -157.7715983,
-                                21.8616575
+                                11.074547500000001,
+                                47.900625399999996
                             ]
                         ],
                         "type": "LineString"
