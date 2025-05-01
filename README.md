@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photography-of-sailing-boat-on-body-of-water-sJGvoX_eVhw"><img width="720" src="https://images.unsplash.com/photo-1513436539083-9d2127e742f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDU5OTI4MjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="silhouette photography of sailing boat on body of water"></a>
+  <a href="https://unsplash.com/photos/withered-trees-under-clear-blue-sky-S2Q5mdOrrVc"><img width="720" src="https://images.unsplash.com/photo-1559160581-44bd4222d397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDYwNzkyMjN8&ixlib=rb-4.0.3&q=80&w=1080" alt="withered trees under clear blue sky"></a>
   
-  <em>"silhouette photography of sailing boat on body of water"</em>
+  <em>"withered trees under clear blue sky"</em>
   
-  <em>"Sleepy Boat"</em>
+  <em>""</em>
 
-  Photo by Zoltan Tasi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/zoltan_tasi) / [portfolio](https://foundation.app/@zoltan_tasi)
+  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
   
-  Taken at Dungeness, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.919325,0.965280000000007)
+  Taken at Deadvlei, Sossusvlei, Namibia • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T1 |
-| Exposure Time | 30 |
-| Aperture      | 2 |
-| Focal Length  | 12.0 |
-| ISO           | 800 |
-| Location      | Dungeness, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 50.919325, Longitude 0.965280000000007 |
+| Camera Model  | X100T |
+| Exposure Time | 1/600 |
+| Aperture      | 5.6 |
+| Focal Length  | 23.0 |
+| ISO           | 200 |
+| Location      | Deadvlei, Sossusvlei, Namibia (Namibia) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            0.965280000000007,
-                            50.919325
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                1.265280000000007,
-                                51.219325
-                            ],
-                            [
-                                1.265280000000007,
-                                50.619325
-                            ],
-                            [
-                                0.665280000000007,
-                                50.619325
-                            ],
-                            [
-                                0.665280000000007,
-                                51.219325
-                            ],
-                            [
-                                1.265280000000007,
-                                51.219325
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
