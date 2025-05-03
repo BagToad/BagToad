@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/valley-near-snowy-mountain-u0ZgqJD55pE"><img width="720" src="https://images.unsplash.com/photo-1459213599465-03ab6a4d5931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDYxNjU2MjF8&ixlib=rb-4.0.3&q=80&w=1080" alt="valley near snowy mountain"></a>
+  <a href="https://unsplash.com/photos/river-overflow-in-between-rock-formation-p3OzJuT_Dks"><img width="720" src="https://images.unsplash.com/photo-1461301214746-1e109215d6d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDYyNTIwMjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="river overflow in between rock formation"></a>
   
-  <em>"valley near snowy mountain"</em>
+  <em>"river overflow in between rock formation"</em>
   
-  <em>"The landscape of Licancabur"</em>
+  <em>"Pfeiffer Beach at Dusk"</em>
 
-  Photo by Marcelo Quinan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marceloquinan) / [portfolio](Http://levelofambiguity.tumblr.com)
+  Photo by Kace  Rodriguez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kacelogik)
   
-  Taken at Licancabur • [Google Maps](https://www.google.com/maps/search/?api=1&query=-22.8333333,-67.8833333)
+  Taken at Pfeiffer Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2381316,-121.8162251)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/125 |
-| Aperture      | 14.0 |
-| Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Licancabur (null) |
-| Coordinates   | Latitude -22.8333333, Longitude -67.8833333 |
+| Camera Model  | X100S |
+| Exposure Time | 3 |
+| Aperture      | 16.0 |
+| Focal Length  | 23.0 |
+| ISO           | 200 |
+| Location      | Pfeiffer Beach, United States (United States) |
+| Coordinates   | Latitude 36.2381316, Longitude -121.8162251 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -67.8833333,
-                            -22.8333333
+                            -121.8162251,
+                            36.2381316
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -67.5833333,
-                                -22.5333333
+                                -121.5162251,
+                                36.5381316
                             ],
                             [
-                                -67.5833333,
-                                -23.1333333
+                                -121.5162251,
+                                35.938131600000006
                             ],
                             [
-                                -68.1833333,
-                                -23.1333333
+                                -122.1162251,
+                                35.938131600000006
                             ],
                             [
-                                -68.1833333,
-                                -22.5333333
+                                -122.1162251,
+                                36.5381316
                             ],
                             [
-                                -67.5833333,
-                                -22.5333333
+                                -121.5162251,
+                                36.5381316
                             ]
                         ],
                         "type": "LineString"
