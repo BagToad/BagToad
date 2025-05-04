@@ -38,15 +38,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/river-overflow-in-between-rock-formation-p3OzJuT_Dks"><img width="720" src="https://images.unsplash.com/photo-1461301214746-1e109215d6d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDYyNTIwMjB8&ixlib=rb-4.0.3&q=80&w=1080" alt="river overflow in between rock formation"></a>
+  <a href="https://unsplash.com/photos/orange-leaf-near-body-of-water-and-mountains-during-daytime-Qa2tSHWgh84"><img width="720" src="https://images.unsplash.com/photo-1510739859545-e7b9e979de86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDYzMzg0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="orange leaf near body of water and mountains during daytime"></a>
   
-  <em>"river overflow in between rock formation"</em>
+  <em>"orange leaf near body of water and mountains during daytime"</em>
   
-  <em>"Pfeiffer Beach at Dusk"</em>
+  <em>"Colors are an imagination
+of our humans brains —
+I don´t care says the plant."</em>
 
-  Photo by Kace  Rodriguez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kacelogik)
+  Photo by Simon Berger on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simon_berger/)
   
-  Taken at Pfeiffer Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2381316,-121.8162251)
+  Taken at Unknown • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.86019333,13.81465)
   
   ---
   
@@ -55,13 +57,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100S |
-| Exposure Time | 3 |
-| Aperture      | 16.0 |
-| Focal Length  | 23.0 |
+| Camera Model  | E-M1 |
+| Exposure Time | 1/500 |
+| Aperture      | 7.1 |
+| Focal Length  | 38.0 |
 | ISO           | 200 |
-| Location      | Pfeiffer Beach, United States (United States) |
-| Coordinates   | Latitude 36.2381316, Longitude -121.8162251 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude 47.86019333, Longitude 13.81465 |
 
 ### Map
 
@@ -74,8 +76,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -121.8162251,
-                            36.2381316
+                            13.81465,
+                            47.86019333
                         ],
                         "type": "Point"
                     },
@@ -87,24 +89,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -121.5162251,
-                                36.5381316
+                                14.114650000000001,
+                                48.16019333
                             ],
                             [
-                                -121.5162251,
-                                35.938131600000006
+                                14.114650000000001,
+                                47.560193330000004
                             ],
                             [
-                                -122.1162251,
-                                35.938131600000006
+                                13.51465,
+                                47.560193330000004
                             ],
                             [
-                                -122.1162251,
-                                36.5381316
+                                13.51465,
+                                48.16019333
                             ],
                             [
-                                -121.5162251,
-                                36.5381316
+                                14.114650000000001,
+                                48.16019333
                             ]
                         ],
                         "type": "LineString"
