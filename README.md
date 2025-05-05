@@ -38,17 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/orange-leaf-near-body-of-water-and-mountains-during-daytime-Qa2tSHWgh84"><img width="720" src="https://images.unsplash.com/photo-1510739859545-e7b9e979de86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDYzMzg0Mjl8&ixlib=rb-4.0.3&q=80&w=1080" alt="orange leaf near body of water and mountains during daytime"></a>
+  <a href="https://unsplash.com/photos/tree-on-body-of-water-near-mountains-KonWFWUaAuk"><img width="720" src="https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY0MjQ4MjJ8&ixlib=rb-4.0.3&q=80&w=1080" alt="tree on body of water near mountains"></a>
   
-  <em>"orange leaf near body of water and mountains during daytime"</em>
+  <em>"tree on body of water near mountains"</em>
   
-  <em>"Colors are an imagination
-of our humans brains —
-I don´t care says the plant."</em>
+  <em>""</em>
 
-  Photo by Simon Berger on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simon_berger/)
+  Photo by Ken Cheung on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kencheungphotos) / [portfolio](https://www.kencheungphoto.com/)
   
-  Taken at Unknown • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.86019333,13.81465)
+  Taken at Wanaka, Otago, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.69833833,169.11632833)
   
   ---
   
@@ -57,13 +55,13 @@ I don´t care says the plant."</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | E-M1 |
-| Exposure Time | 1/500 |
-| Aperture      | 7.1 |
-| Focal Length  | 38.0 |
-| ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude 47.86019333, Longitude 13.81465 |
+| Camera Model  | NIKON D5 |
+| Exposure Time | 10 |
+| Aperture      | 16 |
+| Focal Length  | 35.0 |
+| ISO           | 50 |
+| Location      | Wanaka, Otago, New Zealand (New Zealand) |
+| Coordinates   | Latitude -44.69833833, Longitude 169.11632833 |
 
 ### Map
 
@@ -76,8 +74,8 @@ I don´t care says the plant."</em>
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            13.81465,
-                            47.86019333
+                            169.11632833,
+                            -44.69833833
                         ],
                         "type": "Point"
                     },
@@ -89,24 +87,24 @@ I don´t care says the plant."</em>
                     "geometry": {
                         "coordinates": [
                             [
-                                14.114650000000001,
-                                48.16019333
+                                169.41632833,
+                                -44.39833833
                             ],
                             [
-                                14.114650000000001,
-                                47.560193330000004
+                                169.41632833,
+                                -44.998338329999996
                             ],
                             [
-                                13.51465,
-                                47.560193330000004
+                                168.81632832999998,
+                                -44.998338329999996
                             ],
                             [
-                                13.51465,
-                                48.16019333
+                                168.81632832999998,
+                                -44.39833833
                             ],
                             [
-                                14.114650000000001,
-                                48.16019333
+                                169.41632833,
+                                -44.39833833
                             ]
                         ],
                         "type": "LineString"
