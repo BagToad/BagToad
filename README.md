@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/field-and-mountain-near-body-of-water-meOFNlRbHmY"><img width="720" src="https://images.unsplash.com/photo-1519092437326-bfd121eb53ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY1MTEyMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="field and mountain near body of water"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-raing-CfMEecyNtHc"><img width="720" src="https://images.unsplash.com/photo-1529198792282-ca6752042aa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY1OTc2MjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountain raing"></a>
   
-  <em>"field and mountain near body of water"</em>
+  <em>"landscape photography of mountain raing"</em>
   
-  <em>"This is the main highway circling Iceland’s majestic beauty. The snow-capped mountains are a welcome site as you drive towards the island’s second most-populated city, Akureyi."</em>
+  <em>"The Bled´s Church"</em>
 
-  Photo by Josh Reid on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stellaroak) / [Twitter](https://twitter.com/stellaroak)
+  Photo by Francisco Ghisletti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/travellingtank)
   
-  Taken at Akureyri, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=65.6884921,-18.1261694)
+  Taken at Bled, Slovenia • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.3683266,14.1145798)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Akureyri, Iceland (Iceland) |
-| Coordinates   | Latitude 65.6884921, Longitude -18.1261694 |
+| Camera Model  | SM-G900V |
+| Exposure Time | 1/1912 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.8 |
+| ISO           | 40 |
+| Location      | Bled, Slovenia (Slovenia) |
+| Coordinates   | Latitude 46.3683266, Longitude 14.1145798 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -18.1261694,
-                            65.6884921
+                            14.1145798,
+                            46.3683266
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -17.826169399999998,
-                                65.9884921
+                                14.4145798,
+                                46.6683266
                             ],
                             [
-                                -17.826169399999998,
-                                65.38849210000001
+                                14.4145798,
+                                46.068326600000006
                             ],
                             [
-                                -18.4261694,
-                                65.38849210000001
+                                13.814579799999999,
+                                46.068326600000006
                             ],
                             [
-                                -18.4261694,
-                                65.9884921
+                                13.814579799999999,
+                                46.6683266
                             ],
                             [
-                                -17.826169399999998,
-                                65.9884921
+                                14.4145798,
+                                46.6683266
                             ]
                         ],
                         "type": "LineString"
