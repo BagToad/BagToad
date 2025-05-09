@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/empty-concrete-road-covered-surrounded-by-tall-tress-with-sun-rays-3Kv48NS4WUU"><img width="720" src="https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY2ODQwMzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="empty concrete road covered surrounded by tall tress with sun rays"></a>
+  <a href="https://unsplash.com/photos/green-plateau-near-water-and-grass-field-1KxBabIntpE"><img width="720" src="https://images.unsplash.com/photo-1535920917776-b0befb1c8166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY3NzA0MzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green plateau near water and grass field"></a>
   
-  <em>"empty concrete road covered surrounded by tall tress with sun rays"</em>
+  <em>"green plateau near water and grass field"</em>
   
-  <em>"Beam of light on a forest road"</em>
+  <em>"Lómagnúpur mountain og Skeiðarársandur on the south coast of Iceland."</em>
 
-  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
+  Photo by Sigurdur Fjalar Jonsson on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sfjalar) / [Twitter](https://twitter.com/sfjalar)
   
-  Taken at Ave of Giants, Ca • 
+  Taken at Unknown • 
   
   ---
   
@@ -57,10 +57,10 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | ------------- | ----- |
 | Camera Model  | ILCE-7M2 |
 | Exposure Time | 1/250 |
-| Aperture      | 4.0 |
-| Focal Length  | 157.0 |
-| ISO           | 800 |
-| Location      | Ave of Giants, Ca (null) |
+| Aperture      | 8.0 |
+| Focal Length  | 16.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
