@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-plateau-near-water-and-grass-field-1KxBabIntpE"><img width="720" src="https://images.unsplash.com/photo-1535920917776-b0befb1c8166?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY3NzA0MzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green plateau near water and grass field"></a>
+  <a href="https://unsplash.com/photos/photo-of-mountain-ruWkmt3nU58"><img width="720" src="https://images.unsplash.com/photo-1511300636408-a63a89df3482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY4NTY4MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of mountain"></a>
   
-  <em>"green plateau near water and grass field"</em>
+  <em>"photo of mountain"</em>
   
-  <em>"Lómagnúpur mountain og Skeiðarársandur on the south coast of Iceland."</em>
+  <em>"Discover where is this place and 45+ more places to shot in Iceland with my personal Google Map that I use for my workshop in Iceland on lucamicheliphotography.com/go/iceland-map/"</em>
 
-  Photo by Sigurdur Fjalar Jonsson on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sfjalar) / [Twitter](https://twitter.com/sfjalar)
+  Photo by Luca Micheli on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucamicheliphoto) / [portfolio](https://onlyroadtrips.com/?utm_source=unsplash) / [Twitter](https://twitter.com/ilucamicheli)
   
-  Taken at Unknown • 
+  Taken at Vestrahorn Mountain, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=64.2645215,-14.9728055)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 1/250 |
+| Camera Model  | Canon EOS 5D Mark IV |
+| Exposure Time | 1/25 |
 | Aperture      | 8.0 |
-| Focal Length  | 16.0 |
+| Focal Length  | 12.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Vestrahorn Mountain, Iceland (Iceland) |
+| Coordinates   | Latitude 64.2645215, Longitude -14.9728055 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -14.9728055,
+                            64.2645215
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -14.672805499999999,
+                                64.5645215
+                            ],
+                            [
+                                -14.672805499999999,
+                                63.964521500000004
+                            ],
+                            [
+                                -15.2728055,
+                                63.964521500000004
+                            ],
+                            [
+                                -15.2728055,
+                                64.5645215
+                            ],
+                            [
+                                -14.672805499999999,
+                                64.5645215
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
