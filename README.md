@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-mountain-ruWkmt3nU58"><img width="720" src="https://images.unsplash.com/photo-1511300636408-a63a89df3482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY4NTY4MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of mountain"></a>
+  <a href="https://unsplash.com/photos/photo-of-body-of-water-between-trees-and-mountain-sR7_ImYvt1Q"><img width="720" src="https://images.unsplash.com/photo-1502786129293-79981df4e689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY5NDMyMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of body of water between trees and mountain"></a>
   
-  <em>"photo of mountain"</em>
+  <em>"photo of body of water between trees and mountain"</em>
   
-  <em>"Discover where is this place and 45+ more places to shot in Iceland with my personal Google Map that I use for my workshop in Iceland on lucamicheliphotography.com/go/iceland-map/"</em>
+  <em>"Rocky Mountain"</em>
 
-  Photo by Luca Micheli on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucamicheliphoto) / [portfolio](https://onlyroadtrips.com/?utm_source=unsplash) / [Twitter](https://twitter.com/ilucamicheli)
+  Photo by Danyu Wang on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/w_danyu)
   
-  Taken at Vestrahorn Mountain, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=64.2645215,-14.9728055)
+  Taken at Field, 艾伯塔省, 加拿大 • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.32713889,-116.17922222)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark IV |
-| Exposure Time | 1/25 |
-| Aperture      | 8.0 |
-| Focal Length  | 12.0 |
-| ISO           | 100 |
-| Location      | Vestrahorn Mountain, Iceland (Iceland) |
-| Coordinates   | Latitude 64.2645215, Longitude -14.9728055 |
+| Camera Model  | EVA-AL10 |
+| Exposure Time | 1/236 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.5 |
+| ISO           | 50 |
+| Location      | Field, 艾伯塔省, 加拿大 (加拿大) |
+| Coordinates   | Latitude 51.32713889, Longitude -116.17922222 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -14.9728055,
-                            64.2645215
+                            -116.17922222,
+                            51.32713889
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -14.672805499999999,
-                                64.5645215
+                                -115.87922222,
+                                51.62713889
                             ],
                             [
-                                -14.672805499999999,
-                                63.964521500000004
+                                -115.87922222,
+                                51.02713889
                             ],
                             [
-                                -15.2728055,
-                                63.964521500000004
+                                -116.47922222,
+                                51.02713889
                             ],
                             [
-                                -15.2728055,
-                                64.5645215
+                                -116.47922222,
+                                51.62713889
                             ],
                             [
-                                -14.672805499999999,
-                                64.5645215
+                                -115.87922222,
+                                51.62713889
                             ]
                         ],
                         "type": "LineString"
