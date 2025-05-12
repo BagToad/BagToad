@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-body-of-water-between-trees-and-mountain-sR7_ImYvt1Q"><img width="720" src="https://images.unsplash.com/photo-1502786129293-79981df4e689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDY5NDMyMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of body of water between trees and mountain"></a>
+  <a href="https://unsplash.com/photos/yellow-volkswagen-van-on-road-A5rCN8626Ck"><img width="720" src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDcwMjk2MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="yellow Volkswagen van on road"></a>
   
-  <em>"photo of body of water between trees and mountain"</em>
+  <em>"yellow Volkswagen van on road"</em>
   
-  <em>"Rocky Mountain"</em>
+  <em>"(contact me for the full resoluton image)"</em>
 
-  Photo by Danyu Wang on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/w_danyu)
+  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
   
-  Taken at Field, 艾伯塔省, 加拿大 • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.32713889,-116.17922222)
+  Taken at Arches National Park Entrance Station, Moab, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6165469,-109.6163291)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | EVA-AL10 |
-| Exposure Time | 1/236 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.5 |
-| ISO           | 50 |
-| Location      | Field, 艾伯塔省, 加拿大 (加拿大) |
-| Coordinates   | Latitude 51.32713889, Longitude -116.17922222 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/640 |
+| Aperture      | 11.0 |
+| Focal Length  | 50.0 |
+| ISO           | 400 |
+| Location      | Arches National Park Entrance Station, Moab, United States (United States) |
+| Coordinates   | Latitude 38.6165469, Longitude -109.6163291 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.17922222,
-                            51.32713889
+                            -109.6163291,
+                            38.6165469
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -115.87922222,
-                                51.62713889
+                                -109.3163291,
+                                38.9165469
                             ],
                             [
-                                -115.87922222,
-                                51.02713889
+                                -109.3163291,
+                                38.316546900000006
                             ],
                             [
-                                -116.47922222,
-                                51.02713889
+                                -109.9163291,
+                                38.316546900000006
                             ],
                             [
-                                -116.47922222,
-                                51.62713889
+                                -109.9163291,
+                                38.9165469
                             ],
                             [
-                                -115.87922222,
-                                51.62713889
+                                -109.3163291,
+                                38.9165469
                             ]
                         ],
                         "type": "LineString"
