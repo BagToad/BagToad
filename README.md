@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/yellow-volkswagen-van-on-road-A5rCN8626Ck"><img width="720" src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDcwMjk2MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="yellow Volkswagen van on road"></a>
+  <a href="https://unsplash.com/photos/photo-of-gray-wooden-bridge-_kkx1WekVRY"><img width="720" src="https://images.unsplash.com/photo-1473221326025-9183b464bb7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDcxMTYwMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of gray wooden bridge"></a>
   
-  <em>"yellow Volkswagen van on road"</em>
+  <em>"photo of gray wooden bridge"</em>
   
-  <em>"(contact me for the full resoluton image)"</em>
+  <em>"Wooden walkway to the ocean"</em>
 
-  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
+  Photo by Anton Sharov on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/antonsharov) / [portfolio](http://instagram.com/antonsharov) / [Twitter](https://twitter.com/antonsharov)
   
-  Taken at Arches National Park Entrance Station, Moab, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.6165469,-109.6163291)
+  Taken at Dahme, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=54.2239738,11.0813043000001)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/640 |
-| Aperture      | 11.0 |
-| Focal Length  | 50.0 |
-| ISO           | 400 |
-| Location      | Arches National Park Entrance Station, Moab, United States (United States) |
-| Coordinates   | Latitude 38.6165469, Longitude -109.6163291 |
+| Camera Model  | iPhone 5c |
+| Exposure Time | 1/805 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.2 |
+| ISO           | 32 |
+| Location      | Dahme, Germany (Germany) |
+| Coordinates   | Latitude 54.2239738, Longitude 11.0813043000001 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -109.6163291,
-                            38.6165469
+                            11.0813043000001,
+                            54.2239738
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -109.3163291,
-                                38.9165469
+                                11.381304300000101,
+                                54.5239738
                             ],
                             [
-                                -109.3163291,
-                                38.316546900000006
+                                11.381304300000101,
+                                53.923973800000006
                             ],
                             [
-                                -109.9163291,
-                                38.316546900000006
+                                10.7813043000001,
+                                53.923973800000006
                             ],
                             [
-                                -109.9163291,
-                                38.9165469
+                                10.7813043000001,
+                                54.5239738
                             ],
                             [
-                                -109.3163291,
-                                38.9165469
+                                11.381304300000101,
+                                54.5239738
                             ]
                         ],
                         "type": "LineString"
