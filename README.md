@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-gray-wooden-bridge-_kkx1WekVRY"><img width="720" src="https://images.unsplash.com/photo-1473221326025-9183b464bb7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDcxMTYwMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of gray wooden bridge"></a>
+  <a href="https://unsplash.com/photos/body-of-water-on-mountain-y0i1lh-T0_w"><img width="720" src="https://images.unsplash.com/photo-1437209484568-e63b90a34f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDcyMDI0MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water on mountain"></a>
   
-  <em>"photo of gray wooden bridge"</em>
+  <em>"body of water on mountain"</em>
   
-  <em>"Wooden walkway to the ocean"</em>
+  <em>""</em>
 
-  Photo by Anton Sharov on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/antonsharov) / [portfolio](http://instagram.com/antonsharov) / [Twitter](https://twitter.com/antonsharov)
+  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
   
-  Taken at Dahme, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=54.2239738,11.0813043000001)
+  Taken at Valparola Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5333,11.9833)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 5c |
-| Exposure Time | 1/805 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.2 |
-| ISO           | 32 |
-| Location      | Dahme, Germany (Germany) |
-| Coordinates   | Latitude 54.2239738, Longitude 11.0813043000001 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/60 |
+| Aperture      | 16.0 |
+| Focal Length  | 14.0 |
+| ISO           | 100 |
+| Location      | Valparola Pass, Italy (Italy) |
+| Coordinates   | Latitude 46.5333, Longitude 11.9833 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.0813043000001,
-                            54.2239738
+                            11.9833,
+                            46.5333
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                11.381304300000101,
-                                54.5239738
+                                12.2833,
+                                46.833299999999994
                             ],
                             [
-                                11.381304300000101,
-                                53.923973800000006
+                                12.2833,
+                                46.2333
                             ],
                             [
-                                10.7813043000001,
-                                53.923973800000006
+                                11.6833,
+                                46.2333
                             ],
                             [
-                                10.7813043000001,
-                                54.5239738
+                                11.6833,
+                                46.833299999999994
                             ],
                             [
-                                11.381304300000101,
-                                54.5239738
+                                12.2833,
+                                46.833299999999994
                             ]
                         ],
                         "type": "LineString"
