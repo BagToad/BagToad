@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-near-on-body-of-water-photo-hXXRLtTxXCU"><img width="720" src="https://images.unsplash.com/photo-1484902945377-bd2a38e625cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDcyODg4MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain near on body of water photo"></a>
+  <a href="https://unsplash.com/photos/glacier-mountains-during-day-cqbLg3lZEpk"><img width="720" src="https://images.unsplash.com/photo-1544198365-f5d60b6d8190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDczNzUyMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="glacier mountains during day"></a>
   
-  <em>"mountain near on body of water photo"</em>
+  <em>"glacier mountains during day"</em>
   
-  <em>"Reflection"</em>
+  <em>"Torres del Paine"</em>
 
-  Photo by Brigitta Schneiter on [unsplash.com](https://unsplash.com/) • 
+  Photo by Kurt Cotoaga on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Kydroon) / [portfolio](http://kydroon.com) / [Twitter](https://twitter.com/Kydroon)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7200 |
-| Exposure Time | 1/200 |
-| Aperture      | 14.0 |
-| Focal Length  | 62.0 |
-| ISO           | 100 |
+| Camera Model  | Canon EOS 5D Mark II |
+| Exposure Time | 1/160 |
+| Aperture      | 4.0 |
+| Focal Length  | 173.0 |
+| ISO           | 250 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
