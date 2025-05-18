@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photography-of-beach-duvq92-VCZ4"><img width="720" src="https://images.unsplash.com/photo-1543348750-466b55f32f16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc0NjE2Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of beach"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky-XNIjmb6Ax04"><img width="720" src="https://images.unsplash.com/photo-1429704658776-3d38c9990511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc1NDgwMjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field under blue sky"></a>
   
-  <em>"aerial photography of beach"</em>
+  <em>"green grass field under blue sky"</em>
   
   <em>""</em>
 
-  Photo by Nick Perez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nickperezphotography) / [Twitter](https://twitter.com/nipez)
+  Photo by John Mark Arnold on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnmarkarnold) / [portfolio](https://www.instagram.com/johnmarkarnold/) / [Twitter](https://twitter.com/JohnMarkArnold)
   
-  Taken at Traverse City, USA • 
+  Taken at Unknown • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FC1102 |
-| Exposure Time | 1/60 |
-| Aperture      | 2.6 |
-| Focal Length  | 4.5 |
-| ISO           | 100 |
-| Location      | Traverse City, USA (USA) |
+| Camera Model  | Canon EOS 550D |
+| Exposure Time | 1/1000 |
+| Aperture      | 5.6 |
+| Focal Length  | 55.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
