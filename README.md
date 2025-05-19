@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky-XNIjmb6Ax04"><img width="720" src="https://images.unsplash.com/photo-1429704658776-3d38c9990511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc1NDgwMjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field under blue sky"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-mountains-during-daytime-dTSaC-S-7fs"><img width="720" src="https://images.unsplash.com/photo-1491824989090-cc2d0b57eb0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc2MzQ0MTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountains during daytime"></a>
   
-  <em>"green grass field under blue sky"</em>
+  <em>"silhouette of mountains during daytime"</em>
   
-  <em>""</em>
+  <em>"Ondulations"</em>
 
-  Photo by John Mark Arnold on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnmarkarnold) / [portfolio](https://www.instagram.com/johnmarkarnold/) / [Twitter](https://twitter.com/JohnMarkArnold)
+  Photo by Ricardo Gomez Angel on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ricardogo03) / [portfolio](https://www.rgaleria.com)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 550D |
-| Exposure Time | 1/1000 |
-| Aperture      | 5.6 |
-| Focal Length  | 55.0 |
-| ISO           | 200 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
