@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/glacier-mountains-during-day-cqbLg3lZEpk"><img width="720" src="https://images.unsplash.com/photo-1544198365-f5d60b6d8190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc4OTM2MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="glacier mountains during day"></a>
+  <a href="https://unsplash.com/photos/body-of-water-between-highlands-8dejZGw3Hec"><img width="720" src="https://images.unsplash.com/photo-1503401639559-b16332601594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc5ODAwMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water between highlands"></a>
   
-  <em>"glacier mountains during day"</em>
+  <em>"body of water between highlands"</em>
   
-  <em>"Torres del Paine"</em>
+  <em>""</em>
 
-  Photo by Kurt Cotoaga on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Kydroon) / [portfolio](http://kydroon.com) / [Twitter](https://twitter.com/Kydroon)
+  Photo by Johannes Ludwig on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johannesludwig)
   
-  Taken at Unknown • 
+  Taken at Plansee, Austria • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.48544,10.83574)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark II |
-| Exposure Time | 1/160 |
-| Aperture      | 4.0 |
-| Focal Length  | 173.0 |
-| ISO           | 250 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | FC220 |
+| Exposure Time | 1/120 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.7 |
+| ISO           | 100 |
+| Location      | Plansee, Austria (Austria) |
+| Coordinates   | Latitude 47.48544, Longitude 10.83574 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            10.83574,
+                            47.48544
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                11.13574,
+                                47.785439999999994
+                            ],
+                            [
+                                11.13574,
+                                47.18544
+                            ],
+                            [
+                                10.535739999999999,
+                                47.18544
+                            ],
+                            [
+                                10.535739999999999,
+                                47.785439999999994
+                            ],
+                            [
+                                11.13574,
+                                47.785439999999994
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
