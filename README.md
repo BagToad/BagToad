@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-between-highlands-8dejZGw3Hec"><img width="720" src="https://images.unsplash.com/photo-1503401639559-b16332601594?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDc5ODAwMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water between highlands"></a>
+  <a href="https://unsplash.com/photos/silhouette-photography-of-sailing-boat-on-body-of-water-sJGvoX_eVhw"><img width="720" src="https://images.unsplash.com/photo-1513436539083-9d2127e742f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgwNjY0MzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette photography of sailing boat on body of water"></a>
   
-  <em>"body of water between highlands"</em>
+  <em>"silhouette photography of sailing boat on body of water"</em>
   
-  <em>""</em>
+  <em>"Sleepy Boat"</em>
 
-  Photo by Johannes Ludwig on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johannesludwig)
+  Photo by Zoltan Tasi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/zoltan_tasi) / [portfolio](https://foundation.app/@zoltan_tasi)
   
-  Taken at Plansee, Austria • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.48544,10.83574)
+  Taken at Dungeness, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.919325,0.965280000000007)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FC220 |
-| Exposure Time | 1/120 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.7 |
-| ISO           | 100 |
-| Location      | Plansee, Austria (Austria) |
-| Coordinates   | Latitude 47.48544, Longitude 10.83574 |
+| Camera Model  | X-T1 |
+| Exposure Time | 30 |
+| Aperture      | 2 |
+| Focal Length  | 12.0 |
+| ISO           | 800 |
+| Location      | Dungeness, United Kingdom (United Kingdom) |
+| Coordinates   | Latitude 50.919325, Longitude 0.965280000000007 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            10.83574,
-                            47.48544
+                            0.965280000000007,
+                            50.919325
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                11.13574,
-                                47.785439999999994
+                                1.265280000000007,
+                                51.219325
                             ],
                             [
-                                11.13574,
-                                47.18544
+                                1.265280000000007,
+                                50.619325
                             ],
                             [
-                                10.535739999999999,
-                                47.18544
+                                0.665280000000007,
+                                50.619325
                             ],
                             [
-                                10.535739999999999,
-                                47.785439999999994
+                                0.665280000000007,
+                                51.219325
                             ],
                             [
-                                11.13574,
-                                47.785439999999994
+                                1.265280000000007,
+                                51.219325
                             ]
                         ],
                         "type": "LineString"
