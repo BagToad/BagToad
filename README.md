@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photography-of-sailing-boat-on-body-of-water-sJGvoX_eVhw"><img width="720" src="https://images.unsplash.com/photo-1513436539083-9d2127e742f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgwNjY0MzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette photography of sailing boat on body of water"></a>
+  <a href="https://unsplash.com/photos/tree-between-green-land-during-golden-hour-T-LfvX-7IVg"><img width="720" src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgxNTI4MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree between green land during golden hour"></a>
   
-  <em>"silhouette photography of sailing boat on body of water"</em>
+  <em>"tree between green land during golden hour"</em>
   
-  <em>"Sleepy Boat"</em>
+  <em>"Sunset tree in Kenya Safari, Africa"</em>
 
-  Photo by Zoltan Tasi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/zoltan_tasi) / [portfolio](https://foundation.app/@zoltan_tasi)
+  Photo by Damian Patkowski on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/damian.patkowski) / [Twitter](https://twitter.com/damianpatkowski)
   
-  Taken at Dungeness, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.919325,0.965280000000007)
+  Taken at Tsavo East National Park Kenya, Africa, Kenya • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T1 |
-| Exposure Time | 30 |
-| Aperture      | 2 |
-| Focal Length  | 12.0 |
-| ISO           | 800 |
-| Location      | Dungeness, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 50.919325, Longitude 0.965280000000007 |
+| Camera Model  | NIKON D5200 |
+| Exposure Time | 1/2000 |
+| Aperture      | 8.0 |
+| Focal Length  | 25.0 |
+| ISO           | 400 |
+| Location      | Tsavo East National Park Kenya, Africa, Kenya (Kenya) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            0.965280000000007,
-                            50.919325
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                1.265280000000007,
-                                51.219325
-                            ],
-                            [
-                                1.265280000000007,
-                                50.619325
-                            ],
-                            [
-                                0.665280000000007,
-                                50.619325
-                            ],
-                            [
-                                0.665280000000007,
-                                51.219325
-                            ],
-                            [
-                                1.265280000000007,
-                                51.219325
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
