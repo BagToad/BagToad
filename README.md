@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/three-brown-wooden-boat-on-blue-lake-water-taken-at-daytime-T7K4aEPoGGk"><img width="720" src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgyMzkyMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="three brown wooden boat on blue lake water taken at daytime"></a>
+  <a href="https://unsplash.com/photos/glacier-mountains-during-day-cqbLg3lZEpk"><img width="720" src="https://images.unsplash.com/photo-1544198365-f5d60b6d8190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgzMjU2MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="glacier mountains during day"></a>
   
-  <em>"three brown wooden boat on blue lake water taken at daytime"</em>
+  <em>"glacier mountains during day"</em>
   
-  <em>""</em>
+  <em>"Torres del Paine"</em>
 
-  Photo by Pietro De Grandi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/peter_mc_greats) / [portfolio](https://www.instagram.com/peter_mc_greats/)
+  Photo by Kurt Cotoaga on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Kydroon) / [portfolio](http://kydroon.com) / [Twitter](https://twitter.com/Kydroon)
   
-  Taken at Pragser Wildsee, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6946966,12.0854459)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Pragser Wildsee, Italy (Italy) |
-| Coordinates   | Latitude 46.6946966, Longitude 12.0854459 |
+| Camera Model  | Canon EOS 5D Mark II |
+| Exposure Time | 1/160 |
+| Aperture      | 4.0 |
+| Focal Length  | 173.0 |
+| ISO           | 250 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            12.0854459,
-                            46.6946966
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                12.3854459,
-                                46.9946966
-                            ],
-                            [
-                                12.3854459,
-                                46.3946966
-                            ],
-                            [
-                                11.7854459,
-                                46.3946966
-                            ],
-                            [
-                                11.7854459,
-                                46.9946966
-                            ],
-                            [
-                                12.3854459,
-                                46.9946966
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
