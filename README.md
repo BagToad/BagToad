@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/glacier-mountains-during-day-cqbLg3lZEpk"><img width="720" src="https://images.unsplash.com/photo-1544198365-f5d60b6d8190?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDgzMjU2MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="glacier mountains during day"></a>
+  <a href="https://unsplash.com/photos/brown-house-near-body-of-water-zAjdgNXsMeg"><img width="720" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDg0MTIwMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown house near body of water"></a>
   
-  <em>"glacier mountains during day"</em>
+  <em>"brown house near body of water"</em>
   
-  <em>"Torres del Paine"</em>
+  <em>"Boathouse on a mountain lake"</em>
 
-  Photo by Kurt Cotoaga on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/Kydroon) / [portfolio](http://kydroon.com) / [Twitter](https://twitter.com/Kydroon)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Unknown • 
+  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark II |
-| Exposure Time | 1/160 |
-| Aperture      | 4.0 |
-| Focal Length  | 173.0 |
-| ISO           | 250 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lago di Braies (null) |
+| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            12.0859822,
+                            46.6948731
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                12.3859822,
+                                46.9948731
+                            ],
+                            [
+                                12.3859822,
+                                46.394873100000005
+                            ],
+                            [
+                                11.7859822,
+                                46.394873100000005
+                            ],
+                            [
+                                11.7859822,
+                                46.9948731
+                            ],
+                            [
+                                12.3859822,
+                                46.9948731
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
