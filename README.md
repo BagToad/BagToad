@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDg0OTg0Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="seashore during golden hour"></a>
+  <a href="https://unsplash.com/photos/black-painted-house-in-the-middle-of-the-trees-zlV1Ksvifvs"><img width="720" src="https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDg1ODQ4MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="black painted house in the middle of the trees"></a>
   
-  <em>"seashore during golden hour"</em>
+  <em>"black painted house in the middle of the trees"</em>
   
-  <em>"The last night of a two week stay on the North Shore of Oahu, Hawaii."</em>
+  <em>"(contact me for the full resoluton image)"</em>
 
-  Photo by Sean Oulashin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
+  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
   
-  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
+  Taken at Arnisee, Gurtnellen, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7716847,8.64337209999997)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T3i |
-| Exposure Time | 1/250 |
-| Aperture      | 4.5 |
-| Focal Length  | 10.0 |
-| ISO           | 200 |
-| Location      | North Shore, Waialua, United States (United States) |
-| Coordinates   | Latitude 21.5616575, Longitude -158.0715983 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/80 |
+| Aperture      | 18.0 |
+| Focal Length  | 60.0 |
+| ISO           | 100 |
+| Location      | Arnisee, Gurtnellen, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.7716847, Longitude 8.64337209999997 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -158.0715983,
-                            21.5616575
+                            8.64337209999997,
+                            46.7716847
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -157.7715983,
-                                21.8616575
+                                8.943372099999971,
+                                47.0716847
                             ],
                             [
-                                -157.7715983,
-                                21.2616575
+                                8.943372099999971,
+                                46.471684700000004
                             ],
                             [
-                                -158.37159830000002,
-                                21.2616575
+                                8.34337209999997,
+                                46.471684700000004
                             ],
                             [
-                                -158.37159830000002,
-                                21.8616575
+                                8.34337209999997,
+                                47.0716847
                             ],
                             [
-                                -157.7715983,
-                                21.8616575
+                                8.943372099999971,
+                                47.0716847
                             ]
                         ],
                         "type": "LineString"
