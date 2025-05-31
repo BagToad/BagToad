@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-painted-house-in-the-middle-of-the-trees-zlV1Ksvifvs"><img width="720" src="https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDg1ODQ4MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="black painted house in the middle of the trees"></a>
+  <a href="https://unsplash.com/photos/river-overflow-in-between-rock-formation-p3OzJuT_Dks"><img width="720" src="https://images.unsplash.com/photo-1461301214746-1e109215d6d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDg2NzEyMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="river overflow in between rock formation"></a>
   
-  <em>"black painted house in the middle of the trees"</em>
+  <em>"river overflow in between rock formation"</em>
   
-  <em>"(contact me for the full resoluton image)"</em>
+  <em>"Pfeiffer Beach at Dusk"</em>
 
-  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
+  Photo by Kace  Rodriguez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kacelogik)
   
-  Taken at Arnisee, Gurtnellen, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7716847,8.64337209999997)
+  Taken at Pfeiffer Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2381316,-121.8162251)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/80 |
-| Aperture      | 18.0 |
-| Focal Length  | 60.0 |
-| ISO           | 100 |
-| Location      | Arnisee, Gurtnellen, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.7716847, Longitude 8.64337209999997 |
+| Camera Model  | X100S |
+| Exposure Time | 3 |
+| Aperture      | 16.0 |
+| Focal Length  | 23.0 |
+| ISO           | 200 |
+| Location      | Pfeiffer Beach, United States (United States) |
+| Coordinates   | Latitude 36.2381316, Longitude -121.8162251 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            8.64337209999997,
-                            46.7716847
+                            -121.8162251,
+                            36.2381316
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                8.943372099999971,
-                                47.0716847
+                                -121.5162251,
+                                36.5381316
                             ],
                             [
-                                8.943372099999971,
-                                46.471684700000004
+                                -121.5162251,
+                                35.938131600000006
                             ],
                             [
-                                8.34337209999997,
-                                46.471684700000004
+                                -122.1162251,
+                                35.938131600000006
                             ],
                             [
-                                8.34337209999997,
-                                47.0716847
+                                -122.1162251,
+                                36.5381316
                             ],
                             [
-                                8.943372099999971,
-                                47.0716847
+                                -121.5162251,
+                                36.5381316
                             ]
                         ],
                         "type": "LineString"
