@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-tall-green-trees-within-mountain-range-CqBjlUs6t50"><img width="720" src="https://images.unsplash.com/photo-1446482972539-0ed52b3e9520?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkwMTY4MzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of tall green trees within mountain range"></a>
+  <a href="https://unsplash.com/photos/calm-body-of-water-surrounded-by-trees-near-cliff-mWRR1xj95hg"><img width="720" src="https://images.unsplash.com/photo-1454982523318-4b6396f39d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkxMDMyMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="calm body of water surrounded by trees near cliff"></a>
   
-  <em>"photo of tall green trees within mountain range"</em>
+  <em>"calm body of water surrounded by trees near cliff"</em>
   
-  <em>""</em>
+  <em>"River beneath Yosemite cliffs"</em>
 
-  Photo by Paul Summers on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/somonesummers) / [portfolio](https://www.flickr.com/photos/paul_summers/)
+  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
   
-  Taken at Piute Lake, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.1621033,-119.8111751)
+  Taken at Yosemite National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.8651011,-119.5383294)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/100 |
-| Aperture      | 4.0 |
-| Focal Length  | 24.0 |
-| ISO           | 100 |
-| Location      | Piute Lake, United States (United States) |
-| Coordinates   | Latitude 38.1621033, Longitude -119.8111751 |
+| Camera Model  | Canon EOS REBEL T5i |
+| Exposure Time | 1/200 |
+| Aperture      | 8.0 |
+| Focal Length  | 18.0 |
+| ISO           | 200 |
+| Location      | Yosemite National Park, United States (United States) |
+| Coordinates   | Latitude 37.8651011, Longitude -119.5383294 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.8111751,
-                            38.1621033
+                            -119.5383294,
+                            37.8651011
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -119.5111751,
-                                38.462103299999995
+                                -119.2383294,
+                                38.165101099999994
                             ],
                             [
-                                -119.5111751,
-                                37.8621033
+                                -119.2383294,
+                                37.5651011
                             ],
                             [
-                                -120.1111751,
-                                37.8621033
+                                -119.83832939999999,
+                                37.5651011
                             ],
                             [
-                                -120.1111751,
-                                38.462103299999995
+                                -119.83832939999999,
+                                38.165101099999994
                             ],
                             [
-                                -119.5111751,
-                                38.462103299999995
+                                -119.2383294,
+                                38.165101099999994
                             ]
                         ],
                         "type": "LineString"
