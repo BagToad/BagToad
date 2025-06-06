@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/calm-body-of-water-surrounded-by-trees-near-cliff-mWRR1xj95hg"><img width="720" src="https://images.unsplash.com/photo-1454982523318-4b6396f39d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkxMDMyMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="calm body of water surrounded by trees near cliff"></a>
+  <a href="https://unsplash.com/photos/mountain-covered-with-green-grass-ZVbv1akA-l4"><img width="720" src="https://images.unsplash.com/photo-1438786657495-640937046d18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkxODk2MzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain covered with green grass"></a>
   
-  <em>"calm body of water surrounded by trees near cliff"</em>
+  <em>"mountain covered with green grass"</em>
   
-  <em>"River beneath Yosemite cliffs"</em>
+  <em>"Écosse valley and mountains"</em>
 
-  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
+  Photo by Claudel Rheault on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chevalreal) / [portfolio](http://realcheval.co) / [Twitter](https://twitter.com/realcheval)
   
-  Taken at Yosemite National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.8651011,-119.5383294)
+  Taken at Écosse • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.4906712,-4.20264580000003)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T5i |
-| Exposure Time | 1/200 |
-| Aperture      | 8.0 |
+| Camera Model  | Canon EOS REBEL T2i |
+| Exposure Time | 1/1600 |
+| Aperture      | 3.5 |
 | Focal Length  | 18.0 |
-| ISO           | 200 |
-| Location      | Yosemite National Park, United States (United States) |
-| Coordinates   | Latitude 37.8651011, Longitude -119.5383294 |
+| ISO           | 100 |
+| Location      | Écosse (null) |
+| Coordinates   | Latitude 56.4906712, Longitude -4.20264580000003 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.5383294,
-                            37.8651011
+                            -4.20264580000003,
+                            56.4906712
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -119.2383294,
-                                38.165101099999994
+                                -3.9026458000000304,
+                                56.7906712
                             ],
                             [
-                                -119.2383294,
-                                37.5651011
+                                -3.9026458000000304,
+                                56.190671200000004
                             ],
                             [
-                                -119.83832939999999,
-                                37.5651011
+                                -4.50264580000003,
+                                56.190671200000004
                             ],
                             [
-                                -119.83832939999999,
-                                38.165101099999994
+                                -4.50264580000003,
+                                56.7906712
                             ],
                             [
-                                -119.2383294,
-                                38.165101099999994
+                                -3.9026458000000304,
+                                56.7906712
                             ]
                         ],
                         "type": "LineString"
