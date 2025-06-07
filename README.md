@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-covered-with-green-grass-ZVbv1akA-l4"><img width="720" src="https://images.unsplash.com/photo-1438786657495-640937046d18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkxODk2MzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain covered with green grass"></a>
+  <a href="https://unsplash.com/photos/empty-road-between-trees-on-forest-v4e3JI7DDHI"><img width="720" src="https://images.unsplash.com/photo-1446329813274-7c9036bd9a1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkyNzYwMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="empty road between trees on forest"></a>
   
-  <em>"mountain covered with green grass"</em>
+  <em>"empty road between trees on forest"</em>
   
-  <em>"Écosse valley and mountains"</em>
+  <em>""</em>
 
-  Photo by Claudel Rheault on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chevalreal) / [portfolio](http://realcheval.co) / [Twitter](https://twitter.com/realcheval)
+  Photo by Sebastian Unrau on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
   
-  Taken at Écosse • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.4906712,-4.20264580000003)
+  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T2i |
-| Exposure Time | 1/1600 |
-| Aperture      | 3.5 |
-| Focal Length  | 18.0 |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 0.3 |
+| Aperture      | 16.0 |
+| Focal Length  | 16.0 |
 | ISO           | 100 |
-| Location      | Écosse (null) |
-| Coordinates   | Latitude 56.4906712, Longitude -4.20264580000003 |
+| Location      | Bad Pyrmont, Deutschland (Deutschland) |
+| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -4.20264580000003,
-                            56.4906712
+                            9.25209110000003,
+                            51.9855648
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -3.9026458000000304,
-                                56.7906712
+                                9.55209110000003,
+                                52.285564799999996
                             ],
                             [
-                                -3.9026458000000304,
-                                56.190671200000004
+                                9.55209110000003,
+                                51.6855648
                             ],
                             [
-                                -4.50264580000003,
-                                56.190671200000004
+                                8.952091100000029,
+                                51.6855648
                             ],
                             [
-                                -4.50264580000003,
-                                56.7906712
+                                8.952091100000029,
+                                52.285564799999996
                             ],
                             [
-                                -3.9026458000000304,
-                                56.7906712
+                                9.55209110000003,
+                                52.285564799999996
                             ]
                         ],
                         "type": "LineString"
