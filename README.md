@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/empty-road-between-trees-on-forest-v4e3JI7DDHI"><img width="720" src="https://images.unsplash.com/photo-1446329813274-7c9036bd9a1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkyNzYwMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="empty road between trees on forest"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-snowy-mountains-gdQnsMbhkUs"><img width="720" src="https://images.unsplash.com/photo-1506104489822-562ca25152fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkzNjI0Mjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of snowy mountains"></a>
   
-  <em>"empty road between trees on forest"</em>
+  <em>"landscape photography of snowy mountains"</em>
   
-  <em>""</em>
+  <em>"Moraine Lake at 6AM"</em>
 
-  Photo by Sebastian Unrau on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
+  Photo by Redd Francisco on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/radd.films) / [portfolio](https://www.raddfilms.com/)
   
-  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
+  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 0.3 |
-| Aperture      | 16.0 |
+| Camera Model  | ILCE-7S |
+| Exposure Time | 1/100 |
+| Aperture      | 2.8 |
 | Focal Length  | 16.0 |
 | ISO           | 100 |
-| Location      | Bad Pyrmont, Deutschland (Deutschland) |
-| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
+| Location      | Moraine Lake, Canada (Canada) |
+| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.25209110000003,
-                            51.9855648
+                            -116.1860049,
+                            51.3217416
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.55209110000003,
-                                52.285564799999996
+                                -115.8860049,
+                                51.6217416
                             ],
                             [
-                                9.55209110000003,
-                                51.6855648
+                                -115.8860049,
+                                51.021741600000006
                             ],
                             [
-                                8.952091100000029,
-                                51.6855648
+                                -116.4860049,
+                                51.021741600000006
                             ],
                             [
-                                8.952091100000029,
-                                52.285564799999996
+                                -116.4860049,
+                                51.6217416
                             ],
                             [
-                                9.55209110000003,
-                                52.285564799999996
+                                -115.8860049,
+                                51.6217416
                             ]
                         ],
                         "type": "LineString"
