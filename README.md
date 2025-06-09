@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-snowy-mountains-gdQnsMbhkUs"><img width="720" src="https://images.unsplash.com/photo-1506104489822-562ca25152fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDkzNjI0Mjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of snowy mountains"></a>
+  <a href="https://unsplash.com/photos/huge-rock-near-beach-0A_b9G-Rm6w"><img width="720" src="https://images.unsplash.com/photo-1474433188271-d3f339f41911?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk0NDg4Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="huge rock near beach"></a>
   
-  <em>"landscape photography of snowy mountains"</em>
+  <em>"huge rock near beach"</em>
   
-  <em>"Moraine Lake at 6AM"</em>
+  <em>"Little Corona Beach sunrise"</em>
 
-  Photo by Redd Francisco on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/radd.films) / [portfolio](https://www.raddfilms.com/)
+  Photo by Austin Neill on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/arstyy) / [Twitter](https://twitter.com/austinneill)
   
-  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
+  Taken at Little Corona Beach, Newport Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=33.5898884,-117.8689629)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7S |
-| Exposure Time | 1/100 |
-| Aperture      | 2.8 |
-| Focal Length  | 16.0 |
-| ISO           | 100 |
-| Location      | Moraine Lake, Canada (Canada) |
-| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Little Corona Beach, Newport Beach, United States (United States) |
+| Coordinates   | Latitude 33.5898884, Longitude -117.8689629 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.1860049,
-                            51.3217416
+                            -117.8689629,
+                            33.5898884
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -115.8860049,
-                                51.6217416
+                                -117.5689629,
+                                33.8898884
                             ],
                             [
-                                -115.8860049,
-                                51.021741600000006
+                                -117.5689629,
+                                33.2898884
                             ],
                             [
-                                -116.4860049,
-                                51.021741600000006
+                                -118.1689629,
+                                33.2898884
                             ],
                             [
-                                -116.4860049,
-                                51.6217416
+                                -118.1689629,
+                                33.8898884
                             ],
                             [
-                                -115.8860049,
-                                51.6217416
+                                -117.5689629,
+                                33.8898884
                             ]
                         ],
                         "type": "LineString"
