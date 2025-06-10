@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/huge-rock-near-beach-0A_b9G-Rm6w"><img width="720" src="https://images.unsplash.com/photo-1474433188271-d3f339f41911?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk0NDg4Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="huge rock near beach"></a>
+  <a href="https://unsplash.com/photos/scenery-of-mountain-canyon-WeYamle9fDM"><img width="720" src="https://images.unsplash.com/photo-1479030160180-b1860951d696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk1MzUyMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="scenery of mountain canyon"></a>
   
-  <em>"huge rock near beach"</em>
+  <em>"scenery of mountain canyon"</em>
   
-  <em>"Little Corona Beach sunrise"</em>
+  <em>""</em>
 
-  Photo by Austin Neill on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/arstyy) / [Twitter](https://twitter.com/austinneill)
+  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
   
-  Taken at Little Corona Beach, Newport Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=33.5898884,-117.8689629)
+  Taken at Lower Antelope Canyon, Page, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.903128,-111.4132503)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Little Corona Beach, Newport Beach, United States (United States) |
-| Coordinates   | Latitude 33.5898884, Longitude -117.8689629 |
+| Camera Model  | X100T |
+| Exposure Time | 1/450 |
+| Aperture      | 2.0 |
+| Focal Length  | 23.0 |
+| ISO           | 400 |
+| Location      | Lower Antelope Canyon, Page, United States (United States) |
+| Coordinates   | Latitude 36.903128, Longitude -111.4132503 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -117.8689629,
-                            33.5898884
+                            -111.4132503,
+                            36.903128
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -117.5689629,
-                                33.8898884
+                                -111.1132503,
+                                37.203128
                             ],
                             [
-                                -117.5689629,
-                                33.2898884
+                                -111.1132503,
+                                36.603128000000005
                             ],
                             [
-                                -118.1689629,
-                                33.2898884
+                                -111.7132503,
+                                36.603128000000005
                             ],
                             [
-                                -118.1689629,
-                                33.8898884
+                                -111.7132503,
+                                37.203128
                             ],
                             [
-                                -117.5689629,
-                                33.8898884
+                                -111.1132503,
+                                37.203128
                             ]
                         ],
                         "type": "LineString"
