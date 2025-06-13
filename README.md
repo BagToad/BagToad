@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/grey-wooden-cabin-near-body-of-water-JEBqFu2AOOA"><img width="720" src="https://images.unsplash.com/photo-1535747790212-30c585ab4867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk3MDgwMjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="grey wooden cabin near body of water"></a>
+  <a href="https://unsplash.com/photos/blue-boat-on-sand-near-body-of-water-during-daytime-xL66l--msXU"><img width="720" src="https://images.unsplash.com/photo-1443397646383-16272048780e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk3OTQ0Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue boat on sand near body of water during daytime"></a>
   
-  <em>"grey wooden cabin near body of water"</em>
+  <em>"blue boat on sand near body of water during daytime"</em>
   
-  <em>"Braies reflections"</em>
+  <em>"Ust-Barguzin, Republic of Buryatia, Russia"</em>
 
-  Photo by Samuele Errico Piccarini on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/samuelepiccarini) / [portfolio](https://www.behance.net/samuelepiccarini)
+  Photo by Mickey O'neil on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mickeyoneil) / [Twitter](https://twitter.com/Mickey666Oneil)
   
-  Taken at Lago di Braies, Braies, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.694333,12.0854273)
+  Taken at Pervomayskaya Ulitsa, Ust-Barguzin, Buryatiya Republits, Russia, 671623 • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.41648889,108.987725)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 1/60 |
-| Aperture      | 6.3 |
-| Focal Length  | 23.0 |
-| ISO           | 200 |
-| Location      | Lago di Braies, Braies, Italy (Italy) |
-| Coordinates   | Latitude 46.694333, Longitude 12.0854273 |
+| Camera Model  | iPhone 5s |
+| Exposure Time | 1/2933 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.2 |
+| ISO           | 32 |
+| Location      | Pervomayskaya Ulitsa, Ust-Barguzin, Buryatiya Republits, Russia, 671623 (Russia) |
+| Coordinates   | Latitude 53.41648889, Longitude 108.987725 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0854273,
-                            46.694333
+                            108.987725,
+                            53.41648889
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3854273,
-                                46.994333
+                                109.287725,
+                                53.716488889999994
                             ],
                             [
-                                12.3854273,
-                                46.394333
+                                109.287725,
+                                53.11648889
                             ],
                             [
-                                11.785427299999998,
-                                46.394333
+                                108.687725,
+                                53.11648889
                             ],
                             [
-                                11.785427299999998,
-                                46.994333
+                                108.687725,
+                                53.716488889999994
                             ],
                             [
-                                12.3854273,
-                                46.994333
+                                109.287725,
+                                53.716488889999994
                             ]
                         ],
                         "type": "LineString"
