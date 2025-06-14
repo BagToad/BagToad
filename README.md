@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/blue-boat-on-sand-near-body-of-water-during-daytime-xL66l--msXU"><img width="720" src="https://images.unsplash.com/photo-1443397646383-16272048780e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk3OTQ0Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue boat on sand near body of water during daytime"></a>
+  <a href="https://unsplash.com/photos/green-trees-during-daytime-iRpJ7sk7kTQ"><img width="720" src="https://images.unsplash.com/photo-1566233601708-73237226554c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk4ODA4MzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green trees during daytime"></a>
   
-  <em>"blue boat on sand near body of water during daytime"</em>
+  <em>"green trees during daytime"</em>
   
-  <em>"Ust-Barguzin, Republic of Buryatia, Russia"</em>
+  <em>"Bovilla Reservoir"</em>
 
-  Photo by Mickey O'neil on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mickeyoneil) / [Twitter](https://twitter.com/Mickey666Oneil)
+  Photo by Drini Teta on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/driniteta)
   
-  Taken at Pervomayskaya Ulitsa, Ust-Barguzin, Buryatiya Republits, Russia, 671623 • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.41648889,108.987725)
+  Taken at Bovilla reservoir, Albania • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.445278,19.866667)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 5s |
-| Exposure Time | 1/2933 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.2 |
-| ISO           | 32 |
-| Location      | Pervomayskaya Ulitsa, Ust-Barguzin, Buryatiya Republits, Russia, 671623 (Russia) |
-| Coordinates   | Latitude 53.41648889, Longitude 108.987725 |
+| Camera Model  | iPhone 7 Plus |
+| Exposure Time | 1/5051 |
+| Aperture      | 1.8 |
+| Focal Length  | 4.0 |
+| ISO           | 20 |
+| Location      | Bovilla reservoir, Albania (Albania) |
+| Coordinates   | Latitude 41.445278, Longitude 19.866667 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            108.987725,
-                            53.41648889
+                            19.866667,
+                            41.445278
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                109.287725,
-                                53.716488889999994
+                                20.166667,
+                                41.745278
                             ],
                             [
-                                109.287725,
-                                53.11648889
+                                20.166667,
+                                41.145278000000005
                             ],
                             [
-                                108.687725,
-                                53.11648889
+                                19.566667,
+                                41.145278000000005
                             ],
                             [
-                                108.687725,
-                                53.716488889999994
+                                19.566667,
+                                41.745278
                             ],
                             [
-                                109.287725,
-                                53.716488889999994
+                                20.166667,
+                                41.745278
                             ]
                         ],
                         "type": "LineString"
