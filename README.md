@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-trees-during-daytime-iRpJ7sk7kTQ"><img width="720" src="https://images.unsplash.com/photo-1566233601708-73237226554c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk4ODA4MzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green trees during daytime"></a>
+  <a href="https://unsplash.com/photos/hay-stocks-on-grassland-_6YXOv-l7AI"><img width="720" src="https://images.unsplash.com/photo-1418835817666-45fa43c32666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDk5NjcyMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="hay stocks on grassland"></a>
   
-  <em>"green trees during daytime"</em>
+  <em>"hay stocks on grassland"</em>
   
-  <em>"Bovilla Reservoir"</em>
+  <em>""</em>
 
-  Photo by Drini Teta on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/driniteta)
+  Photo by Jenelle on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Bovilla reservoir, Albania • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.445278,19.866667)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 7 Plus |
-| Exposure Time | 1/5051 |
-| Aperture      | 1.8 |
-| Focal Length  | 4.0 |
-| ISO           | 20 |
-| Location      | Bovilla reservoir, Albania (Albania) |
-| Coordinates   | Latitude 41.445278, Longitude 19.866667 |
+| Camera Model  | X-E1 |
+| Exposure Time | 1/350 |
+| Aperture      | 9.0 |
+| Focal Length  | 35.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            19.866667,
-                            41.445278
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                20.166667,
-                                41.745278
-                            ],
-                            [
-                                20.166667,
-                                41.145278000000005
-                            ],
-                            [
-                                19.566667,
-                                41.145278000000005
-                            ],
-                            [
-                                19.566667,
-                                41.745278
-                            ],
-                            [
-                                20.166667,
-                                41.745278
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
