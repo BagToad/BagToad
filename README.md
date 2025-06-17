@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photography-of-sailing-boat-on-body-of-water-sJGvoX_eVhw"><img width="720" src="https://images.unsplash.com/photo-1513436539083-9d2127e742f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAwNTM2MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette photography of sailing boat on body of water"></a>
+  <a href="https://unsplash.com/photos/landmark-photography-of-trees-near-rocky-mountain-under-blue-skies-daytime-ndN00KmbJ1c"><img width="720" src="https://images.unsplash.com/photo-1426604966848-d7adac402bff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAxNDAwMTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="landmark photography of trees near rocky mountain under blue skies daytime"></a>
   
-  <em>"silhouette photography of sailing boat on body of water"</em>
+  <em>"landmark photography of trees near rocky mountain under blue skies daytime"</em>
   
-  <em>"Sleepy Boat"</em>
+  <em>"El Capitan on a sunny afternoon"</em>
 
-  Photo by Zoltan Tasi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/zoltan_tasi) / [portfolio](https://foundation.app/@zoltan_tasi)
+  Photo by Adam Kool on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/adamkool) / [portfolio](http://twitter.com/adamkool) / [Twitter](https://twitter.com/AdamKool)
   
-  Taken at Dungeness, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=50.919325,0.965280000000007)
+  Taken at El Cap, Yosemite National Park, United States • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T1 |
-| Exposure Time | 30 |
-| Aperture      | 2 |
-| Focal Length  | 12.0 |
-| ISO           | 800 |
-| Location      | Dungeness, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 50.919325, Longitude 0.965280000000007 |
+| Camera Model  | Canon EOS 5D Mark II |
+| Exposure Time | 1/125 |
+| Aperture      | 6.7 |
+| Focal Length  | 17.0 |
+| ISO           | 200 |
+| Location      | El Cap, Yosemite National Park, United States (United States) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            0.965280000000007,
-                            50.919325
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                1.265280000000007,
-                                51.219325
-                            ],
-                            [
-                                1.265280000000007,
-                                50.619325
-                            ],
-                            [
-                                0.665280000000007,
-                                50.619325
-                            ],
-                            [
-                                0.665280000000007,
-                                51.219325
-                            ],
-                            [
-                                1.265280000000007,
-                                51.219325
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
