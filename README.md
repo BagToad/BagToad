@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landmark-photography-of-trees-near-rocky-mountain-under-blue-skies-daytime-ndN00KmbJ1c"><img width="720" src="https://images.unsplash.com/photo-1426604966848-d7adac402bff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAxNDAwMTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="landmark photography of trees near rocky mountain under blue skies daytime"></a>
+  <a href="https://unsplash.com/photos/green-leafed-trees-k2zWqv_yfNM"><img width="720" src="https://images.unsplash.com/photo-1526749837599-b4eba9fd855e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAyMjY0MzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="green leafed trees"></a>
   
-  <em>"landmark photography of trees near rocky mountain under blue skies daytime"</em>
+  <em>"green leafed trees"</em>
   
-  <em>"El Capitan on a sunny afternoon"</em>
+  <em>"The sun sets over Nature Valley in South Africa."</em>
 
-  Photo by Adam Kool on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/adamkool) / [portfolio](http://twitter.com/adamkool) / [Twitter](https://twitter.com/AdamKool)
+  Photo by redcharlie on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/redcharlie1) / [portfolio](http://www.redcharliemedia.com)
   
-  Taken at El Cap, Yosemite National Park, United States • 
+  Taken at Nature's Valley, South Africa • [Google Maps](https://www.google.com/maps/search/?api=1&query=-33.9806973,23.5564818)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark II |
-| Exposure Time | 1/125 |
-| Aperture      | 6.7 |
-| Focal Length  | 17.0 |
+| Camera Model  | Canon EOS 6D Mark II |
+| Exposure Time | 1/400 |
+| Aperture      | 6.3 |
+| Focal Length  | 70.0 |
 | ISO           | 200 |
-| Location      | El Cap, Yosemite National Park, United States (United States) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Nature's Valley, South Africa (South Africa) |
+| Coordinates   | Latitude -33.9806973, Longitude 23.5564818 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            23.5564818,
+                            -33.9806973
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                23.8564818,
+                                -33.680697300000006
+                            ],
+                            [
+                                23.8564818,
+                                -34.2806973
+                            ],
+                            [
+                                23.2564818,
+                                -34.2806973
+                            ],
+                            [
+                                23.2564818,
+                                -33.680697300000006
+                            ],
+                            [
+                                23.8564818,
+                                -33.680697300000006
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
