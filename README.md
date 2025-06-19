@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leafed-trees-k2zWqv_yfNM"><img width="720" src="https://images.unsplash.com/photo-1526749837599-b4eba9fd855e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAyMjY0MzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="green leafed trees"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-grass-plains-under-cloudy-sky-during-daytime-VNsGywdphUY"><img width="720" src="https://images.unsplash.com/photo-1422466654108-5e533f591881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAzMTI4Mjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of grass plains under cloudy sky during daytime"></a>
   
-  <em>"green leafed trees"</em>
+  <em>"landscape photography of grass plains under cloudy sky during daytime"</em>
   
-  <em>"The sun sets over Nature Valley in South Africa."</em>
+  <em>"Meadow under heavy clouds"</em>
 
-  Photo by redcharlie on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/redcharlie1) / [portfolio](http://www.redcharliemedia.com)
+  Photo by Matthew Smith on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/whale.fyi) / [portfolio](http://bunsenstudio.com) / [Twitter](https://twitter.com/whale)
   
-  Taken at Nature's Valley, South Africa • [Google Maps](https://www.google.com/maps/search/?api=1&query=-33.9806973,23.5564818)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D Mark II |
-| Exposure Time | 1/400 |
-| Aperture      | 6.3 |
-| Focal Length  | 70.0 |
-| ISO           | 200 |
-| Location      | Nature's Valley, South Africa (South Africa) |
-| Coordinates   | Latitude -33.9806973, Longitude 23.5564818 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/2500 |
+| Aperture      | 4.5 |
+| Focal Length  | 24.0 |
+| ISO           | 400 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            23.5564818,
-                            -33.9806973
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                23.8564818,
-                                -33.680697300000006
-                            ],
-                            [
-                                23.8564818,
-                                -34.2806973
-                            ],
-                            [
-                                23.2564818,
-                                -34.2806973
-                            ],
-                            [
-                                23.2564818,
-                                -33.680697300000006
-                            ],
-                            [
-                                23.8564818,
-                                -33.680697300000006
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
