@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-mountains-during-daytime-dTSaC-S-7fs"><img width="720" src="https://images.unsplash.com/photo-1491824989090-cc2d0b57eb0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTAzOTkyMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountains during daytime"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-footbridge-surrounded-by-pink-petaled-flowers-with-creek-underneath-during-daytime-pYyOZ8q7AII"><img width="720" src="https://images.unsplash.com/photo-1432958576632-8a39f6b97dc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA0ODU2MjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"></a>
   
-  <em>"silhouette of mountains during daytime"</em>
+  <em>"brown wooden footbridge surrounded by pink petaled flowers with creek underneath during daytime"</em>
   
-  <em>"Ondulations"</em>
+  <em>"Mystical garden"</em>
 
-  Photo by Ricardo Gomez Angel on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ricardogo03) / [portfolio](https://www.rgaleria.com)
+  Photo by Cosmic Timetraveler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cosmictimetraveler)
   
   Taken at Unknown • 
   
