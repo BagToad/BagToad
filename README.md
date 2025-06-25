@@ -38,17 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/orange-leaf-near-body-of-water-and-mountains-during-daytime-Qa2tSHWgh84"><img width="720" src="https://images.unsplash.com/photo-1510739859545-e7b9e979de86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA3NDQ4MzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="orange leaf near body of water and mountains during daytime"></a>
+  <a href="https://unsplash.com/photos/mountain-covered-with-green-trees-qfmd9bu7IgA"><img width="720" src="https://images.unsplash.com/37/IHLjdHdzSvi0rgUMMlSK_TE3_0286.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA4MzEyMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain covered with green trees"></a>
   
-  <em>"orange leaf near body of water and mountains during daytime"</em>
+  <em>"mountain covered with green trees"</em>
   
-  <em>"Colors are an imagination
-of our humans brains —
-I don´t care says the plant."</em>
+  <em>"Fog over woody hills"</em>
 
-  Photo by Simon Berger on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simon_berger/)
+  Photo by FORREST CAVALE on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/forfie) / [portfolio](http://www.cavale.io/) / [Twitter](https://twitter.com/CavaleCreative)
   
-  Taken at Unknown • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.86019333,13.81465)
+  Taken at Unknown • 
   
   ---
   
@@ -57,64 +55,17 @@ I don´t care says the plant."</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | E-M1 |
-| Exposure Time | 1/500 |
-| Aperture      | 7.1 |
-| Focal Length  | 38.0 |
-| ISO           | 200 |
+| Camera Model  | NIKON D600 |
+| Exposure Time | 1/640 |
+| Aperture      | 5.6 |
+| Focal Length  | 35.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
-| Coordinates   | Latitude 47.86019333, Longitude 13.81465 |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            13.81465,
-                            47.86019333
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                14.114650000000001,
-                                48.16019333
-                            ],
-                            [
-                                14.114650000000001,
-                                47.560193330000004
-                            ],
-                            [
-                                13.51465,
-                                47.560193330000004
-                            ],
-                            [
-                                13.51465,
-                                48.16019333
-                            ],
-                            [
-                                14.114650000000001,
-                                48.16019333
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
