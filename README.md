@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-covered-with-green-trees-qfmd9bu7IgA"><img width="720" src="https://images.unsplash.com/37/IHLjdHdzSvi0rgUMMlSK_TE3_0286.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA4MzEyMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain covered with green trees"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-snowy-mountains-gdQnsMbhkUs"><img width="720" src="https://images.unsplash.com/photo-1506104489822-562ca25152fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA5MTc2MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of snowy mountains"></a>
   
-  <em>"mountain covered with green trees"</em>
+  <em>"landscape photography of snowy mountains"</em>
   
-  <em>"Fog over woody hills"</em>
+  <em>"Moraine Lake at 6AM"</em>
 
-  Photo by FORREST CAVALE on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/forfie) / [portfolio](http://www.cavale.io/) / [Twitter](https://twitter.com/CavaleCreative)
+  Photo by Redd Francisco on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/radd.films) / [portfolio](https://www.raddfilms.com/)
   
-  Taken at Unknown • 
+  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D600 |
-| Exposure Time | 1/640 |
-| Aperture      | 5.6 |
-| Focal Length  | 35.0 |
+| Camera Model  | ILCE-7S |
+| Exposure Time | 1/100 |
+| Aperture      | 2.8 |
+| Focal Length  | 16.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Moraine Lake, Canada (Canada) |
+| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -116.1860049,
+                            51.3217416
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -115.8860049,
+                                51.6217416
+                            ],
+                            [
+                                -115.8860049,
+                                51.021741600000006
+                            ],
+                            [
+                                -116.4860049,
+                                51.021741600000006
+                            ],
+                            [
+                                -116.4860049,
+                                51.6217416
+                            ],
+                            [
+                                -115.8860049,
+                                51.6217416
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
