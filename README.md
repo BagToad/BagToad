@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-snowy-mountains-gdQnsMbhkUs"><img width="720" src="https://images.unsplash.com/photo-1506104489822-562ca25152fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTA5MTc2MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of snowy mountains"></a>
+  <a href="https://unsplash.com/photos/black-painted-house-in-the-middle-of-the-trees-zlV1Ksvifvs"><img width="720" src="https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEwMDQwMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="black painted house in the middle of the trees"></a>
   
-  <em>"landscape photography of snowy mountains"</em>
+  <em>"black painted house in the middle of the trees"</em>
   
-  <em>"Moraine Lake at 6AM"</em>
+  <em>"(contact me for the full resoluton image)"</em>
 
-  Photo by Redd Francisco on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/radd.films) / [portfolio](https://www.raddfilms.com/)
+  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
   
-  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
+  Taken at Arnisee, Gurtnellen, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7716847,8.64337209999997)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7S |
-| Exposure Time | 1/100 |
-| Aperture      | 2.8 |
-| Focal Length  | 16.0 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/80 |
+| Aperture      | 18.0 |
+| Focal Length  | 60.0 |
 | ISO           | 100 |
-| Location      | Moraine Lake, Canada (Canada) |
-| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
+| Location      | Arnisee, Gurtnellen, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.7716847, Longitude 8.64337209999997 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.1860049,
-                            51.3217416
+                            8.64337209999997,
+                            46.7716847
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -115.8860049,
-                                51.6217416
+                                8.943372099999971,
+                                47.0716847
                             ],
                             [
-                                -115.8860049,
-                                51.021741600000006
+                                8.943372099999971,
+                                46.471684700000004
                             ],
                             [
-                                -116.4860049,
-                                51.021741600000006
+                                8.34337209999997,
+                                46.471684700000004
                             ],
                             [
-                                -116.4860049,
-                                51.6217416
+                                8.34337209999997,
+                                47.0716847
                             ],
                             [
-                                -115.8860049,
-                                51.6217416
+                                8.943372099999971,
+                                47.0716847
                             ]
                         ],
                         "type": "LineString"
