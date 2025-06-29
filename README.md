@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/view-of-seashore-sunset-tNDvFkxkBHo"><img width="720" src="https://images.unsplash.com/photo-1422493757035-1e5e03968f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEwOTA0MTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="view of seashore sunset"></a>
+  <a href="https://unsplash.com/photos/an-aerial-view-of-a-desert-with-rocks-and-sand-Iy59i0M7oP4"><img width="720" src="https://images.unsplash.com/photo-1682687218608-5e2522b04673?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTExNzY4MjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="an aerial view of a desert with rocks and sand"></a>
   
-  <em>"view of seashore sunset"</em>
+  <em>"an aerial view of a desert with rocks and sand"</em>
   
-  <em>"Sunset over an Australian Beach"</em>
+  <em>"Sandstone plateau, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
 
-  Photo by Igor Kasalovic on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ikasalovic) / [portfolio](https://igorkasalovic.com/) / [Twitter](https://twitter.com/ikasalovic)
+  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
   
-  Taken at Australia, New South Wales, Sydney • 
+  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 60D |
-| Exposure Time | 15 |
-| Aperture      | 20.0 |
-| Focal Length  | 10.0 |
+| Camera Model  | L2D-20c |
+| Exposure Time | 1/320 |
+| Aperture      | 4 |
+| Focal Length  | 12.3 |
 | ISO           | 100 |
-| Location      | Australia, New South Wales, Sydney (Australia) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 ### Map
 
