@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/an-aerial-view-of-a-desert-with-rocks-and-sand-Iy59i0M7oP4"><img width="720" src="https://images.unsplash.com/photo-1682687218608-5e2522b04673?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTExNzY4MjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="an aerial view of a desert with rocks and sand"></a>
+  <a href="https://unsplash.com/photos/white-sand-aaIN3y2zcMQ"><img width="720" src="https://images.unsplash.com/photo-1559666126-84f389727b9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEyNjMyMjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="white sand"></a>
   
-  <em>"an aerial view of a desert with rocks and sand"</em>
+  <em>"white sand"</em>
   
-  <em>"Sandstone plateau, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
+  <em>""</em>
 
-  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
+  Photo by John Fowler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnd.fowler) / [portfolio](http://www.flickr.com/photos/snowpeak)
   
-  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
+  Taken at Unknown • 
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | L2D-20c |
-| Exposure Time | 1/320 |
-| Aperture      | 4 |
-| Focal Length  | 12.3 |
-| ISO           | 100 |
-| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/160 |
+| Aperture      | 10.0 |
+| Focal Length  | 230.0 |
+| ISO           | 800 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
