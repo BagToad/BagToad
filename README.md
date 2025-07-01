@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/white-sand-aaIN3y2zcMQ"><img width="720" src="https://images.unsplash.com/photo-1559666126-84f389727b9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEyNjMyMjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="white sand"></a>
+  <a href="https://unsplash.com/photos/architectural-photography-of-brown-wooden-house-hFzIoD0F_i8"><img width="720" src="https://images.unsplash.com/photo-1482192505345-5655af888cc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTEzNDk2MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="architectural photography of brown wooden house"></a>
   
-  <em>"white sand"</em>
+  <em>"architectural photography of brown wooden house"</em>
   
-  <em>""</em>
+  <em>"Seclusion in Lago di Braies"</em>
 
-  Photo by John Fowler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnd.fowler) / [portfolio](http://www.flickr.com/photos/snowpeak)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Unknown • 
+  Taken at Lago di Braies, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
-| Exposure Time | 1/160 |
-| Aperture      | 10.0 |
-| Focal Length  | 230.0 |
-| ISO           | 800 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lago di Braies, Italy (Italy) |
+| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            12.0859822,
+                            46.6948731
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                12.3859822,
+                                46.9948731
+                            ],
+                            [
+                                12.3859822,
+                                46.394873100000005
+                            ],
+                            [
+                                11.7859822,
+                                46.394873100000005
+                            ],
+                            [
+                                11.7859822,
+                                46.9948731
+                            ],
+                            [
+                                12.3859822,
+                                46.9948731
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
