@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/huge-rock-near-beach-0A_b9G-Rm6w"><img width="720" src="https://images.unsplash.com/photo-1474433188271-d3f339f41911?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIyMTM2MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="huge rock near beach"></a>
+  <a href="https://unsplash.com/photos/forest-under-blue-sky-B5drkS_Z5RM"><img width="720" src="https://images.unsplash.com/photo-1484591974057-265bb767ef71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIzMDAwMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="forest under blue sky"></a>
   
-  <em>"huge rock near beach"</em>
+  <em>"forest under blue sky"</em>
   
-  <em>"Little Corona Beach sunrise"</em>
+  <em>"Follow my Instagram @karsten.wuerth"</em>
 
-  Photo by Austin Neill on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/arstyy) / [Twitter](https://twitter.com/austinneill)
+  Photo by Karsten Würth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karsten.wuerth)
   
-  Taken at Little Corona Beach, Newport Beach, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=33.5898884,-117.8689629)
+  Taken at Seiser Alm, Kastelruth, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5315731,11.6260806)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Little Corona Beach, Newport Beach, United States (United States) |
-| Coordinates   | Latitude 33.5898884, Longitude -117.8689629 |
+| Camera Model  | PENTAX K-S2 |
+| Exposure Time | 1/50 |
+| Aperture      | 13 |
+| Focal Length  | 26.0 |
+| ISO           | 200 |
+| Location      | Seiser Alm, Kastelruth, Italy (Italy) |
+| Coordinates   | Latitude 46.5315731, Longitude 11.6260806 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -117.8689629,
-                            33.5898884
+                            11.6260806,
+                            46.5315731
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -117.5689629,
-                                33.8898884
+                                11.9260806,
+                                46.8315731
                             ],
                             [
-                                -117.5689629,
-                                33.2898884
+                                11.9260806,
+                                46.231573100000006
                             ],
                             [
-                                -118.1689629,
-                                33.2898884
+                                11.3260806,
+                                46.231573100000006
                             ],
                             [
-                                -118.1689629,
-                                33.8898884
+                                11.3260806,
+                                46.8315731
                             ],
                             [
-                                -117.5689629,
-                                33.8898884
+                                11.9260806,
+                                46.8315731
                             ]
                         ],
                         "type": "LineString"
