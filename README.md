@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-under-blue-sky-B5drkS_Z5RM"><img width="720" src="https://images.unsplash.com/photo-1484591974057-265bb767ef71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIzMDAwMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="forest under blue sky"></a>
+  <a href="https://unsplash.com/photos/time-lapse-photography-of-river--qrcOR33ErA"><img width="720" src="https://images.unsplash.com/photo-1527489377706-5bf97e608852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIzODY0Mjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="time-lapse photography of river"></a>
   
-  <em>"forest under blue sky"</em>
+  <em>"time-lapse photography of river"</em>
   
-  <em>"Follow my Instagram @karsten.wuerth"</em>
+  <em>"Not really lost though ;). I took this picture during a hike in Yoho National Park in the late morning."</em>
 
-  Photo by Karsten Würth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karsten.wuerth)
+  Photo by Hendrik Cornelissen on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/hendrik_cornelissen)
   
-  Taken at Seiser Alm, Kastelruth, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5315731,11.6260806)
+  Taken at Yoho National Park, Field, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.4666667,-116.5833333)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | PENTAX K-S2 |
-| Exposure Time | 1/50 |
-| Aperture      | 13 |
-| Focal Length  | 26.0 |
-| ISO           | 200 |
-| Location      | Seiser Alm, Kastelruth, Italy (Italy) |
-| Coordinates   | Latitude 46.5315731, Longitude 11.6260806 |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 1/125 |
+| Aperture      | 6.3 |
+| Focal Length  | 17.0 |
+| ISO           | 100 |
+| Location      | Yoho National Park, Field, Canada (Canada) |
+| Coordinates   | Latitude 51.4666667, Longitude -116.5833333 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.6260806,
-                            46.5315731
+                            -116.5833333,
+                            51.4666667
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                11.9260806,
-                                46.8315731
+                                -116.28333330000001,
+                                51.766666699999995
                             ],
                             [
-                                11.9260806,
-                                46.231573100000006
+                                -116.28333330000001,
+                                51.1666667
                             ],
                             [
-                                11.3260806,
-                                46.231573100000006
+                                -116.8833333,
+                                51.1666667
                             ],
                             [
-                                11.3260806,
-                                46.8315731
+                                -116.8833333,
+                                51.766666699999995
                             ],
                             [
-                                11.9260806,
-                                46.8315731
+                                -116.28333330000001,
+                                51.766666699999995
                             ]
                         ],
                         "type": "LineString"
