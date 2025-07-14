@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/time-lapse-photography-of-river--qrcOR33ErA"><img width="720" src="https://images.unsplash.com/photo-1527489377706-5bf97e608852?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTIzODY0Mjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="time-lapse photography of river"></a>
+  <a href="https://unsplash.com/photos/body-of-water-on-mountain-y0i1lh-T0_w"><img width="720" src="https://images.unsplash.com/photo-1437209484568-e63b90a34f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI0NzI4MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water on mountain"></a>
   
-  <em>"time-lapse photography of river"</em>
+  <em>"body of water on mountain"</em>
   
-  <em>"Not really lost though ;). I took this picture during a hike in Yoho National Park in the late morning."</em>
+  <em>""</em>
 
-  Photo by Hendrik Cornelissen on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/hendrik_cornelissen)
+  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
   
-  Taken at Yoho National Park, Field, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.4666667,-116.5833333)
+  Taken at Valparola Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5333,11.9833)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 1/125 |
-| Aperture      | 6.3 |
-| Focal Length  | 17.0 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/60 |
+| Aperture      | 16.0 |
+| Focal Length  | 14.0 |
 | ISO           | 100 |
-| Location      | Yoho National Park, Field, Canada (Canada) |
-| Coordinates   | Latitude 51.4666667, Longitude -116.5833333 |
+| Location      | Valparola Pass, Italy (Italy) |
+| Coordinates   | Latitude 46.5333, Longitude 11.9833 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.5833333,
-                            51.4666667
+                            11.9833,
+                            46.5333
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -116.28333330000001,
-                                51.766666699999995
+                                12.2833,
+                                46.833299999999994
                             ],
                             [
-                                -116.28333330000001,
-                                51.1666667
+                                12.2833,
+                                46.2333
                             ],
                             [
-                                -116.8833333,
-                                51.1666667
+                                11.6833,
+                                46.2333
                             ],
                             [
-                                -116.8833333,
-                                51.766666699999995
+                                11.6833,
+                                46.833299999999994
                             ],
                             [
-                                -116.28333330000001,
-                                51.766666699999995
+                                12.2833,
+                                46.833299999999994
                             ]
                         ],
                         "type": "LineString"
