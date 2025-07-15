@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-on-mountain-y0i1lh-T0_w"><img width="720" src="https://images.unsplash.com/photo-1437209484568-e63b90a34f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI0NzI4MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water on mountain"></a>
+  <a href="https://unsplash.com/photos/green-and-beige-trees-beside-mountains-cuKKa0vWZSY"><img width="720" src="https://images.unsplash.com/photo-1503424886307-b090341d25d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI1NTkyMjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="green and beige trees beside mountains"></a>
   
-  <em>"body of water on mountain"</em>
+  <em>"green and beige trees beside mountains"</em>
   
-  <em>""</em>
+  <em>"Fall Color Dallas Divide"</em>
 
-  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
+  Photo by Thomas Morse on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Valparola Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5333,11.9833)
+  Taken at Ridgway, Colorado, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.06217167,-107.81276)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D800 |
-| Exposure Time | 1/60 |
-| Aperture      | 16.0 |
-| Focal Length  | 14.0 |
-| ISO           | 100 |
-| Location      | Valparola Pass, Italy (Italy) |
-| Coordinates   | Latitude 46.5333, Longitude 11.9833 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/160 |
+| Aperture      | 6.3 |
+| Focal Length  | 28.0 |
+| ISO           | 200 |
+| Location      | Ridgway, Colorado, United States (United States) |
+| Coordinates   | Latitude 38.06217167, Longitude -107.81276 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.9833,
-                            46.5333
+                            -107.81276,
+                            38.06217167
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.2833,
-                                46.833299999999994
+                                -107.51276,
+                                38.362171669999995
                             ],
                             [
-                                12.2833,
-                                46.2333
+                                -107.51276,
+                                37.76217167
                             ],
                             [
-                                11.6833,
-                                46.2333
+                                -108.11276,
+                                37.76217167
                             ],
                             [
-                                11.6833,
-                                46.833299999999994
+                                -108.11276,
+                                38.362171669999995
                             ],
                             [
-                                12.2833,
-                                46.833299999999994
+                                -107.51276,
+                                38.362171669999995
                             ]
                         ],
                         "type": "LineString"
