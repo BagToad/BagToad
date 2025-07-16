@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-and-beige-trees-beside-mountains-cuKKa0vWZSY"><img width="720" src="https://images.unsplash.com/photo-1503424886307-b090341d25d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI1NTkyMjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="green and beige trees beside mountains"></a>
+  <a href="https://unsplash.com/photos/green-mountain-across-body-of-water-Bkci_8qcdvQ"><img width="720" src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI2NDU2MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green mountain across body of water"></a>
   
-  <em>"green and beige trees beside mountains"</em>
+  <em>"green mountain across body of water"</em>
   
-  <em>"Fall Color Dallas Divide"</em>
+  <em>"travelyukon, Wet mountain valley"</em>
 
-  Photo by Thomas Morse on [unsplash.com](https://unsplash.com/) • 
+  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
   
-  Taken at Ridgway, Colorado, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.06217167,-107.81276)
+  Taken at Kluane National Park and Reserve of Canada, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=60.75,-139.5)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/160 |
-| Aperture      | 6.3 |
-| Focal Length  | 28.0 |
-| ISO           | 200 |
-| Location      | Ridgway, Colorado, United States (United States) |
-| Coordinates   | Latitude 38.06217167, Longitude -107.81276 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/200 |
+| Aperture      | 22 |
+| Focal Length  | 50.0 |
+| ISO           | 640 |
+| Location      | Kluane National Park and Reserve of Canada, Canada (Canada) |
+| Coordinates   | Latitude 60.75, Longitude -139.5 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -107.81276,
-                            38.06217167
+                            -139.5,
+                            60.75
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -107.51276,
-                                38.362171669999995
+                                -139.2,
+                                61.05
                             ],
                             [
-                                -107.51276,
-                                37.76217167
+                                -139.2,
+                                60.45
                             ],
                             [
-                                -108.11276,
-                                37.76217167
+                                -139.8,
+                                60.45
                             ],
                             [
-                                -108.11276,
-                                38.362171669999995
+                                -139.8,
+                                61.05
                             ],
                             [
-                                -107.51276,
-                                38.362171669999995
+                                -139.2,
+                                61.05
                             ]
                         ],
                         "type": "LineString"
