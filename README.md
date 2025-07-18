@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-under-sunny-sky-1WQ5RZuH9xo"><img width="720" src="https://images.unsplash.com/photo-1523978591478-c753949ff840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI3MzIwMjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water under sunny sky"></a>
+  <a href="https://unsplash.com/photos/photo-of-mountain-ruWkmt3nU58"><img width="720" src="https://images.unsplash.com/photo-1511300636408-a63a89df3482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI4MTg0MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of mountain"></a>
   
-  <em>"body of water under sunny sky"</em>
+  <em>"photo of mountain"</em>
   
-  <em>"Beautiful morning at Andenes this february 2018."</em>
+  <em>"Discover where is this place and 45+ more places to shot in Iceland with my personal Google Map that I use for my workshop in Iceland on lucamicheliphotography.com/go/iceland-map/"</em>
 
-  Photo by Pascal Debrunner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pd_visuals) / [portfolio](https://www.instagram.com/pd_visuals)
+  Photo by Luca Micheli on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucamicheliphoto) / [portfolio](https://onlyroadtrips.com/?utm_source=unsplash) / [Twitter](https://twitter.com/ilucamicheli)
   
-  Taken at Andenes, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.3240819636415,16.1154219814453)
+  Taken at Vestrahorn Mountain, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=64.2645215,-14.9728055)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DSC-RX100M3 |
-| Exposure Time | 1/160 |
-| Aperture      | 5.6 |
-| Focal Length  | 8.8 |
+| Camera Model  | Canon EOS 5D Mark IV |
+| Exposure Time | 1/25 |
+| Aperture      | 8.0 |
+| Focal Length  | 12.0 |
 | ISO           | 100 |
-| Location      | Andenes, Norway (Norway) |
-| Coordinates   | Latitude 69.3240819636415, Longitude 16.1154219814453 |
+| Location      | Vestrahorn Mountain, Iceland (Iceland) |
+| Coordinates   | Latitude 64.2645215, Longitude -14.9728055 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            16.1154219814453,
-                            69.3240819636415
+                            -14.9728055,
+                            64.2645215
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                16.415421981445302,
-                                69.6240819636415
+                                -14.672805499999999,
+                                64.5645215
                             ],
                             [
-                                16.415421981445302,
-                                69.0240819636415
+                                -14.672805499999999,
+                                63.964521500000004
                             ],
                             [
-                                15.8154219814453,
-                                69.0240819636415
+                                -15.2728055,
+                                63.964521500000004
                             ],
                             [
-                                15.8154219814453,
-                                69.6240819636415
+                                -15.2728055,
+                                64.5645215
                             ],
                             [
-                                16.415421981445302,
-                                69.6240819636415
+                                -14.672805499999999,
+                                64.5645215
                             ]
                         ],
                         "type": "LineString"
