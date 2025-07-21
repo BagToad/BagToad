@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-heat-by-sunbeam-RwHv7LgeC7s"><img width="720" src="https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTI5OTEyMjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="forest heat by sunbeam"></a>
+  <a href="https://unsplash.com/photos/green-tree-on-grassland-during-daytime-EPy0gBJzzZU"><img width="720" src="https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTMwNzc2MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="green tree on grassland during daytime"></a>
   
-  <em>"forest heat by sunbeam"</em>
+  <em>"green tree on grassland during daytime"</em>
   
-  <em>"Mystery Forest Light"</em>
+  <em>"Tree in green wheat field"</em>
 
-  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
+  Photo by Johann Siemens on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/design.by.johann) / [portfolio](http://emben.de) / [Twitter](https://twitter.com/emben_design)
   
-  Taken at Unknown • 
+  Taken at Deutschland, Elsenfeld • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D |
-| Exposure Time | 1/25 |
-| Aperture      | 11.0 |
-| Focal Length  | 32.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Deutschland, Elsenfeld (Deutschland) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
