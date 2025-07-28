@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/asphalt-road-between-green-grass-field-near-mountains-LoMs1_wq3tU"><img width="720" src="https://images.unsplash.com/photo-1431887773042-803ed52bed26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM1OTYwMTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="asphalt road between green grass field near mountains"></a>
+  <a href="https://unsplash.com/photos/mountain-reflection-on-body-of-water-DlkF4-dbCOU"><img width="720" src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM2ODI0NTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain reflection on body of water"></a>
   
-  <em>"asphalt road between green grass field near mountains"</em>
+  <em>"mountain reflection on body of water"</em>
   
-  <em>"Winding road"</em>
+  <em>"sunrise"</em>
 
-  Photo by Jared Erondu on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/erondu) / [portfolio](http://read.cv/erondu) / [Twitter](https://twitter.com/erondu)
+  Photo by garrett parker on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/garrettpsystems) / [portfolio](http://amblestudios.com) / [Twitter](https://twitter.com/garrettpsystems)
   
-  Taken at Pan Toll Rd, Mill Valley, CA 94941, USA, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.90762222,-122.61625556)
+  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 6 |
-| Exposure Time | 1/142 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.2 |
-| ISO           | 32 |
-| Location      | Pan Toll Rd, Mill Valley, CA 94941, USA, United States (United States) |
-| Coordinates   | Latitude 37.90762222, Longitude -122.61625556 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/320 |
+| Aperture      | 2.8 |
+| Focal Length  | 24.0 |
+| ISO           | 2000 |
+| Location      | Moraine Lake, Canada (Canada) |
+| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -122.61625556,
-                            37.90762222
+                            -116.1860049,
+                            51.3217416
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -122.31625556,
-                                38.20762222
+                                -115.8860049,
+                                51.6217416
                             ],
                             [
-                                -122.31625556,
-                                37.60762222
+                                -115.8860049,
+                                51.021741600000006
                             ],
                             [
-                                -122.91625556,
-                                37.60762222
+                                -116.4860049,
+                                51.021741600000006
                             ],
                             [
-                                -122.91625556,
-                                38.20762222
+                                -116.4860049,
+                                51.6217416
                             ],
                             [
-                                -122.31625556,
-                                38.20762222
+                                -115.8860049,
+                                51.6217416
                             ]
                         ],
                         "type": "LineString"
