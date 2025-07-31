@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/tree-on-body-of-water-near-mountains-KonWFWUaAuk"><img width="720" src="https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM4NTUyNTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree on body of water near mountains"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-under-cloudy-sky-between-body-of-water-at-daytime-2oFdVd00xOg"><img width="720" src="https://images.unsplash.com/photo-1469521669194-babb45599def?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTM5NDE2MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountain under cloudy sky between body of water at daytime"></a>
   
-  <em>"tree on body of water near mountains"</em>
+  <em>"landscape photography of mountain under cloudy sky between body of water at daytime"</em>
   
-  <em>""</em>
+  <em>"Blue lake and white peaks"</em>
 
-  Photo by Ken Cheung on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kencheungphotos) / [portfolio](https://www.kencheungphoto.com/)
+  Photo by Samuel Scrimshaw on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/samscrim) / [portfolio](http://www.instagram.com/samscrim) / [Twitter](https://twitter.com/samscrim)
   
-  Taken at Wanaka, Otago, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.69833833,169.11632833)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5 |
-| Exposure Time | 10 |
-| Aperture      | 16 |
-| Focal Length  | 35.0 |
-| ISO           | 50 |
-| Location      | Wanaka, Otago, New Zealand (New Zealand) |
-| Coordinates   | Latitude -44.69833833, Longitude 169.11632833 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/40 |
+| Aperture      | 20.0 |
+| Focal Length  | 32.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            169.11632833,
-                            -44.69833833
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                169.41632833,
-                                -44.39833833
-                            ],
-                            [
-                                169.41632833,
-                                -44.998338329999996
-                            ],
-                            [
-                                168.81632832999998,
-                                -44.998338329999996
-                            ],
-                            [
-                                168.81632832999998,
-                                -44.39833833
-                            ],
-                            [
-                                169.41632833,
-                                -44.39833833
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
