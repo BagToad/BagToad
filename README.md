@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-heat-by-sunbeam-RwHv7LgeC7s"><img width="720" src="https://images.unsplash.com/photo-1523712999610-f77fbcfc3843?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQwMjgwNzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="forest heat by sunbeam"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-green-trees-ugnrXk1129g"><img width="720" src="https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQxMTQ0MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of green trees"></a>
   
-  <em>"forest heat by sunbeam"</em>
+  <em>"aerial photo of green trees"</em>
   
-  <em>"Mystery Forest Light"</em>
+  <em>"This photo was taken in the high mountains of Adjara, Georgia, while I was doing my project there. It was summer, but the temperature didn’t feel like it. I spent most of my days standing in front of this amazing view, thinking about the life that was waiting for me back in capital. Suddenly, I  had a very strong desire to talk with the fog. Loudly. Thought it had many stories to tell too."</em>
 
-  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
+  Photo by Marita Kavelashvili on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/maritaextrabold)
   
-  Taken at Unknown • 
+  Taken at Adjara, Georgia • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.6005626,42.0688382999999)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D |
-| Exposure Time | 1/25 |
-| Aperture      | 11.0 |
-| Focal Length  | 32.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/4000 |
+| Aperture      | 2.8 |
+| Focal Length  | 40.0 |
+| ISO           | 1000 |
+| Location      | Adjara, Georgia (Georgia) |
+| Coordinates   | Latitude 41.6005626, Longitude 42.0688382999999 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            42.0688382999999,
+                            41.6005626
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                42.3688382999999,
+                                41.9005626
+                            ],
+                            [
+                                42.3688382999999,
+                                41.300562600000006
+                            ],
+                            [
+                                41.768838299999906,
+                                41.300562600000006
+                            ],
+                            [
+                                41.768838299999906,
+                                41.9005626
+                            ],
+                            [
+                                42.3688382999999,
+                                41.9005626
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
