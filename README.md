@@ -38,17 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/island-surrounded-by-water-z_9VmsxR8hs"><img width="720" src="https://images.unsplash.com/photo-1551978429-3dbfed5cacc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQyMDA4MzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="island surrounded by water"></a>
+  <a href="https://unsplash.com/photos/body-of-water-surrounding-with-trees-_LuLiJc1cdo"><img width="720" src="https://images.unsplash.com/photo-1465189684280-6a8fa9b19a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQyODczODd8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water surrounding with trees"></a>
   
-  <em>"island surrounded by water"</em>
+  <em>"body of water surrounding with trees"</em>
   
-  <em>"A small isle in the Eibsee at the beginning of November in 2018. Because it was a really nice and warm day some canoeists stayed at the island in the sund to relax.
+  <em>"follow @kalenemsley on ig"</em>
 
-This is the horizontal version of a photo I already posted last year."</em>
-
-  Photo by Daniel Seßler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daniel.sessler) / [portfolio](http://danielsessler.photos)
+  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
   
-  Taken at Eibsee, Grainau, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4562353,10.9728807)
+  Taken at Kinney Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.0828746,-119.1923101)
   
   ---
   
@@ -57,13 +55,13 @@ This is the horizontal version of a photo I already posted last year."</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7R |
-| Exposure Time | 1/160 |
-| Aperture      | 4 |
-| Focal Length  | 95.0 |
-| ISO           | 100 |
-| Location      | Eibsee, Grainau, Germany (Germany) |
-| Coordinates   | Latitude 47.4562353, Longitude 10.9728807 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/125 |
+| Aperture      | 4.0 |
+| Focal Length  | 70.0 |
+| ISO           | 200 |
+| Location      | Kinney Lake, Canada (Canada) |
+| Coordinates   | Latitude 53.0828746, Longitude -119.1923101 |
 
 ### Map
 
@@ -76,8 +74,8 @@ This is the horizontal version of a photo I already posted last year."</em>
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            10.9728807,
-                            47.4562353
+                            -119.1923101,
+                            53.0828746
                         ],
                         "type": "Point"
                     },
@@ -89,24 +87,24 @@ This is the horizontal version of a photo I already posted last year."</em>
                     "geometry": {
                         "coordinates": [
                             [
-                                11.2728807,
-                                47.7562353
+                                -118.8923101,
+                                53.382874599999994
                             ],
                             [
-                                11.2728807,
-                                47.156235300000006
+                                -118.8923101,
+                                52.7828746
                             ],
                             [
-                                10.672880699999999,
-                                47.156235300000006
+                                -119.4923101,
+                                52.7828746
                             ],
                             [
-                                10.672880699999999,
-                                47.7562353
+                                -119.4923101,
+                                53.382874599999994
                             ],
                             [
-                                11.2728807,
-                                47.7562353
+                                -118.8923101,
+                                53.382874599999994
                             ]
                         ],
                         "type": "LineString"
