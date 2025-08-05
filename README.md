@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-surrounding-with-trees-_LuLiJc1cdo"><img width="720" src="https://images.unsplash.com/photo-1465189684280-6a8fa9b19a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQyODczODd8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water surrounding with trees"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-brown-mountains-tMvuB9se2uQ"><img width="720" src="https://images.unsplash.com/photo-1489493512598-d08130f49bea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQzNzM2Njd8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of brown mountains"></a>
   
-  <em>"body of water surrounding with trees"</em>
+  <em>"landscape photography of brown mountains"</em>
   
-  <em>"follow @kalenemsley on ig"</em>
+  <em>"Sunset in the mountains"</em>
 
-  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
+  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.art/?lang=eng) / [Twitter](https://twitter.com/serg_pesterev)
   
-  Taken at Kinney Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.0828746,-119.1923101)
+  Taken at Hurghada International Airport, Egypt • [Google Maps](https://www.google.com/maps/search/?api=1&query=27.180494,33.807566)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/125 |
-| Aperture      | 4.0 |
-| Focal Length  | 70.0 |
-| ISO           | 200 |
-| Location      | Kinney Lake, Canada (Canada) |
-| Coordinates   | Latitude 53.0828746, Longitude -119.1923101 |
+| Camera Model  | FinePix S5Pro |
+| Exposure Time | 1/160 |
+| Aperture      | 11.0 |
+| Focal Length  | 200.0 |
+| ISO           | 100 |
+| Location      | Hurghada International Airport, Egypt (Egypt) |
+| Coordinates   | Latitude 27.180494, Longitude 33.807566 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.1923101,
-                            53.0828746
+                            33.807566,
+                            27.180494
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -118.8923101,
-                                53.382874599999994
+                                34.107566,
+                                27.480494
                             ],
                             [
-                                -118.8923101,
-                                52.7828746
+                                34.107566,
+                                26.880494
                             ],
                             [
-                                -119.4923101,
-                                52.7828746
+                                33.507566000000004,
+                                26.880494
                             ],
                             [
-                                -119.4923101,
-                                53.382874599999994
+                                33.507566000000004,
+                                27.480494
                             ],
                             [
-                                -118.8923101,
-                                53.382874599999994
+                                34.107566,
+                                27.480494
                             ]
                         ],
                         "type": "LineString"
