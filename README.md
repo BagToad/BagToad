@@ -38,9 +38,9 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-green-grass-field-at-sunrise-4miBe6zg5r0"><img width="720" src="https://images.unsplash.com/photo-1434725039720-aaad6dd32dfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQ2MzI4NTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of green grass field at sunrise"></a>
+  <a href="https://unsplash.com/photos/brown-hut-surrounded-by-flowers-okzxVsJNxXc"><img width="720" src="https://images.unsplash.com/photo-1431631927486-6603c868ce5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQ3MTkyMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown hut surrounded by flowers"></a>
   
-  <em>"photo of green grass field at sunrise"</em>
+  <em>"brown hut surrounded by flowers"</em>
   
   <em>"You can support me via Paypal: http://paypal.me/dreamypixel"</em>
 
@@ -57,7 +57,7 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | ------------- | ----- |
 | Camera Model  | NIKON D800 |
 | Exposure Time | 1/40 |
-| Aperture      | 13 |
+| Aperture      | 16 |
 | Focal Length  | 14.0 |
 | ISO           | 100 |
 | Location      | Unknown (null) |
