@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leaf-tree-under-blue-sky-tGTVxeOr_Rs"><img width="720" src="https://images.unsplash.com/photo-1502082553048-f009c37129b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTQ5Nzg0MTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="green leaf tree under blue sky"></a>
+  <a href="https://unsplash.com/photos/calm-body-of-water-surrounded-by-trees-near-cliff-mWRR1xj95hg"><img width="720" src="https://images.unsplash.com/photo-1454982523318-4b6396f39d3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTUwNjQ4MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="calm body of water surrounded by trees near cliff"></a>
   
-  <em>"green leaf tree under blue sky"</em>
+  <em>"calm body of water surrounded by trees near cliff"</em>
   
-  <em>"This is the first photo I am uploading to unsplash.com - I’ve been taking photos actively for the last 15 years, and despite having a vast collection of thousands of images from all parts of the world, I have never really sold any. I love the idea of sharing free images for those who cannot afford to pay for them. I also believe that those who can afford to pay for a photo, and appreciate the efforts of a photographer will be happy to compensate the photographer when they use one for commercial purposes. Here is a free image of a tree - if you use it, please follow my Instagram @niko.photos :)"</em>
+  <em>"River beneath Yosemite cliffs"</em>
 
-  Photo by niko photos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/niko.photos) / [portfolio](http://www.instagram.com/niko.photos)
+  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
   
-  Taken at Nicaragua • [Google Maps](https://www.google.com/maps/search/?api=1&query=11.7652490628629,-86.4926293906249)
+  Taken at Yosemite National Park, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.8651011,-119.5383294)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 40D |
-| Exposure Time | 1/100 |
-| Aperture      | 7.1 |
-| Focal Length  | 50.0 |
-| ISO           | 125 |
-| Location      | Nicaragua (Nicaragua) |
-| Coordinates   | Latitude 11.7652490628629, Longitude -86.4926293906249 |
+| Camera Model  | Canon EOS REBEL T5i |
+| Exposure Time | 1/200 |
+| Aperture      | 8.0 |
+| Focal Length  | 18.0 |
+| ISO           | 200 |
+| Location      | Yosemite National Park, United States (United States) |
+| Coordinates   | Latitude 37.8651011, Longitude -119.5383294 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -86.4926293906249,
-                            11.7652490628629
+                            -119.5383294,
+                            37.8651011
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -86.1926293906249,
-                                12.0652490628629
+                                -119.2383294,
+                                38.165101099999994
                             ],
                             [
-                                -86.1926293906249,
-                                11.465249062862899
+                                -119.2383294,
+                                37.5651011
                             ],
                             [
-                                -86.7926293906249,
-                                11.465249062862899
+                                -119.83832939999999,
+                                37.5651011
                             ],
                             [
-                                -86.7926293906249,
-                                12.0652490628629
+                                -119.83832939999999,
+                                38.165101099999994
                             ],
                             [
-                                -86.1926293906249,
-                                12.0652490628629
+                                -119.2383294,
+                                38.165101099999994
                             ]
                         ],
                         "type": "LineString"
