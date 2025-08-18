@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-body-of-water-between-trees-and-mountain-sR7_ImYvt1Q"><img width="720" src="https://images.unsplash.com/photo-1502786129293-79981df4e689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU0MTA0MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of body of water between trees and mountain"></a>
+  <a href="https://unsplash.com/photos/trees-on-forest-with-sun-rays-sp-p7uuT0tw"><img width="720" src="https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU0OTY4MjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="trees on forest with sun rays"></a>
   
-  <em>"photo of body of water between trees and mountain"</em>
+  <em>"trees on forest with sun rays"</em>
   
-  <em>"Rocky Mountain"</em>
+  <em>"Entering another dimension..."</em>
 
-  Photo by Danyu Wang on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/w_danyu)
+  Photo by Sebastian Unrau on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
   
-  Taken at Field, 艾伯塔省, 加拿大 • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.32713889,-116.17922222)
+  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | EVA-AL10 |
-| Exposure Time | 1/236 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.5 |
-| ISO           | 50 |
-| Location      | Field, 艾伯塔省, 加拿大 (加拿大) |
-| Coordinates   | Latitude 51.32713889, Longitude -116.17922222 |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 1/160 |
+| Aperture      | 8 |
+| Focal Length  | 16.0 |
+| ISO           | 250 |
+| Location      | Bad Pyrmont, Deutschland (Deutschland) |
+| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.17922222,
-                            51.32713889
+                            9.25209110000003,
+                            51.9855648
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -115.87922222,
-                                51.62713889
+                                9.55209110000003,
+                                52.285564799999996
                             ],
                             [
-                                -115.87922222,
-                                51.02713889
+                                9.55209110000003,
+                                51.6855648
                             ],
                             [
-                                -116.47922222,
-                                51.02713889
+                                8.952091100000029,
+                                51.6855648
                             ],
                             [
-                                -116.47922222,
-                                51.62713889
+                                8.952091100000029,
+                                52.285564799999996
                             ],
                             [
-                                -115.87922222,
-                                51.62713889
+                                9.55209110000003,
+                                52.285564799999996
                             ]
                         ],
                         "type": "LineString"
