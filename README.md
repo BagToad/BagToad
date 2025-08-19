@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-on-forest-with-sun-rays-sp-p7uuT0tw"><img width="720" src="https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU0OTY4MjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="trees on forest with sun rays"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-under-cloudy-sky-between-body-of-water-at-daytime-2oFdVd00xOg"><img width="720" src="https://images.unsplash.com/photo-1469521669194-babb45599def?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU1ODMyMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountain under cloudy sky between body of water at daytime"></a>
   
-  <em>"trees on forest with sun rays"</em>
+  <em>"landscape photography of mountain under cloudy sky between body of water at daytime"</em>
   
-  <em>"Entering another dimension..."</em>
+  <em>"Blue lake and white peaks"</em>
 
-  Photo by Sebastian Unrau on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
+  Photo by Samuel Scrimshaw on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/samscrim) / [portfolio](http://www.instagram.com/samscrim) / [Twitter](https://twitter.com/samscrim)
   
-  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 1/160 |
-| Aperture      | 8 |
-| Focal Length  | 16.0 |
-| ISO           | 250 |
-| Location      | Bad Pyrmont, Deutschland (Deutschland) |
-| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/40 |
+| Aperture      | 20.0 |
+| Focal Length  | 32.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            9.25209110000003,
-                            51.9855648
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                9.55209110000003,
-                                52.285564799999996
-                            ],
-                            [
-                                9.55209110000003,
-                                51.6855648
-                            ],
-                            [
-                                8.952091100000029,
-                                51.6855648
-                            ],
-                            [
-                                8.952091100000029,
-                                52.285564799999996
-                            ],
-                            [
-                                9.55209110000003,
-                                52.285564799999996
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
