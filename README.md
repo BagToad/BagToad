@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/tree-between-green-land-during-golden-hour-T-LfvX-7IVg"><img width="720" src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU2Njk2MzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree between green land during golden hour"></a>
+  <a href="https://unsplash.com/photos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c"><img width="720" src="https://images.unsplash.com/photo-1511497584788-876760111969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU3NTYwMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="pine trees field near mountain under sunset"></a>
   
-  <em>"tree between green land during golden hour"</em>
+  <em>"pine trees field near mountain under sunset"</em>
   
-  <em>"Sunset tree in Kenya Safari, Africa"</em>
+  <em>"Smoky morning in Cascades"</em>
 
-  Photo by Damian Patkowski on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/damian.patkowski) / [Twitter](https://twitter.com/damianpatkowski)
+  Photo by Sergei A on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergeiakphoto) / [portfolio](https://www.cavanimages.com/contributor/17417)
   
-  Taken at Tsavo East National Park Kenya, Africa, Kenya • 
+  Taken at Rampart Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4155129,-121.3402916)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5200 |
-| Exposure Time | 1/2000 |
-| Aperture      | 8.0 |
-| Focal Length  | 25.0 |
-| ISO           | 400 |
-| Location      | Tsavo East National Park Kenya, Africa, Kenya (Kenya) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | ILCE-7M2 |
+| Exposure Time | 1/60 |
+| Aperture      | 9.0 |
+| Focal Length  | 35.0 |
+| ISO           | 250 |
+| Location      | Rampart Lakes, United States (United States) |
+| Coordinates   | Latitude 47.4155129, Longitude -121.3402916 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -121.3402916,
+                            47.4155129
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -121.0402916,
+                                47.7155129
+                            ],
+                            [
+                                -121.0402916,
+                                47.115512900000006
+                            ],
+                            [
+                                -121.6402916,
+                                47.115512900000006
+                            ],
+                            [
+                                -121.6402916,
+                                47.7155129
+                            ],
+                            [
+                                -121.0402916,
+                                47.7155129
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
