@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c"><img width="720" src="https://images.unsplash.com/photo-1511497584788-876760111969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU3NTYwMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="pine trees field near mountain under sunset"></a>
+  <a href="https://unsplash.com/photos/mountains-at-golden-hour-wndpWTiDuT0"><img width="720" src="https://images.unsplash.com/photo-1494935362342-566c6d6e75b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU4NDI0MjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountains at golden hour"></a>
   
-  <em>"pine trees field near mountain under sunset"</em>
+  <em>"mountains at golden hour"</em>
   
-  <em>"Smoky morning in Cascades"</em>
+  <em>"Green mountains and clouds"</em>
 
-  Photo by Sergei A on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergeiakphoto) / [portfolio](https://www.cavanimages.com/contributor/17417)
+  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
   
-  Taken at Rampart Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4155129,-121.3402916)
+  Taken at Monte Altissimo di Nago, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.810556,10.888056)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 1/60 |
-| Aperture      | 9.0 |
-| Focal Length  | 35.0 |
-| ISO           | 250 |
-| Location      | Rampart Lakes, United States (United States) |
-| Coordinates   | Latitude 47.4155129, Longitude -121.3402916 |
+| Camera Model  | X-T10 |
+| Exposure Time | 1/680 |
+| Aperture      | 14.0 |
+| Focal Length  | 27.0 |
+| ISO           | 1000 |
+| Location      | Monte Altissimo di Nago, Italy (Italy) |
+| Coordinates   | Latitude 45.810556, Longitude 10.888056 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -121.3402916,
-                            47.4155129
+                            10.888056,
+                            45.810556
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -121.0402916,
-                                47.7155129
+                                11.188056000000001,
+                                46.110555999999995
                             ],
                             [
-                                -121.0402916,
-                                47.115512900000006
+                                11.188056000000001,
+                                45.510556
                             ],
                             [
-                                -121.6402916,
-                                47.115512900000006
+                                10.588056,
+                                45.510556
                             ],
                             [
-                                -121.6402916,
-                                47.7155129
+                                10.588056,
+                                46.110555999999995
                             ],
                             [
-                                -121.0402916,
-                                47.7155129
+                                11.188056000000001,
+                                46.110555999999995
                             ]
                         ],
                         "type": "LineString"
