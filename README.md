@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTU5Mjg4MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="seashore during golden hour"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-green-trees-ugnrXk1129g"><img width="720" src="https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTYwMTUyMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of green trees"></a>
   
-  <em>"seashore during golden hour"</em>
+  <em>"aerial photo of green trees"</em>
   
-  <em>"The last night of a two week stay on the North Shore of Oahu, Hawaii."</em>
+  <em>"This photo was taken in the high mountains of Adjara, Georgia, while I was doing my project there. It was summer, but the temperature didn’t feel like it. I spent most of my days standing in front of this amazing view, thinking about the life that was waiting for me back in capital. Suddenly, I  had a very strong desire to talk with the fog. Loudly. Thought it had many stories to tell too."</em>
 
-  Photo by Sean Oulashin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
+  Photo by Marita Kavelashvili on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/maritaextrabold)
   
-  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
+  Taken at Adjara, Georgia • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.6005626,42.0688382999999)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T3i |
-| Exposure Time | 1/250 |
-| Aperture      | 4.5 |
-| Focal Length  | 10.0 |
-| ISO           | 200 |
-| Location      | North Shore, Waialua, United States (United States) |
-| Coordinates   | Latitude 21.5616575, Longitude -158.0715983 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/4000 |
+| Aperture      | 2.8 |
+| Focal Length  | 40.0 |
+| ISO           | 1000 |
+| Location      | Adjara, Georgia (Georgia) |
+| Coordinates   | Latitude 41.6005626, Longitude 42.0688382999999 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -158.0715983,
-                            21.5616575
+                            42.0688382999999,
+                            41.6005626
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -157.7715983,
-                                21.8616575
+                                42.3688382999999,
+                                41.9005626
                             ],
                             [
-                                -157.7715983,
-                                21.2616575
+                                42.3688382999999,
+                                41.300562600000006
                             ],
                             [
-                                -158.37159830000002,
-                                21.2616575
+                                41.768838299999906,
+                                41.300562600000006
                             ],
                             [
-                                -158.37159830000002,
-                                21.8616575
+                                41.768838299999906,
+                                41.9005626
                             ],
                             [
-                                -157.7715983,
-                                21.8616575
+                                42.3688382999999,
+                                41.9005626
                             ]
                         ],
                         "type": "LineString"
