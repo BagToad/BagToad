@@ -38,15 +38,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photo-of-green-trees-ugnrXk1129g"><img width="720" src="https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTYwMTUyMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of green trees"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-twukN12EN7c"><img width="720" src="https://images.unsplash.com/photo-1500964757637-c85e8a162699?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTYxMDE2MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountains"></a>
   
-  <em>"aerial photo of green trees"</em>
+  <em>"landscape photography of mountains"</em>
   
-  <em>"This photo was taken in the high mountains of Adjara, Georgia, while I was doing my project there. It was summer, but the temperature didn’t feel like it. I spent most of my days standing in front of this amazing view, thinking about the life that was waiting for me back in capital. Suddenly, I  had a very strong desire to talk with the fog. Loudly. Thought it had many stories to tell too."</em>
+  <em>"Pink toned thoughts on a hike —
+Everything comes in waves,
+even mountains."</em>
 
-  Photo by Marita Kavelashvili on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/maritaextrabold)
+  Photo by Simon Berger on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simon_berger/)
   
-  Taken at Adjara, Georgia • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.6005626,42.0688382999999)
+  Taken at Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.82743333,13.62928667)
   
   ---
   
@@ -55,13 +57,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
-| Exposure Time | 1/4000 |
-| Aperture      | 2.8 |
-| Focal Length  | 40.0 |
-| ISO           | 1000 |
-| Location      | Adjara, Georgia (Georgia) |
-| Coordinates   | Latitude 41.6005626, Longitude 42.0688382999999 |
+| Camera Model  | E-M1 |
+| Exposure Time | 1/800 |
+| Aperture      | 4 |
+| Focal Length  | 75.0 |
+| ISO           | 200 |
+| Location      | Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich (Österreich) |
+| Coordinates   | Latitude 47.82743333, Longitude 13.62928667 |
 
 ### Map
 
@@ -74,8 +76,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            42.0688382999999,
-                            41.6005626
+                            13.62928667,
+                            47.82743333
                         ],
                         "type": "Point"
                     },
@@ -87,24 +89,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                42.3688382999999,
-                                41.9005626
+                                13.929286670000002,
+                                48.127433329999995
                             ],
                             [
-                                42.3688382999999,
-                                41.300562600000006
+                                13.929286670000002,
+                                47.52743333
                             ],
                             [
-                                41.768838299999906,
-                                41.300562600000006
+                                13.32928667,
+                                47.52743333
                             ],
                             [
-                                41.768838299999906,
-                                41.9005626
+                                13.32928667,
+                                48.127433329999995
                             ],
                             [
-                                42.3688382999999,
-                                41.9005626
+                                13.929286670000002,
+                                48.127433329999995
                             ]
                         ],
                         "type": "LineString"
