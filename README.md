@@ -38,17 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-twukN12EN7c"><img width="720" src="https://images.unsplash.com/photo-1500964757637-c85e8a162699?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTYxMDE2MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountains"></a>
+  <a href="https://unsplash.com/photos/worms-eye-view-of-mountain-during-daytime-ii5JY_46xH0"><img width="720" src="https://images.unsplash.com/photo-1508144753681-9986d4df99b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTYxODgwMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="worms eye view of mountain during daytime"></a>
   
-  <em>"landscape photography of mountains"</em>
+  <em>"worms eye view of mountain during daytime"</em>
   
-  <em>"Pink toned thoughts on a hike —
-Everything comes in waves,
-even mountains."</em>
+  <em>""</em>
 
-  Photo by Simon Berger on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simon_berger/)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.82743333,13.62928667)
+  Taken at Sorapiss, Auronzo di Cadore, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5954770999235,12.2652839101563)
   
   ---
   
@@ -57,13 +55,13 @@ even mountains."</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | E-M1 |
-| Exposure Time | 1/800 |
-| Aperture      | 4 |
-| Focal Length  | 75.0 |
+| Camera Model  | X-T20 |
+| Exposure Time | 1/280 |
+| Aperture      | 9.0 |
+| Focal Length  | 14.0 |
 | ISO           | 200 |
-| Location      | Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich (Österreich) |
-| Coordinates   | Latitude 47.82743333, Longitude 13.62928667 |
+| Location      | Sorapiss, Auronzo di Cadore, Italy (Italy) |
+| Coordinates   | Latitude 46.5954770999235, Longitude 12.2652839101563 |
 
 ### Map
 
@@ -76,8 +74,8 @@ even mountains."</em>
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            13.62928667,
-                            47.82743333
+                            12.2652839101563,
+                            46.5954770999235
                         ],
                         "type": "Point"
                     },
@@ -89,24 +87,24 @@ even mountains."</em>
                     "geometry": {
                         "coordinates": [
                             [
-                                13.929286670000002,
-                                48.127433329999995
+                                12.565283910156301,
+                                46.8954770999235
                             ],
                             [
-                                13.929286670000002,
-                                47.52743333
+                                12.565283910156301,
+                                46.2954770999235
                             ],
                             [
-                                13.32928667,
-                                47.52743333
+                                11.9652839101563,
+                                46.2954770999235
                             ],
                             [
-                                13.32928667,
-                                48.127433329999995
+                                11.9652839101563,
+                                46.8954770999235
                             ],
                             [
-                                13.929286670000002,
-                                48.127433329999995
+                                12.565283910156301,
+                                46.8954770999235
                             ]
                         ],
                         "type": "LineString"
