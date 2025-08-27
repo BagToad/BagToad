@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/worms-eye-view-of-mountain-during-daytime-ii5JY_46xH0"><img width="720" src="https://images.unsplash.com/photo-1508144753681-9986d4df99b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTYxODgwMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="worms eye view of mountain during daytime"></a>
+  <a href="https://unsplash.com/photos/asphalt-road-between-green-grass-field-near-mountains-LoMs1_wq3tU"><img width="720" src="https://images.unsplash.com/photo-1431887773042-803ed52bed26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTYyNzQ0MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="asphalt road between green grass field near mountains"></a>
   
-  <em>"worms eye view of mountain during daytime"</em>
+  <em>"asphalt road between green grass field near mountains"</em>
   
-  <em>""</em>
+  <em>"Winding road"</em>
 
-  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
+  Photo by Jared Erondu on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/erondu) / [portfolio](http://read.cv/erondu) / [Twitter](https://twitter.com/erondu)
   
-  Taken at Sorapiss, Auronzo di Cadore, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5954770999235,12.2652839101563)
+  Taken at Pan Toll Rd, Mill Valley, CA 94941, USA, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.90762222,-122.61625556)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T20 |
-| Exposure Time | 1/280 |
-| Aperture      | 9.0 |
-| Focal Length  | 14.0 |
-| ISO           | 200 |
-| Location      | Sorapiss, Auronzo di Cadore, Italy (Italy) |
-| Coordinates   | Latitude 46.5954770999235, Longitude 12.2652839101563 |
+| Camera Model  | iPhone 6 |
+| Exposure Time | 1/142 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.2 |
+| ISO           | 32 |
+| Location      | Pan Toll Rd, Mill Valley, CA 94941, USA, United States (United States) |
+| Coordinates   | Latitude 37.90762222, Longitude -122.61625556 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.2652839101563,
-                            46.5954770999235
+                            -122.61625556,
+                            37.90762222
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.565283910156301,
-                                46.8954770999235
+                                -122.31625556,
+                                38.20762222
                             ],
                             [
-                                12.565283910156301,
-                                46.2954770999235
+                                -122.31625556,
+                                37.60762222
                             ],
                             [
-                                11.9652839101563,
-                                46.2954770999235
+                                -122.91625556,
+                                37.60762222
                             ],
                             [
-                                11.9652839101563,
-                                46.8954770999235
+                                -122.91625556,
+                                38.20762222
                             ],
                             [
-                                12.565283910156301,
-                                46.8954770999235
+                                -122.31625556,
+                                38.20762222
                             ]
                         ],
                         "type": "LineString"
