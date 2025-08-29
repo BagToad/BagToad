@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-on-forest-with-sun-rays-sp-p7uuT0tw"><img width="720" src="https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTYzNjA4MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="trees on forest with sun rays"></a>
+  <a href="https://unsplash.com/photos/landscape-photo-of-green-and-brown-cliffs-xcC5ozHk_N8"><img width="720" src="https://images.unsplash.com/photo-1433190152045-5a94184895da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY0NDcyMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photo of green and brown cliffs"></a>
   
-  <em>"trees on forest with sun rays"</em>
+  <em>"landscape photo of green and brown cliffs"</em>
   
-  <em>"Entering another dimension..."</em>
+  <em>"Beautiful cliff around beach"</em>
 
-  Photo by Sebastian Unrau on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
+  Photo by Joseph Barrientos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jbcreate) / [portfolio](http://dribbble.com/jbcreate) / [Twitter](https://twitter.com/jbcreate_)
   
-  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
+  Taken at Shark Fin Cove, Davenport, CA, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.0040866,-122.1854138)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 1/160 |
-| Aperture      | 8 |
+| Camera Model  | ILCE-7 |
+| Exposure Time | 1/250 |
+| Aperture      | 11 |
 | Focal Length  | 16.0 |
-| ISO           | 250 |
-| Location      | Bad Pyrmont, Deutschland (Deutschland) |
-| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
+| ISO           | 800 |
+| Location      | Shark Fin Cove, Davenport, CA, USA (United States) |
+| Coordinates   | Latitude 37.0040866, Longitude -122.1854138 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.25209110000003,
-                            51.9855648
+                            -122.1854138,
+                            37.0040866
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.55209110000003,
-                                52.285564799999996
+                                -121.88541380000001,
+                                37.3040866
                             ],
                             [
-                                9.55209110000003,
-                                51.6855648
+                                -121.88541380000001,
+                                36.704086600000004
                             ],
                             [
-                                8.952091100000029,
-                                51.6855648
+                                -122.4854138,
+                                36.704086600000004
                             ],
                             [
-                                8.952091100000029,
-                                52.285564799999996
+                                -122.4854138,
+                                37.3040866
                             ],
                             [
-                                9.55209110000003,
-                                52.285564799999996
+                                -121.88541380000001,
+                                37.3040866
                             ]
                         ],
                         "type": "LineString"
