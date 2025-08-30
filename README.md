@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photo-of-green-and-brown-cliffs-xcC5ozHk_N8"><img width="720" src="https://images.unsplash.com/photo-1433190152045-5a94184895da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY0NDcyMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photo of green and brown cliffs"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY1MzM2MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of brown moutains"></a>
   
-  <em>"landscape photo of green and brown cliffs"</em>
+  <em>"aerial photo of brown moutains"</em>
   
-  <em>"Beautiful cliff around beach"</em>
+  <em>"Red highlands"</em>
 
-  Photo by Joseph Barrientos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jbcreate) / [portfolio](http://dribbble.com/jbcreate) / [Twitter](https://twitter.com/jbcreate_)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
   
-  Taken at Shark Fin Cove, Davenport, CA, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.0040866,-122.1854138)
+  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 1/250 |
-| Aperture      | 11 |
-| Focal Length  | 16.0 |
-| ISO           | 800 |
-| Location      | Shark Fin Cove, Davenport, CA, USA (United States) |
-| Coordinates   | Latitude 37.0040866, Longitude -122.1854138 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/640 |
+| Aperture      | 4.0 |
+| Focal Length  | 177.0 |
+| ISO           | 500 |
+| Location      | Ancient Bristlecone Pine Forest, United States (United States) |
+| Coordinates   | Latitude 37.4488186, Longitude -118.1426005 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -122.1854138,
-                            37.0040866
+                            -118.1426005,
+                            37.4488186
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -121.88541380000001,
-                                37.3040866
+                                -117.8426005,
+                                37.7488186
                             ],
                             [
-                                -121.88541380000001,
-                                36.704086600000004
+                                -117.8426005,
+                                37.148818600000006
                             ],
                             [
-                                -122.4854138,
-                                36.704086600000004
+                                -118.4426005,
+                                37.148818600000006
                             ],
                             [
-                                -122.4854138,
-                                37.3040866
+                                -118.4426005,
+                                37.7488186
                             ],
                             [
-                                -121.88541380000001,
-                                37.3040866
+                                -117.8426005,
+                                37.7488186
                             ]
                         ],
                         "type": "LineString"
