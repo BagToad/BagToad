@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY1MzM2MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of brown moutains"></a>
+  <a href="https://unsplash.com/photos/worms-eye-view-of-mountain-during-daytime-ii5JY_46xH0"><img width="720" src="https://images.unsplash.com/photo-1508144753681-9986d4df99b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY2MjAwMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="worms eye view of mountain during daytime"></a>
   
-  <em>"aerial photo of brown moutains"</em>
+  <em>"worms eye view of mountain during daytime"</em>
   
-  <em>"Red highlands"</em>
+  <em>""</em>
 
-  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
+  Taken at Sorapiss, Auronzo di Cadore, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5954770999235,12.2652839101563)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/640 |
-| Aperture      | 4.0 |
-| Focal Length  | 177.0 |
-| ISO           | 500 |
-| Location      | Ancient Bristlecone Pine Forest, United States (United States) |
-| Coordinates   | Latitude 37.4488186, Longitude -118.1426005 |
+| Camera Model  | X-T20 |
+| Exposure Time | 1/280 |
+| Aperture      | 9.0 |
+| Focal Length  | 14.0 |
+| ISO           | 200 |
+| Location      | Sorapiss, Auronzo di Cadore, Italy (Italy) |
+| Coordinates   | Latitude 46.5954770999235, Longitude 12.2652839101563 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -118.1426005,
-                            37.4488186
+                            12.2652839101563,
+                            46.5954770999235
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -117.8426005,
-                                37.7488186
+                                12.565283910156301,
+                                46.8954770999235
                             ],
                             [
-                                -117.8426005,
-                                37.148818600000006
+                                12.565283910156301,
+                                46.2954770999235
                             ],
                             [
-                                -118.4426005,
-                                37.148818600000006
+                                11.9652839101563,
+                                46.2954770999235
                             ],
                             [
-                                -118.4426005,
-                                37.7488186
+                                11.9652839101563,
+                                46.8954770999235
                             ],
                             [
-                                -117.8426005,
-                                37.7488186
+                                12.565283910156301,
+                                46.8954770999235
                             ]
                         ],
                         "type": "LineString"
