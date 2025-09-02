@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/scenery-of-mountain-oMneOBYhJxY"><img width="720" src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY3MDY0MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="scenery of mountain"></a>
+  <a href="https://unsplash.com/photos/lavender-field-c1Jp-fo53U8"><img width="720" src="https://images.unsplash.com/photo-1499002238440-d264edd596ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY3OTI4MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="lavender field"></a>
   
-  <em>"scenery of mountain"</em>
+  <em>"lavender field"</em>
   
-  <em>"Color of the lake is so beautiful!"</em>
+  <em>"Sunset over a lavender field"</em>
 
-  Photo by John Lee on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/john_artifexfilm) / [portfolio](http://www.artifexfilm.com)
+  Photo by Léonard Cotte on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/EttocL) / [portfolio](https://ettocl.com) / [Twitter](https://twitter.com/EttocL)
   
-  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
+  Taken at Drôme, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.5298650604467,4.82497987792965)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Moraine Lake, Canada (Canada) |
-| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
+| Camera Model  | NIKON D5300 |
+| Exposure Time | 1/250 |
+| Aperture      | 8 |
+| Focal Length  | 25.0 |
+| ISO           | 100 |
+| Location      | Drôme, France (France) |
+| Coordinates   | Latitude 44.5298650604467, Longitude 4.82497987792965 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.1860049,
-                            51.3217416
+                            4.82497987792965,
+                            44.5298650604467
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -115.8860049,
-                                51.6217416
+                                5.12497987792965,
+                                44.8298650604467
                             ],
                             [
-                                -115.8860049,
-                                51.021741600000006
+                                5.12497987792965,
+                                44.229865060446706
                             ],
                             [
-                                -116.4860049,
-                                51.021741600000006
+                                4.52497987792965,
+                                44.229865060446706
                             ],
                             [
-                                -116.4860049,
-                                51.6217416
+                                4.52497987792965,
+                                44.8298650604467
                             ],
                             [
-                                -115.8860049,
-                                51.6217416
+                                5.12497987792965,
+                                44.8298650604467
                             ]
                         ],
                         "type": "LineString"
