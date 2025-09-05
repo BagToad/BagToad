@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photo-of-green-and-brown-cliffs-xcC5ozHk_N8"><img width="720" src="https://images.unsplash.com/photo-1433190152045-5a94184895da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTY5NjU2MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photo of green and brown cliffs"></a>
+  <a href="https://unsplash.com/photos/the-sun-is-setting-over-the-mountains-in-the-desert-9hWJs7iblh8"><img width="720" src="https://images.unsplash.com/photo-1682685797365-41f45b562c0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTcwNTIwMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="the sun is setting over the mountains in the desert"></a>
   
-  <em>"landscape photo of green and brown cliffs"</em>
+  <em>"the sun is setting over the mountains in the desert"</em>
   
-  <em>"Beautiful cliff around beach"</em>
+  <em>"Sunset across the coastal lowlands granitic sand plains, Nature Reserve – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
 
-  Photo by Joseph Barrientos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jbcreate) / [portfolio](http://dribbble.com/jbcreate) / [Twitter](https://twitter.com/jbcreate_)
+  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
   
-  Taken at Shark Fin Cove, Davenport, CA, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.0040866,-122.1854138)
+  Taken at Nature Reserve - NEOM, Saudi Arabia • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 1/250 |
-| Aperture      | 11 |
-| Focal Length  | 16.0 |
-| ISO           | 800 |
-| Location      | Shark Fin Cove, Davenport, CA, USA (United States) |
-| Coordinates   | Latitude 37.0040866, Longitude -122.1854138 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | 0.0 |
+| ISO           | null |
+| Location      | Nature Reserve - NEOM, Saudi Arabia (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -122.1854138,
-                            37.0040866
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -121.88541380000001,
-                                37.3040866
-                            ],
-                            [
-                                -121.88541380000001,
-                                36.704086600000004
-                            ],
-                            [
-                                -122.4854138,
-                                36.704086600000004
-                            ],
-                            [
-                                -122.4854138,
-                                37.3040866
-                            ],
-                            [
-                                -121.88541380000001,
-                                37.3040866
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
