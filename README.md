@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-sun-is-setting-over-the-mountains-in-the-desert-9hWJs7iblh8"><img width="720" src="https://images.unsplash.com/photo-1682685797365-41f45b562c0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTcwNTIwMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="the sun is setting over the mountains in the desert"></a>
+  <a href="https://unsplash.com/photos/lake-near-snow-covered-mountain-during-daytime-QaWRyEdlffY"><img width="720" src="https://images.unsplash.com/photo-1478827387698-1527781a4887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTcxMzg0MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="lake near snow-covered mountain during daytime"></a>
   
-  <em>"the sun is setting over the mountains in the desert"</em>
+  <em>"lake near snow-covered mountain during daytime"</em>
   
-  <em>"Sunset across the coastal lowlands granitic sand plains, Nature Reserve – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
+  <em>"Mountain lake with an island"</em>
 
-  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
+  Photo by Olga Stalska on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Nature Reserve - NEOM, Saudi Arabia • 
+  Taken at Torres del Paine National Park, Chile • [Google Maps](https://www.google.com/maps/search/?api=1&query=-50.9423262,-73.406788)
   
   ---
   
@@ -58,14 +58,61 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | Camera Model  | null |
 | Exposure Time | null |
 | Aperture      | null |
-| Focal Length  | 0.0 |
+| Focal Length  | null |
 | ISO           | null |
-| Location      | Nature Reserve - NEOM, Saudi Arabia (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Location      | Torres del Paine National Park, Chile (Chile) |
+| Coordinates   | Latitude -50.9423262, Longitude -73.406788 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -73.406788,
+                            -50.9423262
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -73.10678800000001,
+                                -50.6423262
+                            ],
+                            [
+                                -73.10678800000001,
+                                -51.242326199999994
+                            ],
+                            [
+                                -73.706788,
+                                -51.242326199999994
+                            ],
+                            [
+                                -73.706788,
+                                -50.6423262
+                            ],
+                            [
+                                -73.10678800000001,
+                                -50.6423262
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
