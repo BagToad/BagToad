@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-between-brown-mountains-ARVFsI-32Uk"><img width="720" src="https://images.unsplash.com/photo-1549558549-415fe4c37b60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTczMTEyMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water between brown mountains"></a>
+  <a href="https://unsplash.com/photos/mountains-at-golden-hour-wndpWTiDuT0"><img width="720" src="https://images.unsplash.com/photo-1494935362342-566c6d6e75b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTczOTc2MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountains at golden hour"></a>
   
-  <em>"body of water between brown mountains"</em>
+  <em>"mountains at golden hour"</em>
   
-  <em>""</em>
+  <em>"Green mountains and clouds"</em>
 
-  Photo by Mar Bustos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mar_mediterraneo) / [portfolio](https://www.instagram.com/mar__mediterraneo/)
+  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
   
-  Taken at Unknown • 
+  Taken at Monte Altissimo di Nago, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.810556,10.888056)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | 5500 |
-| Exposure Time | 300 |
-| Aperture      | 16 |
-| Focal Length  | 12 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | X-T10 |
+| Exposure Time | 1/680 |
+| Aperture      | 14.0 |
+| Focal Length  | 27.0 |
+| ISO           | 1000 |
+| Location      | Monte Altissimo di Nago, Italy (Italy) |
+| Coordinates   | Latitude 45.810556, Longitude 10.888056 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            10.888056,
+                            45.810556
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                11.188056000000001,
+                                46.110555999999995
+                            ],
+                            [
+                                11.188056000000001,
+                                45.510556
+                            ],
+                            [
+                                10.588056,
+                                45.510556
+                            ],
+                            [
+                                10.588056,
+                                46.110555999999995
+                            ],
+                            [
+                                11.188056000000001,
+                                46.110555999999995
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
