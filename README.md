@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountains-at-golden-hour-wndpWTiDuT0"><img width="720" src="https://images.unsplash.com/photo-1494935362342-566c6d6e75b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTczOTc2MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountains at golden hour"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-9fqwGqGLUxc"><img width="720" src="https://images.unsplash.com/photo-1496614932623-0a3a9743552e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc0ODQwMzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field"></a>
   
-  <em>"mountains at golden hour"</em>
+  <em>"green grass field"</em>
   
-  <em>"Green mountains and clouds"</em>
+  <em>"Cloudy sunset over the sand dunes"</em>
 
-  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
+  Photo by Petr Vyšohlíd on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/petrvysohlid)
   
-  Taken at Monte Altissimo di Nago, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.810556,10.888056)
+  Taken at Port Waikato, Tuakau, Auckland, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-37.39385,174.71005)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T10 |
-| Exposure Time | 1/680 |
-| Aperture      | 14.0 |
-| Focal Length  | 27.0 |
-| ISO           | 1000 |
-| Location      | Monte Altissimo di Nago, Italy (Italy) |
-| Coordinates   | Latitude 45.810556, Longitude 10.888056 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 1/20 |
+| Aperture      | 9 |
+| Focal Length  | 21.0 |
+| ISO           | 100 |
+| Location      | Port Waikato, Tuakau, Auckland, New Zealand (New Zealand) |
+| Coordinates   | Latitude -37.39385, Longitude 174.71005 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            10.888056,
-                            45.810556
+                            174.71005,
+                            -37.39385
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                11.188056000000001,
-                                46.110555999999995
+                                175.01005,
+                                -37.09385
                             ],
                             [
-                                11.188056000000001,
-                                45.510556
+                                175.01005,
+                                -37.69385
                             ],
                             [
-                                10.588056,
-                                45.510556
+                                174.41004999999998,
+                                -37.69385
                             ],
                             [
-                                10.588056,
-                                46.110555999999995
+                                174.41004999999998,
+                                -37.09385
                             ],
                             [
-                                11.188056000000001,
-                                46.110555999999995
+                                175.01005,
+                                -37.09385
                             ]
                         ],
                         "type": "LineString"
