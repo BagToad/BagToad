@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-9fqwGqGLUxc"><img width="720" src="https://images.unsplash.com/photo-1496614932623-0a3a9743552e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc0ODQwMzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field"></a>
+  <a href="https://unsplash.com/photos/trees-on-forest-with-sun-rays-sp-p7uuT0tw"><img width="720" src="https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc1NzA0MzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="trees on forest with sun rays"></a>
   
-  <em>"green grass field"</em>
+  <em>"trees on forest with sun rays"</em>
   
-  <em>"Cloudy sunset over the sand dunes"</em>
+  <em>"Entering another dimension..."</em>
 
-  Photo by Petr Vyšohlíd on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/petrvysohlid)
+  Photo by Sebastian Unrau on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
   
-  Taken at Port Waikato, Tuakau, Auckland, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-37.39385,174.71005)
+  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 7D |
-| Exposure Time | 1/20 |
-| Aperture      | 9 |
-| Focal Length  | 21.0 |
-| ISO           | 100 |
-| Location      | Port Waikato, Tuakau, Auckland, New Zealand (New Zealand) |
-| Coordinates   | Latitude -37.39385, Longitude 174.71005 |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 1/160 |
+| Aperture      | 8 |
+| Focal Length  | 16.0 |
+| ISO           | 250 |
+| Location      | Bad Pyrmont, Deutschland (Deutschland) |
+| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            174.71005,
-                            -37.39385
+                            9.25209110000003,
+                            51.9855648
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                175.01005,
-                                -37.09385
+                                9.55209110000003,
+                                52.285564799999996
                             ],
                             [
-                                175.01005,
-                                -37.69385
+                                9.55209110000003,
+                                51.6855648
                             ],
                             [
-                                174.41004999999998,
-                                -37.69385
+                                8.952091100000029,
+                                51.6855648
                             ],
                             [
-                                174.41004999999998,
-                                -37.09385
+                                8.952091100000029,
+                                52.285564799999996
                             ],
                             [
-                                175.01005,
-                                -37.09385
+                                9.55209110000003,
+                                52.285564799999996
                             ]
                         ],
                         "type": "LineString"
