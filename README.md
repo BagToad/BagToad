@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-on-forest-with-sun-rays-sp-p7uuT0tw"><img width="720" src="https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc1NzA0MzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="trees on forest with sun rays"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-body-of-water-overlooking-mountain-range-ZqLeQDjY6fY"><img width="720" src="https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc2NTY4Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of body of water overlooking mountain range"></a>
   
-  <em>"trees on forest with sun rays"</em>
+  <em>"landscape photography of body of water overlooking mountain range"</em>
   
-  <em>"Entering another dimension..."</em>
+  <em>"Maligne Lake from the Spirit Island Dock. Check out other photos or videos I made on instagram: @its_tgain or TikTok: @thehikersguide"</em>
 
-  Photo by Sebastian Unrau on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
+  Photo by Tom Gainor on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/its_tgain) / [portfolio](http://tiktok.com/@thehikersguide) / [Twitter](https://twitter.com/splitrock37)
   
-  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
+  Taken at Maligne Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.6547556112802,-117.520967451221)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 1/160 |
-| Aperture      | 8 |
-| Focal Length  | 16.0 |
-| ISO           | 250 |
-| Location      | Bad Pyrmont, Deutschland (Deutschland) |
-| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | 0.0 |
+| ISO           | null |
+| Location      | Maligne Lake, Canada (Canada) |
+| Coordinates   | Latitude 52.6547556112802, Longitude -117.520967451221 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.25209110000003,
-                            51.9855648
+                            -117.520967451221,
+                            52.6547556112802
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.55209110000003,
-                                52.285564799999996
+                                -117.220967451221,
+                                52.9547556112802
                             ],
                             [
-                                9.55209110000003,
-                                51.6855648
+                                -117.220967451221,
+                                52.354755611280204
                             ],
                             [
-                                8.952091100000029,
-                                51.6855648
+                                -117.820967451221,
+                                52.354755611280204
                             ],
                             [
-                                8.952091100000029,
-                                52.285564799999996
+                                -117.820967451221,
+                                52.9547556112802
                             ],
                             [
-                                9.55209110000003,
-                                52.285564799999996
+                                -117.220967451221,
+                                52.9547556112802
                             ]
                         ],
                         "type": "LineString"
