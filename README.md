@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-body-of-water-overlooking-mountain-range-ZqLeQDjY6fY"><img width="720" src="https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc2NTY4Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of body of water overlooking mountain range"></a>
+  <a href="https://unsplash.com/photos/mountain-near-on-body-of-water-photo-hXXRLtTxXCU"><img width="720" src="https://images.unsplash.com/photo-1484902945377-bd2a38e625cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc3NDMyMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain near on body of water photo"></a>
   
-  <em>"landscape photography of body of water overlooking mountain range"</em>
+  <em>"mountain near on body of water photo"</em>
   
-  <em>"Maligne Lake from the Spirit Island Dock. Check out other photos or videos I made on instagram: @its_tgain or TikTok: @thehikersguide"</em>
+  <em>"Reflection"</em>
 
-  Photo by Tom Gainor on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/its_tgain) / [portfolio](http://tiktok.com/@thehikersguide) / [Twitter](https://twitter.com/splitrock37)
+  Photo by Brigitta Schneiter on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Maligne Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.6547556112802,-117.520967451221)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | 0.0 |
-| ISO           | null |
-| Location      | Maligne Lake, Canada (Canada) |
-| Coordinates   | Latitude 52.6547556112802, Longitude -117.520967451221 |
+| Camera Model  | NIKON D7200 |
+| Exposure Time | 1/200 |
+| Aperture      | 14.0 |
+| Focal Length  | 62.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -117.520967451221,
-                            52.6547556112802
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -117.220967451221,
-                                52.9547556112802
-                            ],
-                            [
-                                -117.220967451221,
-                                52.354755611280204
-                            ],
-                            [
-                                -117.820967451221,
-                                52.354755611280204
-                            ],
-                            [
-                                -117.820967451221,
-                                52.9547556112802
-                            ],
-                            [
-                                -117.220967451221,
-                                52.9547556112802
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
