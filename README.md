@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-near-on-body-of-water-photo-hXXRLtTxXCU"><img width="720" src="https://images.unsplash.com/photo-1484902945377-bd2a38e625cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc3NDMyMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain near on body of water photo"></a>
+  <a href="https://unsplash.com/photos/rock-formation-on-wide-field-grass-under-cloudy-blue-sky-during-daytime-M9O6GRrEEDY"><img width="720" src="https://images.unsplash.com/photo-1494625927555-6ec4433b1571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc4Mjk2MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="rock formation on wide field grass under cloudy blue sky during daytime"></a>
   
-  <em>"mountain near on body of water photo"</em>
+  <em>"rock formation on wide field grass under cloudy blue sky during daytime"</em>
   
-  <em>"Reflection"</em>
+  <em>"Magic landscape 😊"</em>
 
-  Photo by Brigitta Schneiter on [unsplash.com](https://unsplash.com/) • 
+  Photo by 🧔‍♂️ Michal Kmeť on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mitkokmet) / [portfolio](http://www.michalkmet.com)
   
-  Taken at Unknown • 
+  Taken at Dolomites, Monte Piana, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4102117,11.8440350999999)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7200 |
-| Exposure Time | 1/200 |
-| Aperture      | 14.0 |
-| Focal Length  | 62.0 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/640 |
+| Aperture      | 7.1 |
+| Focal Length  | 35.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Dolomites, Monte Piana, Italy (Italy) |
+| Coordinates   | Latitude 46.4102117, Longitude 11.8440350999999 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            11.8440350999999,
+                            46.4102117
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                12.1440350999999,
+                                46.710211699999995
+                            ],
+                            [
+                                12.1440350999999,
+                                46.1102117
+                            ],
+                            [
+                                11.544035099999899,
+                                46.1102117
+                            ],
+                            [
+                                11.544035099999899,
+                                46.710211699999995
+                            ],
+                            [
+                                12.1440350999999,
+                                46.710211699999995
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
