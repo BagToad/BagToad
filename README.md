@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/rock-formation-on-wide-field-grass-under-cloudy-blue-sky-during-daytime-M9O6GRrEEDY"><img width="720" src="https://images.unsplash.com/photo-1494625927555-6ec4433b1571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc4Mjk2MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="rock formation on wide field grass under cloudy blue sky during daytime"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-dock-in-fornt-body-of-water-MS7KD9Ti7FQ"><img width="720" src="https://images.unsplash.com/reserve/O7A9fAvYSXC7NTdz8gLQ_IMGP1039.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTc5MTYwMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden dock in fornt body of water"></a>
   
-  <em>"rock formation on wide field grass under cloudy blue sky during daytime"</em>
+  <em>"brown wooden dock in fornt body of water"</em>
   
-  <em>"Magic landscape 😊"</em>
+  <em>"Wooden path to the beach"</em>
 
-  Photo by 🧔‍♂️ Michal Kmeť on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mitkokmet) / [portfolio](http://www.michalkmet.com)
+  Photo by Aleksandra Boguslawska on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aleksandra.boguslawska) / [portfolio](https://www.instagram.com/aleksandra.boguslawska/)
   
-  Taken at Dolomites, Monte Piana, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4102117,11.8440350999999)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
-| Exposure Time | 1/640 |
-| Aperture      | 7.1 |
-| Focal Length  | 35.0 |
-| ISO           | 100 |
-| Location      | Dolomites, Monte Piana, Italy (Italy) |
-| Coordinates   | Latitude 46.4102117, Longitude 11.8440350999999 |
+| Camera Model  | PENTAX K-x |
+| Exposure Time | 1/200 |
+| Aperture      | 11.0 |
+| Focal Length  | 40.0 |
+| ISO           | 400 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            11.8440350999999,
-                            46.4102117
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                12.1440350999999,
-                                46.710211699999995
-                            ],
-                            [
-                                12.1440350999999,
-                                46.1102117
-                            ],
-                            [
-                                11.544035099999899,
-                                46.1102117
-                            ],
-                            [
-                                11.544035099999899,
-                                46.710211699999995
-                            ],
-                            [
-                                12.1440350999999,
-                                46.710211699999995
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
