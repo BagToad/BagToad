@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/parorama-photography-of-mountain-under-cloudy-sky-Ni4NgA64TFQ"><img width="720" src="https://images.unsplash.com/photo-1419064642531-e575728395f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTgwODg4MzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="parorama photography of mountain under cloudy sky"></a>
+  <a href="https://unsplash.com/photos/aerial-photography-of-flowers-at-daytime-TRhGEGdw-YY"><img width="720" src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTgxNzUyMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of flowers at daytime"></a>
   
-  <em>"parorama photography of mountain under cloudy sky"</em>
+  <em>"aerial photography of flowers at daytime"</em>
   
-  <em>"Misty mountains overlooking a lake"</em>
+  <em>""</em>
 
-  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
+  Photo by Joel Holland on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joelkentholland) / [portfolio](https://www.harvesthosts.com) / [Twitter](https://twitter.com/joelkentholland)
   
-  Taken at Unknown • 
+  Taken at Shrine Pass Road, Red Cliff, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.5542104,-106.2820959)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DSLR-A900 |
-| Exposure Time | 1/100 |
-| Aperture      | 8.0 |
-| Focal Length  | 35.0 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/6 |
+| Aperture      | 11.0 |
+| Focal Length  | 16.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Shrine Pass Road, Red Cliff, United States (United States) |
+| Coordinates   | Latitude 39.5542104, Longitude -106.2820959 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -106.2820959,
+                            39.5542104
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -105.9820959,
+                                39.8542104
+                            ],
+                            [
+                                -105.9820959,
+                                39.254210400000005
+                            ],
+                            [
+                                -106.5820959,
+                                39.254210400000005
+                            ],
+                            [
+                                -106.5820959,
+                                39.8542104
+                            ],
+                            [
+                                -105.9820959,
+                                39.8542104
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
