@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-trees-during-daytime-iRpJ7sk7kTQ"><img width="720" src="https://images.unsplash.com/photo-1566233601708-73237226554c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTgzNDgwMjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green trees during daytime"></a>
+  <a href="https://unsplash.com/photos/the-sun-is-setting-over-a-rocky-landscape-MV7iHCilMJc"><img width="720" src="https://images.unsplash.com/photo-1682687219570-4c596363fd96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg0MzQ0Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="the sun is setting over a rocky landscape"></a>
   
-  <em>"green trees during daytime"</em>
+  <em>"the sun is setting over a rocky landscape"</em>
   
-  <em>"Bovilla Reservoir"</em>
+  <em>"Sandstone plateau, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
 
-  Photo by Drini Teta on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/driniteta)
+  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
   
-  Taken at Bovilla reservoir, Albania • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.445278,19.866667)
+  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 7 Plus |
-| Exposure Time | 1/5051 |
-| Aperture      | 1.8 |
-| Focal Length  | 4.0 |
-| ISO           | 20 |
-| Location      | Bovilla reservoir, Albania (Albania) |
-| Coordinates   | Latitude 41.445278, Longitude 19.866667 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | 0.0 |
+| ISO           | null |
+| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            19.866667,
-                            41.445278
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                20.166667,
-                                41.745278
-                            ],
-                            [
-                                20.166667,
-                                41.145278000000005
-                            ],
-                            [
-                                19.566667,
-                                41.145278000000005
-                            ],
-                            [
-                                19.566667,
-                                41.745278
-                            ],
-                            [
-                                20.166667,
-                                41.745278
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
