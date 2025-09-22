@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-sun-is-setting-over-a-rocky-landscape-MV7iHCilMJc"><img width="720" src="https://images.unsplash.com/photo-1682687219570-4c596363fd96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg0MzQ0Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="the sun is setting over a rocky landscape"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-black-and-white-mountain-kk3W5-0b6e0"><img width="720" src="https://images.unsplash.com/photo-1464983953574-0892a716854b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg1MjA4MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of black and white mountain"></a>
   
-  <em>"the sun is setting over a rocky landscape"</em>
+  <em>"landscape photography of black and white mountain"</em>
   
-  <em>"Sandstone plateau, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
+  <em>"(contact me for the full resoluton image)"</em>
 
-  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
+  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
   
-  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
+  Taken at Niederbauen-Chulm, Emmetten, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.9477,8.55696999999998)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | 0.0 |
-| ISO           | null |
-| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | Canon EOS 5D Mark II |
+| Exposure Time | 13 |
+| Aperture      | 4.0 |
+| Focal Length  | 24.0 |
+| ISO           | 4000 |
+| Location      | Niederbauen-Chulm, Emmetten, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.9477, Longitude 8.55696999999998 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            8.55696999999998,
+                            46.9477
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                8.856969999999981,
+                                47.247699999999995
+                            ],
+                            [
+                                8.856969999999981,
+                                46.6477
+                            ],
+                            [
+                                8.25696999999998,
+                                46.6477
+                            ],
+                            [
+                                8.25696999999998,
+                                47.247699999999995
+                            ],
+                            [
+                                8.856969999999981,
+                                47.247699999999995
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
