@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-black-and-white-mountain-kk3W5-0b6e0"><img width="720" src="https://images.unsplash.com/photo-1464983953574-0892a716854b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg1MjA4MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of black and white mountain"></a>
+  <a href="https://unsplash.com/photos/aerial-photography-of-flowers-at-daytime-TRhGEGdw-YY"><img width="720" src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg2MDcyMzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of flowers at daytime"></a>
   
-  <em>"landscape photography of black and white mountain"</em>
+  <em>"aerial photography of flowers at daytime"</em>
   
-  <em>"(contact me for the full resoluton image)"</em>
+  <em>""</em>
 
-  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
+  Photo by Joel Holland on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joelkentholland) / [portfolio](https://www.harvesthosts.com) / [Twitter](https://twitter.com/joelkentholland)
   
-  Taken at Niederbauen-Chulm, Emmetten, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.9477,8.55696999999998)
+  Taken at Shrine Pass Road, Red Cliff, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.5542104,-106.2820959)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark II |
-| Exposure Time | 13 |
-| Aperture      | 4.0 |
-| Focal Length  | 24.0 |
-| ISO           | 4000 |
-| Location      | Niederbauen-Chulm, Emmetten, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.9477, Longitude 8.55696999999998 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/6 |
+| Aperture      | 11.0 |
+| Focal Length  | 16.0 |
+| ISO           | 100 |
+| Location      | Shrine Pass Road, Red Cliff, United States (United States) |
+| Coordinates   | Latitude 39.5542104, Longitude -106.2820959 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            8.55696999999998,
-                            46.9477
+                            -106.2820959,
+                            39.5542104
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                8.856969999999981,
-                                47.247699999999995
+                                -105.9820959,
+                                39.8542104
                             ],
                             [
-                                8.856969999999981,
-                                46.6477
+                                -105.9820959,
+                                39.254210400000005
                             ],
                             [
-                                8.25696999999998,
-                                46.6477
+                                -106.5820959,
+                                39.254210400000005
                             ],
                             [
-                                8.25696999999998,
-                                47.247699999999995
+                                -106.5820959,
+                                39.8542104
                             ],
                             [
-                                8.856969999999981,
-                                47.247699999999995
+                                -105.9820959,
+                                39.8542104
                             ]
                         ],
                         "type": "LineString"
