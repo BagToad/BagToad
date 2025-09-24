@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photography-of-flowers-at-daytime-TRhGEGdw-YY"><img width="720" src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg2MDcyMzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of flowers at daytime"></a>
+  <a href="https://unsplash.com/photos/body-of-water-during-sunset-c6SciRp2kaQ"><img width="720" src="https://images.unsplash.com/photo-1513875528452-39400945934d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg2OTM2MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water during sunset"></a>
   
-  <em>"aerial photography of flowers at daytime"</em>
+  <em>"body of water during sunset"</em>
   
   <em>""</em>
 
-  Photo by Joel Holland on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joelkentholland) / [portfolio](https://www.harvesthosts.com) / [Twitter](https://twitter.com/joelkentholland)
+  Photo by Rodrigo Soares on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/taptap.ninja) / [portfolio](https://rodrigosoares.me) / [Twitter](https://twitter.com/rodi01)
   
-  Taken at Shrine Pass Road, Red Cliff, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.5542104,-106.2820959)
+  Taken at Lake Tahoe, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0968493,-120.0323507)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/6 |
-| Aperture      | 11.0 |
-| Focal Length  | 16.0 |
-| ISO           | 100 |
-| Location      | Shrine Pass Road, Red Cliff, United States (United States) |
-| Coordinates   | Latitude 39.5542104, Longitude -106.2820959 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lake Tahoe, United States (United States) |
+| Coordinates   | Latitude 39.0968493, Longitude -120.0323507 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -106.2820959,
-                            39.5542104
+                            -120.0323507,
+                            39.0968493
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -105.9820959,
-                                39.8542104
+                                -119.7323507,
+                                39.3968493
                             ],
                             [
-                                -105.9820959,
-                                39.254210400000005
+                                -119.7323507,
+                                38.796849300000005
                             ],
                             [
-                                -106.5820959,
-                                39.254210400000005
+                                -120.33235069999999,
+                                38.796849300000005
                             ],
                             [
-                                -106.5820959,
-                                39.8542104
+                                -120.33235069999999,
+                                39.3968493
                             ],
                             [
-                                -105.9820959,
-                                39.8542104
+                                -119.7323507,
+                                39.3968493
                             ]
                         ],
                         "type": "LineString"
