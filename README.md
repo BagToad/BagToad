@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-on-forest-with-sun-rays-sp-p7uuT0tw"><img width="720" src="https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg3ODAwMjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="trees on forest with sun rays"></a>
+  <a href="https://unsplash.com/photos/a-desert-landscape-with-rocks-and-sand-THlO6Mkf5uI"><img width="720" src="https://images.unsplash.com/photo-1682687220499-d9c06b872eee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg4NjY0MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a desert landscape with rocks and sand"></a>
   
-  <em>"trees on forest with sun rays"</em>
+  <em>"a desert landscape with rocks and sand"</em>
   
-  <em>"Entering another dimension..."</em>
+  <em>"Sandstone plateau, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
 
-  Photo by Sebastian Unrau on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cxrtbain) / [Twitter](https://twitter.com/cxrtbain)
+  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
   
-  Taken at Bad Pyrmont, Deutschland • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.9855648,9.25209110000003)
+  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 1/160 |
-| Aperture      | 8 |
-| Focal Length  | 16.0 |
-| ISO           | 250 |
-| Location      | Bad Pyrmont, Deutschland (Deutschland) |
-| Coordinates   | Latitude 51.9855648, Longitude 9.25209110000003 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | 0.0 |
+| ISO           | null |
+| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            9.25209110000003,
-                            51.9855648
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                9.55209110000003,
-                                52.285564799999996
-                            ],
-                            [
-                                9.55209110000003,
-                                51.6855648
-                            ],
-                            [
-                                8.952091100000029,
-                                51.6855648
-                            ],
-                            [
-                                8.952091100000029,
-                                52.285564799999996
-                            ],
-                            [
-                                9.55209110000003,
-                                52.285564799999996
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
