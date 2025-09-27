@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-desert-landscape-with-rocks-and-sand-THlO6Mkf5uI"><img width="720" src="https://images.unsplash.com/photo-1682687220499-d9c06b872eee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg4NjY0MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a desert landscape with rocks and sand"></a>
+  <a href="https://unsplash.com/photos/red-poppy-flower-field-at-daytime-sWlxCweDzzs"><img width="720" src="https://images.unsplash.com/photo-1444930694458-01babf71870c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg5NTI4MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="red poppy flower field at daytime"></a>
   
-  <em>"a desert landscape with rocks and sand"</em>
+  <em>"red poppy flower field at daytime"</em>
   
-  <em>"Sandstone plateau, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
+  <em>"Red poppies under morning sun"</em>
 
-  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
+  Photo by corina ardeleanu on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
+  Taken at România, Comuna Șoarș, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.943161,24.96676)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | 0.0 |
-| ISO           | null |
-| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | Canon EOS 60D |
+| Exposure Time | 1/200 |
+| Aperture      | 16.0 |
+| Focal Length  | 8.0 |
+| ISO           | 200 |
+| Location      | România, Comuna Șoarș, Romania (Romania) |
+| Coordinates   | Latitude 45.943161, Longitude 24.96676 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            24.96676,
+                            45.943161
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                25.26676,
+                                46.243161
+                            ],
+                            [
+                                25.26676,
+                                45.643161000000006
+                            ],
+                            [
+                                24.66676,
+                                45.643161000000006
+                            ],
+                            [
+                                24.66676,
+                                46.243161
+                            ],
+                            [
+                                25.26676,
+                                46.243161
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
