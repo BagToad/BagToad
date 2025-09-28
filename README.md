@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/red-poppy-flower-field-at-daytime-sWlxCweDzzs"><img width="720" src="https://images.unsplash.com/photo-1444930694458-01babf71870c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTg5NTI4MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="red poppy flower field at daytime"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-lake-and-mountain-73F4pKoUkM0"><img width="720" src="https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkwMzkyMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of lake and mountain"></a>
   
-  <em>"red poppy flower field at daytime"</em>
+  <em>"landscape photography of lake and mountain"</em>
   
-  <em>"Red poppies under morning sun"</em>
+  <em>""</em>
 
-  Photo by corina ardeleanu on [unsplash.com](https://unsplash.com/) • 
+  Photo by Tobias Keller on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kellertobs) / [Twitter](https://twitter.com/tokeller)
   
-  Taken at România, Comuna Șoarș, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.943161,24.96676)
+  Taken at Lake Tekapo, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-43.9874318732414,170.463728526465)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 60D |
-| Exposure Time | 1/200 |
-| Aperture      | 16.0 |
-| Focal Length  | 8.0 |
-| ISO           | 200 |
-| Location      | România, Comuna Șoarș, Romania (Romania) |
-| Coordinates   | Latitude 45.943161, Longitude 24.96676 |
+| Camera Model  | Canon EOS 600D |
+| Exposure Time | 1/125 |
+| Aperture      | 6.3 |
+| Focal Length  | 55.0 |
+| ISO           | 100 |
+| Location      | Lake Tekapo, New Zealand (New Zealand) |
+| Coordinates   | Latitude -43.9874318732414, Longitude 170.463728526465 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            24.96676,
-                            45.943161
+                            170.463728526465,
+                            -43.9874318732414
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                25.26676,
-                                46.243161
+                                170.763728526465,
+                                -43.6874318732414
                             ],
                             [
-                                25.26676,
-                                45.643161000000006
+                                170.763728526465,
+                                -44.287431873241395
                             ],
                             [
-                                24.66676,
-                                45.643161000000006
+                                170.16372852646498,
+                                -44.287431873241395
                             ],
                             [
-                                24.66676,
-                                46.243161
+                                170.16372852646498,
+                                -43.6874318732414
                             ],
                             [
-                                25.26676,
-                                46.243161
+                                170.763728526465,
+                                -43.6874318732414
                             ]
                         ],
                         "type": "LineString"
