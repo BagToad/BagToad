@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-lake-and-mountain-73F4pKoUkM0"><img width="720" src="https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkwMzkyMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of lake and mountain"></a>
+  <a href="https://unsplash.com/photos/scenery-of-mountain-canyon-WeYamle9fDM"><img width="720" src="https://images.unsplash.com/photo-1479030160180-b1860951d696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkxMjU2MzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="scenery of mountain canyon"></a>
   
-  <em>"landscape photography of lake and mountain"</em>
+  <em>"scenery of mountain canyon"</em>
   
   <em>""</em>
 
-  Photo by Tobias Keller on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kellertobs) / [Twitter](https://twitter.com/tokeller)
+  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
   
-  Taken at Lake Tekapo, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-43.9874318732414,170.463728526465)
+  Taken at Lower Antelope Canyon, Page, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.903128,-111.4132503)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 600D |
-| Exposure Time | 1/125 |
-| Aperture      | 6.3 |
-| Focal Length  | 55.0 |
-| ISO           | 100 |
-| Location      | Lake Tekapo, New Zealand (New Zealand) |
-| Coordinates   | Latitude -43.9874318732414, Longitude 170.463728526465 |
+| Camera Model  | X100T |
+| Exposure Time | 1/450 |
+| Aperture      | 2.0 |
+| Focal Length  | 23.0 |
+| ISO           | 400 |
+| Location      | Lower Antelope Canyon, Page, United States (United States) |
+| Coordinates   | Latitude 36.903128, Longitude -111.4132503 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            170.463728526465,
-                            -43.9874318732414
+                            -111.4132503,
+                            36.903128
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                170.763728526465,
-                                -43.6874318732414
+                                -111.1132503,
+                                37.203128
                             ],
                             [
-                                170.763728526465,
-                                -44.287431873241395
+                                -111.1132503,
+                                36.603128000000005
                             ],
                             [
-                                170.16372852646498,
-                                -44.287431873241395
+                                -111.7132503,
+                                36.603128000000005
                             ],
                             [
-                                170.16372852646498,
-                                -43.6874318732414
+                                -111.7132503,
+                                37.203128
                             ],
                             [
-                                170.763728526465,
-                                -43.6874318732414
+                                -111.1132503,
+                                37.203128
                             ]
                         ],
                         "type": "LineString"
