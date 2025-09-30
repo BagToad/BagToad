@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/scenery-of-mountain-canyon-WeYamle9fDM"><img width="720" src="https://images.unsplash.com/photo-1479030160180-b1860951d696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkxMjU2MzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="scenery of mountain canyon"></a>
+  <a href="https://unsplash.com/photos/brown-house-near-body-of-water-zAjdgNXsMeg"><img width="720" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkyMTIwMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown house near body of water"></a>
   
-  <em>"scenery of mountain canyon"</em>
+  <em>"brown house near body of water"</em>
   
-  <em>""</em>
+  <em>"Boathouse on a mountain lake"</em>
 
-  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Lower Antelope Canyon, Page, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.903128,-111.4132503)
+  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100T |
-| Exposure Time | 1/450 |
-| Aperture      | 2.0 |
-| Focal Length  | 23.0 |
-| ISO           | 400 |
-| Location      | Lower Antelope Canyon, Page, United States (United States) |
-| Coordinates   | Latitude 36.903128, Longitude -111.4132503 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lago di Braies (null) |
+| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -111.4132503,
-                            36.903128
+                            12.0859822,
+                            46.6948731
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -111.1132503,
-                                37.203128
+                                12.3859822,
+                                46.9948731
                             ],
                             [
-                                -111.1132503,
-                                36.603128000000005
+                                12.3859822,
+                                46.394873100000005
                             ],
                             [
-                                -111.7132503,
-                                36.603128000000005
+                                11.7859822,
+                                46.394873100000005
                             ],
                             [
-                                -111.7132503,
-                                37.203128
+                                11.7859822,
+                                46.9948731
                             ],
                             [
-                                -111.1132503,
-                                37.203128
+                                12.3859822,
+                                46.9948731
                             ]
                         ],
                         "type": "LineString"
