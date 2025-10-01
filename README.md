@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-house-near-body-of-water-zAjdgNXsMeg"><img width="720" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkyMTIwMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown house near body of water"></a>
+  <a href="https://unsplash.com/photos/body-of-water-during-sunset-c6SciRp2kaQ"><img width="720" src="https://images.unsplash.com/photo-1513875528452-39400945934d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkyOTg0Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water during sunset"></a>
   
-  <em>"brown house near body of water"</em>
+  <em>"body of water during sunset"</em>
   
-  <em>"Boathouse on a mountain lake"</em>
+  <em>""</em>
 
-  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
+  Photo by Rodrigo Soares on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/taptap.ninja) / [portfolio](https://rodrigosoares.me) / [Twitter](https://twitter.com/rodi01)
   
-  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
+  Taken at Lake Tahoe, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0968493,-120.0323507)
   
   ---
   
@@ -60,8 +60,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | Aperture      | null |
 | Focal Length  | null |
 | ISO           | null |
-| Location      | Lago di Braies (null) |
-| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
+| Location      | Lake Tahoe, United States (United States) |
+| Coordinates   | Latitude 39.0968493, Longitude -120.0323507 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0859822,
-                            46.6948731
+                            -120.0323507,
+                            39.0968493
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3859822,
-                                46.9948731
+                                -119.7323507,
+                                39.3968493
                             ],
                             [
-                                12.3859822,
-                                46.394873100000005
+                                -119.7323507,
+                                38.796849300000005
                             ],
                             [
-                                11.7859822,
-                                46.394873100000005
+                                -120.33235069999999,
+                                38.796849300000005
                             ],
                             [
-                                11.7859822,
-                                46.9948731
+                                -120.33235069999999,
+                                39.3968493
                             ],
                             [
-                                12.3859822,
-                                46.9948731
+                                -119.7323507,
+                                39.3968493
                             ]
                         ],
                         "type": "LineString"
