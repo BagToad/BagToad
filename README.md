@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-brown-mountains-tMvuB9se2uQ"><img width="720" src="https://images.unsplash.com/photo-1489493512598-d08130f49bea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTkzODQ4Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of brown mountains"></a>
+  <a href="https://unsplash.com/photos/photo-of-valley-M6XC789HLe8"><img width="720" src="https://images.unsplash.com/photo-1498429089284-41f8cf3ffd39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk0NzEyMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of valley"></a>
   
-  <em>"landscape photography of brown mountains"</em>
+  <em>"photo of valley"</em>
   
-  <em>"Sunset in the mountains"</em>
+  <em>"I think the best time to visit Yosemite is February. There is still some snow around the valley. The trees and the snow shine mystically because of the sun rays through the patchy clouds. Certainly a sight to behold. Yosemite National Park"</em>
 
-  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.art/?lang=eng) / [Twitter](https://twitter.com/serg_pesterev)
+  Photo by Aniket Deole on [unsplash.com](https://unsplash.com/) • [portfolio](http://aniket.photos)
   
-  Taken at Hurghada International Airport, Egypt • [Google Maps](https://www.google.com/maps/search/?api=1&query=27.180494,33.807566)
+  Taken at Tunnel View, United States • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FinePix S5Pro |
-| Exposure Time | 1/160 |
-| Aperture      | 11.0 |
-| Focal Length  | 200.0 |
-| ISO           | 100 |
-| Location      | Hurghada International Airport, Egypt (Egypt) |
-| Coordinates   | Latitude 27.180494, Longitude 33.807566 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/80 |
+| Aperture      | 8 |
+| Focal Length  | 41.0 |
+| ISO           | 200 |
+| Location      | Tunnel View, United States (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            33.807566,
-                            27.180494
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                34.107566,
-                                27.480494
-                            ],
-                            [
-                                34.107566,
-                                26.880494
-                            ],
-                            [
-                                33.507566000000004,
-                                26.880494
-                            ],
-                            [
-                                33.507566000000004,
-                                27.480494
-                            ],
-                            [
-                                34.107566,
-                                27.480494
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
