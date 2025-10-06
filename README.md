@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-hills-with-forest-under-cloudy-sky-during-daytime--SO3JtE3gZo"><img width="720" src="https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk2NDQwMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="green hills with forest under cloudy sky during daytime"></a>
+  <a href="https://unsplash.com/photos/red-poppy-flower-field-at-daytime-sWlxCweDzzs"><img width="720" src="https://images.unsplash.com/photo-1444930694458-01babf71870c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk3MzA0MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="red poppy flower field at daytime"></a>
   
-  <em>"green hills with forest under cloudy sky during daytime"</em>
+  <em>"red poppy flower field at daytime"</em>
   
-  <em>""</em>
+  <em>"Red poppies under morning sun"</em>
 
-  Photo by Claudio Testa on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/testaphotography) / [portfolio](http://testa-photography.com/)
+  Photo by corina ardeleanu on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Haselschacher Buck, Vogtsburg, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.0959879,7.69210129999999)
+  Taken at România, Comuna Șoarș, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.943161,24.96676)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 600D |
-| Exposure Time | 1/13 |
-| Aperture      | 8.0 |
-| Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Haselschacher Buck, Vogtsburg, Germany (Germany) |
-| Coordinates   | Latitude 48.0959879, Longitude 7.69210129999999 |
+| Camera Model  | Canon EOS 60D |
+| Exposure Time | 1/200 |
+| Aperture      | 16.0 |
+| Focal Length  | 8.0 |
+| ISO           | 200 |
+| Location      | România, Comuna Șoarș, Romania (Romania) |
+| Coordinates   | Latitude 45.943161, Longitude 24.96676 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            7.69210129999999,
-                            48.0959879
+                            24.96676,
+                            45.943161
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                7.99210129999999,
-                                48.395987899999994
+                                25.26676,
+                                46.243161
                             ],
                             [
-                                7.99210129999999,
-                                47.7959879
+                                25.26676,
+                                45.643161000000006
                             ],
                             [
-                                7.39210129999999,
-                                47.7959879
+                                24.66676,
+                                45.643161000000006
                             ],
                             [
-                                7.39210129999999,
-                                48.395987899999994
+                                24.66676,
+                                46.243161
                             ],
                             [
-                                7.99210129999999,
-                                48.395987899999994
+                                25.26676,
+                                46.243161
                             ]
                         ],
                         "type": "LineString"
