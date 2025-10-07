@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/red-poppy-flower-field-at-daytime-sWlxCweDzzs"><img width="720" src="https://images.unsplash.com/photo-1444930694458-01babf71870c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk3MzA0MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="red poppy flower field at daytime"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-dock-between-lavender-flower-field-near-body-of-water-during-golden-hour-K2s_YE031CA"><img width="720" src="https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk4MTY4MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden dock between lavender flower field near body of water during golden hour"></a>
   
-  <em>"red poppy flower field at daytime"</em>
+  <em>"brown wooden dock between lavender flower field near body of water during golden hour"</em>
   
-  <em>"Red poppies under morning sun"</em>
+  <em>"I had been travelling around Central America, living in a van and sharing experiences with other travelers.  Having just dropped my last travel buddy off I headed back to Lake Atitlan and found an incredible spot to camp right next to the lake.  There was this jetty sticking out into the lake where I sat watching the sunset, once again living the dream on my own. I knew something special was happening there, and now it has become BitcoinLake!"</em>
 
-  Photo by corina ardeleanu on [unsplash.com](https://unsplash.com/) • 
+  Photo by Mark Harpur on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/luckybeanz_photo) / [portfolio](http://www.luckybeanz.com/blog) / [Twitter](https://twitter.com/luckybeanzphoto)
   
-  Taken at România, Comuna Șoarș, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.943161,24.96676)
+  Taken at Lake Atitlán, Guatemala • [Google Maps](https://www.google.com/maps/search/?api=1&query=14.6852746212311,-91.2599414305909)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 60D |
-| Exposure Time | 1/200 |
-| Aperture      | 16.0 |
-| Focal Length  | 8.0 |
-| ISO           | 200 |
-| Location      | România, Comuna Șoarș, Romania (Romania) |
-| Coordinates   | Latitude 45.943161, Longitude 24.96676 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 0.8 |
+| Aperture      | 18 |
+| Focal Length  | 11.0 |
+| ISO           | 100 |
+| Location      | Lake Atitlán, Guatemala (Guatemala) |
+| Coordinates   | Latitude 14.6852746212311, Longitude -91.2599414305909 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            24.96676,
-                            45.943161
+                            -91.2599414305909,
+                            14.6852746212311
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                25.26676,
-                                46.243161
+                                -90.9599414305909,
+                                14.9852746212311
                             ],
                             [
-                                25.26676,
-                                45.643161000000006
+                                -90.9599414305909,
+                                14.3852746212311
                             ],
                             [
-                                24.66676,
-                                45.643161000000006
+                                -91.5599414305909,
+                                14.3852746212311
                             ],
                             [
-                                24.66676,
-                                46.243161
+                                -91.5599414305909,
+                                14.9852746212311
                             ],
                             [
-                                25.26676,
-                                46.243161
+                                -90.9599414305909,
+                                14.9852746212311
                             ]
                         ],
                         "type": "LineString"
