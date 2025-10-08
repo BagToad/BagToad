@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-dock-between-lavender-flower-field-near-body-of-water-during-golden-hour-K2s_YE031CA"><img width="720" src="https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk4MTY4MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden dock between lavender flower field near body of water during golden hour"></a>
+  <a href="https://unsplash.com/photos/landscape-photo-of-green-and-brown-cliffs-xcC5ozHk_N8"><img width="720" src="https://images.unsplash.com/photo-1433190152045-5a94184895da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NTk5MDMyMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photo of green and brown cliffs"></a>
   
-  <em>"brown wooden dock between lavender flower field near body of water during golden hour"</em>
+  <em>"landscape photo of green and brown cliffs"</em>
   
-  <em>"I had been travelling around Central America, living in a van and sharing experiences with other travelers.  Having just dropped my last travel buddy off I headed back to Lake Atitlan and found an incredible spot to camp right next to the lake.  There was this jetty sticking out into the lake where I sat watching the sunset, once again living the dream on my own. I knew something special was happening there, and now it has become BitcoinLake!"</em>
+  <em>"Beautiful cliff around beach"</em>
 
-  Photo by Mark Harpur on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/luckybeanz_photo) / [portfolio](http://www.luckybeanz.com/blog) / [Twitter](https://twitter.com/luckybeanzphoto)
+  Photo by Joseph Barrientos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jbcreate) / [portfolio](http://dribbble.com/jbcreate) / [Twitter](https://twitter.com/jbcreate_)
   
-  Taken at Lake Atitlán, Guatemala • [Google Maps](https://www.google.com/maps/search/?api=1&query=14.6852746212311,-91.2599414305909)
+  Taken at Shark Fin Cove, Davenport, CA, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.0040866,-122.1854138)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 7D |
-| Exposure Time | 0.8 |
-| Aperture      | 18 |
-| Focal Length  | 11.0 |
-| ISO           | 100 |
-| Location      | Lake Atitlán, Guatemala (Guatemala) |
-| Coordinates   | Latitude 14.6852746212311, Longitude -91.2599414305909 |
+| Camera Model  | ILCE-7 |
+| Exposure Time | 1/250 |
+| Aperture      | 11 |
+| Focal Length  | 16.0 |
+| ISO           | 800 |
+| Location      | Shark Fin Cove, Davenport, CA, USA (United States) |
+| Coordinates   | Latitude 37.0040866, Longitude -122.1854138 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -91.2599414305909,
-                            14.6852746212311
+                            -122.1854138,
+                            37.0040866
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -90.9599414305909,
-                                14.9852746212311
+                                -121.88541380000001,
+                                37.3040866
                             ],
                             [
-                                -90.9599414305909,
-                                14.3852746212311
+                                -121.88541380000001,
+                                36.704086600000004
                             ],
                             [
-                                -91.5599414305909,
-                                14.3852746212311
+                                -122.4854138,
+                                36.704086600000004
                             ],
                             [
-                                -91.5599414305909,
-                                14.9852746212311
+                                -122.4854138,
+                                37.3040866
                             ],
                             [
-                                -90.9599414305909,
-                                14.9852746212311
+                                -121.88541380000001,
+                                37.3040866
                             ]
                         ],
                         "type": "LineString"
