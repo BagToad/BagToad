@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-leafed-tree-near-bed-of-yellow-flowers-ht9aLtovtSo"><img width="720" src="https://images.unsplash.com/photo-1421930866250-aa0594cea05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjAyNDg4MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown leafed tree near bed of yellow flowers"></a>
+  <a href="https://unsplash.com/photos/brown-tree-on-surrounded-by-brown-grass-during-golden-hour-60XLoOgwkfA"><img width="720" src="https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjAzMzUyMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown tree on surrounded by brown grass during golden hour"></a>
   
-  <em>"brown leafed tree near bed of yellow flowers"</em>
+  <em>"brown tree on surrounded by brown grass during golden hour"</em>
   
-  <em>""</em>
+  <em>"Sunset in Serengeti"</em>
 
-  Photo by Gabriel Garcia Marengo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gabrielgm) / [portfolio](http://photo.gabrielgm.ch) / [Twitter](https://twitter.com/gabrielgm)
+  Photo by Hu Chen on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/huchenme) / [portfolio](https://huchen.dev) / [Twitter](https://twitter.com/huchenme)
   
-  Taken at Unknown • 
+  Taken at Serengeti, Tanzania • [Google Maps](https://www.google.com/maps/search/?api=1&query=-2.1539944,34.6856508999999)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/800 |
-| Aperture      | 8.0 |
-| Focal Length  | 40.0 |
-| ISO           | 250 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Serengeti, Tanzania (Tanzania) |
+| Coordinates   | Latitude -2.1539944, Longitude 34.6856508999999 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            34.6856508999999,
+                            -2.1539944
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                34.9856508999999,
+                                -1.8539944000000002
+                            ],
+                            [
+                                34.9856508999999,
+                                -2.4539944
+                            ],
+                            [
+                                34.3856508999999,
+                                -2.4539944
+                            ],
+                            [
+                                34.3856508999999,
+                                -1.8539944000000002
+                            ],
+                            [
+                                34.9856508999999,
+                                -1.8539944000000002
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
