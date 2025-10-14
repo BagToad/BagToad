@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-tree-on-surrounded-by-brown-grass-during-golden-hour-60XLoOgwkfA"><img width="720" src="https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjAzMzUyMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown tree on surrounded by brown grass during golden hour"></a>
+  <a href="https://unsplash.com/photos/snow-covered-mountain-during-a-twilight-sky-O0R5XZfKUGQ"><img width="720" src="https://images.unsplash.com/photo-1502657877623-f66bf489d236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjA0MjE2MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow-covered mountain during a twilight sky"></a>
   
-  <em>"brown tree on surrounded by brown grass during golden hour"</em>
+  <em>"snow-covered mountain during a twilight sky"</em>
   
-  <em>"Sunset in Serengeti"</em>
+  <em>"Moonrise over half dome"</em>
 
-  Photo by Hu Chen on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/huchenme) / [portfolio](https://huchen.dev) / [Twitter](https://twitter.com/huchenme)
+  Photo by Casey Horner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mischievous_penguins) / [portfolio](http://paypal.me./CaseyHorner)
   
-  Taken at Serengeti, Tanzania • [Google Maps](https://www.google.com/maps/search/?api=1&query=-2.1539944,34.6856508999999)
+  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Serengeti, Tanzania (Tanzania) |
-| Coordinates   | Latitude -2.1539944, Longitude 34.6856508999999 |
+| Camera Model  | NIKON D750 |
+| Exposure Time | 25 |
+| Aperture      | 3.5 |
+| Focal Length  | 24.0 |
+| ISO           | 4000 |
+| Location      | Yosemite Valley, United States (United States) |
+| Coordinates   | Latitude 37.7455701, Longitude -119.5936038 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            34.6856508999999,
-                            -2.1539944
+                            -119.5936038,
+                            37.7455701
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                34.9856508999999,
-                                -1.8539944000000002
+                                -119.2936038,
+                                38.0455701
                             ],
                             [
-                                34.9856508999999,
-                                -2.4539944
+                                -119.2936038,
+                                37.445570100000005
                             ],
                             [
-                                34.3856508999999,
-                                -2.4539944
+                                -119.8936038,
+                                37.445570100000005
                             ],
                             [
-                                34.3856508999999,
-                                -1.8539944000000002
+                                -119.8936038,
+                                38.0455701
                             ],
                             [
-                                34.9856508999999,
-                                -1.8539944000000002
+                                -119.2936038,
+                                38.0455701
                             ]
                         ],
                         "type": "LineString"
