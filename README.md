@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-mountain-during-a-twilight-sky-O0R5XZfKUGQ"><img width="720" src="https://images.unsplash.com/photo-1502657877623-f66bf489d236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjA0MjE2MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow-covered mountain during a twilight sky"></a>
+  <a href="https://unsplash.com/photos/photo-of-body-of-water-between-trees-and-mountain-sR7_ImYvt1Q"><img width="720" src="https://images.unsplash.com/photo-1502786129293-79981df4e689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjA1MDgwMzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of body of water between trees and mountain"></a>
   
-  <em>"snow-covered mountain during a twilight sky"</em>
+  <em>"photo of body of water between trees and mountain"</em>
   
-  <em>"Moonrise over half dome"</em>
+  <em>"Rocky Mountain"</em>
 
-  Photo by Casey Horner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mischievous_penguins) / [portfolio](http://paypal.me./CaseyHorner)
+  Photo by Danyu Wang on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/w_danyu)
   
-  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
+  Taken at Field, 艾伯塔省, 加拿大 • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.32713889,-116.17922222)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D750 |
-| Exposure Time | 25 |
-| Aperture      | 3.5 |
-| Focal Length  | 24.0 |
-| ISO           | 4000 |
-| Location      | Yosemite Valley, United States (United States) |
-| Coordinates   | Latitude 37.7455701, Longitude -119.5936038 |
+| Camera Model  | EVA-AL10 |
+| Exposure Time | 1/236 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.5 |
+| ISO           | 50 |
+| Location      | Field, 艾伯塔省, 加拿大 (加拿大) |
+| Coordinates   | Latitude 51.32713889, Longitude -116.17922222 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.5936038,
-                            37.7455701
+                            -116.17922222,
+                            51.32713889
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -119.2936038,
-                                38.0455701
+                                -115.87922222,
+                                51.62713889
                             ],
                             [
-                                -119.2936038,
-                                37.445570100000005
+                                -115.87922222,
+                                51.02713889
                             ],
                             [
-                                -119.8936038,
-                                37.445570100000005
+                                -116.47922222,
+                                51.02713889
                             ],
                             [
-                                -119.8936038,
-                                38.0455701
+                                -116.47922222,
+                                51.62713889
                             ],
                             [
-                                -119.2936038,
-                                38.0455701
+                                -115.87922222,
+                                51.62713889
                             ]
                         ],
                         "type": "LineString"
