@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-covered-with-green-grass-ZVbv1akA-l4"><img width="720" src="https://images.unsplash.com/photo-1438786657495-640937046d18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjA4NTM2MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain covered with green grass"></a>
+  <a href="https://unsplash.com/photos/assorted-color-hot-air-balloons-during-daytime-DuBNA1QMpPA"><img width="720" src="https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjA5NDAwMjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="assorted-color hot air balloons during daytime"></a>
   
-  <em>"mountain covered with green grass"</em>
+  <em>"assorted-color hot air balloons during daytime"</em>
   
-  <em>"Écosse valley and mountains"</em>
+  <em>"going up at dawn"</em>
 
-  Photo by Claudel Rheault on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chevalreal) / [portfolio](http://realcheval.co) / [Twitter](https://twitter.com/realcheval)
+  Photo by ian dooley on [unsplash.com](https://unsplash.com/) • [portfolio](http://sadswim.com)
   
-  Taken at Écosse • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.4906712,-4.20264580000003)
+  Taken at Albuquerque, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=35.0853336,-106.6055534)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T2i |
-| Exposure Time | 1/1600 |
-| Aperture      | 3.5 |
-| Focal Length  | 18.0 |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 1/400 |
+| Aperture      | 5.6 |
+| Focal Length  | 38.0 |
 | ISO           | 100 |
-| Location      | Écosse (null) |
-| Coordinates   | Latitude 56.4906712, Longitude -4.20264580000003 |
+| Location      | Albuquerque, United States (United States) |
+| Coordinates   | Latitude 35.0853336, Longitude -106.6055534 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -4.20264580000003,
-                            56.4906712
+                            -106.6055534,
+                            35.0853336
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -3.9026458000000304,
-                                56.7906712
+                                -106.30555340000001,
+                                35.385333599999996
                             ],
                             [
-                                -3.9026458000000304,
-                                56.190671200000004
+                                -106.30555340000001,
+                                34.7853336
                             ],
                             [
-                                -4.50264580000003,
-                                56.190671200000004
+                                -106.9055534,
+                                34.7853336
                             ],
                             [
-                                -4.50264580000003,
-                                56.7906712
+                                -106.9055534,
+                                35.385333599999996
                             ],
                             [
-                                -3.9026458000000304,
-                                56.7906712
+                                -106.30555340000001,
+                                35.385333599999996
                             ]
                         ],
                         "type": "LineString"
