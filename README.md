@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/gray-lighthouse-on-islet-with-concrete-pathway-at-daytime-7cdFZmLlWOM"><img width="720" src="https://images.unsplash.com/photo-1466278313810-9aca9abea861?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjEwMjY0MzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="gray lighthouse on islet with concrete pathway at daytime"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-dock-between-lavender-flower-field-near-body-of-water-during-golden-hour-K2s_YE031CA"><img width="720" src="https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjExMTI4MzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden dock between lavender flower field near body of water during golden hour"></a>
   
-  <em>"gray lighthouse on islet with concrete pathway at daytime"</em>
+  <em>"brown wooden dock between lavender flower field near body of water during golden hour"</em>
   
-  <em>""</em>
+  <em>"I had been travelling around Central America, living in a van and sharing experiences with other travelers.  Having just dropped my last travel buddy off I headed back to Lake Atitlan and found an incredible spot to camp right next to the lake.  There was this jetty sticking out into the lake where I sat watching the sunset, once again living the dream on my own. I knew something special was happening there, and now it has become BitcoinLake!"</em>
 
-  Photo by William Bout on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/williambout) / [portfolio](http://williambout.me) / [Twitter](https://twitter.com/williambout)
+  Photo by Mark Harpur on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/luckybeanz_photo) / [portfolio](http://www.luckybeanz.com/blog) / [Twitter](https://twitter.com/luckybeanzphoto)
   
-  Taken at Phare du Petit Minou, Plouzané, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.3368968155724,-4.61435293646241)
+  Taken at Lake Atitlán, Guatemala • [Google Maps](https://www.google.com/maps/search/?api=1&query=14.6852746212311,-91.2599414305909)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Phare du Petit Minou, Plouzané, France (France) |
-| Coordinates   | Latitude 48.3368968155724, Longitude -4.61435293646241 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 0.8 |
+| Aperture      | 18 |
+| Focal Length  | 11.0 |
+| ISO           | 100 |
+| Location      | Lake Atitlán, Guatemala (Guatemala) |
+| Coordinates   | Latitude 14.6852746212311, Longitude -91.2599414305909 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -4.61435293646241,
-                            48.3368968155724
+                            -91.2599414305909,
+                            14.6852746212311
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -4.31435293646241,
-                                48.6368968155724
+                                -90.9599414305909,
+                                14.9852746212311
                             ],
                             [
-                                -4.31435293646241,
-                                48.036896815572405
+                                -90.9599414305909,
+                                14.3852746212311
                             ],
                             [
-                                -4.91435293646241,
-                                48.036896815572405
+                                -91.5599414305909,
+                                14.3852746212311
                             ],
                             [
-                                -4.91435293646241,
-                                48.6368968155724
+                                -91.5599414305909,
+                                14.9852746212311
                             ],
                             [
-                                -4.31435293646241,
-                                48.6368968155724
+                                -90.9599414305909,
+                                14.9852746212311
                             ]
                         ],
                         "type": "LineString"
