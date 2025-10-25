@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-field-Zm2n2O7Fph4"><img width="720" src="https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjEyODU2MzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of field"></a>
+  <a href="https://unsplash.com/photos/black-painted-house-in-the-middle-of-the-trees-zlV1Ksvifvs"><img width="720" src="https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjEzNzIwMzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="black painted house in the middle of the trees"></a>
   
-  <em>"landscape photography of field"</em>
+  <em>"black painted house in the middle of the trees"</em>
   
-  <em>"Into The Horizon"</em>
+  <em>"(contact me for the full resoluton image)"</em>
 
-  Photo by Benjamin Davies on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bendavisual) / [portfolio](http://benjamindavies.co/) / [Twitter](https://twitter.com/daviesben33)
+  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
   
-  Taken at Wooburn Green, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5873944182614,-0.692313111206204)
+  Taken at Arnisee, Gurtnellen, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7716847,8.64337209999997)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-E2 |
-| Exposure Time | 1/950 |
-| Aperture      | 4.5 |
-| Focal Length  | 18.0 |
-| ISO           | 400 |
-| Location      | Wooburn Green, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 51.5873944182614, Longitude -0.692313111206204 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/80 |
+| Aperture      | 18.0 |
+| Focal Length  | 60.0 |
+| ISO           | 100 |
+| Location      | Arnisee, Gurtnellen, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.7716847, Longitude 8.64337209999997 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -0.692313111206204,
-                            51.5873944182614
+                            8.64337209999997,
+                            46.7716847
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -0.392313111206204,
-                                51.887394418261394
+                                8.943372099999971,
+                                47.0716847
                             ],
                             [
-                                -0.392313111206204,
-                                51.2873944182614
+                                8.943372099999971,
+                                46.471684700000004
                             ],
                             [
-                                -0.992313111206204,
-                                51.2873944182614
+                                8.34337209999997,
+                                46.471684700000004
                             ],
                             [
-                                -0.992313111206204,
-                                51.887394418261394
+                                8.34337209999997,
+                                47.0716847
                             ],
                             [
-                                -0.392313111206204,
-                                51.887394418261394
+                                8.943372099999971,
+                                47.0716847
                             ]
                         ],
                         "type": "LineString"
