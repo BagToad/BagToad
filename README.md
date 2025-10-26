@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-painted-house-in-the-middle-of-the-trees-zlV1Ksvifvs"><img width="720" src="https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjEzNzIwMzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="black painted house in the middle of the trees"></a>
+  <a href="https://unsplash.com/photos/birds-eye-view-photograph-of-green-mountains-01_igFr7hd4"><img width="720" src="https://images.unsplash.com/photo-1501854140801-50d01698950b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE0NTg0MzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="bird's eye view photograph of green mountains"></a>
   
-  <em>"black painted house in the middle of the trees"</em>
+  <em>"bird's eye view photograph of green mountains"</em>
   
-  <em>"(contact me for the full resoluton image)"</em>
+  <em>"Body Grassland in Yili，Xinjiang，China"</em>
 
-  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
+  Photo by Qingbao Meng on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ideasboom)
   
-  Taken at Arnisee, Gurtnellen, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7716847,8.64337209999997)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/80 |
-| Aperture      | 18.0 |
-| Focal Length  | 60.0 |
-| ISO           | 100 |
-| Location      | Arnisee, Gurtnellen, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.7716847, Longitude 8.64337209999997 |
+| Camera Model  | NIKON D750 |
+| Exposure Time | 1/800 |
+| Aperture      | 5.0 |
+| Focal Length  | 82.0 |
+| ISO           | 250 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            8.64337209999997,
-                            46.7716847
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                8.943372099999971,
-                                47.0716847
-                            ],
-                            [
-                                8.943372099999971,
-                                46.471684700000004
-                            ],
-                            [
-                                8.34337209999997,
-                                46.471684700000004
-                            ],
-                            [
-                                8.34337209999997,
-                                47.0716847
-                            ],
-                            [
-                                8.943372099999971,
-                                47.0716847
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
