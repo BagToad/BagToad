@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-field-Zm2n2O7Fph4"><img width="720" src="https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE1NDQ4Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of field"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-under-blue-sky-04-C1NZk1hE"><img width="720" src="https://images.unsplash.com/photo-1484318571209-661cf29a69c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE2MzEyMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountains under blue sky"></a>
   
-  <em>"landscape photography of field"</em>
+  <em>"landscape photography of mountains under blue sky"</em>
   
-  <em>"Into The Horizon"</em>
+  <em>"Have a look at Worlds End"</em>
 
-  Photo by Benjamin Davies on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bendavisual) / [portfolio](http://benjamindavies.co/) / [Twitter](https://twitter.com/daviesben33)
+  Photo by Lina Loos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/loosgehts_fotografie) / [portfolio](http://www.loos-gehts.de)
   
-  Taken at Wooburn Green, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5873944182614,-0.692313111206204)
+  Taken at South Africa • [Google Maps](https://www.google.com/maps/search/?api=1&query=-30.559482,22.937506)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-E2 |
-| Exposure Time | 1/950 |
-| Aperture      | 4.5 |
-| Focal Length  | 18.0 |
-| ISO           | 400 |
-| Location      | Wooburn Green, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 51.5873944182614, Longitude -0.692313111206204 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/250 |
+| Aperture      | 10.0 |
+| Focal Length  | 24.0 |
+| ISO           | 100 |
+| Location      | South Africa (South Africa) |
+| Coordinates   | Latitude -30.559482, Longitude 22.937506 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -0.692313111206204,
-                            51.5873944182614
+                            22.937506,
+                            -30.559482
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -0.392313111206204,
-                                51.887394418261394
+                                23.237506,
+                                -30.259482
                             ],
                             [
-                                -0.392313111206204,
-                                51.2873944182614
+                                23.237506,
+                                -30.859482
                             ],
                             [
-                                -0.992313111206204,
-                                51.2873944182614
+                                22.637506,
+                                -30.859482
                             ],
                             [
-                                -0.992313111206204,
-                                51.887394418261394
+                                22.637506,
+                                -30.259482
                             ],
                             [
-                                -0.392313111206204,
-                                51.887394418261394
+                                23.237506,
+                                -30.259482
                             ]
                         ],
                         "type": "LineString"
