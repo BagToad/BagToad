@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-dock-in-fornt-body-of-water-MS7KD9Ti7FQ"><img width="720" src="https://images.unsplash.com/reserve/O7A9fAvYSXC7NTdz8gLQ_IMGP1039.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE3MTc2Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden dock in fornt body of water"></a>
+  <a href="https://unsplash.com/photos/brown-mountains-under-blue-sky-4wzRuAb-KWs"><img width="720" src="https://images.unsplash.com/photo-1502790671504-542ad42d5189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE4MDQwMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown mountains under blue sky"></a>
   
-  <em>"brown wooden dock in fornt body of water"</em>
+  <em>"brown mountains under blue sky"</em>
   
-  <em>"Wooden path to the beach"</em>
+  <em>"Look up"</em>
 
-  Photo by Aleksandra Boguslawska on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aleksandra.boguslawska) / [portfolio](https://www.instagram.com/aleksandra.boguslawska/)
+  Photo by Mohammad Alizade on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mohamad.a.z) / [portfolio](http://mohamadaz.com/)
   
-  Taken at Unknown • 
+  Taken at Mashhad, Iran • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2604623,59.6167548999999)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | PENTAX K-x |
-| Exposure Time | 1/200 |
-| Aperture      | 11.0 |
-| Focal Length  | 40.0 |
-| ISO           | 400 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | NIKON D5300 |
+| Exposure Time | 30 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 200 |
+| Location      | Mashhad, Iran (Iran) |
+| Coordinates   | Latitude 36.2604623, Longitude 59.6167548999999 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            59.6167548999999,
+                            36.2604623
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                59.916754899999894,
+                                36.5604623
+                            ],
+                            [
+                                59.916754899999894,
+                                35.9604623
+                            ],
+                            [
+                                59.3167548999999,
+                                35.9604623
+                            ],
+                            [
+                                59.3167548999999,
+                                36.5604623
+                            ],
+                            [
+                                59.916754899999894,
+                                36.5604623
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
