@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-mountains-under-blue-sky-4wzRuAb-KWs"><img width="720" src="https://images.unsplash.com/photo-1502790671504-542ad42d5189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE4MDQwMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown mountains under blue sky"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4"><img width="720" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjE4OTA0MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountain hit by sun rays"></a>
   
-  <em>"brown mountains under blue sky"</em>
+  <em>"landscape photography of mountain hit by sun rays"</em>
   
-  <em>"Look up"</em>
+  <em>"Alone in the unspoilt wilderness"</em>
 
-  Photo by Mohammad Alizade on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mohamad.a.z) / [portfolio](http://mohamadaz.com/)
+  Photo by Urban Vintage on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/urban_vintage.ro) / [portfolio](https://urban-vintage.ro/) / [Twitter](https://twitter.com/dmqwe)
   
-  Taken at Mashhad, Iran • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2604623,59.6167548999999)
+  Taken at Ciucaș Peak, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5217138,25.9261894)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5300 |
-| Exposure Time | 30 |
-| Aperture      | 3.5 |
-| Focal Length  | 18.0 |
-| ISO           | 200 |
-| Location      | Mashhad, Iran (Iran) |
-| Coordinates   | Latitude 36.2604623, Longitude 59.6167548999999 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/200 |
+| Aperture      | 8.0 |
+| Focal Length  | 35.0 |
+| ISO           | 100 |
+| Location      | Ciucaș Peak, Romania (Romania) |
+| Coordinates   | Latitude 45.5217138, Longitude 25.9261894 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            59.6167548999999,
-                            36.2604623
+                            25.9261894,
+                            45.5217138
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                59.916754899999894,
-                                36.5604623
+                                26.2261894,
+                                45.8217138
                             ],
                             [
-                                59.916754899999894,
-                                35.9604623
+                                26.2261894,
+                                45.2217138
                             ],
                             [
-                                59.3167548999999,
-                                35.9604623
+                                25.626189399999998,
+                                45.2217138
                             ],
                             [
-                                59.3167548999999,
-                                36.5604623
+                                25.626189399999998,
+                                45.8217138
                             ],
                             [
-                                59.916754899999894,
-                                36.5604623
+                                26.2261894,
+                                45.8217138
                             ]
                         ],
                         "type": "LineString"
