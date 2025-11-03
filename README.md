@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c"><img width="720" src="https://images.unsplash.com/photo-1511497584788-876760111969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjIwNjMyMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="pine trees field near mountain under sunset"></a>
+  <a href="https://unsplash.com/photos/tree-on-body-of-water-near-mountains-KonWFWUaAuk"><img width="720" src="https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjIxNDk2MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree on body of water near mountains"></a>
   
-  <em>"pine trees field near mountain under sunset"</em>
+  <em>"tree on body of water near mountains"</em>
   
-  <em>"Smoky morning in Cascades"</em>
+  <em>""</em>
 
-  Photo by Sergei A on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergeiakphoto) / [portfolio](https://www.cavanimages.com/contributor/17417)
+  Photo by Ken Cheung on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kencheungphotos) / [portfolio](https://www.kencheungphoto.com/)
   
-  Taken at Rampart Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4155129,-121.3402916)
+  Taken at Wanaka, Otago, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.69833833,169.11632833)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 1/60 |
-| Aperture      | 9.0 |
+| Camera Model  | NIKON D5 |
+| Exposure Time | 10 |
+| Aperture      | 16 |
 | Focal Length  | 35.0 |
-| ISO           | 250 |
-| Location      | Rampart Lakes, United States (United States) |
-| Coordinates   | Latitude 47.4155129, Longitude -121.3402916 |
+| ISO           | 50 |
+| Location      | Wanaka, Otago, New Zealand (New Zealand) |
+| Coordinates   | Latitude -44.69833833, Longitude 169.11632833 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -121.3402916,
-                            47.4155129
+                            169.11632833,
+                            -44.69833833
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -121.0402916,
-                                47.7155129
+                                169.41632833,
+                                -44.39833833
                             ],
                             [
-                                -121.0402916,
-                                47.115512900000006
+                                169.41632833,
+                                -44.998338329999996
                             ],
                             [
-                                -121.6402916,
-                                47.115512900000006
+                                168.81632832999998,
+                                -44.998338329999996
                             ],
                             [
-                                -121.6402916,
-                                47.7155129
+                                168.81632832999998,
+                                -44.39833833
                             ],
                             [
-                                -121.0402916,
-                                47.7155129
+                                169.41632833,
+                                -44.39833833
                             ]
                         ],
                         "type": "LineString"
