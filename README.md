@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/tree-on-body-of-water-near-mountains-KonWFWUaAuk"><img width="720" src="https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjIxNDk2MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree on body of water near mountains"></a>
+  <a href="https://unsplash.com/photos/green-and-beige-trees-beside-mountains-cuKKa0vWZSY"><img width="720" src="https://images.unsplash.com/photo-1503424886307-b090341d25d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjIyMzYwMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="green and beige trees beside mountains"></a>
   
-  <em>"tree on body of water near mountains"</em>
+  <em>"green and beige trees beside mountains"</em>
   
-  <em>""</em>
+  <em>"Fall Color Dallas Divide"</em>
 
-  Photo by Ken Cheung on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kencheungphotos) / [portfolio](https://www.kencheungphoto.com/)
+  Photo by Thomas Morse on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Wanaka, Otago, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.69833833,169.11632833)
+  Taken at Ridgway, Colorado, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.06217167,-107.81276)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5 |
-| Exposure Time | 10 |
-| Aperture      | 16 |
-| Focal Length  | 35.0 |
-| ISO           | 50 |
-| Location      | Wanaka, Otago, New Zealand (New Zealand) |
-| Coordinates   | Latitude -44.69833833, Longitude 169.11632833 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/160 |
+| Aperture      | 6.3 |
+| Focal Length  | 28.0 |
+| ISO           | 200 |
+| Location      | Ridgway, Colorado, United States (United States) |
+| Coordinates   | Latitude 38.06217167, Longitude -107.81276 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            169.11632833,
-                            -44.69833833
+                            -107.81276,
+                            38.06217167
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                169.41632833,
-                                -44.39833833
+                                -107.51276,
+                                38.362171669999995
                             ],
                             [
-                                169.41632833,
-                                -44.998338329999996
+                                -107.51276,
+                                37.76217167
                             ],
                             [
-                                168.81632832999998,
-                                -44.998338329999996
+                                -108.11276,
+                                37.76217167
                             ],
                             [
-                                168.81632832999998,
-                                -44.39833833
+                                -108.11276,
+                                38.362171669999995
                             ],
                             [
-                                169.41632833,
-                                -44.39833833
+                                -107.51276,
+                                38.362171669999995
                             ]
                         ],
                         "type": "LineString"
