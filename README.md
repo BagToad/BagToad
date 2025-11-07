@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-body-of-water-overlooking-mountain-range-ZqLeQDjY6fY"><img width="720" src="https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI0MDg4Mjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of body of water overlooking mountain range"></a>
+  <a href="https://unsplash.com/photos/forest-under-blue-sky-B5drkS_Z5RM"><img width="720" src="https://images.unsplash.com/photo-1484591974057-265bb767ef71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjI0OTUyMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="forest under blue sky"></a>
   
-  <em>"landscape photography of body of water overlooking mountain range"</em>
+  <em>"forest under blue sky"</em>
   
-  <em>"Maligne Lake from the Spirit Island Dock. Check out other photos or videos I made on instagram: @its_tgain or TikTok: @thehikersguide"</em>
+  <em>"Follow my Instagram @karsten.wuerth"</em>
 
-  Photo by Tom Gainor on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/its_tgain) / [portfolio](http://tiktok.com/@thehikersguide) / [Twitter](https://twitter.com/splitrock37)
+  Photo by Karsten Würth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karsten.wuerth)
   
-  Taken at Maligne Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.6547556112802,-117.520967451221)
+  Taken at Seiser Alm, Kastelruth, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5315731,11.6260806)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | 0.0 |
-| ISO           | null |
-| Location      | Maligne Lake, Canada (Canada) |
-| Coordinates   | Latitude 52.6547556112802, Longitude -117.520967451221 |
+| Camera Model  | PENTAX K-S2 |
+| Exposure Time | 1/50 |
+| Aperture      | 13 |
+| Focal Length  | 26.0 |
+| ISO           | 200 |
+| Location      | Seiser Alm, Kastelruth, Italy (Italy) |
+| Coordinates   | Latitude 46.5315731, Longitude 11.6260806 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -117.520967451221,
-                            52.6547556112802
+                            11.6260806,
+                            46.5315731
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -117.220967451221,
-                                52.9547556112802
+                                11.9260806,
+                                46.8315731
                             ],
                             [
-                                -117.220967451221,
-                                52.354755611280204
+                                11.9260806,
+                                46.231573100000006
                             ],
                             [
-                                -117.820967451221,
-                                52.354755611280204
+                                11.3260806,
+                                46.231573100000006
                             ],
                             [
-                                -117.820967451221,
-                                52.9547556112802
+                                11.3260806,
+                                46.8315731
                             ],
                             [
-                                -117.220967451221,
-                                52.9547556112802
+                                11.9260806,
+                                46.8315731
                             ]
                         ],
                         "type": "LineString"
