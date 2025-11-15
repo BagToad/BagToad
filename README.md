@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-rock-formation-under-blue-sky-CSpjU6hYo_0"><img width="720" src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxMDAwMjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown rock formation under blue sky"></a>
+  <a href="https://unsplash.com/photos/forest-under-blue-sky-B5drkS_Z5RM"><img width="720" src="https://images.unsplash.com/photo-1484591974057-265bb767ef71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxODY0MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="forest under blue sky"></a>
   
-  <em>"brown rock formation under blue sky"</em>
+  <em>"forest under blue sky"</em>
   
-  <em>""</em>
+  <em>"Follow my Instagram @karsten.wuerth"</em>
 
-  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
+  Photo by Karsten Würth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karsten.wuerth)
   
-  Taken at Giau Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4830556,12.0541667)
+  Taken at Seiser Alm, Kastelruth, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5315731,11.6260806)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-T10 |
-| Exposure Time | 1/340 |
-| Aperture      | 1.0 |
-| Focal Length  | 50.0 |
-| ISO           | 400 |
-| Location      | Giau Pass, Italy (Italy) |
-| Coordinates   | Latitude 46.4830556, Longitude 12.0541667 |
+| Camera Model  | PENTAX K-S2 |
+| Exposure Time | 1/50 |
+| Aperture      | 13 |
+| Focal Length  | 26.0 |
+| ISO           | 200 |
+| Location      | Seiser Alm, Kastelruth, Italy (Italy) |
+| Coordinates   | Latitude 46.5315731, Longitude 11.6260806 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0541667,
-                            46.4830556
+                            11.6260806,
+                            46.5315731
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3541667,
-                                46.7830556
+                                11.9260806,
+                                46.8315731
                             ],
                             [
-                                12.3541667,
-                                46.1830556
+                                11.9260806,
+                                46.231573100000006
                             ],
                             [
-                                11.754166699999999,
-                                46.1830556
+                                11.3260806,
+                                46.231573100000006
                             ],
                             [
-                                11.754166699999999,
-                                46.7830556
+                                11.3260806,
+                                46.8315731
                             ],
                             [
-                                12.3541667,
-                                46.7830556
+                                11.9260806,
+                                46.8315731
                             ]
                         ],
                         "type": "LineString"
