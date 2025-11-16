@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-under-blue-sky-B5drkS_Z5RM"><img width="720" src="https://images.unsplash.com/photo-1484591974057-265bb767ef71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMxODY0MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="forest under blue sky"></a>
+  <a href="https://unsplash.com/photos/ocean-near-trees-and-rocks-DuD5D3lWC3c"><img width="720" src="https://images.unsplash.com/photo-1462400362591-9ca55235346a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMyNzI4MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="ocean near trees and rocks"></a>
   
-  <em>"forest under blue sky"</em>
+  <em>"ocean near trees and rocks"</em>
   
-  <em>"Follow my Instagram @karsten.wuerth"</em>
+  <em>"Sunset beach views"</em>
 
-  Photo by Karsten Würth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karsten.wuerth)
+  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
   
-  Taken at Seiser Alm, Kastelruth, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5315731,11.6260806)
+  Taken at Kihei, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=20.6268435,-156.4432482)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | PENTAX K-S2 |
-| Exposure Time | 1/50 |
-| Aperture      | 13 |
-| Focal Length  | 26.0 |
-| ISO           | 200 |
-| Location      | Seiser Alm, Kastelruth, Italy (Italy) |
-| Coordinates   | Latitude 46.5315731, Longitude 11.6260806 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/20 |
+| Aperture      | 8.0 |
+| Focal Length  | 24.0 |
+| ISO           | 100 |
+| Location      | Kihei, United States (United States) |
+| Coordinates   | Latitude 20.6268435, Longitude -156.4432482 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.6260806,
-                            46.5315731
+                            -156.4432482,
+                            20.6268435
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                11.9260806,
-                                46.8315731
+                                -156.1432482,
+                                20.9268435
                             ],
                             [
-                                11.9260806,
-                                46.231573100000006
+                                -156.1432482,
+                                20.3268435
                             ],
                             [
-                                11.3260806,
-                                46.231573100000006
+                                -156.7432482,
+                                20.3268435
                             ],
                             [
-                                11.3260806,
-                                46.8315731
+                                -156.7432482,
+                                20.9268435
                             ],
                             [
-                                11.9260806,
-                                46.8315731
+                                -156.1432482,
+                                20.9268435
                             ]
                         ],
                         "type": "LineString"
