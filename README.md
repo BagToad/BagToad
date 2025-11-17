@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/ocean-near-trees-and-rocks-DuD5D3lWC3c"><img width="720" src="https://images.unsplash.com/photo-1462400362591-9ca55235346a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMyNzI4MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="ocean near trees and rocks"></a>
+  <a href="https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8"><img width="720" src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMzNTkyMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of outer space"></a>
   
-  <em>"ocean near trees and rocks"</em>
+  <em>"photo of outer space"</em>
   
-  <em>"Sunset beach views"</em>
+  <em>""</em>
 
-  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
+  Photo by NASA on [unsplash.com](https://unsplash.com/) • [portfolio](http://www.nasa.gov/)
   
-  Taken at Kihei, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=20.6268435,-156.4432482)
+  Taken at Gulf of Mexico, United States • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/20 |
-| Aperture      | 8.0 |
-| Focal Length  | 24.0 |
-| ISO           | 100 |
-| Location      | Kihei, United States (United States) |
-| Coordinates   | Latitude 20.6268435, Longitude -156.4432482 |
+| Camera Model  | NIKON D3S |
+| Exposure Time | 1/4 |
+| Aperture      | 1.4 |
+| Focal Length  | 28.0 |
+| ISO           | 4000 |
+| Location      | Gulf of Mexico, United States (United States) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -156.4432482,
-                            20.6268435
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -156.1432482,
-                                20.9268435
-                            ],
-                            [
-                                -156.1432482,
-                                20.3268435
-                            ],
-                            [
-                                -156.7432482,
-                                20.3268435
-                            ],
-                            [
-                                -156.7432482,
-                                20.9268435
-                            ],
-                            [
-                                -156.1432482,
-                                20.9268435
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
