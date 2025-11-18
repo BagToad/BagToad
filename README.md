@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8"><img width="720" src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjMzNTkyMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of outer space"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-9fqwGqGLUxc"><img width="720" src="https://images.unsplash.com/photo-1496614932623-0a3a9743552e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0NDU2MzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field"></a>
   
-  <em>"photo of outer space"</em>
+  <em>"green grass field"</em>
   
-  <em>""</em>
+  <em>"Cloudy sunset over the sand dunes"</em>
 
-  Photo by NASA on [unsplash.com](https://unsplash.com/) • [portfolio](http://www.nasa.gov/)
+  Photo by Petr Vyšohlíd on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/petrvysohlid)
   
-  Taken at Gulf of Mexico, United States • 
+  Taken at Port Waikato, Tuakau, Auckland, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-37.39385,174.71005)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D3S |
-| Exposure Time | 1/4 |
-| Aperture      | 1.4 |
-| Focal Length  | 28.0 |
-| ISO           | 4000 |
-| Location      | Gulf of Mexico, United States (United States) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 1/20 |
+| Aperture      | 9 |
+| Focal Length  | 21.0 |
+| ISO           | 100 |
+| Location      | Port Waikato, Tuakau, Auckland, New Zealand (New Zealand) |
+| Coordinates   | Latitude -37.39385, Longitude 174.71005 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            174.71005,
+                            -37.39385
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                175.01005,
+                                -37.09385
+                            ],
+                            [
+                                175.01005,
+                                -37.69385
+                            ],
+                            [
+                                174.41004999999998,
+                                -37.69385
+                            ],
+                            [
+                                174.41004999999998,
+                                -37.09385
+                            ],
+                            [
+                                175.01005,
+                                -37.09385
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
