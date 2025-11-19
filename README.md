@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-9fqwGqGLUxc"><img width="720" src="https://images.unsplash.com/photo-1496614932623-0a3a9743552e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM0NDU2MzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4"><img width="720" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM1MzIwMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountain hit by sun rays"></a>
   
-  <em>"green grass field"</em>
+  <em>"landscape photography of mountain hit by sun rays"</em>
   
-  <em>"Cloudy sunset over the sand dunes"</em>
+  <em>"Alone in the unspoilt wilderness"</em>
 
-  Photo by Petr Vyšohlíd on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/petrvysohlid)
+  Photo by Urban Vintage on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/urban_vintage.ro) / [portfolio](https://urban-vintage.ro/) / [Twitter](https://twitter.com/dmqwe)
   
-  Taken at Port Waikato, Tuakau, Auckland, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-37.39385,174.71005)
+  Taken at Ciucaș Peak, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5217138,25.9261894)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 7D |
-| Exposure Time | 1/20 |
-| Aperture      | 9 |
-| Focal Length  | 21.0 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/200 |
+| Aperture      | 8.0 |
+| Focal Length  | 35.0 |
 | ISO           | 100 |
-| Location      | Port Waikato, Tuakau, Auckland, New Zealand (New Zealand) |
-| Coordinates   | Latitude -37.39385, Longitude 174.71005 |
+| Location      | Ciucaș Peak, Romania (Romania) |
+| Coordinates   | Latitude 45.5217138, Longitude 25.9261894 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            174.71005,
-                            -37.39385
+                            25.9261894,
+                            45.5217138
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                175.01005,
-                                -37.09385
+                                26.2261894,
+                                45.8217138
                             ],
                             [
-                                175.01005,
-                                -37.69385
+                                26.2261894,
+                                45.2217138
                             ],
                             [
-                                174.41004999999998,
-                                -37.69385
+                                25.626189399999998,
+                                45.2217138
                             ],
                             [
-                                174.41004999999998,
-                                -37.09385
+                                25.626189399999998,
+                                45.8217138
                             ],
                             [
-                                175.01005,
-                                -37.09385
+                                26.2261894,
+                                45.8217138
                             ]
                         ],
                         "type": "LineString"
