@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-tree-on-surrounded-by-brown-grass-during-golden-hour-60XLoOgwkfA"><img width="720" src="https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM3MDQ4MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown tree on surrounded by brown grass during golden hour"></a>
+  <a href="https://unsplash.com/photos/body-of-water-on-mountain-y0i1lh-T0_w"><img width="720" src="https://images.unsplash.com/photo-1437209484568-e63b90a34f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM3OTEyMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water on mountain"></a>
   
-  <em>"brown tree on surrounded by brown grass during golden hour"</em>
+  <em>"body of water on mountain"</em>
   
-  <em>"Sunset in Serengeti"</em>
+  <em>""</em>
 
-  Photo by Hu Chen on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/huchenme) / [portfolio](https://huchen.dev) / [Twitter](https://twitter.com/huchenme)
+  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
   
-  Taken at Serengeti, Tanzania • [Google Maps](https://www.google.com/maps/search/?api=1&query=-2.1539944,34.6856508999999)
+  Taken at Valparola Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5333,11.9833)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Serengeti, Tanzania (Tanzania) |
-| Coordinates   | Latitude -2.1539944, Longitude 34.6856508999999 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/60 |
+| Aperture      | 16.0 |
+| Focal Length  | 14.0 |
+| ISO           | 100 |
+| Location      | Valparola Pass, Italy (Italy) |
+| Coordinates   | Latitude 46.5333, Longitude 11.9833 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            34.6856508999999,
-                            -2.1539944
+                            11.9833,
+                            46.5333
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                34.9856508999999,
-                                -1.8539944000000002
+                                12.2833,
+                                46.833299999999994
                             ],
                             [
-                                34.9856508999999,
-                                -2.4539944
+                                12.2833,
+                                46.2333
                             ],
                             [
-                                34.3856508999999,
-                                -2.4539944
+                                11.6833,
+                                46.2333
                             ],
                             [
-                                34.3856508999999,
-                                -1.8539944000000002
+                                11.6833,
+                                46.833299999999994
                             ],
                             [
-                                34.9856508999999,
-                                -1.8539944000000002
+                                12.2833,
+                                46.833299999999994
                             ]
                         ],
                         "type": "LineString"
