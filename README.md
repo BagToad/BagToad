@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/assorted-color-hot-air-balloons-during-daytime-DuBNA1QMpPA"><img width="720" src="https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM4Nzc2MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="assorted-color hot air balloons during daytime"></a>
+  <a href="https://unsplash.com/photos/brown-leafed-tree-near-bed-of-yellow-flowers-ht9aLtovtSo"><img width="720" src="https://images.unsplash.com/photo-1421930866250-aa0594cea05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5NjQwMjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown leafed tree near bed of yellow flowers"></a>
   
-  <em>"assorted-color hot air balloons during daytime"</em>
+  <em>"brown leafed tree near bed of yellow flowers"</em>
   
-  <em>"going up at dawn"</em>
+  <em>""</em>
 
-  Photo by ian dooley on [unsplash.com](https://unsplash.com/) • [portfolio](http://sadswim.com)
+  Photo by Gabriel Garcia Marengo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gabrielgm) / [portfolio](http://photo.gabrielgm.ch) / [Twitter](https://twitter.com/gabrielgm)
   
-  Taken at Albuquerque, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=35.0853336,-106.6055534)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 1/400 |
-| Aperture      | 5.6 |
-| Focal Length  | 38.0 |
-| ISO           | 100 |
-| Location      | Albuquerque, United States (United States) |
-| Coordinates   | Latitude 35.0853336, Longitude -106.6055534 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/800 |
+| Aperture      | 8.0 |
+| Focal Length  | 40.0 |
+| ISO           | 250 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -106.6055534,
-                            35.0853336
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -106.30555340000001,
-                                35.385333599999996
-                            ],
-                            [
-                                -106.30555340000001,
-                                34.7853336
-                            ],
-                            [
-                                -106.9055534,
-                                34.7853336
-                            ],
-                            [
-                                -106.9055534,
-                                35.385333599999996
-                            ],
-                            [
-                                -106.30555340000001,
-                                35.385333599999996
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
