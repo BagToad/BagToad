@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-leafed-tree-near-bed-of-yellow-flowers-ht9aLtovtSo"><img width="720" src="https://images.unsplash.com/photo-1421930866250-aa0594cea05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjM5NjQwMjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown leafed tree near bed of yellow flowers"></a>
+  <a href="https://unsplash.com/photos/yellow-lights-between-trees-hvrpOmuMrAI"><img width="720" src="https://images.unsplash.com/photo-1500673922987-e212871fec22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQwNTA0MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="yellow lights between trees"></a>
   
-  <em>"brown leafed tree near bed of yellow flowers"</em>
+  <em>"yellow lights between trees"</em>
   
-  <em>""</em>
+  <em>"Golden forest pathway"</em>
 
-  Photo by Gabriel Garcia Marengo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gabrielgm) / [portfolio](http://photo.gabrielgm.ch) / [Twitter](https://twitter.com/gabrielgm)
+  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/800 |
-| Aperture      | 8.0 |
-| Focal Length  | 40.0 |
-| ISO           | 250 |
+| Camera Model  | ILCE-7 |
+| Exposure Time | 0.7 |
+| Aperture      | 13.0 |
+| Focal Length  | 104.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
