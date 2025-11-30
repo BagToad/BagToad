@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-during-sunset-_RBcxo9AU-U"><img width="720" src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQzOTYwMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field during sunset"></a>
+  <a href="https://unsplash.com/photos/mountain-covered-with-green-trees-qfmd9bu7IgA"><img width="720" src="https://images.unsplash.com/37/IHLjdHdzSvi0rgUMMlSK_TE3_0286.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ0ODI0MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain covered with green trees"></a>
   
-  <em>"green grass field during sunset"</em>
+  <em>"mountain covered with green trees"</em>
   
-  <em>""</em>
+  <em>"Fog over woody hills"</em>
 
-  Photo by Robert Lukeman on [unsplash.com](https://unsplash.com/) • 
+  Photo by FORREST CAVALE on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/forfie) / [portfolio](http://www.cavale.io/) / [Twitter](https://twitter.com/CavaleCreative)
   
-  Taken at Skye, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=57.5359261,-6.22627250000005)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/25 |
-| Aperture      | 13.0 |
-| Focal Length  | 18.0 |
+| Camera Model  | NIKON D600 |
+| Exposure Time | 1/640 |
+| Aperture      | 5.6 |
+| Focal Length  | 35.0 |
 | ISO           | 100 |
-| Location      | Skye, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 57.5359261, Longitude -6.22627250000005 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -6.22627250000005,
-                            57.5359261
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -5.92627250000005,
-                                57.835926099999995
-                            ],
-                            [
-                                -5.92627250000005,
-                                57.2359261
-                            ],
-                            [
-                                -6.52627250000005,
-                                57.2359261
-                            ],
-                            [
-                                -6.52627250000005,
-                                57.835926099999995
-                            ],
-                            [
-                                -5.92627250000005,
-                                57.835926099999995
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
