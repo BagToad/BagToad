@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snowy-mountain-g30P1zcOzXo"><img width="720" src="https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ2NTUyMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="snowy mountain"></a>
+  <a href="https://unsplash.com/photos/grey-wooden-cabin-near-body-of-water-JEBqFu2AOOA"><img width="720" src="https://images.unsplash.com/photo-1535747790212-30c585ab4867?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ3NDE2Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="grey wooden cabin near body of water"></a>
   
-  <em>"snowy mountain"</em>
+  <em>"grey wooden cabin near body of water"</em>
   
-  <em>"Taken from the top of Poon Hill before sun rise"</em>
+  <em>"Braies reflections"</em>
 
-  Photo by Daniel Leone on [unsplash.com](https://unsplash.com/) • [portfolio](https://danielleone.com)
+  Photo by Samuele Errico Piccarini on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/samuelepiccarini) / [portfolio](https://www.behance.net/samuelepiccarini)
   
-  Taken at Poon Hill, Ghode Pani, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.4004787,83.6940737)
+  Taken at Lago di Braies, Braies, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.694333,12.0854273)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | PENTAX K-5 |
-| Exposure Time | 13 |
-| Aperture      | 1.8 |
-| Focal Length  | 31.0 |
+| Camera Model  | ILCE-7M2 |
+| Exposure Time | 1/60 |
+| Aperture      | 6.3 |
+| Focal Length  | 23.0 |
 | ISO           | 200 |
-| Location      | Poon Hill, Ghode Pani, Nepal (Nepal) |
-| Coordinates   | Latitude 28.4004787, Longitude 83.6940737 |
+| Location      | Lago di Braies, Braies, Italy (Italy) |
+| Coordinates   | Latitude 46.694333, Longitude 12.0854273 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            83.6940737,
-                            28.4004787
+                            12.0854273,
+                            46.694333
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                83.9940737,
-                                28.7004787
+                                12.3854273,
+                                46.994333
                             ],
                             [
-                                83.9940737,
-                                28.1004787
+                                12.3854273,
+                                46.394333
                             ],
                             [
-                                83.3940737,
-                                28.1004787
+                                11.785427299999998,
+                                46.394333
                             ],
                             [
-                                83.3940737,
-                                28.7004787
+                                11.785427299999998,
+                                46.994333
                             ],
                             [
-                                83.9940737,
-                                28.7004787
+                                12.3854273,
+                                46.994333
                             ]
                         ],
                         "type": "LineString"
