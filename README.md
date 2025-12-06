@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/tree-on-body-of-water-near-mountains-KonWFWUaAuk"><img width="720" src="https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjQ5MTQ0MzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree on body of water near mountains"></a>
+  <a href="https://unsplash.com/photos/photo-of-river-and-green-grass-covered-moutain-f9qtLeroLNQ"><img width="720" src="https://images.unsplash.com/photo-1451903978882-b165bd94e45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjUwMDA4MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of river and green grass covered moutain"></a>
   
-  <em>"tree on body of water near mountains"</em>
+  <em>"photo of river and green grass covered moutain"</em>
   
-  <em>""</em>
+  <em>"Mossy Mountain Hillside"</em>
 
-  Photo by Ken Cheung on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kencheungphotos) / [portfolio](https://www.kencheungphoto.com/)
+  Photo by Roma R on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/n3moy) / [Twitter](https://twitter.com/n3moy)
   
-  Taken at Wanaka, Otago, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.69833833,169.11632833)
+  Taken at Skógafoss, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.5320952,-19.5116355)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5 |
-| Exposure Time | 10 |
-| Aperture      | 16 |
-| Focal Length  | 35.0 |
-| ISO           | 50 |
-| Location      | Wanaka, Otago, New Zealand (New Zealand) |
-| Coordinates   | Latitude -44.69833833, Longitude 169.11632833 |
+| Camera Model  | Canon EOS 500D |
+| Exposure Time | 1/1000 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Skógafoss, Iceland (Iceland) |
+| Coordinates   | Latitude 63.5320952, Longitude -19.5116355 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            169.11632833,
-                            -44.69833833
+                            -19.5116355,
+                            63.5320952
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                169.41632833,
-                                -44.39833833
+                                -19.2116355,
+                                63.8320952
                             ],
                             [
-                                169.41632833,
-                                -44.998338329999996
+                                -19.2116355,
+                                63.2320952
                             ],
                             [
-                                168.81632832999998,
-                                -44.998338329999996
+                                -19.8116355,
+                                63.2320952
                             ],
                             [
-                                168.81632832999998,
-                                -44.39833833
+                                -19.8116355,
+                                63.8320952
                             ],
                             [
-                                169.41632833,
-                                -44.39833833
+                                -19.2116355,
+                                63.8320952
                             ]
                         ],
                         "type": "LineString"
