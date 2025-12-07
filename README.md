@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-river-and-green-grass-covered-moutain-f9qtLeroLNQ"><img width="720" src="https://images.unsplash.com/photo-1451903978882-b165bd94e45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjUwMDA4MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of river and green grass covered moutain"></a>
+  <a href="https://unsplash.com/photos/body-of-water-surrounded-by-pine-trees-during-daytime-ESkw2ayO2As"><img width="720" src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjUwODcyMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water surrounded by pine trees during daytime"></a>
   
-  <em>"photo of river and green grass covered moutain"</em>
+  <em>"body of water surrounded by pine trees during daytime"</em>
   
-  <em>"Mossy Mountain Hillside"</em>
+  <em>""</em>
 
-  Photo by Roma R on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/n3moy) / [Twitter](https://twitter.com/n3moy)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Skógafoss, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.5320952,-19.5116355)
+  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 500D |
-| Exposure Time | 1/1000 |
-| Aperture      | 3.5 |
-| Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Skógafoss, Iceland (Iceland) |
-| Coordinates   | Latitude 63.5320952, Longitude -19.5116355 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lago di Braies (null) |
+| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -19.5116355,
-                            63.5320952
+                            12.0859822,
+                            46.6948731
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -19.2116355,
-                                63.8320952
+                                12.3859822,
+                                46.9948731
                             ],
                             [
-                                -19.2116355,
-                                63.2320952
+                                12.3859822,
+                                46.394873100000005
                             ],
                             [
-                                -19.8116355,
-                                63.2320952
+                                11.7859822,
+                                46.394873100000005
                             ],
                             [
-                                -19.8116355,
-                                63.8320952
+                                11.7859822,
+                                46.9948731
                             ],
                             [
-                                -19.2116355,
-                                63.8320952
+                                12.3859822,
+                                46.9948731
                             ]
                         ],
                         "type": "LineString"
