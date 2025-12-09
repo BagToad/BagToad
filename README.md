@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-brown-mountains-tMvuB9se2uQ"><img width="720" src="https://images.unsplash.com/photo-1489493512598-d08130f49bea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjUxNzM2MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of brown mountains"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-boat-moving-towards-the-mountain-O453M2Liufs"><img width="720" src="https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjUyNjAwMjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden boat moving towards the mountain"></a>
   
-  <em>"landscape photography of brown mountains"</em>
+  <em>"brown wooden boat moving towards the mountain"</em>
   
-  <em>"Sunset in the mountains"</em>
+  <em>"On a boat on Lago di Braies"</em>
 
-  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.com/en) / [Twitter](https://twitter.com/serg_pesterev)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Hurghada International Airport, Egypt • [Google Maps](https://www.google.com/maps/search/?api=1&query=27.180494,33.807566)
+  Taken at Lago di Braies, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FinePix S5Pro |
-| Exposure Time | 1/160 |
-| Aperture      | 11.0 |
-| Focal Length  | 200.0 |
-| ISO           | 100 |
-| Location      | Hurghada International Airport, Egypt (Egypt) |
-| Coordinates   | Latitude 27.180494, Longitude 33.807566 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lago di Braies, Italy (Italy) |
+| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            33.807566,
-                            27.180494
+                            12.0859822,
+                            46.6948731
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                34.107566,
-                                27.480494
+                                12.3859822,
+                                46.9948731
                             ],
                             [
-                                34.107566,
-                                26.880494
+                                12.3859822,
+                                46.394873100000005
                             ],
                             [
-                                33.507566000000004,
-                                26.880494
+                                11.7859822,
+                                46.394873100000005
                             ],
                             [
-                                33.507566000000004,
-                                27.480494
+                                11.7859822,
+                                46.9948731
                             ],
                             [
-                                34.107566,
-                                27.480494
+                                12.3859822,
+                                46.9948731
                             ]
                         ],
                         "type": "LineString"
