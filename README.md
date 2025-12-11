@@ -38,15 +38,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-under-cloudy-sky-between-body-of-water-at-daytime-2oFdVd00xOg"><img width="720" src="https://images.unsplash.com/photo-1469521669194-babb45599def?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjUzNDY0Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountain under cloudy sky between body of water at daytime"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-twukN12EN7c"><img width="720" src="https://images.unsplash.com/photo-1500964757637-c85e8a162699?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjU0MzI4Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountains"></a>
   
-  <em>"landscape photography of mountain under cloudy sky between body of water at daytime"</em>
+  <em>"landscape photography of mountains"</em>
   
-  <em>"Blue lake and white peaks"</em>
+  <em>"Pink toned thoughts on a hike —
+Everything comes in waves,
+even mountains."</em>
 
-  Photo by Samuel Scrimshaw on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/samscrim) / [portfolio](http://www.instagram.com/samscrim) / [Twitter](https://twitter.com/samscrim)
+  Photo by simon on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simon_berger/)
   
-  Taken at Unknown • 
+  Taken at Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.82743333,13.62928667)
   
   ---
   
@@ -55,17 +57,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/40 |
-| Aperture      | 20.0 |
-| Focal Length  | 32.0 |
+| Camera Model  | E-M1 |
+| Exposure Time | 1/800 |
+| Aperture      | 4 |
+| Focal Length  | 75.0 |
 | ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich (Österreich) |
+| Coordinates   | Latitude 47.82743333, Longitude 13.62928667 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            13.62928667,
+                            47.82743333
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                13.929286670000002,
+                                48.127433329999995
+                            ],
+                            [
+                                13.929286670000002,
+                                47.52743333
+                            ],
+                            [
+                                13.32928667,
+                                47.52743333
+                            ],
+                            [
+                                13.32928667,
+                                48.127433329999995
+                            ],
+                            [
+                                13.929286670000002,
+                                48.127433329999995
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
