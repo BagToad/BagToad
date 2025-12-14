@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photography-of-beach-duvq92-VCZ4"><img width="720" src="https://images.unsplash.com/photo-1543348750-466b55f32f16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjU2MDU2MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of beach"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-green-mountain-8wz1Q4Q_XAg"><img width="720" src="https://images.unsplash.com/photo-1495312040802-a929cd14a6ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjU2OTIwMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of green mountain"></a>
   
-  <em>"aerial photography of beach"</em>
+  <em>"landscape photography of green mountain"</em>
   
-  <em>""</em>
+  <em>"Messini from afar"</em>
 
-  Photo by Nick Perez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nickperezphotography) / [Twitter](https://twitter.com/nipez)
+  Photo by Billy Williams on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/billyryanwill) / [Twitter](https://twitter.com/billyryanwill)
   
-  Taken at Traverse City, USA • 
+  Taken at Messina, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.1938137,15.5540152)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FC1102 |
-| Exposure Time | 1/60 |
-| Aperture      | 2.6 |
-| Focal Length  | 4.5 |
-| ISO           | 100 |
-| Location      | Traverse City, USA (USA) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | X-Pro1 |
+| Exposure Time | 1/2000 |
+| Aperture      | 3.6 |
+| Focal Length  | 34.3 |
+| ISO           | 200 |
+| Location      | Messina, Italy (Italy) |
+| Coordinates   | Latitude 38.1938137, Longitude 15.5540152 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            15.5540152,
+                            38.1938137
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                15.854015200000001,
+                                38.4938137
+                            ],
+                            [
+                                15.854015200000001,
+                                37.8938137
+                            ],
+                            [
+                                15.2540152,
+                                37.8938137
+                            ],
+                            [
+                                15.2540152,
+                                38.4938137
+                            ],
+                            [
+                                15.854015200000001,
+                                38.4938137
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
