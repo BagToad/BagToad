@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/an-aerial-view-of-a-desert-with-rocks-and-sand-s3leOixsIX0"><img width="720" src="https://images.unsplash.com/photo-1682687218147-9806132dc697?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjYyOTY4MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="an aerial view of a desert with rocks and sand"></a>
+  <a href="https://unsplash.com/photos/field-and-mountain-near-body-of-water-meOFNlRbHmY"><img width="720" src="https://images.unsplash.com/photo-1519092437326-bfd121eb53ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjYzODMyMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="field and mountain near body of water"></a>
   
-  <em>"an aerial view of a desert with rocks and sand"</em>
+  <em>"field and mountain near body of water"</em>
   
-  <em>"Sandstone plateau, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
+  <em>"This is the main highway circling Iceland’s majestic beauty. The snow-capped mountains are a welcome site as you drive towards the island’s second most-populated city, Akureyi."</em>
 
-  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
+  Photo by Josh Reid on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stellaroak) / [Twitter](https://twitter.com/stellaroak)
   
-  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
+  Taken at Akureyri, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=65.6884921,-18.1261694)
   
   ---
   
@@ -58,14 +58,61 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | Camera Model  | null |
 | Exposure Time | null |
 | Aperture      | null |
-| Focal Length  | 0.0 |
+| Focal Length  | null |
 | ISO           | null |
-| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Location      | Akureyri, Iceland (Iceland) |
+| Coordinates   | Latitude 65.6884921, Longitude -18.1261694 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -18.1261694,
+                            65.6884921
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -17.826169399999998,
+                                65.9884921
+                            ],
+                            [
+                                -17.826169399999998,
+                                65.38849210000001
+                            ],
+                            [
+                                -18.4261694,
+                                65.38849210000001
+                            ],
+                            [
+                                -18.4261694,
+                                65.9884921
+                            ],
+                            [
+                                -17.826169399999998,
+                                65.9884921
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
