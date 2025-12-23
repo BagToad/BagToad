@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/field-and-mountain-near-body-of-water-meOFNlRbHmY"><img width="720" src="https://images.unsplash.com/photo-1519092437326-bfd121eb53ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjYzODMyMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="field and mountain near body of water"></a>
+  <a href="https://unsplash.com/photos/lake-near-snow-covered-mountain-during-daytime-QaWRyEdlffY"><img width="720" src="https://images.unsplash.com/photo-1478827387698-1527781a4887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY0Njk2Mjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="lake near snow-covered mountain during daytime"></a>
   
-  <em>"field and mountain near body of water"</em>
+  <em>"lake near snow-covered mountain during daytime"</em>
   
-  <em>"This is the main highway circling Iceland’s majestic beauty. The snow-capped mountains are a welcome site as you drive towards the island’s second most-populated city, Akureyi."</em>
+  <em>"Mountain lake with an island"</em>
 
-  Photo by Josh Reid on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stellaroak) / [Twitter](https://twitter.com/stellaroak)
+  Photo by Olga Stalska on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Akureyri, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=65.6884921,-18.1261694)
+  Taken at Torres del Paine National Park, Chile • [Google Maps](https://www.google.com/maps/search/?api=1&query=-50.9423262,-73.406788)
   
   ---
   
@@ -60,8 +60,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | Aperture      | null |
 | Focal Length  | null |
 | ISO           | null |
-| Location      | Akureyri, Iceland (Iceland) |
-| Coordinates   | Latitude 65.6884921, Longitude -18.1261694 |
+| Location      | Torres del Paine National Park, Chile (Chile) |
+| Coordinates   | Latitude -50.9423262, Longitude -73.406788 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -18.1261694,
-                            65.6884921
+                            -73.406788,
+                            -50.9423262
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -17.826169399999998,
-                                65.9884921
+                                -73.10678800000001,
+                                -50.6423262
                             ],
                             [
-                                -17.826169399999998,
-                                65.38849210000001
+                                -73.10678800000001,
+                                -51.242326199999994
                             ],
                             [
-                                -18.4261694,
-                                65.38849210000001
+                                -73.706788,
+                                -51.242326199999994
                             ],
                             [
-                                -18.4261694,
-                                65.9884921
+                                -73.706788,
+                                -50.6423262
                             ],
                             [
-                                -17.826169399999998,
-                                65.9884921
+                                -73.10678800000001,
+                                -50.6423262
                             ]
                         ],
                         "type": "LineString"
