@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/lake-near-snow-covered-mountain-during-daytime-QaWRyEdlffY"><img width="720" src="https://images.unsplash.com/photo-1478827387698-1527781a4887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY0Njk2Mjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="lake near snow-covered mountain during daytime"></a>
+  <a href="https://unsplash.com/photos/blue-boat-on-sand-near-body-of-water-during-daytime-xL66l--msXU"><img width="720" src="https://images.unsplash.com/photo-1443397646383-16272048780e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY1NTYwMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue boat on sand near body of water during daytime"></a>
   
-  <em>"lake near snow-covered mountain during daytime"</em>
+  <em>"blue boat on sand near body of water during daytime"</em>
   
-  <em>"Mountain lake with an island"</em>
+  <em>"Ust-Barguzin, Republic of Buryatia, Russia"</em>
 
-  Photo by Olga Stalska on [unsplash.com](https://unsplash.com/) • 
+  Photo by Mickey O'neil on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mickeyoneil) / [Twitter](https://twitter.com/Mickey666Oneil)
   
-  Taken at Torres del Paine National Park, Chile • [Google Maps](https://www.google.com/maps/search/?api=1&query=-50.9423262,-73.406788)
+  Taken at Pervomayskaya Ulitsa, Ust-Barguzin, Buryatiya Republits, Russia, 671623 • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.41648889,108.987725)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Torres del Paine National Park, Chile (Chile) |
-| Coordinates   | Latitude -50.9423262, Longitude -73.406788 |
+| Camera Model  | iPhone 5s |
+| Exposure Time | 1/2933 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.2 |
+| ISO           | 32 |
+| Location      | Pervomayskaya Ulitsa, Ust-Barguzin, Buryatiya Republits, Russia, 671623 (Russia) |
+| Coordinates   | Latitude 53.41648889, Longitude 108.987725 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -73.406788,
-                            -50.9423262
+                            108.987725,
+                            53.41648889
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -73.10678800000001,
-                                -50.6423262
+                                109.287725,
+                                53.716488889999994
                             ],
                             [
-                                -73.10678800000001,
-                                -51.242326199999994
+                                109.287725,
+                                53.11648889
                             ],
                             [
-                                -73.706788,
-                                -51.242326199999994
+                                108.687725,
+                                53.11648889
                             ],
                             [
-                                -73.706788,
-                                -50.6423262
+                                108.687725,
+                                53.716488889999994
                             ],
                             [
-                                -73.10678800000001,
-                                -50.6423262
+                                109.287725,
+                                53.716488889999994
                             ]
                         ],
                         "type": "LineString"
