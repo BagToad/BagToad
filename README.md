@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/blue-boat-on-sand-near-body-of-water-during-daytime-xL66l--msXU"><img width="720" src="https://images.unsplash.com/photo-1443397646383-16272048780e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY1NTYwMzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue boat on sand near body of water during daytime"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-under-blue-sky-04-C1NZk1hE"><img width="720" src="https://images.unsplash.com/photo-1484318571209-661cf29a69c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY2NDI0MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountains under blue sky"></a>
   
-  <em>"blue boat on sand near body of water during daytime"</em>
+  <em>"landscape photography of mountains under blue sky"</em>
   
-  <em>"Ust-Barguzin, Republic of Buryatia, Russia"</em>
+  <em>"Have a look at Worlds End"</em>
 
-  Photo by Mickey O'neil on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mickeyoneil) / [Twitter](https://twitter.com/Mickey666Oneil)
+  Photo by Lina Loos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/loosgehts_fotografie) / [portfolio](http://www.loos-gehts.de)
   
-  Taken at Pervomayskaya Ulitsa, Ust-Barguzin, Buryatiya Republits, Russia, 671623 • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.41648889,108.987725)
+  Taken at South Africa • [Google Maps](https://www.google.com/maps/search/?api=1&query=-30.559482,22.937506)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 5s |
-| Exposure Time | 1/2933 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.2 |
-| ISO           | 32 |
-| Location      | Pervomayskaya Ulitsa, Ust-Barguzin, Buryatiya Republits, Russia, 671623 (Russia) |
-| Coordinates   | Latitude 53.41648889, Longitude 108.987725 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/250 |
+| Aperture      | 10.0 |
+| Focal Length  | 24.0 |
+| ISO           | 100 |
+| Location      | South Africa (South Africa) |
+| Coordinates   | Latitude -30.559482, Longitude 22.937506 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            108.987725,
-                            53.41648889
+                            22.937506,
+                            -30.559482
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                109.287725,
-                                53.716488889999994
+                                23.237506,
+                                -30.259482
                             ],
                             [
-                                109.287725,
-                                53.11648889
+                                23.237506,
+                                -30.859482
                             ],
                             [
-                                108.687725,
-                                53.11648889
+                                22.637506,
+                                -30.859482
                             ],
                             [
-                                108.687725,
-                                53.716488889999994
+                                22.637506,
+                                -30.259482
                             ],
                             [
-                                109.287725,
-                                53.716488889999994
+                                23.237506,
+                                -30.259482
                             ]
                         ],
                         "type": "LineString"
