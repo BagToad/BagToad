@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-under-blue-sky-04-C1NZk1hE"><img width="720" src="https://images.unsplash.com/photo-1484318571209-661cf29a69c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY2NDI0MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountains under blue sky"></a>
+  <a href="https://unsplash.com/photos/mountain-surrounded-by-trees-under-cloudy-sky-T-tOgjWZ0fQ"><img width="720" src="https://images.unsplash.com/photo-1516687401797-25297ff1462c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY3Mjg4MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain surrounded by trees under cloudy sky"></a>
   
-  <em>"landscape photography of mountains under blue sky"</em>
+  <em>"mountain surrounded by trees under cloudy sky"</em>
   
-  <em>"Have a look at Worlds End"</em>
+  <em>"A bit less edited version of the the Yosemite Valley."</em>
 
-  Photo by Lina Loos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/loosgehts_fotografie) / [portfolio](http://www.loos-gehts.de)
+  Photo by Aniket Deole on [unsplash.com](https://unsplash.com/) • [portfolio](http://aniket.photos)
   
-  Taken at South Africa • [Google Maps](https://www.google.com/maps/search/?api=1&query=-30.559482,22.937506)
+  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/250 |
-| Aperture      | 10.0 |
-| Focal Length  | 24.0 |
-| ISO           | 100 |
-| Location      | South Africa (South Africa) |
-| Coordinates   | Latitude -30.559482, Longitude 22.937506 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/80 |
+| Aperture      | 8 |
+| Focal Length  | 41.0 |
+| ISO           | 200 |
+| Location      | Yosemite Valley, United States (United States) |
+| Coordinates   | Latitude 37.7455701, Longitude -119.5936038 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            22.937506,
-                            -30.559482
+                            -119.5936038,
+                            37.7455701
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                23.237506,
-                                -30.259482
+                                -119.2936038,
+                                38.0455701
                             ],
                             [
-                                23.237506,
-                                -30.859482
+                                -119.2936038,
+                                37.445570100000005
                             ],
                             [
-                                22.637506,
-                                -30.859482
+                                -119.8936038,
+                                37.445570100000005
                             ],
                             [
-                                22.637506,
-                                -30.259482
+                                -119.8936038,
+                                38.0455701
                             ],
                             [
-                                23.237506,
-                                -30.259482
+                                -119.2936038,
+                                38.0455701
                             ]
                         ],
                         "type": "LineString"
