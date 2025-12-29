@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/blue-starry-night-1OtUkD_8svc"><img width="720" src="https://images.unsplash.com/photo-1470813740244-df37b8c1edcb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY5MDE2MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue starry night"></a>
+  <a href="https://unsplash.com/photos/hot-air-balloon-contest-t7YycgAoVSw"><img width="720" src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjY5ODgwMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="hot air balloon contest"></a>
   
-  <em>"blue starry night"</em>
+  <em>"hot air balloon contest"</em>
   
-  <em>"Star Night Sky Ravine"</em>
+  <em>""</em>
 
-  Photo by Mark Basarab on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/markbasarabvisuals) / [portfolio](https://www.markbasarabvisuals.com)
+  Photo by Daniela Cuevas on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cuevascuevas) / [Twitter](https://twitter.com/notyourcuevas)
   
-  Taken at Unknown • 
+  Taken at Cappadocia, Turky • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-GH4 |
-| Exposure Time | 1/100 |
-| Aperture      | 2.8 |
-| Focal Length  | 12.0 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/250 |
+| Aperture      | 6.3 |
+| Focal Length  | 50.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
+| Location      | Cappadocia, Turky (Turky) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
