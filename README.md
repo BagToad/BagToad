@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/orange-petaled-flowers-near-green-trees-at-daytime-NLF6hTe4PAg"><img width="720" src="https://images.unsplash.com/photo-1465147264724-326b45c3c59b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcxNjA4Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="orange petaled flowers near green trees at daytime"></a>
+  <a href="https://unsplash.com/photos/a-desert-landscape-with-rocks-and-sand-THlO6Mkf5uI"><img width="720" src="https://images.unsplash.com/photo-1682687220499-d9c06b872eee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjcyNDcyMzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="a desert landscape with rocks and sand"></a>
   
-  <em>"orange petaled flowers near green trees at daytime"</em>
+  <em>"a desert landscape with rocks and sand"</em>
   
-  <em>""</em>
+  <em>"Sandstone plateau, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
 
-  Photo by enrico bet on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/enrico.bet)
+  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
   
-  Taken at Unknown • 
+  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5100 |
-| Exposure Time | 1/1250 |
-| Aperture      | 5.0 |
-| Focal Length  | 50.0 |
-| ISO           | 160 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | 0.0 |
+| ISO           | null |
+| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 ### Map
 
