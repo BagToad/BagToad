@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-near-body-of-water-VgdFyOOu1PA"><img width="720" src="https://images.unsplash.com/reserve/unsplash_524010c76b52a_1.JPG?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc0MjAwMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass near body of water"></a>
+  <a href="https://unsplash.com/photos/empty-concrete-road-covered-surrounded-by-tall-tress-with-sun-rays-3Kv48NS4WUU"><img width="720" src="https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc1MDY0Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="empty concrete road covered surrounded by tall tress with sun rays"></a>
   
-  <em>"green grass near body of water"</em>
+  <em>"empty concrete road covered surrounded by tall tress with sun rays"</em>
   
-  <em>"Tranquil lake in the evening"</em>
+  <em>"Beam of light on a forest road"</em>
 
-  Photo by Matteo Minelli on [unsplash.com](https://unsplash.com/) • [portfolio](http://matteominelli.com/)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
   
-  Taken at Unknown • 
+  Taken at Ave of Giants, Ca • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Unknown (null) |
+| Camera Model  | ILCE-7M2 |
+| Exposure Time | 1/250 |
+| Aperture      | 4.0 |
+| Focal Length  | 157.0 |
+| ISO           | 800 |
+| Location      | Ave of Giants, Ca (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
