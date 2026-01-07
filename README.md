@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/red-poppy-flower-field-at-daytime-sWlxCweDzzs"><img width="720" src="https://images.unsplash.com/photo-1444930694458-01babf71870c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc2NzkyMjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="red poppy flower field at daytime"></a>
+  <a href="https://unsplash.com/photos/parorama-photography-of-mountain-under-cloudy-sky-Ni4NgA64TFQ"><img width="720" src="https://images.unsplash.com/photo-1419064642531-e575728395f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc3NjU2MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="parorama photography of mountain under cloudy sky"></a>
   
-  <em>"red poppy flower field at daytime"</em>
+  <em>"parorama photography of mountain under cloudy sky"</em>
   
-  <em>"Red poppies under morning sun"</em>
+  <em>"Misty mountains overlooking a lake"</em>
 
-  Photo by corina ardeleanu on [unsplash.com](https://unsplash.com/) • 
+  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
   
-  Taken at România, Comuna Șoarș, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.943161,24.96676)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 60D |
-| Exposure Time | 1/200 |
-| Aperture      | 16.0 |
-| Focal Length  | 8.0 |
-| ISO           | 200 |
-| Location      | România, Comuna Șoarș, Romania (Romania) |
-| Coordinates   | Latitude 45.943161, Longitude 24.96676 |
+| Camera Model  | DSLR-A900 |
+| Exposure Time | 1/100 |
+| Aperture      | 8.0 |
+| Focal Length  | 35.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            24.96676,
-                            45.943161
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                25.26676,
-                                46.243161
-                            ],
-                            [
-                                25.26676,
-                                45.643161000000006
-                            ],
-                            [
-                                24.66676,
-                                45.643161000000006
-                            ],
-                            [
-                                24.66676,
-                                46.243161
-                            ],
-                            [
-                                25.26676,
-                                46.243161
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
