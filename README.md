@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/parorama-photography-of-mountain-under-cloudy-sky-Ni4NgA64TFQ"><img width="720" src="https://images.unsplash.com/photo-1419064642531-e575728395f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc3NjU2MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="parorama photography of mountain under cloudy sky"></a>
+  <a href="https://unsplash.com/photos/black-concrete-road-between-steppe-QHZn3-0bbEM"><img width="720" src="https://images.unsplash.com/photo-1511576661531-b34d7da5d0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc4NTIwMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="black concrete road between steppe"></a>
   
-  <em>"parorama photography of mountain under cloudy sky"</em>
+  <em>"black concrete road between steppe"</em>
   
-  <em>"Misty mountains overlooking a lake"</em>
+  <em>"Sunset over the hills of Central California at the start of a long road trip."</em>
 
-  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
+  Photo by Jeremy Bishop on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stillbish) / [portfolio](https://www.jeremybishopphotography.com)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DSLR-A900 |
-| Exposure Time | 1/100 |
-| Aperture      | 8.0 |
-| Focal Length  | 35.0 |
-| ISO           | 100 |
+| Camera Model  | ILCE-9 |
+| Exposure Time | 1/25 |
+| Aperture      | 2.8 |
+| Focal Length  | 25.0 |
+| ISO           | 250 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
