@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-concrete-road-between-steppe-QHZn3-0bbEM"><img width="720" src="https://images.unsplash.com/photo-1511576661531-b34d7da5d0bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc4NTIwMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="black concrete road between steppe"></a>
+  <a href="https://unsplash.com/photos/aerial-photography-of-beach-duvq92-VCZ4"><img width="720" src="https://images.unsplash.com/photo-1543348750-466b55f32f16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njc5Mzg0MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of beach"></a>
   
-  <em>"black concrete road between steppe"</em>
+  <em>"aerial photography of beach"</em>
   
-  <em>"Sunset over the hills of Central California at the start of a long road trip."</em>
+  <em>""</em>
 
-  Photo by Jeremy Bishop on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stillbish) / [portfolio](https://www.jeremybishopphotography.com)
+  Photo by Nick Perez on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/nickperezphotography) / [Twitter](https://twitter.com/nipez)
   
-  Taken at Unknown • 
+  Taken at Traverse City, USA • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-9 |
-| Exposure Time | 1/25 |
-| Aperture      | 2.8 |
-| Focal Length  | 25.0 |
-| ISO           | 250 |
-| Location      | Unknown (null) |
+| Camera Model  | FC1102 |
+| Exposure Time | 1/60 |
+| Aperture      | 2.6 |
+| Focal Length  | 4.5 |
+| ISO           | 100 |
+| Location      | Traverse City, USA (USA) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
