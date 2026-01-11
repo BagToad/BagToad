@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/birds-eye-view-of-grassland-beside-mountain-ucYWe5mzTMU"><img width="720" src="https://images.unsplash.com/uploads/1412026095116d2b0c90e/3bf33993?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjgwMjQ4MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="bird's eye view of grassland beside mountain"></a>
+  <a href="https://unsplash.com/photos/body-of-water-under-sunny-sky-1WQ5RZuH9xo"><img width="720" src="https://images.unsplash.com/photo-1523978591478-c753949ff840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjgxMTEyMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water under sunny sky"></a>
   
-  <em>"bird's eye view of grassland beside mountain"</em>
+  <em>"body of water under sunny sky"</em>
   
-  <em>"Pastures at the foot of a mountain"</em>
+  <em>"Beautiful morning at Andenes this february 2018."</em>
 
-  Photo by Jeremy Cai on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jjeremycai) / [portfolio](http://jeremycai.com) / [Twitter](https://twitter.com/jjeremycai)
+  Photo by Pascal Debrunner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pd_visuals) / [portfolio](https://www.instagram.com/pd_visuals)
   
-  Taken at Unknown • 
+  Taken at Andenes, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.3240819636415,16.1154219814453)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D80 |
-| Exposure Time | 1/500 |
-| Aperture      | 3.5 |
-| Focal Length  | 85.0 |
-| ISO           | 320 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | DSC-RX100M3 |
+| Exposure Time | 1/160 |
+| Aperture      | 5.6 |
+| Focal Length  | 8.8 |
+| ISO           | 100 |
+| Location      | Andenes, Norway (Norway) |
+| Coordinates   | Latitude 69.3240819636415, Longitude 16.1154219814453 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            16.1154219814453,
+                            69.3240819636415
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                16.415421981445302,
+                                69.6240819636415
+                            ],
+                            [
+                                16.415421981445302,
+                                69.0240819636415
+                            ],
+                            [
+                                15.8154219814453,
+                                69.0240819636415
+                            ],
+                            [
+                                15.8154219814453,
+                                69.6240819636415
+                            ],
+                            [
+                                16.415421981445302,
+                                69.6240819636415
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
