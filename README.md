@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/hot-air-balloon-contest-t7YycgAoVSw"><img width="720" src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjgyODQwMjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="hot air balloon contest"></a>
+  <a href="https://unsplash.com/photos/view-of-seashore-sunset-tNDvFkxkBHo"><img width="720" src="https://images.unsplash.com/photo-1422493757035-1e5e03968f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NjgzNzA0MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="view of seashore sunset"></a>
   
-  <em>"hot air balloon contest"</em>
+  <em>"view of seashore sunset"</em>
   
-  <em>""</em>
+  <em>"Sunset over an Australian Beach"</em>
 
-  Photo by Daniela Cuevas on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cuevascuevas) / [Twitter](https://twitter.com/notyourcuevas)
+  Photo by Igor Kasalovic on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ikasalovic) / [portfolio](https://igorkasalovic.com/) / [Twitter](https://twitter.com/ikasalovic)
   
-  Taken at Cappadocia, Turky • 
+  Taken at Australia, New South Wales, Sydney • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/250 |
-| Aperture      | 6.3 |
-| Focal Length  | 50.0 |
+| Camera Model  | Canon EOS 60D |
+| Exposure Time | 15 |
+| Aperture      | 20.0 |
+| Focal Length  | 10.0 |
 | ISO           | 100 |
-| Location      | Cappadocia, Turky (Turky) |
+| Location      | Australia, New South Wales, Sydney (Australia) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
