@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-sun-is-setting-over-the-mountains-in-the-desert-9hWJs7iblh8"><img width="720" src="https://images.unsplash.com/photo-1682685797365-41f45b562c0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njg0NTY4MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="the sun is setting over the mountains in the desert"></a>
+  <a href="https://unsplash.com/photos/gray-lighthouse-on-islet-with-concrete-pathway-at-daytime-7cdFZmLlWOM"><img width="720" src="https://images.unsplash.com/photo-1466278313810-9aca9abea861?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njg1NDMyMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="gray lighthouse on islet with concrete pathway at daytime"></a>
   
-  <em>"the sun is setting over the mountains in the desert"</em>
+  <em>"gray lighthouse on islet with concrete pathway at daytime"</em>
   
-  <em>"Sunset across the coastal lowlands granitic sand plains, Nature Reserve – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
+  <em>""</em>
 
-  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
+  Photo by William Bout on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/williambout) / [portfolio](http://williambout.me) / [Twitter](https://twitter.com/williambout)
   
-  Taken at Nature Reserve - NEOM, Saudi Arabia • 
+  Taken at Phare du Petit Minou, Plouzané, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.3368968155724,-4.61435293646241)
   
   ---
   
@@ -58,14 +58,61 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | Camera Model  | null |
 | Exposure Time | null |
 | Aperture      | null |
-| Focal Length  | 0.0 |
+| Focal Length  | null |
 | ISO           | null |
-| Location      | Nature Reserve - NEOM, Saudi Arabia (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Location      | Phare du Petit Minou, Plouzané, France (France) |
+| Coordinates   | Latitude 48.3368968155724, Longitude -4.61435293646241 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -4.61435293646241,
+                            48.3368968155724
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -4.31435293646241,
+                                48.6368968155724
+                            ],
+                            [
+                                -4.31435293646241,
+                                48.036896815572405
+                            ],
+                            [
+                                -4.91435293646241,
+                                48.036896815572405
+                            ],
+                            [
+                                -4.91435293646241,
+                                48.6368968155724
+                            ],
+                            [
+                                -4.31435293646241,
+                                48.6368968155724
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
