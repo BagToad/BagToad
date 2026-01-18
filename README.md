@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-in-the-mountain-U8FEzONZCsg"><img width="720" src="https://images.unsplash.com/photo-1495710388177-22c73fa5f84e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njg2Mjk2MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field in the mountain"></a>
+  <a href="https://unsplash.com/photos/mountain-dew-during-sunrise-xJ2tjuUHD9M"><img width="720" src="https://images.unsplash.com/photo-1444927714506-8492d94b4e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njg3MTYwMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain dew during sunrise"></a>
   
-  <em>"green grass field in the mountain"</em>
+  <em>"mountain dew during sunrise"</em>
   
-  <em>"Green mountains"</em>
+  <em>"Hazy mountains"</em>
 
-  Photo by Etienne Delorieux on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/etiennedelorieux)
+  Photo by Paul Earle on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/paulearlephotography) / [portfolio](http://paulearlephotography.com/)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/400 |
+| Aperture      | 10.0 |
+| Focal Length  | 135.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
