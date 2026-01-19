@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-dew-during-sunrise-xJ2tjuUHD9M"><img width="720" src="https://images.unsplash.com/photo-1444927714506-8492d94b4e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njg3MTYwMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain dew during sunrise"></a>
+  <a href="https://unsplash.com/photos/photo-of-brown-mountain-qxCqkbF7tUc"><img width="720" src="https://images.unsplash.com/photo-1466133633688-187f0b492390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njg4MDI0ODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of brown mountain"></a>
   
-  <em>"mountain dew during sunrise"</em>
+  <em>"photo of brown mountain"</em>
   
-  <em>"Hazy mountains"</em>
+  <em>"Golden mountain grassland"</em>
 
-  Photo by Paul Earle on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/paulearlephotography) / [portfolio](http://paulearlephotography.com/)
+  Photo by Jean-Pierre Brungs on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnnybrungs)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/400 |
-| Aperture      | 10.0 |
-| Focal Length  | 135.0 |
-| ISO           | 100 |
+| Camera Model  | Canon EOS 700D |
+| Exposure Time | 1/80 |
+| Aperture      | 4.5 |
+| Focal Length  | 10.0 |
+| ISO           | 200 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
