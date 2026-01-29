@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/river-beside-trees-and-grass-field-jlVEj8IDPQc"><img width="720" src="https://images.unsplash.com/photo-1528184039930-bd03972bd974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk1ODAwNjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="river beside trees and grass field"></a>
+  <a href="https://unsplash.com/photos/landmark-photography-of-trees-near-rocky-mountain-under-blue-skies-daytime-ndN00KmbJ1c"><img width="720" src="https://images.unsplash.com/photo-1426604966848-d7adac402bff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk2NjY5MDZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="landmark photography of trees near rocky mountain under blue skies daytime"></a>
   
-  <em>"river beside trees and grass field"</em>
+  <em>"landmark photography of trees near rocky mountain under blue skies daytime"</em>
   
-  <em>"On a perfect spring morning Beverley Brook, a small but beautiful river that meanders through London’s Richmond Park, takes on a fairy tail quality in the dawn mist."</em>
+  <em>"El Capitan on a sunny afternoon"</em>
 
-  Photo by Simon Wilkes on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/simonfromengland) / [portfolio](http://www.simonwilkes.co.uk)
+  Photo by Adam Kool on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/adamkool) / [portfolio](http://twitter.com/adamkool) / [Twitter](https://twitter.com/AdamKool)
   
-  Taken at Beverley Brook, London, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.4522677587573,-0.258248370483443)
+  Taken at El Cap, Yosemite National Park, United States • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100T |
-| Exposure Time | 1/80 |
-| Aperture      | 2.0 |
-| Focal Length  | 19.0 |
+| Camera Model  | Canon EOS 5D Mark II |
+| Exposure Time | 1/125 |
+| Aperture      | 6.7 |
+| Focal Length  | 17.0 |
 | ISO           | 200 |
-| Location      | Beverley Brook, London, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 51.4522677587573, Longitude -0.258248370483443 |
+| Location      | El Cap, Yosemite National Park, United States (United States) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -0.258248370483443,
-                            51.4522677587573
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                0.041751629516556976,
-                                51.7522677587573
-                            ],
-                            [
-                                0.041751629516556976,
-                                51.152267758757304
-                            ],
-                            [
-                                -0.558248370483443,
-                                51.152267758757304
-                            ],
-                            [
-                                -0.558248370483443,
-                                51.7522677587573
-                            ],
-                            [
-                                0.041751629516556976,
-                                51.7522677587573
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
