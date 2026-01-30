@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landmark-photography-of-trees-near-rocky-mountain-under-blue-skies-daytime-ndN00KmbJ1c"><img width="720" src="https://images.unsplash.com/photo-1426604966848-d7adac402bff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk2NjY5MDZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="landmark photography of trees near rocky mountain under blue skies daytime"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-brown-mountains-tMvuB9se2uQ"><img width="720" src="https://images.unsplash.com/photo-1489493512598-d08130f49bea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk3NTMzMzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of brown mountains"></a>
   
-  <em>"landmark photography of trees near rocky mountain under blue skies daytime"</em>
+  <em>"landscape photography of brown mountains"</em>
   
-  <em>"El Capitan on a sunny afternoon"</em>
+  <em>"Sunset in the mountains"</em>
 
-  Photo by Adam Kool on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/adamkool) / [portfolio](http://twitter.com/adamkool) / [Twitter](https://twitter.com/AdamKool)
+  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.com/en) / [Twitter](https://twitter.com/serg_pesterev)
   
-  Taken at El Cap, Yosemite National Park, United States • 
+  Taken at Hurghada International Airport, Egypt • [Google Maps](https://www.google.com/maps/search/?api=1&query=27.180494,33.807566)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark II |
-| Exposure Time | 1/125 |
-| Aperture      | 6.7 |
-| Focal Length  | 17.0 |
-| ISO           | 200 |
-| Location      | El Cap, Yosemite National Park, United States (United States) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | FinePix S5Pro |
+| Exposure Time | 1/160 |
+| Aperture      | 11.0 |
+| Focal Length  | 200.0 |
+| ISO           | 100 |
+| Location      | Hurghada International Airport, Egypt (Egypt) |
+| Coordinates   | Latitude 27.180494, Longitude 33.807566 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            33.807566,
+                            27.180494
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                34.107566,
+                                27.480494
+                            ],
+                            [
+                                34.107566,
+                                26.880494
+                            ],
+                            [
+                                33.507566000000004,
+                                26.880494
+                            ],
+                            [
+                                33.507566000000004,
+                                27.480494
+                            ],
+                            [
+                                34.107566,
+                                27.480494
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
