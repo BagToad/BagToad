@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-brown-mountains-tMvuB9se2uQ"><img width="720" src="https://images.unsplash.com/photo-1489493512598-d08130f49bea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk3NTMzMzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of brown mountains"></a>
+  <a href="https://unsplash.com/photos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c"><img width="720" src="https://images.unsplash.com/photo-1511497584788-876760111969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk4Mzk0ODR8&ixlib=rb-4.1.0&q=80&w=1080" alt="pine trees field near mountain under sunset"></a>
   
-  <em>"landscape photography of brown mountains"</em>
+  <em>"pine trees field near mountain under sunset"</em>
   
-  <em>"Sunset in the mountains"</em>
+  <em>"Smoky morning in Cascades"</em>
 
-  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.com/en) / [Twitter](https://twitter.com/serg_pesterev)
+  Photo by Sergei A on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergeiakphoto) / [portfolio](https://www.cavanimages.com/contributor/17417)
   
-  Taken at Hurghada International Airport, Egypt • [Google Maps](https://www.google.com/maps/search/?api=1&query=27.180494,33.807566)
+  Taken at Rampart Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4155129,-121.3402916)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | FinePix S5Pro |
-| Exposure Time | 1/160 |
-| Aperture      | 11.0 |
-| Focal Length  | 200.0 |
-| ISO           | 100 |
-| Location      | Hurghada International Airport, Egypt (Egypt) |
-| Coordinates   | Latitude 27.180494, Longitude 33.807566 |
+| Camera Model  | ILCE-7M2 |
+| Exposure Time | 1/60 |
+| Aperture      | 9.0 |
+| Focal Length  | 35.0 |
+| ISO           | 250 |
+| Location      | Rampart Lakes, United States (United States) |
+| Coordinates   | Latitude 47.4155129, Longitude -121.3402916 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            33.807566,
-                            27.180494
+                            -121.3402916,
+                            47.4155129
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                34.107566,
-                                27.480494
+                                -121.0402916,
+                                47.7155129
                             ],
                             [
-                                34.107566,
-                                26.880494
+                                -121.0402916,
+                                47.115512900000006
                             ],
                             [
-                                33.507566000000004,
-                                26.880494
+                                -121.6402916,
+                                47.115512900000006
                             ],
                             [
-                                33.507566000000004,
-                                27.480494
+                                -121.6402916,
+                                47.7155129
                             ],
                             [
-                                34.107566,
-                                27.480494
+                                -121.0402916,
+                                47.7155129
                             ]
                         ],
                         "type": "LineString"
