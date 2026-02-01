@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c"><img width="720" src="https://images.unsplash.com/photo-1511497584788-876760111969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk4Mzk0ODR8&ixlib=rb-4.1.0&q=80&w=1080" alt="pine trees field near mountain under sunset"></a>
+  <a href="https://unsplash.com/photos/birds-eye-view-of-grassland-beside-mountain-ucYWe5mzTMU"><img width="720" src="https://images.unsplash.com/uploads/1412026095116d2b0c90e/3bf33993?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Njk5MjYyOTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="bird's eye view of grassland beside mountain"></a>
   
-  <em>"pine trees field near mountain under sunset"</em>
+  <em>"bird's eye view of grassland beside mountain"</em>
   
-  <em>"Smoky morning in Cascades"</em>
+  <em>"Pastures at the foot of a mountain"</em>
 
-  Photo by Sergei A on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergeiakphoto) / [portfolio](https://www.cavanimages.com/contributor/17417)
+  Photo by Jeremy Cai on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jjeremycai) / [portfolio](http://jeremycai.com) / [Twitter](https://twitter.com/jjeremycai)
   
-  Taken at Rampart Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4155129,-121.3402916)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 1/60 |
-| Aperture      | 9.0 |
-| Focal Length  | 35.0 |
-| ISO           | 250 |
-| Location      | Rampart Lakes, United States (United States) |
-| Coordinates   | Latitude 47.4155129, Longitude -121.3402916 |
+| Camera Model  | NIKON D80 |
+| Exposure Time | 1/500 |
+| Aperture      | 3.5 |
+| Focal Length  | 85.0 |
+| ISO           | 320 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -121.3402916,
-                            47.4155129
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -121.0402916,
-                                47.7155129
-                            ],
-                            [
-                                -121.0402916,
-                                47.115512900000006
-                            ],
-                            [
-                                -121.6402916,
-                                47.115512900000006
-                            ],
-                            [
-                                -121.6402916,
-                                47.7155129
-                            ],
-                            [
-                                -121.0402916,
-                                47.7155129
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
