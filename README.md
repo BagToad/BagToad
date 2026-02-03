@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-view-of-village-on-mountain-cliff-during-orange-sunset-cYrMQA7a3Wc"><img width="720" src="https://images.unsplash.com/photo-1499678329028-101435549a4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAwMTI5NDh8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial view of village on mountain cliff during orange sunset"></a>
+  <a href="https://unsplash.com/photos/assorted-color-hot-air-balloons-during-daytime-DuBNA1QMpPA"><img width="720" src="https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAwOTkwNzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="assorted-color hot air balloons during daytime"></a>
   
-  <em>"aerial view of village on mountain cliff during orange sunset"</em>
+  <em>"assorted-color hot air balloons during daytime"</em>
   
-  <em>"Vernazza sunset"</em>
+  <em>"going up at dawn"</em>
 
-  Photo by Anders Jildén on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/andersjildenphotography) / [portfolio](http://www.andersjilden.com) / [Twitter](https://twitter.com/AndersJilden)
+  Photo by ian dooley on [unsplash.com](https://unsplash.com/) • [portfolio](http://sadswim.com)
   
-  Taken at Vernazza, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.1340740821285,9.68522953439333)
+  Taken at Albuquerque, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=35.0853336,-106.6055534)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Vernazza, Italy (Italy) |
-| Coordinates   | Latitude 44.1340740821285, Longitude 9.68522953439333 |
+| Camera Model  | ILCE-6000 |
+| Exposure Time | 1/400 |
+| Aperture      | 5.6 |
+| Focal Length  | 38.0 |
+| ISO           | 100 |
+| Location      | Albuquerque, United States (United States) |
+| Coordinates   | Latitude 35.0853336, Longitude -106.6055534 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.68522953439333,
-                            44.1340740821285
+                            -106.6055534,
+                            35.0853336
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.98522953439333,
-                                44.4340740821285
+                                -106.30555340000001,
+                                35.385333599999996
                             ],
                             [
-                                9.98522953439333,
-                                43.8340740821285
+                                -106.30555340000001,
+                                34.7853336
                             ],
                             [
-                                9.385229534393329,
-                                43.8340740821285
+                                -106.9055534,
+                                34.7853336
                             ],
                             [
-                                9.385229534393329,
-                                44.4340740821285
+                                -106.9055534,
+                                35.385333599999996
                             ],
                             [
-                                9.98522953439333,
-                                44.4340740821285
+                                -106.30555340000001,
+                                35.385333599999996
                             ]
                         ],
                         "type": "LineString"
