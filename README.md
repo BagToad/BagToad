@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/assorted-color-hot-air-balloons-during-daytime-DuBNA1QMpPA"><img width="720" src="https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAwOTkwNzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="assorted-color hot air balloons during daytime"></a>
+  <a href="https://unsplash.com/photos/body-of-water-on-mountain-y0i1lh-T0_w"><img width="720" src="https://images.unsplash.com/photo-1437209484568-e63b90a34f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAxODU0MDh8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water on mountain"></a>
   
-  <em>"assorted-color hot air balloons during daytime"</em>
+  <em>"body of water on mountain"</em>
   
-  <em>"going up at dawn"</em>
+  <em>""</em>
 
-  Photo by ian dooley on [unsplash.com](https://unsplash.com/) • [portfolio](http://sadswim.com)
+  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
   
-  Taken at Albuquerque, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=35.0853336,-106.6055534)
+  Taken at Valparola Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5333,11.9833)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 1/400 |
-| Aperture      | 5.6 |
-| Focal Length  | 38.0 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/60 |
+| Aperture      | 16.0 |
+| Focal Length  | 14.0 |
 | ISO           | 100 |
-| Location      | Albuquerque, United States (United States) |
-| Coordinates   | Latitude 35.0853336, Longitude -106.6055534 |
+| Location      | Valparola Pass, Italy (Italy) |
+| Coordinates   | Latitude 46.5333, Longitude 11.9833 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -106.6055534,
-                            35.0853336
+                            11.9833,
+                            46.5333
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -106.30555340000001,
-                                35.385333599999996
+                                12.2833,
+                                46.833299999999994
                             ],
                             [
-                                -106.30555340000001,
-                                34.7853336
+                                12.2833,
+                                46.2333
                             ],
                             [
-                                -106.9055534,
-                                34.7853336
+                                11.6833,
+                                46.2333
                             ],
                             [
-                                -106.9055534,
-                                35.385333599999996
+                                11.6833,
+                                46.833299999999994
                             ],
                             [
-                                -106.30555340000001,
-                                35.385333599999996
+                                12.2833,
+                                46.833299999999994
                             ]
                         ],
                         "type": "LineString"
