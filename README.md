@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-on-mountain-y0i1lh-T0_w"><img width="720" src="https://images.unsplash.com/photo-1437209484568-e63b90a34f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAxODU0MDh8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water on mountain"></a>
+  <a href="https://unsplash.com/photos/hay-stocks-on-grassland-_6YXOv-l7AI"><img width="720" src="https://images.unsplash.com/photo-1418835817666-45fa43c32666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAyNzIwNTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="hay stocks on grassland"></a>
   
-  <em>"body of water on mountain"</em>
+  <em>"hay stocks on grassland"</em>
   
   <em>""</em>
 
-  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
+  Photo by Jenelle on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Valparola Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5333,11.9833)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D800 |
-| Exposure Time | 1/60 |
-| Aperture      | 16.0 |
-| Focal Length  | 14.0 |
-| ISO           | 100 |
-| Location      | Valparola Pass, Italy (Italy) |
-| Coordinates   | Latitude 46.5333, Longitude 11.9833 |
+| Camera Model  | X-E1 |
+| Exposure Time | 1/350 |
+| Aperture      | 9.0 |
+| Focal Length  | 35.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            11.9833,
-                            46.5333
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                12.2833,
-                                46.833299999999994
-                            ],
-                            [
-                                12.2833,
-                                46.2333
-                            ],
-                            [
-                                11.6833,
-                                46.2333
-                            ],
-                            [
-                                11.6833,
-                                46.833299999999994
-                            ],
-                            [
-                                12.2833,
-                                46.833299999999994
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
