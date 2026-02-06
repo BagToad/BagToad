@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/hay-stocks-on-grassland-_6YXOv-l7AI"><img width="720" src="https://images.unsplash.com/photo-1418835817666-45fa43c32666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAyNzIwNTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="hay stocks on grassland"></a>
+  <a href="https://unsplash.com/photos/withered-trees-under-clear-blue-sky-S2Q5mdOrrVc"><img width="720" src="https://images.unsplash.com/photo-1559160581-44bd4222d397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAzNTgzMTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="withered trees under clear blue sky"></a>
   
-  <em>"hay stocks on grassland"</em>
+  <em>"withered trees under clear blue sky"</em>
   
   <em>""</em>
 
-  Photo by Jenelle on [unsplash.com](https://unsplash.com/) • 
+  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
   
-  Taken at Unknown • 
+  Taken at Deadvlei, Sossusvlei, Namibia • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X-E1 |
-| Exposure Time | 1/350 |
-| Aperture      | 9.0 |
-| Focal Length  | 35.0 |
+| Camera Model  | X100T |
+| Exposure Time | 1/600 |
+| Aperture      | 5.6 |
+| Focal Length  | 23.0 |
 | ISO           | 200 |
-| Location      | Unknown (null) |
+| Location      | Deadvlei, Sossusvlei, Namibia (Namibia) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
