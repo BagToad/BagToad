@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/withered-trees-under-clear-blue-sky-S2Q5mdOrrVc"><img width="720" src="https://images.unsplash.com/photo-1559160581-44bd4222d397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzAzNTgzMTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="withered trees under clear blue sky"></a>
+  <a href="https://unsplash.com/photos/view-of-mountain-PdGBci-4jR8"><img width="720" src="https://images.unsplash.com/photo-1552152370-fb05b25ff17d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA0NDQ0MTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="view of mountain"></a>
   
-  <em>"withered trees under clear blue sky"</em>
+  <em>"view of mountain"</em>
   
   <em>""</em>
 
-  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
+  Photo by Alessio Soggetti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/asoggetti) / [portfolio](https://asoggetti.it) / [Twitter](https://twitter.com/asoggetti)
   
-  Taken at Deadvlei, Sossusvlei, Namibia • 
+  Taken at Unknown • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100T |
-| Exposure Time | 1/600 |
-| Aperture      | 5.6 |
-| Focal Length  | 23.0 |
-| ISO           | 200 |
-| Location      | Deadvlei, Sossusvlei, Namibia (Namibia) |
+| Camera Model  | NIKON D750 |
+| Exposure Time | 1/1000 |
+| Aperture      | 9 |
+| Focal Length  | 300 |
+| ISO           | 125 |
+| Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
