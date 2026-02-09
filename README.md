@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/scenery-of-mountain-canyon-WeYamle9fDM"><img width="720" src="https://images.unsplash.com/photo-1479030160180-b1860951d696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA1MzExMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="scenery of mountain canyon"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky-XNIjmb6Ax04"><img width="720" src="https://images.unsplash.com/photo-1429704658776-3d38c9990511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA2MTc4Njh8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field under blue sky"></a>
   
-  <em>"scenery of mountain canyon"</em>
+  <em>"green grass field under blue sky"</em>
   
   <em>""</em>
 
-  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
+  Photo by John Mark Arnold on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnmarkarnold) / [portfolio](https://www.instagram.com/johnmarkarnold/) / [Twitter](https://twitter.com/JohnMarkArnold)
   
-  Taken at Lower Antelope Canyon, Page, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.903128,-111.4132503)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100T |
-| Exposure Time | 1/450 |
-| Aperture      | 2.0 |
-| Focal Length  | 23.0 |
-| ISO           | 400 |
-| Location      | Lower Antelope Canyon, Page, United States (United States) |
-| Coordinates   | Latitude 36.903128, Longitude -111.4132503 |
+| Camera Model  | Canon EOS 550D |
+| Exposure Time | 1/1000 |
+| Aperture      | 5.6 |
+| Focal Length  | 55.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -111.4132503,
-                            36.903128
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -111.1132503,
-                                37.203128
-                            ],
-                            [
-                                -111.1132503,
-                                36.603128000000005
-                            ],
-                            [
-                                -111.7132503,
-                                36.603128000000005
-                            ],
-                            [
-                                -111.7132503,
-                                37.203128
-                            ],
-                            [
-                                -111.1132503,
-                                37.203128
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
