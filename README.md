@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky-XNIjmb6Ax04"><img width="720" src="https://images.unsplash.com/photo-1429704658776-3d38c9990511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA2MTc4Njh8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field under blue sky"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-in-the-mountain-U8FEzONZCsg"><img width="720" src="https://images.unsplash.com/photo-1495710388177-22c73fa5f84e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA3MDQzMTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field in the mountain"></a>
   
-  <em>"green grass field under blue sky"</em>
+  <em>"green grass field in the mountain"</em>
   
-  <em>""</em>
+  <em>"Green mountains"</em>
 
-  Photo by John Mark Arnold on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnmarkarnold) / [portfolio](https://www.instagram.com/johnmarkarnold/) / [Twitter](https://twitter.com/JohnMarkArnold)
+  Photo by Etienne Delorieux on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/etiennedelorieux)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 550D |
-| Exposure Time | 1/1000 |
-| Aperture      | 5.6 |
-| Focal Length  | 55.0 |
-| ISO           | 200 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
