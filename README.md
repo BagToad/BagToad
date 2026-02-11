@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-in-the-mountain-U8FEzONZCsg"><img width="720" src="https://images.unsplash.com/photo-1495710388177-22c73fa5f84e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA3MDQzMTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field in the mountain"></a>
+  <a href="https://unsplash.com/photos/field-and-mountain-near-body-of-water-meOFNlRbHmY"><img width="720" src="https://images.unsplash.com/photo-1519092437326-bfd121eb53ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA3OTA2NjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="field and mountain near body of water"></a>
   
-  <em>"green grass field in the mountain"</em>
+  <em>"field and mountain near body of water"</em>
   
-  <em>"Green mountains"</em>
+  <em>"This is the main highway circling Iceland’s majestic beauty. The snow-capped mountains are a welcome site as you drive towards the island’s second most-populated city, Akureyi."</em>
 
-  Photo by Etienne Delorieux on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/etiennedelorieux)
+  Photo by Josh Reid on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stellaroak) / [Twitter](https://twitter.com/stellaroak)
   
-  Taken at Unknown • 
+  Taken at Akureyri, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=65.6884921,-18.1261694)
   
   ---
   
@@ -60,12 +60,59 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | Aperture      | null |
 | Focal Length  | null |
 | ISO           | null |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Akureyri, Iceland (Iceland) |
+| Coordinates   | Latitude 65.6884921, Longitude -18.1261694 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -18.1261694,
+                            65.6884921
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -17.826169399999998,
+                                65.9884921
+                            ],
+                            [
+                                -17.826169399999998,
+                                65.38849210000001
+                            ],
+                            [
+                                -18.4261694,
+                                65.38849210000001
+                            ],
+                            [
+                                -18.4261694,
+                                65.9884921
+                            ],
+                            [
+                                -17.826169399999998,
+                                65.9884921
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
