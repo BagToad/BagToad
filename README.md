@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landmark-photography-of-trees-near-rocky-mountain-under-blue-skies-daytime-ndN00KmbJ1c"><img width="720" src="https://images.unsplash.com/photo-1426604966848-d7adac402bff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzA5NjMzMzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="landmark photography of trees near rocky mountain under blue skies daytime"></a>
+  <a href="https://unsplash.com/photos/hot-air-balloon-contest-t7YycgAoVSw"><img width="720" src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEwNDkyNzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="hot air balloon contest"></a>
   
-  <em>"landmark photography of trees near rocky mountain under blue skies daytime"</em>
+  <em>"hot air balloon contest"</em>
   
-  <em>"El Capitan on a sunny afternoon"</em>
+  <em>""</em>
 
-  Photo by Adam Kool on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/adamkool) / [portfolio](http://twitter.com/adamkool) / [Twitter](https://twitter.com/AdamKool)
+  Photo by Daniela Cuevas on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cuevascuevas) / [Twitter](https://twitter.com/notyourcuevas)
   
-  Taken at El Cap, Yosemite National Park, United States • 
+  Taken at Cappadocia, Turky • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark II |
-| Exposure Time | 1/125 |
-| Aperture      | 6.7 |
-| Focal Length  | 17.0 |
-| ISO           | 200 |
-| Location      | El Cap, Yosemite National Park, United States (United States) |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/250 |
+| Aperture      | 6.3 |
+| Focal Length  | 50.0 |
+| ISO           | 100 |
+| Location      | Cappadocia, Turky (Turky) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
