@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/hot-air-balloon-contest-t7YycgAoVSw"><img width="720" src="https://images.unsplash.com/photo-1433838552652-f9a46b332c40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEwNDkyNzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="hot air balloon contest"></a>
+  <a href="https://unsplash.com/photos/a-person-standing-in-the-middle-of-a-desert-9f7oiGARGIg"><img width="720" src="https://images.unsplash.com/photo-1683009427590-dd987135e66c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzExMzU5NDl8&ixlib=rb-4.1.0&q=80&w=1080" alt="a person standing in the middle of a desert"></a>
   
-  <em>"hot air balloon contest"</em>
+  <em>"a person standing in the middle of a desert"</em>
   
-  <em>""</em>
+  <em>"Hisma Desert - NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
 
-  Photo by Daniela Cuevas on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cuevascuevas) / [Twitter](https://twitter.com/notyourcuevas)
+  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
   
-  Taken at Cappadocia, Turky • 
+  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/250 |
-| Aperture      | 6.3 |
-| Focal Length  | 50.0 |
+| Camera Model  |  EOS 5DS R |
+| Exposure Time | 1/500 |
+| Aperture      | 8 |
+| Focal Length  | 24.0 |
 | ISO           | 100 |
-| Location      | Cappadocia, Turky (Turky) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 ### Map
 
