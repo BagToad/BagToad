@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/a-person-standing-in-the-middle-of-a-desert-9f7oiGARGIg"><img width="720" src="https://images.unsplash.com/photo-1683009427590-dd987135e66c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzExMzU5NDl8&ixlib=rb-4.1.0&q=80&w=1080" alt="a person standing in the middle of a desert"></a>
+  <a href="https://unsplash.com/photos/mountain-dew-during-sunrise-xJ2tjuUHD9M"><img width="720" src="https://images.unsplash.com/photo-1444927714506-8492d94b4e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEyMjI2MTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain dew during sunrise"></a>
   
-  <em>"a person standing in the middle of a desert"</em>
+  <em>"mountain dew during sunrise"</em>
   
-  <em>"Hisma Desert - NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
+  <em>"Hazy mountains"</em>
 
-  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
+  Photo by Paul Earle on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/paulearlephotography) / [portfolio](http://paulearlephotography.com/)
   
-  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
+  Taken at Unknown • 
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  |  EOS 5DS R |
-| Exposure Time | 1/500 |
-| Aperture      | 8 |
-| Focal Length  | 24.0 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/400 |
+| Aperture      | 10.0 |
+| Focal Length  | 135.0 |
 | ISO           | 100 |
-| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
