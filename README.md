@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-dew-during-sunrise-xJ2tjuUHD9M"><img width="720" src="https://images.unsplash.com/photo-1444927714506-8492d94b4e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEyMjI2MTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain dew during sunrise"></a>
+  <a href="https://unsplash.com/photos/brown-house-near-body-of-water-zAjdgNXsMeg"><img width="720" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEzMDg4NjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown house near body of water"></a>
   
-  <em>"mountain dew during sunrise"</em>
+  <em>"brown house near body of water"</em>
   
-  <em>"Hazy mountains"</em>
+  <em>"Boathouse on a mountain lake"</em>
 
-  Photo by Paul Earle on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/paulearlephotography) / [portfolio](http://paulearlephotography.com/)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Unknown • 
+  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/400 |
-| Aperture      | 10.0 |
-| Focal Length  | 135.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lago di Braies (null) |
+| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            12.0859822,
+                            46.6948731
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                12.3859822,
+                                46.9948731
+                            ],
+                            [
+                                12.3859822,
+                                46.394873100000005
+                            ],
+                            [
+                                11.7859822,
+                                46.394873100000005
+                            ],
+                            [
+                                11.7859822,
+                                46.9948731
+                            ],
+                            [
+                                12.3859822,
+                                46.9948731
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
