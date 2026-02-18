@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-house-near-body-of-water-zAjdgNXsMeg"><img width="720" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEzMDg4NjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown house near body of water"></a>
+  <a href="https://unsplash.com/photos/tree-on-body-of-water-near-mountains-KonWFWUaAuk"><img width="720" src="https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEzOTUzOTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree on body of water near mountains"></a>
   
-  <em>"brown house near body of water"</em>
+  <em>"tree on body of water near mountains"</em>
   
-  <em>"Boathouse on a mountain lake"</em>
+  <em>""</em>
 
-  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
+  Photo by Ken Cheung on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kencheungphotos) / [portfolio](https://www.kencheungphoto.com/)
   
-  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
+  Taken at Wanaka, Otago, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.69833833,169.11632833)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Lago di Braies (null) |
-| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
+| Camera Model  | NIKON D5 |
+| Exposure Time | 10 |
+| Aperture      | 16 |
+| Focal Length  | 35.0 |
+| ISO           | 50 |
+| Location      | Wanaka, Otago, New Zealand (New Zealand) |
+| Coordinates   | Latitude -44.69833833, Longitude 169.11632833 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0859822,
-                            46.6948731
+                            169.11632833,
+                            -44.69833833
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3859822,
-                                46.9948731
+                                169.41632833,
+                                -44.39833833
                             ],
                             [
-                                12.3859822,
-                                46.394873100000005
+                                169.41632833,
+                                -44.998338329999996
                             ],
                             [
-                                11.7859822,
-                                46.394873100000005
+                                168.81632832999998,
+                                -44.998338329999996
                             ],
                             [
-                                11.7859822,
-                                46.9948731
+                                168.81632832999998,
+                                -44.39833833
                             ],
                             [
-                                12.3859822,
-                                46.9948731
+                                169.41632833,
+                                -44.39833833
                             ]
                         ],
                         "type": "LineString"
