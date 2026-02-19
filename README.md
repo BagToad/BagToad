@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/tree-on-body-of-water-near-mountains-KonWFWUaAuk"><img width="720" src="https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzEzOTUzOTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree on body of water near mountains"></a>
+  <a href="https://unsplash.com/photos/photo-of-body-of-water-between-trees-and-mountain-sR7_ImYvt1Q"><img width="720" src="https://images.unsplash.com/photo-1502786129293-79981df4e689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE0ODE3Nzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of body of water between trees and mountain"></a>
   
-  <em>"tree on body of water near mountains"</em>
+  <em>"photo of body of water between trees and mountain"</em>
   
-  <em>""</em>
+  <em>"Rocky Mountain"</em>
 
-  Photo by Ken Cheung on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kencheungphotos) / [portfolio](https://www.kencheungphoto.com/)
+  Photo by Danyu Wang on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/w_danyu)
   
-  Taken at Wanaka, Otago, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.69833833,169.11632833)
+  Taken at Field, 艾伯塔省, 加拿大 • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.32713889,-116.17922222)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5 |
-| Exposure Time | 10 |
-| Aperture      | 16 |
-| Focal Length  | 35.0 |
+| Camera Model  | EVA-AL10 |
+| Exposure Time | 1/236 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.5 |
 | ISO           | 50 |
-| Location      | Wanaka, Otago, New Zealand (New Zealand) |
-| Coordinates   | Latitude -44.69833833, Longitude 169.11632833 |
+| Location      | Field, 艾伯塔省, 加拿大 (加拿大) |
+| Coordinates   | Latitude 51.32713889, Longitude -116.17922222 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            169.11632833,
-                            -44.69833833
+                            -116.17922222,
+                            51.32713889
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                169.41632833,
-                                -44.39833833
+                                -115.87922222,
+                                51.62713889
                             ],
                             [
-                                169.41632833,
-                                -44.998338329999996
+                                -115.87922222,
+                                51.02713889
                             ],
                             [
-                                168.81632832999998,
-                                -44.998338329999996
+                                -116.47922222,
+                                51.02713889
                             ],
                             [
-                                168.81632832999998,
-                                -44.39833833
+                                -116.47922222,
+                                51.62713889
                             ],
                             [
-                                169.41632833,
-                                -44.39833833
+                                -115.87922222,
+                                51.62713889
                             ]
                         ],
                         "type": "LineString"
