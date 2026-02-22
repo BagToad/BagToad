@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/golden-hour-photography-of-docking-pier-on-body-of-water-uwbajDCODj4"><img width="720" src="https://images.unsplash.com/photo-1498550744921-75f79806b8a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE2NTM5ODV8&ixlib=rb-4.1.0&q=80&w=1080" alt="golden hour photography of docking pier on body of water"></a>
+  <a href="https://unsplash.com/photos/green-leaf-trees-under-blue-sky-bJHWJeiHfHc"><img width="720" src="https://images.unsplash.com/photo-1469827160215-9d29e96e72f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE3NDA1OTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="green leaf trees under blue sky"></a>
   
-  <em>"golden hour photography of docking pier on body of water"</em>
+  <em>"green leaf trees under blue sky"</em>
   
-  <em>"Stockholm Archipelago"</em>
+  <em>""</em>
 
-  Photo by Anders Jildén on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/andersjildenphotography) / [portfolio](http://www.andersjilden.com) / [Twitter](https://twitter.com/AndersJilden)
+  Photo by Jeff King on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Värmdö, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=59.3230706766952,18.4736681520263)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Värmdö, Sweden (Sweden) |
-| Coordinates   | Latitude 59.3230706766952, Longitude 18.4736681520263 |
+| Camera Model  | NIKON D700 |
+| Exposure Time | 1/320 |
+| Aperture      | 9.0 |
+| Focal Length  | 17.0 |
+| ISO           | 200 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            18.4736681520263,
-                            59.3230706766952
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                18.7736681520263,
-                                59.6230706766952
-                            ],
-                            [
-                                18.7736681520263,
-                                59.023070676695205
-                            ],
-                            [
-                                18.1736681520263,
-                                59.023070676695205
-                            ],
-                            [
-                                18.1736681520263,
-                                59.6230706766952
-                            ],
-                            [
-                                18.7736681520263,
-                                59.6230706766952
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
