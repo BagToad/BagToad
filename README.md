@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/foggy-mountain-summit-1Z2niiBPg5A"><img width="720" src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzE5MTM3MzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="foggy mountain summit"></a>
+  <a href="https://unsplash.com/photos/withered-trees-under-clear-blue-sky-S2Q5mdOrrVc"><img width="720" src="https://images.unsplash.com/photo-1559160581-44bd4222d397?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIwMDAyNjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="withered trees under clear blue sky"></a>
   
-  <em>"foggy mountain summit"</em>
+  <em>"withered trees under clear blue sky"</em>
   
-  <em>"Taking The Scenic Route"</em>
+  <em>""</em>
 
-  Photo by v2osk on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/v2osk) / [portfolio](https://www.flickr.com/photos/62438406@N00/albums)
+  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
   
-  Taken at Unknown • 
+  Taken at Deadvlei, Sossusvlei, Namibia • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D800 |
-| Exposure Time | 1/40 |
-| Aperture      | 11.0 |
-| Focal Length  | 24.0 |
-| ISO           | 50 |
-| Location      | Unknown (null) |
+| Camera Model  | X100T |
+| Exposure Time | 1/600 |
+| Aperture      | 5.6 |
+| Focal Length  | 23.0 |
+| ISO           | 200 |
+| Location      | Deadvlei, Sossusvlei, Namibia (Namibia) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
