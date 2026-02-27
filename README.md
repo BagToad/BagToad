@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/blue-boat-on-sand-near-body-of-water-during-daytime-xL66l--msXU"><img width="720" src="https://images.unsplash.com/photo-1443397646383-16272048780e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIwODY1MDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue boat on sand near body of water during daytime"></a>
+  <a href="https://unsplash.com/photos/snow-mountain-under-stars-phIFdC6lA4E"><img width="720" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIxNzI2Nzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow mountain under stars"></a>
   
-  <em>"blue boat on sand near body of water during daytime"</em>
+  <em>"snow mountain under stars"</em>
   
-  <em>"Ust-Barguzin, Republic of Buryatia, Russia"</em>
+  <em>""</em>
 
-  Photo by Mickey O'neil on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mickeyoneil) / [Twitter](https://twitter.com/Mickey666Oneil)
+  Photo by Benjamin Voros on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/voros_beni) / [portfolio](http://www.vorosbenjamin.com) / [Twitter](https://twitter.com/voros_benjamin)
   
-  Taken at Pervomayskaya Ulitsa, Ust-Barguzin, Buryatiya Republits, Russia, 671623 • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.41648889,108.987725)
+  Taken at Moena, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.37642,11.6615999000001)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 5s |
-| Exposure Time | 1/2933 |
-| Aperture      | 2.2 |
-| Focal Length  | 4.2 |
-| ISO           | 32 |
-| Location      | Pervomayskaya Ulitsa, Ust-Barguzin, Buryatiya Republits, Russia, 671623 (Russia) |
-| Coordinates   | Latitude 53.41648889, Longitude 108.987725 |
+| Camera Model  | Canon EOS 600D |
+| Exposure Time | 1/200 |
+| Aperture      | 5.0 |
+| Focal Length  | 84.0 |
+| ISO           | 100 |
+| Location      | Moena, Italy (Italy) |
+| Coordinates   | Latitude 46.37642, Longitude 11.6615999000001 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            108.987725,
-                            53.41648889
+                            11.6615999000001,
+                            46.37642
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                109.287725,
-                                53.716488889999994
+                                11.9615999000001,
+                                46.67642
                             ],
                             [
-                                109.287725,
-                                53.11648889
+                                11.9615999000001,
+                                46.076420000000006
                             ],
                             [
-                                108.687725,
-                                53.11648889
+                                11.3615999000001,
+                                46.076420000000006
                             ],
                             [
-                                108.687725,
-                                53.716488889999994
+                                11.3615999000001,
+                                46.67642
                             ],
                             [
-                                109.287725,
-                                53.716488889999994
+                                11.9615999000001,
+                                46.67642
                             ]
                         ],
                         "type": "LineString"
