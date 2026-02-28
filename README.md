@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-mountain-under-stars-phIFdC6lA4E"><img width="720" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIxNzI2Nzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow mountain under stars"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky--nYBR0LFTvQ"><img width="720" src="https://images.unsplash.com/photo-1518717202715-9fa9d099f58a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIyNTg1MzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field under blue sky"></a>
   
-  <em>"snow mountain under stars"</em>
+  <em>"green grass field under blue sky"</em>
   
   <em>""</em>
 
-  Photo by Benjamin Voros on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/voros_beni) / [portfolio](http://www.vorosbenjamin.com) / [Twitter](https://twitter.com/voros_benjamin)
+  Photo by Chris Barbalis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ChrisBarbalis) / [Twitter](https://twitter.com/ChrisBarbalis)
   
-  Taken at Moena, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.37642,11.6615999000001)
+  Taken at Montescudaio, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.3315882,10.6027654)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 600D |
-| Exposure Time | 1/200 |
-| Aperture      | 5.0 |
-| Focal Length  | 84.0 |
+| Camera Model  | NIKON D3300 |
+| Exposure Time | 1/320 |
+| Aperture      | 9 |
+| Focal Length  | 28.0 |
 | ISO           | 100 |
-| Location      | Moena, Italy (Italy) |
-| Coordinates   | Latitude 46.37642, Longitude 11.6615999000001 |
+| Location      | Montescudaio, Italy (Italy) |
+| Coordinates   | Latitude 43.3315882, Longitude 10.6027654 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.6615999000001,
-                            46.37642
+                            10.6027654,
+                            43.3315882
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                11.9615999000001,
-                                46.67642
+                                10.9027654,
+                                43.631588199999996
                             ],
                             [
-                                11.9615999000001,
-                                46.076420000000006
+                                10.9027654,
+                                43.0315882
                             ],
                             [
-                                11.3615999000001,
-                                46.076420000000006
+                                10.302765399999998,
+                                43.0315882
                             ],
                             [
-                                11.3615999000001,
-                                46.67642
+                                10.302765399999998,
+                                43.631588199999996
                             ],
                             [
-                                11.9615999000001,
-                                46.67642
+                                10.9027654,
+                                43.631588199999996
                             ]
                         ],
                         "type": "LineString"
