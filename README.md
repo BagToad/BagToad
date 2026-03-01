@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky--nYBR0LFTvQ"><img width="720" src="https://images.unsplash.com/photo-1518717202715-9fa9d099f58a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIyNTg1MzJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field under blue sky"></a>
+  <a href="https://unsplash.com/photos/an-aerial-view-of-a-desert-with-rocks-and-sand-s3leOixsIX0"><img width="720" src="https://images.unsplash.com/photo-1682687218147-9806132dc697?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzIzNDUzMzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="an aerial view of a desert with rocks and sand"></a>
   
-  <em>"green grass field under blue sky"</em>
+  <em>"an aerial view of a desert with rocks and sand"</em>
   
-  <em>""</em>
+  <em>"Sandstone plateau, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
 
-  Photo by Chris Barbalis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ChrisBarbalis) / [Twitter](https://twitter.com/ChrisBarbalis)
+  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
   
-  Taken at Montescudaio, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.3315882,10.6027654)
+  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D3300 |
-| Exposure Time | 1/320 |
-| Aperture      | 9 |
-| Focal Length  | 28.0 |
-| ISO           | 100 |
-| Location      | Montescudaio, Italy (Italy) |
-| Coordinates   | Latitude 43.3315882, Longitude 10.6027654 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | 0.0 |
+| ISO           | null |
+| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            10.6027654,
-                            43.3315882
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                10.9027654,
-                                43.631588199999996
-                            ],
-                            [
-                                10.9027654,
-                                43.0315882
-                            ],
-                            [
-                                10.302765399999998,
-                                43.0315882
-                            ],
-                            [
-                                10.302765399999998,
-                                43.631588199999996
-                            ],
-                            [
-                                10.9027654,
-                                43.631588199999996
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
