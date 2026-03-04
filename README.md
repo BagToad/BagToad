@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/field-and-mountain-near-body-of-water-meOFNlRbHmY"><img width="720" src="https://images.unsplash.com/photo-1519092437326-bfd121eb53ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI1MTgxODJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="field and mountain near body of water"></a>
+  <a href="https://unsplash.com/photos/photo-of-valley-M6XC789HLe8"><img width="720" src="https://images.unsplash.com/photo-1498429089284-41f8cf3ffd39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI2MDQ1MDJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of valley"></a>
   
-  <em>"field and mountain near body of water"</em>
+  <em>"photo of valley"</em>
   
-  <em>"This is the main highway circling Iceland’s majestic beauty. The snow-capped mountains are a welcome site as you drive towards the island’s second most-populated city, Akureyi."</em>
+  <em>"I think the best time to visit Yosemite is February. There is still some snow around the valley. The trees and the snow shine mystically because of the sun rays through the patchy clouds. Certainly a sight to behold. Yosemite National Park"</em>
 
-  Photo by Josh Reid on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stellaroak) / [Twitter](https://twitter.com/stellaroak)
+  Photo by Aniket Deole on [unsplash.com](https://unsplash.com/) • [portfolio](http://aniket.photos)
   
-  Taken at Akureyri, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=65.6884921,-18.1261694)
+  Taken at Tunnel View, United States • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Akureyri, Iceland (Iceland) |
-| Coordinates   | Latitude 65.6884921, Longitude -18.1261694 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/80 |
+| Aperture      | 8 |
+| Focal Length  | 41.0 |
+| ISO           | 200 |
+| Location      | Tunnel View, United States (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -18.1261694,
-                            65.6884921
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -17.826169399999998,
-                                65.9884921
-                            ],
-                            [
-                                -17.826169399999998,
-                                65.38849210000001
-                            ],
-                            [
-                                -18.4261694,
-                                65.38849210000001
-                            ],
-                            [
-                                -18.4261694,
-                                65.9884921
-                            ],
-                            [
-                                -17.826169399999998,
-                                65.9884921
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
