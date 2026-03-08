@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI4NjM0MTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of brown moutains"></a>
+  <a href="https://unsplash.com/photos/northern-lights-over-snow-capped-mountian-LtnPejWDSAY"><img width="720" src="https://images.unsplash.com/photo-1531366936337-7c912a4589a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI5NTAwMjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="northern lights over snow-capped mountian"></a>
   
-  <em>"aerial photo of brown moutains"</em>
+  <em>"northern lights over snow-capped mountian"</em>
   
-  <em>"Red highlands"</em>
+  <em>"Amazing light display from Mother Nature, very humbled and in awe to capture a multi-hued color Aurora at Tromso, Norway."</em>
 
-  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
+  Photo by Lightscape on [unsplash.com](https://unsplash.com/) • [portfolio](https://theonepicture.com)
   
-  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
+  Taken at Tromsø, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.6492047,18.9553238999999)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/640 |
-| Aperture      | 4.0 |
-| Focal Length  | 177.0 |
-| ISO           | 500 |
-| Location      | Ancient Bristlecone Pine Forest, United States (United States) |
-| Coordinates   | Latitude 37.4488186, Longitude -118.1426005 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 25 |
+| Aperture      | 5.6 |
+| Focal Length  | 12.0 |
+| ISO           | 6400 |
+| Location      | Tromsø, Norway (Norway) |
+| Coordinates   | Latitude 69.6492047, Longitude 18.9553238999999 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -118.1426005,
-                            37.4488186
+                            18.9553238999999,
+                            69.6492047
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -117.8426005,
-                                37.7488186
+                                19.2553238999999,
+                                69.9492047
                             ],
                             [
-                                -117.8426005,
-                                37.148818600000006
+                                19.2553238999999,
+                                69.3492047
                             ],
                             [
-                                -118.4426005,
-                                37.148818600000006
+                                18.6553238999999,
+                                69.3492047
                             ],
                             [
-                                -118.4426005,
-                                37.7488186
+                                18.6553238999999,
+                                69.9492047
                             ],
                             [
-                                -117.8426005,
-                                37.7488186
+                                19.2553238999999,
+                                69.9492047
                             ]
                         ],
                         "type": "LineString"
