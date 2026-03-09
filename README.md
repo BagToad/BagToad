@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/northern-lights-over-snow-capped-mountian-LtnPejWDSAY"><img width="720" src="https://images.unsplash.com/photo-1531366936337-7c912a4589a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzI5NTAwMjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="northern lights over snow-capped mountian"></a>
+  <a href="https://unsplash.com/photos/body-of-water-during-sunset-c6SciRp2kaQ"><img width="720" src="https://images.unsplash.com/photo-1513875528452-39400945934d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMwMzY4NjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water during sunset"></a>
   
-  <em>"northern lights over snow-capped mountian"</em>
+  <em>"body of water during sunset"</em>
   
-  <em>"Amazing light display from Mother Nature, very humbled and in awe to capture a multi-hued color Aurora at Tromso, Norway."</em>
+  <em>""</em>
 
-  Photo by Lightscape on [unsplash.com](https://unsplash.com/) • [portfolio](https://theonepicture.com)
+  Photo by Rodrigo Soares on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/taptap.ninja) / [portfolio](https://rodrigosoares.me) / [Twitter](https://twitter.com/rodi01)
   
-  Taken at Tromsø, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.6492047,18.9553238999999)
+  Taken at Lake Tahoe, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0968493,-120.0323507)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 25 |
-| Aperture      | 5.6 |
-| Focal Length  | 12.0 |
-| ISO           | 6400 |
-| Location      | Tromsø, Norway (Norway) |
-| Coordinates   | Latitude 69.6492047, Longitude 18.9553238999999 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lake Tahoe, United States (United States) |
+| Coordinates   | Latitude 39.0968493, Longitude -120.0323507 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            18.9553238999999,
-                            69.6492047
+                            -120.0323507,
+                            39.0968493
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                19.2553238999999,
-                                69.9492047
+                                -119.7323507,
+                                39.3968493
                             ],
                             [
-                                19.2553238999999,
-                                69.3492047
+                                -119.7323507,
+                                38.796849300000005
                             ],
                             [
-                                18.6553238999999,
-                                69.3492047
+                                -120.33235069999999,
+                                38.796849300000005
                             ],
                             [
-                                18.6553238999999,
-                                69.9492047
+                                -120.33235069999999,
+                                39.3968493
                             ],
                             [
-                                19.2553238999999,
-                                69.9492047
+                                -119.7323507,
+                                39.3968493
                             ]
                         ],
                         "type": "LineString"
