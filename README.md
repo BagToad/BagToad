@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-during-sunset-c6SciRp2kaQ"><img width="720" src="https://images.unsplash.com/photo-1513875528452-39400945934d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMwMzY4NjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water during sunset"></a>
+  <a href="https://unsplash.com/photos/photo-of-body-of-water-between-trees-and-mountain-sR7_ImYvt1Q"><img width="720" src="https://images.unsplash.com/photo-1502786129293-79981df4e689?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMxMjI4ODJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of body of water between trees and mountain"></a>
   
-  <em>"body of water during sunset"</em>
+  <em>"photo of body of water between trees and mountain"</em>
   
-  <em>""</em>
+  <em>"Rocky Mountain"</em>
 
-  Photo by Rodrigo Soares on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/taptap.ninja) / [portfolio](https://rodrigosoares.me) / [Twitter](https://twitter.com/rodi01)
+  Photo by Danyu Wang on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/w_danyu)
   
-  Taken at Lake Tahoe, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.0968493,-120.0323507)
+  Taken at Field, 艾伯塔省, 加拿大 • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.32713889,-116.17922222)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Lake Tahoe, United States (United States) |
-| Coordinates   | Latitude 39.0968493, Longitude -120.0323507 |
+| Camera Model  | EVA-AL10 |
+| Exposure Time | 1/236 |
+| Aperture      | 2.2 |
+| Focal Length  | 4.5 |
+| ISO           | 50 |
+| Location      | Field, 艾伯塔省, 加拿大 (加拿大) |
+| Coordinates   | Latitude 51.32713889, Longitude -116.17922222 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -120.0323507,
-                            39.0968493
+                            -116.17922222,
+                            51.32713889
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -119.7323507,
-                                39.3968493
+                                -115.87922222,
+                                51.62713889
                             ],
                             [
-                                -119.7323507,
-                                38.796849300000005
+                                -115.87922222,
+                                51.02713889
                             ],
                             [
-                                -120.33235069999999,
-                                38.796849300000005
+                                -116.47922222,
+                                51.02713889
                             ],
                             [
-                                -120.33235069999999,
-                                39.3968493
+                                -116.47922222,
+                                51.62713889
                             ],
                             [
-                                -119.7323507,
-                                39.3968493
+                                -115.87922222,
+                                51.62713889
                             ]
                         ],
                         "type": "LineString"
