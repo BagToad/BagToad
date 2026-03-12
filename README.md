@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky-XNIjmb6Ax04"><img width="720" src="https://images.unsplash.com/photo-1429704658776-3d38c9990511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMyMDkzNjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field under blue sky"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-green-mountain-8wz1Q4Q_XAg"><img width="720" src="https://images.unsplash.com/photo-1495312040802-a929cd14a6ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMyOTU4NjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of green mountain"></a>
   
-  <em>"green grass field under blue sky"</em>
+  <em>"landscape photography of green mountain"</em>
   
-  <em>""</em>
+  <em>"Messini from afar"</em>
 
-  Photo by John Mark Arnold on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnmarkarnold) / [portfolio](https://www.instagram.com/johnmarkarnold/) / [Twitter](https://twitter.com/JohnMarkArnold)
+  Photo by Billy Williams on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/billyryanwill) / [Twitter](https://twitter.com/billyryanwill)
   
-  Taken at Unknown • 
+  Taken at Messina, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=38.1938137,15.5540152)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 550D |
-| Exposure Time | 1/1000 |
-| Aperture      | 5.6 |
-| Focal Length  | 55.0 |
+| Camera Model  | X-Pro1 |
+| Exposure Time | 1/2000 |
+| Aperture      | 3.6 |
+| Focal Length  | 34.3 |
 | ISO           | 200 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Messina, Italy (Italy) |
+| Coordinates   | Latitude 38.1938137, Longitude 15.5540152 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            15.5540152,
+                            38.1938137
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                15.854015200000001,
+                                38.4938137
+                            ],
+                            [
+                                15.854015200000001,
+                                37.8938137
+                            ],
+                            [
+                                15.2540152,
+                                37.8938137
+                            ],
+                            [
+                                15.2540152,
+                                38.4938137
+                            ],
+                            [
+                                15.854015200000001,
+                                38.4938137
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
