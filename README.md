@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-city-during-nighttime-HYA9Ak06qR8"><img width="720" src="https://images.unsplash.com/photo-1418985227304-f32df7d84e39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzMzODIxOTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of city during nighttime"></a>
+  <a href="https://unsplash.com/photos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c"><img width="720" src="https://images.unsplash.com/photo-1511497584788-876760111969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM0Njg1MTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="pine trees field near mountain under sunset"></a>
   
-  <em>"photo of city during nighttime"</em>
+  <em>"pine trees field near mountain under sunset"</em>
   
-  <em>""</em>
+  <em>"Smoky morning in Cascades"</em>
 
-  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
+  Photo by Sergei A on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergeiakphoto) / [portfolio](https://www.cavanimages.com/contributor/17417)
   
-  Taken at Unknown • 
+  Taken at Rampart Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4155129,-121.3402916)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 10 |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | ILCE-7M2 |
+| Exposure Time | 1/60 |
+| Aperture      | 9.0 |
+| Focal Length  | 35.0 |
+| ISO           | 250 |
+| Location      | Rampart Lakes, United States (United States) |
+| Coordinates   | Latitude 47.4155129, Longitude -121.3402916 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -121.3402916,
+                            47.4155129
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -121.0402916,
+                                47.7155129
+                            ],
+                            [
+                                -121.0402916,
+                                47.115512900000006
+                            ],
+                            [
+                                -121.6402916,
+                                47.115512900000006
+                            ],
+                            [
+                                -121.6402916,
+                                47.7155129
+                            ],
+                            [
+                                -121.0402916,
+                                47.7155129
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
