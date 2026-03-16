@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-under-sunny-sky-1WQ5RZuH9xo"><img width="720" src="https://images.unsplash.com/photo-1523978591478-c753949ff840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM1NTUyNTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water under sunny sky"></a>
+  <a href="https://unsplash.com/photos/golden-hour-photography-of-docking-pier-on-body-of-water-uwbajDCODj4"><img width="720" src="https://images.unsplash.com/photo-1498550744921-75f79806b8a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM2NDIyMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="golden hour photography of docking pier on body of water"></a>
   
-  <em>"body of water under sunny sky"</em>
+  <em>"golden hour photography of docking pier on body of water"</em>
   
-  <em>"Beautiful morning at Andenes this february 2018."</em>
+  <em>"Stockholm Archipelago"</em>
 
-  Photo by Pascal Debrunner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pd_visuals) / [portfolio](https://www.instagram.com/pd_visuals)
+  Photo by Anders Jildén on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/andersjildenphotography) / [portfolio](http://www.andersjilden.com) / [Twitter](https://twitter.com/AndersJilden)
   
-  Taken at Andenes, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.3240819636415,16.1154219814453)
+  Taken at Värmdö, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=59.3230706766952,18.4736681520263)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DSC-RX100M3 |
-| Exposure Time | 1/160 |
-| Aperture      | 5.6 |
-| Focal Length  | 8.8 |
-| ISO           | 100 |
-| Location      | Andenes, Norway (Norway) |
-| Coordinates   | Latitude 69.3240819636415, Longitude 16.1154219814453 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Värmdö, Sweden (Sweden) |
+| Coordinates   | Latitude 59.3230706766952, Longitude 18.4736681520263 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            16.1154219814453,
-                            69.3240819636415
+                            18.4736681520263,
+                            59.3230706766952
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                16.415421981445302,
-                                69.6240819636415
+                                18.7736681520263,
+                                59.6230706766952
                             ],
                             [
-                                16.415421981445302,
-                                69.0240819636415
+                                18.7736681520263,
+                                59.023070676695205
                             ],
                             [
-                                15.8154219814453,
-                                69.0240819636415
+                                18.1736681520263,
+                                59.023070676695205
                             ],
                             [
-                                15.8154219814453,
-                                69.6240819636415
+                                18.1736681520263,
+                                59.6230706766952
                             ],
                             [
-                                16.415421981445302,
-                                69.6240819636415
+                                18.7736681520263,
+                                59.6230706766952
                             ]
                         ],
                         "type": "LineString"
