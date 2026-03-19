@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/scenery-of-mountain-oMneOBYhJxY"><img width="720" src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM4MTQ1OTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="scenery of mountain"></a>
+  <a href="https://unsplash.com/photos/green-trees-during-daytime-iRpJ7sk7kTQ"><img width="720" src="https://images.unsplash.com/photo-1566233601708-73237226554c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM5MDA4ODR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green trees during daytime"></a>
   
-  <em>"scenery of mountain"</em>
+  <em>"green trees during daytime"</em>
   
-  <em>"Color of the lake is so beautiful!"</em>
+  <em>"Bovilla Reservoir"</em>
 
-  Photo by John Lee on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/john_artifexfilm) / [portfolio](http://www.artifexfilm.com)
+  Photo by Drini Teta on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/driniteta)
   
-  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
+  Taken at Bovilla reservoir, Albania • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.445278,19.866667)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Moraine Lake, Canada (Canada) |
-| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
+| Camera Model  | iPhone 7 Plus |
+| Exposure Time | 1/5051 |
+| Aperture      | 1.8 |
+| Focal Length  | 4.0 |
+| ISO           | 20 |
+| Location      | Bovilla reservoir, Albania (Albania) |
+| Coordinates   | Latitude 41.445278, Longitude 19.866667 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.1860049,
-                            51.3217416
+                            19.866667,
+                            41.445278
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -115.8860049,
-                                51.6217416
+                                20.166667,
+                                41.745278
                             ],
                             [
-                                -115.8860049,
-                                51.021741600000006
+                                20.166667,
+                                41.145278000000005
                             ],
                             [
-                                -116.4860049,
-                                51.021741600000006
+                                19.566667,
+                                41.145278000000005
                             ],
                             [
-                                -116.4860049,
-                                51.6217416
+                                19.566667,
+                                41.745278
                             ],
                             [
-                                -115.8860049,
-                                51.6217416
+                                20.166667,
+                                41.745278
                             ]
                         ],
                         "type": "LineString"
