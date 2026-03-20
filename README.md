@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-trees-during-daytime-iRpJ7sk7kTQ"><img width="720" src="https://images.unsplash.com/photo-1566233601708-73237226554c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM5MDA4ODR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green trees during daytime"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-body-of-water-overlooking-mountain-range-ZqLeQDjY6fY"><img width="720" src="https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM5ODcxMjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of body of water overlooking mountain range"></a>
   
-  <em>"green trees during daytime"</em>
+  <em>"landscape photography of body of water overlooking mountain range"</em>
   
-  <em>"Bovilla Reservoir"</em>
+  <em>"Maligne Lake from the Spirit Island Dock. Check out other photos or videos I made on instagram: @its_tgain or TikTok: @thehikersguide"</em>
 
-  Photo by Drini Teta on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/driniteta)
+  Photo by Tom Gainor on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/its_tgain) / [portfolio](http://tiktok.com/@thehikersguide) / [Twitter](https://twitter.com/splitrock37)
   
-  Taken at Bovilla reservoir, Albania • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.445278,19.866667)
+  Taken at Maligne Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.6547556112802,-117.520967451221)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | iPhone 7 Plus |
-| Exposure Time | 1/5051 |
-| Aperture      | 1.8 |
-| Focal Length  | 4.0 |
-| ISO           | 20 |
-| Location      | Bovilla reservoir, Albania (Albania) |
-| Coordinates   | Latitude 41.445278, Longitude 19.866667 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | 0.0 |
+| ISO           | null |
+| Location      | Maligne Lake, Canada (Canada) |
+| Coordinates   | Latitude 52.6547556112802, Longitude -117.520967451221 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            19.866667,
-                            41.445278
+                            -117.520967451221,
+                            52.6547556112802
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                20.166667,
-                                41.745278
+                                -117.220967451221,
+                                52.9547556112802
                             ],
                             [
-                                20.166667,
-                                41.145278000000005
+                                -117.220967451221,
+                                52.354755611280204
                             ],
                             [
-                                19.566667,
-                                41.145278000000005
+                                -117.820967451221,
+                                52.354755611280204
                             ],
                             [
-                                19.566667,
-                                41.745278
+                                -117.820967451221,
+                                52.9547556112802
                             ],
                             [
-                                20.166667,
-                                41.745278
+                                -117.220967451221,
+                                52.9547556112802
                             ]
                         ],
                         "type": "LineString"
