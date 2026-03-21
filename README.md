@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-body-of-water-overlooking-mountain-range-ZqLeQDjY6fY"><img width="720" src="https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzM5ODcxMjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of body of water overlooking mountain range"></a>
+  <a href="https://unsplash.com/photos/rock-formation-on-wide-field-grass-under-cloudy-blue-sky-during-daytime-M9O6GRrEEDY"><img width="720" src="https://images.unsplash.com/photo-1494625927555-6ec4433b1571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQwNzMyMDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="rock formation on wide field grass under cloudy blue sky during daytime"></a>
   
-  <em>"landscape photography of body of water overlooking mountain range"</em>
+  <em>"rock formation on wide field grass under cloudy blue sky during daytime"</em>
   
-  <em>"Maligne Lake from the Spirit Island Dock. Check out other photos or videos I made on instagram: @its_tgain or TikTok: @thehikersguide"</em>
+  <em>"Magic landscape 😊"</em>
 
-  Photo by Tom Gainor on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/its_tgain) / [portfolio](http://tiktok.com/@thehikersguide) / [Twitter](https://twitter.com/splitrock37)
+  Photo by 🧔‍♂️ Michal Kmeť on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mitkokmet) / [portfolio](http://www.michalkmet.com)
   
-  Taken at Maligne Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.6547556112802,-117.520967451221)
+  Taken at Dolomites, Monte Piana, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4102117,11.8440350999999)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | 0.0 |
-| ISO           | null |
-| Location      | Maligne Lake, Canada (Canada) |
-| Coordinates   | Latitude 52.6547556112802, Longitude -117.520967451221 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/640 |
+| Aperture      | 7.1 |
+| Focal Length  | 35.0 |
+| ISO           | 100 |
+| Location      | Dolomites, Monte Piana, Italy (Italy) |
+| Coordinates   | Latitude 46.4102117, Longitude 11.8440350999999 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -117.520967451221,
-                            52.6547556112802
+                            11.8440350999999,
+                            46.4102117
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -117.220967451221,
-                                52.9547556112802
+                                12.1440350999999,
+                                46.710211699999995
                             ],
                             [
-                                -117.220967451221,
-                                52.354755611280204
+                                12.1440350999999,
+                                46.1102117
                             ],
                             [
-                                -117.820967451221,
-                                52.354755611280204
+                                11.544035099999899,
+                                46.1102117
                             ],
                             [
-                                -117.820967451221,
-                                52.9547556112802
+                                11.544035099999899,
+                                46.710211699999995
                             ],
                             [
-                                -117.220967451221,
-                                52.9547556112802
+                                12.1440350999999,
+                                46.710211699999995
                             ]
                         ],
                         "type": "LineString"
