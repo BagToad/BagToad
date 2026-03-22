@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/rock-formation-on-wide-field-grass-under-cloudy-blue-sky-during-daytime-M9O6GRrEEDY"><img width="720" src="https://images.unsplash.com/photo-1494625927555-6ec4433b1571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQwNzMyMDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="rock formation on wide field grass under cloudy blue sky during daytime"></a>
+  <a href="https://unsplash.com/photos/green-leafed-tree-on-desert-D8R_txR_0PE"><img width="720" src="https://images.unsplash.com/photo-1543964198-d54e4f0e44e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQxNTk4ODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="green-leafed tree on desert"></a>
   
-  <em>"rock formation on wide field grass under cloudy blue sky during daytime"</em>
+  <em>"green-leafed tree on desert"</em>
   
-  <em>"Magic landscape 😊"</em>
+  <em>"Alone tree has grown in the middle of Jordan desert."</em>
 
-  Photo by 🧔‍♂️ Michal Kmeť on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mitkokmet) / [portfolio](http://www.michalkmet.com)
+  Photo by Damian Denis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dou.bled) / [portfolio](http://damiandenis.com) / [Twitter](https://twitter.com/doubbled2)
   
-  Taken at Dolomites, Monte Piana, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4102117,11.8440350999999)
+  Taken at Wadi Rum, Jordan • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
-| Exposure Time | 1/640 |
-| Aperture      | 7.1 |
-| Focal Length  | 35.0 |
+| Camera Model  | ILCE-7RM3 |
+| Exposure Time | 1/320 |
+| Aperture      | 8.0 |
+| Focal Length  | 40.0 |
 | ISO           | 100 |
-| Location      | Dolomites, Monte Piana, Italy (Italy) |
-| Coordinates   | Latitude 46.4102117, Longitude 11.8440350999999 |
+| Location      | Wadi Rum, Jordan (Jordan) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            11.8440350999999,
-                            46.4102117
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                12.1440350999999,
-                                46.710211699999995
-                            ],
-                            [
-                                12.1440350999999,
-                                46.1102117
-                            ],
-                            [
-                                11.544035099999899,
-                                46.1102117
-                            ],
-                            [
-                                11.544035099999899,
-                                46.710211699999995
-                            ],
-                            [
-                                12.1440350999999,
-                                46.710211699999995
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
