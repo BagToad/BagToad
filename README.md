@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-leafed-tree-on-desert-D8R_txR_0PE"><img width="720" src="https://images.unsplash.com/photo-1543964198-d54e4f0e44e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQxNTk4ODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="green-leafed tree on desert"></a>
+  <a href="https://unsplash.com/photos/tree-between-green-land-during-golden-hour-T-LfvX-7IVg"><img width="720" src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQyNDY2NTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree between green land during golden hour"></a>
   
-  <em>"green-leafed tree on desert"</em>
+  <em>"tree between green land during golden hour"</em>
   
-  <em>"Alone tree has grown in the middle of Jordan desert."</em>
+  <em>"Sunset tree in Kenya Safari, Africa"</em>
 
-  Photo by Damian Denis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dou.bled) / [portfolio](http://damiandenis.com) / [Twitter](https://twitter.com/doubbled2)
+  Photo by Damian Patkowski on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/damian.patkowski) / [Twitter](https://twitter.com/damianpatkowski)
   
-  Taken at Wadi Rum, Jordan • 
+  Taken at Tsavo East National Park Kenya, Africa, Kenya • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM3 |
-| Exposure Time | 1/320 |
+| Camera Model  | NIKON D5200 |
+| Exposure Time | 1/2000 |
 | Aperture      | 8.0 |
-| Focal Length  | 40.0 |
-| ISO           | 100 |
-| Location      | Wadi Rum, Jordan (Jordan) |
+| Focal Length  | 25.0 |
+| ISO           | 400 |
+| Location      | Tsavo East National Park Kenya, Africa, Kenya (Kenya) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
