@@ -38,15 +38,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photography-of-flowers-at-daytime-TRhGEGdw-YY"><img width="720" src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQzMzI5OTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of flowers at daytime"></a>
+  <a href="https://unsplash.com/photos/aerial-photography-of-mountains-and-near-trees-during-daytime-aZjw7xI3QAA"><img width="720" src="https://images.unsplash.com/photo-1500622944204-b135684e99fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ0MTkzODN8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of mountains and near trees during daytime"></a>
   
-  <em>"aerial photography of flowers at daytime"</em>
+  <em>"aerial photography of mountains and near trees during daytime"</em>
   
-  <em>""</em>
+  <em>"Hills —
+as remnants from
+aeons of erosion."</em>
 
-  Photo by Joel Holland on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joelkentholland) / [portfolio](https://www.harvesthosts.com) / [Twitter](https://twitter.com/joelkentholland)
+  Photo by simon on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simon_berger/)
   
-  Taken at Shrine Pass Road, Red Cliff, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.5542104,-106.2820959)
+  Taken at Viñales, Provinz Pinar del Río, Kuba • [Google Maps](https://www.google.com/maps/search/?api=1&query=22.61483,-83.72229667)
   
   ---
   
@@ -55,13 +57,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/6 |
-| Aperture      | 11.0 |
-| Focal Length  | 16.0 |
-| ISO           | 100 |
-| Location      | Shrine Pass Road, Red Cliff, United States (United States) |
-| Coordinates   | Latitude 39.5542104, Longitude -106.2820959 |
+| Camera Model  | DMC-GF3 |
+| Exposure Time | 1/250 |
+| Aperture      | 5.6 |
+| Focal Length  | 14.0 |
+| ISO           | 160 |
+| Location      | Viñales, Provinz Pinar del Río, Kuba (Kuba) |
+| Coordinates   | Latitude 22.61483, Longitude -83.72229667 |
 
 ### Map
 
@@ -74,8 +76,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -106.2820959,
-                            39.5542104
+                            -83.72229667,
+                            22.61483
                         ],
                         "type": "Point"
                     },
@@ -87,24 +89,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -105.9820959,
-                                39.8542104
+                                -83.42229667000001,
+                                22.914830000000002
                             ],
                             [
-                                -105.9820959,
-                                39.254210400000005
+                                -83.42229667000001,
+                                22.31483
                             ],
                             [
-                                -106.5820959,
-                                39.254210400000005
+                                -84.02229667,
+                                22.31483
                             ],
                             [
-                                -106.5820959,
-                                39.8542104
+                                -84.02229667,
+                                22.914830000000002
                             ],
                             [
-                                -105.9820959,
-                                39.8542104
+                                -83.42229667000001,
+                                22.914830000000002
                             ]
                         ],
                         "type": "LineString"
