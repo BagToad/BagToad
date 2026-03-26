@@ -38,17 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photography-of-mountains-and-near-trees-during-daytime-aZjw7xI3QAA"><img width="720" src="https://images.unsplash.com/photo-1500622944204-b135684e99fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ0MTkzODN8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of mountains and near trees during daytime"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-green-trees-ugnrXk1129g"><img width="720" src="https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ1MDU5MTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of green trees"></a>
   
-  <em>"aerial photography of mountains and near trees during daytime"</em>
+  <em>"aerial photo of green trees"</em>
   
-  <em>"Hills —
-as remnants from
-aeons of erosion."</em>
+  <em>"This photo was taken in the high mountains of Adjara, Georgia, while I was doing my project there. It was summer, but the temperature didn’t feel like it. I spent most of my days standing in front of this amazing view, thinking about the life that was waiting for me back in capital. Suddenly, I  had a very strong desire to talk with the fog. Loudly. Thought it had many stories to tell too."</em>
 
-  Photo by simon on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simon_berger/)
+  Photo by Marita Kavelashvili on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/maritaextrabold)
   
-  Taken at Viñales, Provinz Pinar del Río, Kuba • [Google Maps](https://www.google.com/maps/search/?api=1&query=22.61483,-83.72229667)
+  Taken at Adjara, Georgia • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.6005626,42.0688382999999)
   
   ---
   
@@ -57,13 +55,13 @@ aeons of erosion."</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DMC-GF3 |
-| Exposure Time | 1/250 |
-| Aperture      | 5.6 |
-| Focal Length  | 14.0 |
-| ISO           | 160 |
-| Location      | Viñales, Provinz Pinar del Río, Kuba (Kuba) |
-| Coordinates   | Latitude 22.61483, Longitude -83.72229667 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/4000 |
+| Aperture      | 2.8 |
+| Focal Length  | 40.0 |
+| ISO           | 1000 |
+| Location      | Adjara, Georgia (Georgia) |
+| Coordinates   | Latitude 41.6005626, Longitude 42.0688382999999 |
 
 ### Map
 
@@ -76,8 +74,8 @@ aeons of erosion."</em>
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -83.72229667,
-                            22.61483
+                            42.0688382999999,
+                            41.6005626
                         ],
                         "type": "Point"
                     },
@@ -89,24 +87,24 @@ aeons of erosion."</em>
                     "geometry": {
                         "coordinates": [
                             [
-                                -83.42229667000001,
-                                22.914830000000002
+                                42.3688382999999,
+                                41.9005626
                             ],
                             [
-                                -83.42229667000001,
-                                22.31483
+                                42.3688382999999,
+                                41.300562600000006
                             ],
                             [
-                                -84.02229667,
-                                22.31483
+                                41.768838299999906,
+                                41.300562600000006
                             ],
                             [
-                                -84.02229667,
-                                22.914830000000002
+                                41.768838299999906,
+                                41.9005626
                             ],
                             [
-                                -83.42229667000001,
-                                22.914830000000002
+                                42.3688382999999,
+                                41.9005626
                             ]
                         ],
                         "type": "LineString"
