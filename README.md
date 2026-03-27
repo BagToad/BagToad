@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photo-of-green-trees-ugnrXk1129g"><img width="720" src="https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ1MDU5MTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of green trees"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ1OTIzNjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of brown moutains"></a>
   
-  <em>"aerial photo of green trees"</em>
+  <em>"aerial photo of brown moutains"</em>
   
-  <em>"This photo was taken in the high mountains of Adjara, Georgia, while I was doing my project there. It was summer, but the temperature didn’t feel like it. I spent most of my days standing in front of this amazing view, thinking about the life that was waiting for me back in capital. Suddenly, I  had a very strong desire to talk with the fog. Loudly. Thought it had many stories to tell too."</em>
+  <em>"Red highlands"</em>
 
-  Photo by Marita Kavelashvili on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/maritaextrabold)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
   
-  Taken at Adjara, Georgia • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.6005626,42.0688382999999)
+  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
-| Exposure Time | 1/4000 |
-| Aperture      | 2.8 |
-| Focal Length  | 40.0 |
-| ISO           | 1000 |
-| Location      | Adjara, Georgia (Georgia) |
-| Coordinates   | Latitude 41.6005626, Longitude 42.0688382999999 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/640 |
+| Aperture      | 4.0 |
+| Focal Length  | 177.0 |
+| ISO           | 500 |
+| Location      | Ancient Bristlecone Pine Forest, United States (United States) |
+| Coordinates   | Latitude 37.4488186, Longitude -118.1426005 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            42.0688382999999,
-                            41.6005626
+                            -118.1426005,
+                            37.4488186
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                42.3688382999999,
-                                41.9005626
+                                -117.8426005,
+                                37.7488186
                             ],
                             [
-                                42.3688382999999,
-                                41.300562600000006
+                                -117.8426005,
+                                37.148818600000006
                             ],
                             [
-                                41.768838299999906,
-                                41.300562600000006
+                                -118.4426005,
+                                37.148818600000006
                             ],
                             [
-                                41.768838299999906,
-                                41.9005626
+                                -118.4426005,
+                                37.7488186
                             ],
                             [
-                                42.3688382999999,
-                                41.9005626
+                                -117.8426005,
+                                37.7488186
                             ]
                         ],
                         "type": "LineString"
