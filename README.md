@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ1OTIzNjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of brown moutains"></a>
+  <a href="https://unsplash.com/photos/tree-between-green-land-during-golden-hour-T-LfvX-7IVg"><img width="720" src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ2Nzg0Njl8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree between green land during golden hour"></a>
   
-  <em>"aerial photo of brown moutains"</em>
+  <em>"tree between green land during golden hour"</em>
   
-  <em>"Red highlands"</em>
+  <em>"Sunset tree in Kenya Safari, Africa"</em>
 
-  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
+  Photo by Damian Patkowski on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/damian.patkowski) / [Twitter](https://twitter.com/damianpatkowski)
   
-  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
+  Taken at Tsavo East National Park Kenya, Africa, Kenya • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/640 |
-| Aperture      | 4.0 |
-| Focal Length  | 177.0 |
-| ISO           | 500 |
-| Location      | Ancient Bristlecone Pine Forest, United States (United States) |
-| Coordinates   | Latitude 37.4488186, Longitude -118.1426005 |
+| Camera Model  | NIKON D5200 |
+| Exposure Time | 1/2000 |
+| Aperture      | 8.0 |
+| Focal Length  | 25.0 |
+| ISO           | 400 |
+| Location      | Tsavo East National Park Kenya, Africa, Kenya (Kenya) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -118.1426005,
-                            37.4488186
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -117.8426005,
-                                37.7488186
-                            ],
-                            [
-                                -117.8426005,
-                                37.148818600000006
-                            ],
-                            [
-                                -118.4426005,
-                                37.148818600000006
-                            ],
-                            [
-                                -118.4426005,
-                                37.7488186
-                            ],
-                            [
-                                -117.8426005,
-                                37.7488186
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
