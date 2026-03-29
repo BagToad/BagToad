@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/tree-between-green-land-during-golden-hour-T-LfvX-7IVg"><img width="720" src="https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ2Nzg0Njl8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree between green land during golden hour"></a>
+  <a href="https://unsplash.com/photos/green-and-gray-rock-formation-beside-body-of-water-under-cloudy-sky-during-daytime-m_uSWBJWr0s"><img width="720" src="https://images.unsplash.com/photo-1621847468516-1ed5d0df56fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ3NjUwNjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="green and gray rock formation beside body of water under cloudy sky during daytime"></a>
   
-  <em>"tree between green land during golden hour"</em>
+  <em>"green and gray rock formation beside body of water under cloudy sky during daytime"</em>
   
-  <em>"Sunset tree in Kenya Safari, Africa"</em>
+  <em>""</em>
 
-  Photo by Damian Patkowski on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/damian.patkowski) / [Twitter](https://twitter.com/damianpatkowski)
+  Photo by Allyson Beaucourt on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daymnous)
   
-  Taken at Tsavo East National Park Kenya, Africa, Kenya • 
+  Taken at Étretat, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.707007,0.205598)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D5200 |
-| Exposure Time | 1/2000 |
-| Aperture      | 8.0 |
-| Focal Length  | 25.0 |
-| ISO           | 400 |
-| Location      | Tsavo East National Park Kenya, Africa, Kenya (Kenya) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | DC-G9 |
+| Exposure Time | 1/640 |
+| Aperture      | 6.3 |
+| Focal Length  | 12.0 |
+| ISO           | 200 |
+| Location      | Étretat, France (France) |
+| Coordinates   | Latitude 49.707007, Longitude 0.205598 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            0.205598,
+                            49.707007
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                0.505598,
+                                50.007006999999994
+                            ],
+                            [
+                                0.505598,
+                                49.407007
+                            ],
+                            [
+                                -0.09440199999999999,
+                                49.407007
+                            ],
+                            [
+                                -0.09440199999999999,
+                                50.007006999999994
+                            ],
+                            [
+                                0.505598,
+                                50.007006999999994
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
