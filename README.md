@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-and-gray-rock-formation-beside-body-of-water-under-cloudy-sky-during-daytime-m_uSWBJWr0s"><img width="720" src="https://images.unsplash.com/photo-1621847468516-1ed5d0df56fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ3NjUwNjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="green and gray rock formation beside body of water under cloudy sky during daytime"></a>
+  <a href="https://unsplash.com/photos/golden-hour-photography-of-docking-pier-on-body-of-water-uwbajDCODj4"><img width="720" src="https://images.unsplash.com/photo-1498550744921-75f79806b8a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzQ4NTIxMTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="golden hour photography of docking pier on body of water"></a>
   
-  <em>"green and gray rock formation beside body of water under cloudy sky during daytime"</em>
+  <em>"golden hour photography of docking pier on body of water"</em>
   
-  <em>""</em>
+  <em>"Stockholm Archipelago"</em>
 
-  Photo by Allyson Beaucourt on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daymnous)
+  Photo by Anders Jildén on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/andersjildenphotography) / [portfolio](http://www.andersjilden.com) / [Twitter](https://twitter.com/AndersJilden)
   
-  Taken at Étretat, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.707007,0.205598)
+  Taken at Värmdö, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=59.3230706766952,18.4736681520263)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DC-G9 |
-| Exposure Time | 1/640 |
-| Aperture      | 6.3 |
-| Focal Length  | 12.0 |
-| ISO           | 200 |
-| Location      | Étretat, France (France) |
-| Coordinates   | Latitude 49.707007, Longitude 0.205598 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Värmdö, Sweden (Sweden) |
+| Coordinates   | Latitude 59.3230706766952, Longitude 18.4736681520263 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            0.205598,
-                            49.707007
+                            18.4736681520263,
+                            59.3230706766952
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                0.505598,
-                                50.007006999999994
+                                18.7736681520263,
+                                59.6230706766952
                             ],
                             [
-                                0.505598,
-                                49.407007
+                                18.7736681520263,
+                                59.023070676695205
                             ],
                             [
-                                -0.09440199999999999,
-                                49.407007
+                                18.1736681520263,
+                                59.023070676695205
                             ],
                             [
-                                -0.09440199999999999,
-                                50.007006999999994
+                                18.1736681520263,
+                                59.6230706766952
                             ],
                             [
-                                0.505598,
-                                50.007006999999994
+                                18.7736681520263,
+                                59.6230706766952
                             ]
                         ],
                         "type": "LineString"
