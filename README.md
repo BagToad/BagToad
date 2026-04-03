@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-of-mountains-covered-by-fogs-at-the-horizon-JV78PVf3gGI"><img width="720" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUxMTA3NDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountains covered by fogs at the horizon"></a>
+  <a href="https://unsplash.com/photos/three-brown-wooden-boat-on-blue-lake-water-taken-at-daytime-T7K4aEPoGGk"><img width="720" src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUxOTcxMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="three brown wooden boat on blue lake water taken at daytime"></a>
   
-  <em>"silhouette of mountains covered by fogs at the horizon"</em>
+  <em>"three brown wooden boat on blue lake water taken at daytime"</em>
   
-  <em>"Rhythm of the mountains"</em>
+  <em>""</em>
 
-  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.com/en) / [Twitter](https://twitter.com/serg_pesterev)
+  Photo by Pietro De Grandi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/peter_mc_greats) / [portfolio](https://www.instagram.com/peter_mc_greats/)
   
-  Taken at Langtang National Park, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.0125,85.4921)
+  Taken at Pragser Wildsee, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6946966,12.0854459)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D800 |
-| Exposure Time | 1/160 |
-| Aperture      | 5.6 |
-| Focal Length  | 70.0 |
-| ISO           | 100 |
-| Location      | Langtang National Park, Nepal (Nepal) |
-| Coordinates   | Latitude 28.0125, Longitude 85.4921 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Pragser Wildsee, Italy (Italy) |
+| Coordinates   | Latitude 46.6946966, Longitude 12.0854459 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            85.4921,
-                            28.0125
+                            12.0854459,
+                            46.6946966
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                85.79209999999999,
-                                28.3125
+                                12.3854459,
+                                46.9946966
                             ],
                             [
-                                85.79209999999999,
-                                27.7125
+                                12.3854459,
+                                46.3946966
                             ],
                             [
-                                85.1921,
-                                27.7125
+                                11.7854459,
+                                46.3946966
                             ],
                             [
-                                85.1921,
-                                28.3125
+                                11.7854459,
+                                46.9946966
                             ],
                             [
-                                85.79209999999999,
-                                28.3125
+                                12.3854459,
+                                46.9946966
                             ]
                         ],
                         "type": "LineString"
