@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/three-brown-wooden-boat-on-blue-lake-water-taken-at-daytime-T7K4aEPoGGk"><img width="720" src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUxOTcxMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="three brown wooden boat on blue lake water taken at daytime"></a>
+  <a href="https://unsplash.com/photos/snow-covered-mountain-during-a-twilight-sky-O0R5XZfKUGQ"><img width="720" src="https://images.unsplash.com/photo-1502657877623-f66bf489d236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUyODMzMTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow-covered mountain during a twilight sky"></a>
   
-  <em>"three brown wooden boat on blue lake water taken at daytime"</em>
+  <em>"snow-covered mountain during a twilight sky"</em>
   
-  <em>""</em>
+  <em>"Moonrise over half dome"</em>
 
-  Photo by Pietro De Grandi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/peter_mc_greats) / [portfolio](https://www.instagram.com/peter_mc_greats/)
+  Photo by Casey Horner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mischievous_penguins) / [portfolio](http://paypal.me./CaseyHorner)
   
-  Taken at Pragser Wildsee, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6946966,12.0854459)
+  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Pragser Wildsee, Italy (Italy) |
-| Coordinates   | Latitude 46.6946966, Longitude 12.0854459 |
+| Camera Model  | NIKON D750 |
+| Exposure Time | 25 |
+| Aperture      | 3.5 |
+| Focal Length  | 24.0 |
+| ISO           | 4000 |
+| Location      | Yosemite Valley, United States (United States) |
+| Coordinates   | Latitude 37.7455701, Longitude -119.5936038 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0854459,
-                            46.6946966
+                            -119.5936038,
+                            37.7455701
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3854459,
-                                46.9946966
+                                -119.2936038,
+                                38.0455701
                             ],
                             [
-                                12.3854459,
-                                46.3946966
+                                -119.2936038,
+                                37.445570100000005
                             ],
                             [
-                                11.7854459,
-                                46.3946966
+                                -119.8936038,
+                                37.445570100000005
                             ],
                             [
-                                11.7854459,
-                                46.9946966
+                                -119.8936038,
+                                38.0455701
                             ],
                             [
-                                12.3854459,
-                                46.9946966
+                                -119.2936038,
+                                38.0455701
                             ]
                         ],
                         "type": "LineString"
