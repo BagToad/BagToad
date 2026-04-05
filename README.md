@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-mountain-during-a-twilight-sky-O0R5XZfKUGQ"><img width="720" src="https://images.unsplash.com/photo-1502657877623-f66bf489d236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUyODMzMTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow-covered mountain during a twilight sky"></a>
+  <a href="https://unsplash.com/photos/body-of-water-surrounded-by-pine-trees-during-daytime-ESkw2ayO2As"><img width="720" src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzUzNjk5ODl8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water surrounded by pine trees during daytime"></a>
   
-  <em>"snow-covered mountain during a twilight sky"</em>
+  <em>"body of water surrounded by pine trees during daytime"</em>
   
-  <em>"Moonrise over half dome"</em>
+  <em>""</em>
 
-  Photo by Casey Horner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mischievous_penguins) / [portfolio](http://paypal.me./CaseyHorner)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
   
-  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
+  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D750 |
-| Exposure Time | 25 |
-| Aperture      | 3.5 |
-| Focal Length  | 24.0 |
-| ISO           | 4000 |
-| Location      | Yosemite Valley, United States (United States) |
-| Coordinates   | Latitude 37.7455701, Longitude -119.5936038 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lago di Braies (null) |
+| Coordinates   | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.5936038,
-                            37.7455701
+                            12.0859822,
+                            46.6948731
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -119.2936038,
-                                38.0455701
+                                12.3859822,
+                                46.9948731
                             ],
                             [
-                                -119.2936038,
-                                37.445570100000005
+                                12.3859822,
+                                46.394873100000005
                             ],
                             [
-                                -119.8936038,
-                                37.445570100000005
+                                11.7859822,
+                                46.394873100000005
                             ],
                             [
-                                -119.8936038,
-                                38.0455701
+                                11.7859822,
+                                46.9948731
                             ],
                             [
-                                -119.2936038,
-                                38.0455701
+                                12.3859822,
+                                46.9948731
                             ]
                         ],
                         "type": "LineString"
