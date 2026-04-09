@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/assorted-color-hot-air-balloons-during-daytime-DuBNA1QMpPA"><img width="720" src="https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU2Mjk0NzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="assorted-color hot air balloons during daytime"></a>
+  <a href="https://unsplash.com/photos/body-of-water-under-sunny-sky-1WQ5RZuH9xo"><img width="720" src="https://images.unsplash.com/photo-1523978591478-c753949ff840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU3MTU5MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water under sunny sky"></a>
   
-  <em>"assorted-color hot air balloons during daytime"</em>
+  <em>"body of water under sunny sky"</em>
   
-  <em>"going up at dawn"</em>
+  <em>"Beautiful morning at Andenes this february 2018."</em>
 
-  Photo by ian dooley on [unsplash.com](https://unsplash.com/) • [portfolio](http://sadswim.com)
+  Photo by Pascal Debrunner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pd_visuals) / [portfolio](https://www.instagram.com/pd_visuals)
   
-  Taken at Albuquerque, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=35.0853336,-106.6055534)
+  Taken at Andenes, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.3240819636415,16.1154219814453)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6000 |
-| Exposure Time | 1/400 |
+| Camera Model  | DSC-RX100M3 |
+| Exposure Time | 1/160 |
 | Aperture      | 5.6 |
-| Focal Length  | 38.0 |
+| Focal Length  | 8.8 |
 | ISO           | 100 |
-| Location      | Albuquerque, United States (United States) |
-| Coordinates   | Latitude 35.0853336, Longitude -106.6055534 |
+| Location      | Andenes, Norway (Norway) |
+| Coordinates   | Latitude 69.3240819636415, Longitude 16.1154219814453 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -106.6055534,
-                            35.0853336
+                            16.1154219814453,
+                            69.3240819636415
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -106.30555340000001,
-                                35.385333599999996
+                                16.415421981445302,
+                                69.6240819636415
                             ],
                             [
-                                -106.30555340000001,
-                                34.7853336
+                                16.415421981445302,
+                                69.0240819636415
                             ],
                             [
-                                -106.9055534,
-                                34.7853336
+                                15.8154219814453,
+                                69.0240819636415
                             ],
                             [
-                                -106.9055534,
-                                35.385333599999996
+                                15.8154219814453,
+                                69.6240819636415
                             ],
                             [
-                                -106.30555340000001,
-                                35.385333599999996
+                                16.415421981445302,
+                                69.6240819636415
                             ]
                         ],
                         "type": "LineString"
