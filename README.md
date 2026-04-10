@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-under-sunny-sky-1WQ5RZuH9xo"><img width="720" src="https://images.unsplash.com/photo-1523978591478-c753949ff840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU3MTU5MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water under sunny sky"></a>
+  <a href="https://unsplash.com/photos/mountain-near-on-body-of-water-photo-hXXRLtTxXCU"><img width="720" src="https://images.unsplash.com/photo-1484902945377-bd2a38e625cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4MDI1NDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain near on body of water photo"></a>
   
-  <em>"body of water under sunny sky"</em>
+  <em>"mountain near on body of water photo"</em>
   
-  <em>"Beautiful morning at Andenes this february 2018."</em>
+  <em>"Reflection"</em>
 
-  Photo by Pascal Debrunner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/pd_visuals) / [portfolio](https://www.instagram.com/pd_visuals)
+  Photo by Brigitta Schneiter on [unsplash.com](https://unsplash.com/) • 
   
-  Taken at Andenes, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.3240819636415,16.1154219814453)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DSC-RX100M3 |
-| Exposure Time | 1/160 |
-| Aperture      | 5.6 |
-| Focal Length  | 8.8 |
+| Camera Model  | NIKON D7200 |
+| Exposure Time | 1/200 |
+| Aperture      | 14.0 |
+| Focal Length  | 62.0 |
 | ISO           | 100 |
-| Location      | Andenes, Norway (Norway) |
-| Coordinates   | Latitude 69.3240819636415, Longitude 16.1154219814453 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            16.1154219814453,
-                            69.3240819636415
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                16.415421981445302,
-                                69.6240819636415
-                            ],
-                            [
-                                16.415421981445302,
-                                69.0240819636415
-                            ],
-                            [
-                                15.8154219814453,
-                                69.0240819636415
-                            ],
-                            [
-                                15.8154219814453,
-                                69.6240819636415
-                            ],
-                            [
-                                16.415421981445302,
-                                69.6240819636415
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
