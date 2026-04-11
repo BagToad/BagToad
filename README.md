@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-near-on-body-of-water-photo-hXXRLtTxXCU"><img width="720" src="https://images.unsplash.com/photo-1484902945377-bd2a38e625cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4MDI1NDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain near on body of water photo"></a>
+  <a href="https://unsplash.com/photos/snow-cover-mountain-photography-qWlTy3CaWKk"><img width="720" src="https://images.unsplash.com/photo-1537387788952-cffe9f8d3090?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4ODgxNzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow cover mountain photography"></a>
   
-  <em>"mountain near on body of water photo"</em>
+  <em>"snow cover mountain photography"</em>
   
-  <em>"Reflection"</em>
+  <em>"Lago di Braies (Wildsee pragser)"</em>
 
-  Photo by Brigitta Schneiter on [unsplash.com](https://unsplash.com/) • 
+  Photo by Salmen Bejaoui on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/salmen.bejaoui) / [portfolio](https://salmen.dev) / [Twitter](https://twitter.com/SLMNBJ)
   
-  Taken at Unknown • 
+  Taken at Pragser Wildsee, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.694333,12.0854273)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7200 |
+| Camera Model  | ILCE-6300 |
 | Exposure Time | 1/200 |
-| Aperture      | 14.0 |
-| Focal Length  | 62.0 |
+| Aperture      | 3.5 |
+| Focal Length  | 16.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Pragser Wildsee, Italy (Italy) |
+| Coordinates   | Latitude 46.694333, Longitude 12.0854273 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            12.0854273,
+                            46.694333
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                12.3854273,
+                                46.994333
+                            ],
+                            [
+                                12.3854273,
+                                46.394333
+                            ],
+                            [
+                                11.785427299999998,
+                                46.394333
+                            ],
+                            [
+                                11.785427299999998,
+                                46.994333
+                            ],
+                            [
+                                12.3854273,
+                                46.994333
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
