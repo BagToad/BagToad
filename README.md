@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-cover-mountain-photography-qWlTy3CaWKk"><img width="720" src="https://images.unsplash.com/photo-1537387788952-cffe9f8d3090?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU4ODgxNzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow cover mountain photography"></a>
+  <a href="https://unsplash.com/photos/waterfalls-near-cave-at-daytime-IlvY3z4KVCI"><img width="720" src="https://images.unsplash.com/photo-1501908734255-16579c18c25f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU5NzUxNDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="waterfalls near cave at daytime"></a>
   
-  <em>"snow cover mountain photography"</em>
+  <em>"waterfalls near cave at daytime"</em>
   
-  <em>"Lago di Braies (Wildsee pragser)"</em>
+  <em>"I hiked nearly a hundred miles in Iceland, and yet one of my best photos from the trip was only a 2-minute walk from the parking lot."</em>
 
-  Photo by Salmen Bejaoui on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/salmen.bejaoui) / [portfolio](https://salmen.dev) / [Twitter](https://twitter.com/SLMNBJ)
+  Photo by Joshua Sortino on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joshuasortino) / [portfolio](http://sortino.co) / [Twitter](https://twitter.com/sortino)
   
-  Taken at Pragser Wildsee, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.694333,12.0854273)
+  Taken at Seljalandsfoss, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.6156232,-19.9885687999999)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-6300 |
-| Exposure Time | 1/200 |
-| Aperture      | 3.5 |
-| Focal Length  | 16.0 |
-| ISO           | 100 |
-| Location      | Pragser Wildsee, Italy (Italy) |
-| Coordinates   | Latitude 46.694333, Longitude 12.0854273 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Seljalandsfoss, Iceland (Iceland) |
+| Coordinates   | Latitude 63.6156232, Longitude -19.9885687999999 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0854273,
-                            46.694333
+                            -19.9885687999999,
+                            63.6156232
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3854273,
-                                46.994333
+                                -19.6885687999999,
+                                63.9156232
                             ],
                             [
-                                12.3854273,
-                                46.394333
+                                -19.6885687999999,
+                                63.315623200000005
                             ],
                             [
-                                11.785427299999998,
-                                46.394333
+                                -20.2885687999999,
+                                63.315623200000005
                             ],
                             [
-                                11.785427299999998,
-                                46.994333
+                                -20.2885687999999,
+                                63.9156232
                             ],
                             [
-                                12.3854273,
-                                46.994333
+                                -19.6885687999999,
+                                63.9156232
                             ]
                         ],
                         "type": "LineString"
