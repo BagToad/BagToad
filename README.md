@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/waterfalls-near-cave-at-daytime-IlvY3z4KVCI"><img width="720" src="https://images.unsplash.com/photo-1501908734255-16579c18c25f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzU5NzUxNDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="waterfalls near cave at daytime"></a>
+  <a href="https://unsplash.com/photos/brown-leafed-tree-near-bed-of-yellow-flowers-ht9aLtovtSo"><img width="720" src="https://images.unsplash.com/photo-1421930866250-aa0594cea05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYwNjIxMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown leafed tree near bed of yellow flowers"></a>
   
-  <em>"waterfalls near cave at daytime"</em>
+  <em>"brown leafed tree near bed of yellow flowers"</em>
   
-  <em>"I hiked nearly a hundred miles in Iceland, and yet one of my best photos from the trip was only a 2-minute walk from the parking lot."</em>
+  <em>""</em>
 
-  Photo by Joshua Sortino on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joshuasortino) / [portfolio](http://sortino.co) / [Twitter](https://twitter.com/sortino)
+  Photo by Gabriel Garcia Marengo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gabrielgm) / [portfolio](http://photo.gabrielgm.ch) / [Twitter](https://twitter.com/gabrielgm)
   
-  Taken at Seljalandsfoss, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.6156232,-19.9885687999999)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Seljalandsfoss, Iceland (Iceland) |
-| Coordinates   | Latitude 63.6156232, Longitude -19.9885687999999 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/800 |
+| Aperture      | 8.0 |
+| Focal Length  | 40.0 |
+| ISO           | 250 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -19.9885687999999,
-                            63.6156232
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -19.6885687999999,
-                                63.9156232
-                            ],
-                            [
-                                -19.6885687999999,
-                                63.315623200000005
-                            ],
-                            [
-                                -20.2885687999999,
-                                63.315623200000005
-                            ],
-                            [
-                                -20.2885687999999,
-                                63.9156232
-                            ],
-                            [
-                                -19.6885687999999,
-                                63.9156232
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
