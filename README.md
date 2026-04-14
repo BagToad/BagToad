@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-leafed-tree-near-bed-of-yellow-flowers-ht9aLtovtSo"><img width="720" src="https://images.unsplash.com/photo-1421930866250-aa0594cea05c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYwNjIxMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown leafed tree near bed of yellow flowers"></a>
+  <a href="https://unsplash.com/photos/mountain-near-on-body-of-water-photo-hXXRLtTxXCU"><img width="720" src="https://images.unsplash.com/photo-1484902945377-bd2a38e625cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYxNDgxMTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain near on body of water photo"></a>
   
-  <em>"brown leafed tree near bed of yellow flowers"</em>
+  <em>"mountain near on body of water photo"</em>
   
-  <em>""</em>
+  <em>"Reflection"</em>
 
-  Photo by Gabriel Garcia Marengo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gabrielgm) / [portfolio](http://photo.gabrielgm.ch) / [Twitter](https://twitter.com/gabrielgm)
+  Photo by Brigitta Schneiter on [unsplash.com](https://unsplash.com/) • 
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/800 |
-| Aperture      | 8.0 |
-| Focal Length  | 40.0 |
-| ISO           | 250 |
+| Camera Model  | NIKON D7200 |
+| Exposure Time | 1/200 |
+| Aperture      | 14.0 |
+| Focal Length  | 62.0 |
+| ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
