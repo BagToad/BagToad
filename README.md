@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/mountain-reflection-on-body-of-water-DlkF4-dbCOU"><img width="720" src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYyMzQ1NTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain reflection on body of water"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4"><img width="720" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYzMjA5ODB8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountain hit by sun rays"></a>
   
-  <em>"mountain reflection on body of water"</em>
+  <em>"landscape photography of mountain hit by sun rays"</em>
   
-  <em>"sunrise"</em>
+  <em>"Alone in the unspoilt wilderness"</em>
 
-  Photo by garrett parker on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/garrettpsystems) / [portfolio](http://amblestudios.com) / [Twitter](https://twitter.com/garrettpsystems)
+  Photo by Urban Vintage on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/urban_vintage.ro) / [portfolio](https://urban-vintage.ro/) / [Twitter](https://twitter.com/dmqwe)
   
-  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
+  Taken at Ciucaș Peak, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5217138,25.9261894)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 1/320 |
-| Aperture      | 2.8 |
-| Focal Length  | 24.0 |
-| ISO           | 2000 |
-| Location      | Moraine Lake, Canada (Canada) |
-| Coordinates   | Latitude 51.3217416, Longitude -116.1860049 |
+| Camera Model  | NIKON D90 |
+| Exposure Time | 1/200 |
+| Aperture      | 8.0 |
+| Focal Length  | 35.0 |
+| ISO           | 100 |
+| Location      | Ciucaș Peak, Romania (Romania) |
+| Coordinates   | Latitude 45.5217138, Longitude 25.9261894 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.1860049,
-                            51.3217416
+                            25.9261894,
+                            45.5217138
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -115.8860049,
-                                51.6217416
+                                26.2261894,
+                                45.8217138
                             ],
                             [
-                                -115.8860049,
-                                51.021741600000006
+                                26.2261894,
+                                45.2217138
                             ],
                             [
-                                -116.4860049,
-                                51.021741600000006
+                                25.626189399999998,
+                                45.2217138
                             ],
                             [
-                                -116.4860049,
-                                51.6217416
+                                25.626189399999998,
+                                45.8217138
                             ],
                             [
-                                -115.8860049,
-                                51.6217416
+                                26.2261894,
+                                45.8217138
                             ]
                         ],
                         "type": "LineString"
