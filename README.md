@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4"><img width="720" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzYzMjA5ODB8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountain hit by sun rays"></a>
+  <a href="https://unsplash.com/photos/snowy-mountain-g30P1zcOzXo"><img width="720" src="https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY0MDczNzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="snowy mountain"></a>
   
-  <em>"landscape photography of mountain hit by sun rays"</em>
+  <em>"snowy mountain"</em>
   
-  <em>"Alone in the unspoilt wilderness"</em>
+  <em>"Taken from the top of Poon Hill before sun rise"</em>
 
-  Photo by Urban Vintage on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/urban_vintage.ro) / [portfolio](https://urban-vintage.ro/) / [Twitter](https://twitter.com/dmqwe)
+  Photo by Daniel Leone on [unsplash.com](https://unsplash.com/) • [portfolio](https://danielleone.com)
   
-  Taken at Ciucaș Peak, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5217138,25.9261894)
+  Taken at Poon Hill, Ghode Pani, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.4004787,83.6940737)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D90 |
-| Exposure Time | 1/200 |
-| Aperture      | 8.0 |
-| Focal Length  | 35.0 |
-| ISO           | 100 |
-| Location      | Ciucaș Peak, Romania (Romania) |
-| Coordinates   | Latitude 45.5217138, Longitude 25.9261894 |
+| Camera Model  | PENTAX K-5 |
+| Exposure Time | 13 |
+| Aperture      | 1.8 |
+| Focal Length  | 31.0 |
+| ISO           | 200 |
+| Location      | Poon Hill, Ghode Pani, Nepal (Nepal) |
+| Coordinates   | Latitude 28.4004787, Longitude 83.6940737 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            25.9261894,
-                            45.5217138
+                            83.6940737,
+                            28.4004787
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                26.2261894,
-                                45.8217138
+                                83.9940737,
+                                28.7004787
                             ],
                             [
-                                26.2261894,
-                                45.2217138
+                                83.9940737,
+                                28.1004787
                             ],
                             [
-                                25.626189399999998,
-                                45.2217138
+                                83.3940737,
+                                28.1004787
                             ],
                             [
-                                25.626189399999998,
-                                45.8217138
+                                83.3940737,
+                                28.7004787
                             ],
                             [
-                                26.2261894,
-                                45.8217138
+                                83.9940737,
+                                28.7004787
                             ]
                         ],
                         "type": "LineString"
