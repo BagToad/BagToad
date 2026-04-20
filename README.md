@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/the-sun-is-setting-over-a-rocky-landscape-MV7iHCilMJc"><img width="720" src="https://images.unsplash.com/photo-1682687219570-4c596363fd96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY1ODAwNjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="the sun is setting over a rocky landscape"></a>
+  <a href="https://unsplash.com/photos/snow-covered-mountain-under-blue-sky-during-daytime-DgdJ_0us5SE"><img width="720" src="https://images.unsplash.com/photo-1607024301817-3bbc081205cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2NjY5Njl8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under blue sky during daytime"></a>
   
-  <em>"the sun is setting over a rocky landscape"</em>
+  <em>"snow covered mountain under blue sky during daytime"</em>
   
-  <em>"Sandstone plateau, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
+  <em>"Stars over cold Alps. Italy."</em>
 
-  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
+  Photo by Marek Piwnicki on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marekpiwnicki) / [portfolio](https://marpiwnicki.github.io)
   
-  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
+  Taken at Lanzada, Prowincja Sondrio, Włochy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.26958,9.872099)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | 0.0 |
-| ISO           | null |
-| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
-| Coordinates   | Latitude 0, Longitude 0 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 10 |
+| Aperture      | 2 |
+| Focal Length  | 50.0 |
+| ISO           | 1250 |
+| Location      | Lanzada, Prowincja Sondrio, Włochy (Włochy) |
+| Coordinates   | Latitude 46.26958, Longitude 9.872099 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            9.872099,
+                            46.26958
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                10.172099000000001,
+                                46.569579999999995
+                            ],
+                            [
+                                10.172099000000001,
+                                45.96958
+                            ],
+                            [
+                                9.572099,
+                                45.96958
+                            ],
+                            [
+                                9.572099,
+                                46.569579999999995
+                            ],
+                            [
+                                10.172099000000001,
+                                46.569579999999995
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
