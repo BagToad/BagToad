@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/snow-covered-mountain-under-blue-sky-during-daytime-DgdJ_0us5SE"><img width="720" src="https://images.unsplash.com/photo-1607024301817-3bbc081205cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY2NjY5Njl8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow covered mountain under blue sky during daytime"></a>
+  <a href="https://unsplash.com/photos/green-leafed-tree-on-desert-D8R_txR_0PE"><img width="720" src="https://images.unsplash.com/photo-1543964198-d54e4f0e44e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY3NTI5Nzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="green-leafed tree on desert"></a>
   
-  <em>"snow covered mountain under blue sky during daytime"</em>
+  <em>"green-leafed tree on desert"</em>
   
-  <em>"Stars over cold Alps. Italy."</em>
+  <em>"Alone tree has grown in the middle of Jordan desert."</em>
 
-  Photo by Marek Piwnicki on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marekpiwnicki) / [portfolio](https://marpiwnicki.github.io)
+  Photo by Damian Denis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dou.bled) / [portfolio](http://damiandenis.com) / [Twitter](https://twitter.com/doubbled2)
   
-  Taken at Lanzada, Prowincja Sondrio, Włochy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.26958,9.872099)
+  Taken at Wadi Rum, Jordan • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 10 |
-| Aperture      | 2 |
-| Focal Length  | 50.0 |
-| ISO           | 1250 |
-| Location      | Lanzada, Prowincja Sondrio, Włochy (Włochy) |
-| Coordinates   | Latitude 46.26958, Longitude 9.872099 |
+| Camera Model  | ILCE-7RM3 |
+| Exposure Time | 1/320 |
+| Aperture      | 8.0 |
+| Focal Length  | 40.0 |
+| ISO           | 100 |
+| Location      | Wadi Rum, Jordan (Jordan) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            9.872099,
-                            46.26958
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                10.172099000000001,
-                                46.569579999999995
-                            ],
-                            [
-                                10.172099000000001,
-                                45.96958
-                            ],
-                            [
-                                9.572099,
-                                45.96958
-                            ],
-                            [
-                                9.572099,
-                                46.569579999999995
-                            ],
-                            [
-                                10.172099000000001,
-                                46.569579999999995
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
