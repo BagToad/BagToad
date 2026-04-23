@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photograph-of-forest--YiJvbfNDqk"><img width="720" src="https://images.unsplash.com/photo-1508163223045-1880bc36e222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY4MzkzODJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette photograph of forest"></a>
+  <a href="https://unsplash.com/photos/green-and-brown-mountains-under-white-clouds-and-blue-sky-during-daytime-YKN_G9L9nMA"><img width="720" src="https://images.unsplash.com/photo-1584148721201-b6432e0d5106?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzY5MjU4Mjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="green and brown mountains under white clouds and blue sky during daytime"></a>
   
-  <em>"silhouette photograph of forest"</em>
+  <em>"green and brown mountains under white clouds and blue sky during daytime"</em>
   
-  <em>"Mysterious gradient in the nature"</em>
+  <em>"North Cascades"</em>
 
-  Photo by Katerina Kerdi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/katekerdi) / [portfolio](https://www.instagram.com/katekerdi)
+  Photo by Toan Chu on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/toanbchu) / [portfolio](http://toanchu.com)
   
-  Taken at Hard, Austria • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4849228,9.69366319999995)
+  Taken at Mount Baker, Washington, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.776687,-121.814414)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/2500 |
-| Aperture      | 5.6 |
-| Focal Length  | 200.0 |
-| ISO           | 100 |
-| Location      | Hard, Austria (Austria) |
-| Coordinates   | Latitude 47.4849228, Longitude 9.69366319999995 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | 5 |
+| Focal Length  | 18.0 |
+| ISO           | null |
+| Location      | Mount Baker, Washington, USA (United States) |
+| Coordinates   | Latitude 48.776687, Longitude -121.814414 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.69366319999995,
-                            47.4849228
+                            -121.814414,
+                            48.776687
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.99366319999995,
-                                47.7849228
+                                -121.514414,
+                                49.076687
                             ],
                             [
-                                9.99366319999995,
-                                47.1849228
+                                -121.514414,
+                                48.476687000000005
                             ],
                             [
-                                9.39366319999995,
-                                47.1849228
+                                -122.114414,
+                                48.476687000000005
                             ],
                             [
-                                9.39366319999995,
-                                47.7849228
+                                -122.114414,
+                                49.076687
                             ],
                             [
-                                9.99366319999995,
-                                47.7849228
+                                -121.514414,
+                                49.076687
                             ]
                         ],
                         "type": "LineString"
