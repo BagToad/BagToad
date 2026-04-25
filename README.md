@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky--nYBR0LFTvQ"><img width="720" src="https://images.unsplash.com/photo-1518717202715-9fa9d099f58a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcwMTIyNTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field under blue sky"></a>
+  <a href="https://unsplash.com/photos/silhouette-photograph-of-forest--YiJvbfNDqk"><img width="720" src="https://images.unsplash.com/photo-1508163223045-1880bc36e222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcwOTgyMzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette photograph of forest"></a>
   
-  <em>"green grass field under blue sky"</em>
+  <em>"silhouette photograph of forest"</em>
   
-  <em>""</em>
+  <em>"Mysterious gradient in the nature"</em>
 
-  Photo by Chris Barbalis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ChrisBarbalis) / [Twitter](https://twitter.com/ChrisBarbalis)
+  Photo by Katerina Kerdi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/katekerdi) / [portfolio](https://www.instagram.com/katekerdi)
   
-  Taken at Montescudaio, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.3315882,10.6027654)
+  Taken at Hard, Austria • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4849228,9.69366319999995)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D3300 |
-| Exposure Time | 1/320 |
-| Aperture      | 9 |
-| Focal Length  | 28.0 |
+| Camera Model  | Canon EOS 5D Mark III |
+| Exposure Time | 1/2500 |
+| Aperture      | 5.6 |
+| Focal Length  | 200.0 |
 | ISO           | 100 |
-| Location      | Montescudaio, Italy (Italy) |
-| Coordinates   | Latitude 43.3315882, Longitude 10.6027654 |
+| Location      | Hard, Austria (Austria) |
+| Coordinates   | Latitude 47.4849228, Longitude 9.69366319999995 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            10.6027654,
-                            43.3315882
+                            9.69366319999995,
+                            47.4849228
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                10.9027654,
-                                43.631588199999996
+                                9.99366319999995,
+                                47.7849228
                             ],
                             [
-                                10.9027654,
-                                43.0315882
+                                9.99366319999995,
+                                47.1849228
                             ],
                             [
-                                10.302765399999998,
-                                43.0315882
+                                9.39366319999995,
+                                47.1849228
                             ],
                             [
-                                10.302765399999998,
-                                43.631588199999996
+                                9.39366319999995,
+                                47.7849228
                             ],
                             [
-                                10.9027654,
-                                43.631588199999996
+                                9.99366319999995,
+                                47.7849228
                             ]
                         ],
                         "type": "LineString"
