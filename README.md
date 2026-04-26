@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/silhouette-photograph-of-forest--YiJvbfNDqk"><img width="720" src="https://images.unsplash.com/photo-1508163223045-1880bc36e222?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcwOTgyMzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette photograph of forest"></a>
+  <a href="https://unsplash.com/photos/aerial-view-of-village-on-mountain-cliff-during-orange-sunset-cYrMQA7a3Wc"><img width="720" src="https://images.unsplash.com/photo-1499678329028-101435549a4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcxODUwNzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial view of village on mountain cliff during orange sunset"></a>
   
-  <em>"silhouette photograph of forest"</em>
+  <em>"aerial view of village on mountain cliff during orange sunset"</em>
   
-  <em>"Mysterious gradient in the nature"</em>
+  <em>"Vernazza sunset"</em>
 
-  Photo by Katerina Kerdi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/katekerdi) / [portfolio](https://www.instagram.com/katekerdi)
+  Photo by Anders Jildén on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/andersjildenphotography) / [portfolio](http://www.andersjilden.com) / [Twitter](https://twitter.com/AndersJilden)
   
-  Taken at Hard, Austria • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4849228,9.69366319999995)
+  Taken at Vernazza, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.1340740821285,9.68522953439333)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 1/2500 |
-| Aperture      | 5.6 |
-| Focal Length  | 200.0 |
-| ISO           | 100 |
-| Location      | Hard, Austria (Austria) |
-| Coordinates   | Latitude 47.4849228, Longitude 9.69366319999995 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Vernazza, Italy (Italy) |
+| Coordinates   | Latitude 44.1340740821285, Longitude 9.68522953439333 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.69366319999995,
-                            47.4849228
+                            9.68522953439333,
+                            44.1340740821285
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.99366319999995,
-                                47.7849228
+                                9.98522953439333,
+                                44.4340740821285
                             ],
                             [
-                                9.99366319999995,
-                                47.1849228
+                                9.98522953439333,
+                                43.8340740821285
                             ],
                             [
-                                9.39366319999995,
-                                47.1849228
+                                9.385229534393329,
+                                43.8340740821285
                             ],
                             [
-                                9.39366319999995,
-                                47.7849228
+                                9.385229534393329,
+                                44.4340740821285
                             ],
                             [
-                                9.99366319999995,
-                                47.7849228
+                                9.98522953439333,
+                                44.4340740821285
                             ]
                         ],
                         "type": "LineString"
