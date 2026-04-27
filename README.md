@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-view-of-village-on-mountain-cliff-during-orange-sunset-cYrMQA7a3Wc"><img width="720" src="https://images.unsplash.com/photo-1499678329028-101435549a4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcxODUwNzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial view of village on mountain cliff during orange sunset"></a>
+  <a href="https://unsplash.com/photos/concrete-road-between-mountains-Kt5hRENuotI"><img width="720" src="https://images.unsplash.com/photo-1451337516015-6b6e9a44a8a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcyNzIyNjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="concrete road between mountains"></a>
   
-  <em>"aerial view of village on mountain cliff during orange sunset"</em>
+  <em>"concrete road between mountains"</em>
   
-  <em>"Vernazza sunset"</em>
+  <em>""</em>
 
-  Photo by Anders Jildén on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/andersjildenphotography) / [portfolio](http://www.andersjilden.com) / [Twitter](https://twitter.com/AndersJilden)
+  Photo by Andrew Ridley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aridley88) / [portfolio](http://www.aridleyphotography.com/) / [Twitter](https://twitter.com/andrewridley)
   
-  Taken at Vernazza, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.1340740821285,9.68522953439333)
+  Taken at Quiraing, Portree, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=57.643611,-6.26527799999997)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Vernazza, Italy (Italy) |
-| Coordinates   | Latitude 44.1340740821285, Longitude 9.68522953439333 |
+| Camera Model  | E-M10 |
+| Exposure Time | 1/100 |
+| Aperture      | 14.0 |
+| Focal Length  | 17.0 |
+| ISO           | 200 |
+| Location      | Quiraing, Portree, United Kingdom (United Kingdom) |
+| Coordinates   | Latitude 57.643611, Longitude -6.26527799999997 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.68522953439333,
-                            44.1340740821285
+                            -6.26527799999997,
+                            57.643611
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.98522953439333,
-                                44.4340740821285
+                                -5.96527799999997,
+                                57.943611
                             ],
                             [
-                                9.98522953439333,
-                                43.8340740821285
+                                -5.96527799999997,
+                                57.343611
                             ],
                             [
-                                9.385229534393329,
-                                43.8340740821285
+                                -6.56527799999997,
+                                57.343611
                             ],
                             [
-                                9.385229534393329,
-                                44.4340740821285
+                                -6.56527799999997,
+                                57.943611
                             ],
                             [
-                                9.98522953439333,
-                                44.4340740821285
+                                -5.96527799999997,
+                                57.943611
                             ]
                         ],
                         "type": "LineString"
