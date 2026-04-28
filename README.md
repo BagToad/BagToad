@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/concrete-road-between-mountains-Kt5hRENuotI"><img width="720" src="https://images.unsplash.com/photo-1451337516015-6b6e9a44a8a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzcyNzIyNjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="concrete road between mountains"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-mountains-covered-by-fogs-at-the-horizon-JV78PVf3gGI"><img width="720" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzczNTg4MDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountains covered by fogs at the horizon"></a>
   
-  <em>"concrete road between mountains"</em>
+  <em>"silhouette of mountains covered by fogs at the horizon"</em>
   
-  <em>""</em>
+  <em>"Rhythm of the mountains"</em>
 
-  Photo by Andrew Ridley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/aridley88) / [portfolio](http://www.aridleyphotography.com/) / [Twitter](https://twitter.com/andrewridley)
+  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.com/en) / [Twitter](https://twitter.com/serg_pesterev)
   
-  Taken at Quiraing, Portree, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=57.643611,-6.26527799999997)
+  Taken at Langtang National Park, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.0125,85.4921)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | E-M10 |
-| Exposure Time | 1/100 |
-| Aperture      | 14.0 |
-| Focal Length  | 17.0 |
-| ISO           | 200 |
-| Location      | Quiraing, Portree, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 57.643611, Longitude -6.26527799999997 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/160 |
+| Aperture      | 5.6 |
+| Focal Length  | 70.0 |
+| ISO           | 100 |
+| Location      | Langtang National Park, Nepal (Nepal) |
+| Coordinates   | Latitude 28.0125, Longitude 85.4921 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -6.26527799999997,
-                            57.643611
+                            85.4921,
+                            28.0125
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -5.96527799999997,
-                                57.943611
+                                85.79209999999999,
+                                28.3125
                             ],
                             [
-                                -5.96527799999997,
-                                57.343611
+                                85.79209999999999,
+                                27.7125
                             ],
                             [
-                                -6.56527799999997,
-                                57.343611
+                                85.1921,
+                                27.7125
                             ],
                             [
-                                -6.56527799999997,
-                                57.943611
+                                85.1921,
+                                28.3125
                             ],
                             [
-                                -5.96527799999997,
-                                57.943611
+                                85.79209999999999,
+                                28.3125
                             ]
                         ],
                         "type": "LineString"
