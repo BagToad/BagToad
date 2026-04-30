@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/river-beside-trees-and-grass-field-jlVEj8IDPQc"><img width="720" src="https://images.unsplash.com/photo-1528184039930-bd03972bd974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc0NDQ5NTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="river beside trees and grass field"></a>
+  <a href="https://unsplash.com/photos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c"><img width="720" src="https://images.unsplash.com/photo-1511497584788-876760111969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc1MzE0ODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="pine trees field near mountain under sunset"></a>
   
-  <em>"river beside trees and grass field"</em>
+  <em>"pine trees field near mountain under sunset"</em>
   
-  <em>"On a perfect spring morning Beverley Brook, a small but beautiful river that meanders through London’s Richmond Park, takes on a fairy tail quality in the dawn mist."</em>
+  <em>"Smoky morning in Cascades"</em>
 
-  Photo by Simon Wilkes on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/simonfromengland) / [portfolio](http://www.simonwilkes.co.uk)
+  Photo by Sergei A on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergeiakphoto) / [portfolio](https://www.cavanimages.com/contributor/17417)
   
-  Taken at Beverley Brook, London, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.4522677587573,-0.258248370483443)
+  Taken at Rampart Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4155129,-121.3402916)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | X100T |
-| Exposure Time | 1/80 |
-| Aperture      | 2.0 |
-| Focal Length  | 19.0 |
-| ISO           | 200 |
-| Location      | Beverley Brook, London, United Kingdom (United Kingdom) |
-| Coordinates   | Latitude 51.4522677587573, Longitude -0.258248370483443 |
+| Camera Model  | ILCE-7M2 |
+| Exposure Time | 1/60 |
+| Aperture      | 9.0 |
+| Focal Length  | 35.0 |
+| ISO           | 250 |
+| Location      | Rampart Lakes, United States (United States) |
+| Coordinates   | Latitude 47.4155129, Longitude -121.3402916 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -0.258248370483443,
-                            51.4522677587573
+                            -121.3402916,
+                            47.4155129
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                0.041751629516556976,
-                                51.7522677587573
+                                -121.0402916,
+                                47.7155129
                             ],
                             [
-                                0.041751629516556976,
-                                51.152267758757304
+                                -121.0402916,
+                                47.115512900000006
                             ],
                             [
-                                -0.558248370483443,
-                                51.152267758757304
+                                -121.6402916,
+                                47.115512900000006
                             ],
                             [
-                                -0.558248370483443,
-                                51.7522677587573
+                                -121.6402916,
+                                47.7155129
                             ],
                             [
-                                0.041751629516556976,
-                                51.7522677587573
+                                -121.0402916,
+                                47.7155129
                             ]
                         ],
                         "type": "LineString"
