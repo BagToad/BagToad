@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c"><img width="720" src="https://images.unsplash.com/photo-1511497584788-876760111969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc1MzE0ODh8&ixlib=rb-4.1.0&q=80&w=1080" alt="pine trees field near mountain under sunset"></a>
+  <a href="https://unsplash.com/photos/valley-near-snowy-mountain-u0ZgqJD55pE"><img width="720" src="https://images.unsplash.com/photo-1459213599465-03ab6a4d5931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc2MTgwMzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="valley near snowy mountain"></a>
   
-  <em>"pine trees field near mountain under sunset"</em>
+  <em>"valley near snowy mountain"</em>
   
-  <em>"Smoky morning in Cascades"</em>
+  <em>"The landscape of Licancabur"</em>
 
-  Photo by Sergei A on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergeiakphoto) / [portfolio](https://www.cavanimages.com/contributor/17417)
+  Photo by Marcelo Quinan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marceloquinan) / [portfolio](Http://levelofambiguity.tumblr.com)
   
-  Taken at Rampart Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4155129,-121.3402916)
+  Taken at Licancabur • [Google Maps](https://www.google.com/maps/search/?api=1&query=-22.8333333,-67.8833333)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 1/60 |
-| Aperture      | 9.0 |
-| Focal Length  | 35.0 |
-| ISO           | 250 |
-| Location      | Rampart Lakes, United States (United States) |
-| Coordinates   | Latitude 47.4155129, Longitude -121.3402916 |
+| Camera Model  | NIKON D7000 |
+| Exposure Time | 1/125 |
+| Aperture      | 14.0 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Licancabur (null) |
+| Coordinates   | Latitude -22.8333333, Longitude -67.8833333 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -121.3402916,
-                            47.4155129
+                            -67.8833333,
+                            -22.8333333
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -121.0402916,
-                                47.7155129
+                                -67.5833333,
+                                -22.5333333
                             ],
                             [
-                                -121.0402916,
-                                47.115512900000006
+                                -67.5833333,
+                                -23.1333333
                             ],
                             [
-                                -121.6402916,
-                                47.115512900000006
+                                -68.1833333,
+                                -23.1333333
                             ],
                             [
-                                -121.6402916,
-                                47.7155129
+                                -68.1833333,
+                                -22.5333333
                             ],
                             [
-                                -121.0402916,
-                                47.7155129
+                                -67.5833333,
+                                -22.5333333
                             ]
                         ],
                         "type": "LineString"
