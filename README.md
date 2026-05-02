@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/valley-near-snowy-mountain-u0ZgqJD55pE"><img width="720" src="https://images.unsplash.com/photo-1459213599465-03ab6a4d5931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc2MTgwMzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="valley near snowy mountain"></a>
+  <a href="https://unsplash.com/photos/mountains-at-golden-hour-wndpWTiDuT0"><img width="720" src="https://images.unsplash.com/photo-1494935362342-566c6d6e75b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3MDM1MTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountains at golden hour"></a>
   
-  <em>"valley near snowy mountain"</em>
+  <em>"mountains at golden hour"</em>
   
-  <em>"The landscape of Licancabur"</em>
+  <em>"Green mountains and clouds"</em>
 
-  Photo by Marcelo Quinan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marceloquinan) / [portfolio](Http://levelofambiguity.tumblr.com)
+  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
   
-  Taken at Licancabur • [Google Maps](https://www.google.com/maps/search/?api=1&query=-22.8333333,-67.8833333)
+  Taken at Monte Altissimo di Nago, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.810556,10.888056)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/125 |
+| Camera Model  | X-T10 |
+| Exposure Time | 1/680 |
 | Aperture      | 14.0 |
-| Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Licancabur (null) |
-| Coordinates   | Latitude -22.8333333, Longitude -67.8833333 |
+| Focal Length  | 27.0 |
+| ISO           | 1000 |
+| Location      | Monte Altissimo di Nago, Italy (Italy) |
+| Coordinates   | Latitude 45.810556, Longitude 10.888056 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -67.8833333,
-                            -22.8333333
+                            10.888056,
+                            45.810556
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -67.5833333,
-                                -22.5333333
+                                11.188056000000001,
+                                46.110555999999995
                             ],
                             [
-                                -67.5833333,
-                                -23.1333333
+                                11.188056000000001,
+                                45.510556
                             ],
                             [
-                                -68.1833333,
-                                -23.1333333
+                                10.588056,
+                                45.510556
                             ],
                             [
-                                -68.1833333,
-                                -22.5333333
+                                10.588056,
+                                46.110555999999995
                             ],
                             [
-                                -67.5833333,
-                                -22.5333333
+                                11.188056000000001,
+                                46.110555999999995
                             ]
                         ],
                         "type": "LineString"
