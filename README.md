@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-sailing-boat-digital-wallpaper-DKix6Un55mw"><img width="720" src="https://images.unsplash.com/photo-1534447677768-be436bb09401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc3OTA2ODl8&ixlib=rb-4.1.0&q=80&w=1080" alt="black sailing boat digital wallpaper"></a>
+  <a href="https://unsplash.com/photos/white-concrete-lighthouse-on-cliff-beside-sea-under-clear-blue-sky-during-daytime-r6g4GcD6lP0"><img width="720" src="https://images.unsplash.com/photo-1515612148533-6247582c12c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc4Nzc1NDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="white concrete lighthouse on cliff beside sea under clear blue sky during daytime"></a>
   
-  <em>"black sailing boat digital wallpaper"</em>
+  <em>"white concrete lighthouse on cliff beside sea under clear blue sky during daytime"</em>
   
-  <em>"Star reflection"</em>
+  <em>"twr-mawr lighthouse, llandwyn island, angelsey"</em>
 
-  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
+  Photo by Jim Cooke on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jim.cooke65)
   
   Taken at Unknown • 
   
@@ -55,11 +55,11 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7M2 |
-| Exposure Time | 30 |
-| Aperture      | 4.5 |
-| Focal Length  | 12.0 |
-| ISO           | 3200 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
