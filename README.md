@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-city-during-nighttime-HYA9Ak06qR8"><img width="720" src="https://images.unsplash.com/photo-1418985227304-f32df7d84e39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzc5NjMwNzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of city during nighttime"></a>
+  <a href="https://unsplash.com/photos/northern-lights-over-snow-capped-mountian-LtnPejWDSAY"><img width="720" src="https://images.unsplash.com/photo-1531366936337-7c912a4589a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgwNTAwNDZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="northern lights over snow-capped mountian"></a>
   
-  <em>"photo of city during nighttime"</em>
+  <em>"northern lights over snow-capped mountian"</em>
   
-  <em>""</em>
+  <em>"Amazing light display from Mother Nature, very humbled and in awe to capture a multi-hued color Aurora at Tromso, Norway."</em>
 
-  Photo by Alberto Restifo on [unsplash.com](https://unsplash.com/) • [portfolio](https://alberto.restifo.dev)
+  Photo by Lightscape on [unsplash.com](https://unsplash.com/) • [portfolio](https://theonepicture.com)
   
-  Taken at Unknown • 
+  Taken at Tromsø, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.6492047,18.9553238999999)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 10 |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 25 |
+| Aperture      | 5.6 |
+| Focal Length  | 12.0 |
+| ISO           | 6400 |
+| Location      | Tromsø, Norway (Norway) |
+| Coordinates   | Latitude 69.6492047, Longitude 18.9553238999999 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            18.9553238999999,
+                            69.6492047
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                19.2553238999999,
+                                69.9492047
+                            ],
+                            [
+                                19.2553238999999,
+                                69.3492047
+                            ],
+                            [
+                                18.6553238999999,
+                                69.3492047
+                            ],
+                            [
+                                18.6553238999999,
+                                69.9492047
+                            ],
+                            [
+                                19.2553238999999,
+                                69.9492047
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
