@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/brown-wooden-boat-floating-on-body-of-water-XGDBdSQ70O0"><img width="720" src="https://images.unsplash.com/photo-1505159940484-eb2b9f2588e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgxMzY2ODl8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden boat floating on body of water"></a>
+  <a href="https://unsplash.com/photos/northern-lights-over-snow-capped-mountian-LtnPejWDSAY"><img width="720" src="https://images.unsplash.com/photo-1531366936337-7c912a4589a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgyMjE3MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="northern lights over snow-capped mountian"></a>
   
-  <em>"brown wooden boat floating on body of water"</em>
+  <em>"northern lights over snow-capped mountian"</em>
   
-  <em>"Early morning at Lake Bled"</em>
+  <em>"Amazing light display from Mother Nature, very humbled and in awe to capture a multi-hued color Aurora at Tromso, Norway."</em>
 
-  Photo by Artem Sapegin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/tacohuaco.co) / [portfolio](https://www.buymeacoffee.com/sapegin) / [Twitter](https://twitter.com/iamsapegin)
+  Photo by Lightscape on [unsplash.com](https://unsplash.com/) • [portfolio](https://theonepicture.com)
   
-  Taken at Lake Bled, Bled, Slovenia • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.363598,14.0938053)
+  Taken at Tromsø, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.6492047,18.9553238999999)
   
   ---
   
@@ -56,12 +56,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 | Parameter     | Value |
 | ------------- | ----- |
 | Camera Model  | Canon EOS 6D |
-| Exposure Time | 1 |
-| Aperture      | 18.0 |
-| Focal Length  | 36.0 |
-| ISO           | 100 |
-| Location      | Lake Bled, Bled, Slovenia (Slovenia) |
-| Coordinates   | Latitude 46.363598, Longitude 14.0938053 |
+| Exposure Time | 25 |
+| Aperture      | 5.6 |
+| Focal Length  | 12.0 |
+| ISO           | 6400 |
+| Location      | Tromsø, Norway (Norway) |
+| Coordinates   | Latitude 69.6492047, Longitude 18.9553238999999 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            14.0938053,
-                            46.363598
+                            18.9553238999999,
+                            69.6492047
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                14.3938053,
-                                46.663598
+                                19.2553238999999,
+                                69.9492047
                             ],
                             [
-                                14.3938053,
-                                46.063598000000006
+                                19.2553238999999,
+                                69.3492047
                             ],
                             [
-                                13.793805299999999,
-                                46.063598000000006
+                                18.6553238999999,
+                                69.3492047
                             ],
                             [
-                                13.793805299999999,
-                                46.663598
+                                18.6553238999999,
+                                69.9492047
                             ],
                             [
-                                14.3938053,
-                                46.663598
+                                19.2553238999999,
+                                69.9492047
                             ]
                         ],
                         "type": "LineString"
