@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/northern-lights-over-snow-capped-mountian-LtnPejWDSAY"><img width="720" src="https://images.unsplash.com/photo-1531366936337-7c912a4589a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgyMjE3MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="northern lights over snow-capped mountian"></a>
+  <a href="https://unsplash.com/photos/landscape-photo-of-green-and-brown-cliffs-xcC5ozHk_N8"><img width="720" src="https://images.unsplash.com/photo-1433190152045-5a94184895da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzgzMDg1ODd8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photo of green and brown cliffs"></a>
   
-  <em>"northern lights over snow-capped mountian"</em>
+  <em>"landscape photo of green and brown cliffs"</em>
   
-  <em>"Amazing light display from Mother Nature, very humbled and in awe to capture a multi-hued color Aurora at Tromso, Norway."</em>
+  <em>"Beautiful cliff around beach"</em>
 
-  Photo by Lightscape on [unsplash.com](https://unsplash.com/) • [portfolio](https://theonepicture.com)
+  Photo by Joseph Barrientos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jbcreate) / [portfolio](http://dribbble.com/jbcreate) / [Twitter](https://twitter.com/jbcreate_)
   
-  Taken at Tromsø, Norway • [Google Maps](https://www.google.com/maps/search/?api=1&query=69.6492047,18.9553238999999)
+  Taken at Shark Fin Cove, Davenport, CA, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.0040866,-122.1854138)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
-| Exposure Time | 25 |
-| Aperture      | 5.6 |
-| Focal Length  | 12.0 |
-| ISO           | 6400 |
-| Location      | Tromsø, Norway (Norway) |
-| Coordinates   | Latitude 69.6492047, Longitude 18.9553238999999 |
+| Camera Model  | ILCE-7 |
+| Exposure Time | 1/250 |
+| Aperture      | 11 |
+| Focal Length  | 16.0 |
+| ISO           | 800 |
+| Location      | Shark Fin Cove, Davenport, CA, USA (United States) |
+| Coordinates   | Latitude 37.0040866, Longitude -122.1854138 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            18.9553238999999,
-                            69.6492047
+                            -122.1854138,
+                            37.0040866
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                19.2553238999999,
-                                69.9492047
+                                -121.88541380000001,
+                                37.3040866
                             ],
                             [
-                                19.2553238999999,
-                                69.3492047
+                                -121.88541380000001,
+                                36.704086600000004
                             ],
                             [
-                                18.6553238999999,
-                                69.3492047
+                                -122.4854138,
+                                36.704086600000004
                             ],
                             [
-                                18.6553238999999,
-                                69.9492047
+                                -122.4854138,
+                                37.3040866
                             ],
                             [
-                                19.2553238999999,
-                                69.9492047
+                                -121.88541380000001,
+                                37.3040866
                             ]
                         ],
                         "type": "LineString"
