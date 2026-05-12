@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/landscape-photo-of-green-and-brown-cliffs-xcC5ozHk_N8"><img width="720" src="https://images.unsplash.com/photo-1433190152045-5a94184895da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg0ODI3Njl8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photo of green and brown cliffs"></a>
+  <a href="https://unsplash.com/photos/green-and-brown-mountains-under-white-clouds-and-blue-sky-during-daytime-YKN_G9L9nMA"><img width="720" src="https://images.unsplash.com/photo-1584148721201-b6432e0d5106?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg1Njg1Nzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="green and brown mountains under white clouds and blue sky during daytime"></a>
   
-  <em>"landscape photo of green and brown cliffs"</em>
+  <em>"green and brown mountains under white clouds and blue sky during daytime"</em>
   
-  <em>"Beautiful cliff around beach"</em>
+  <em>"North Cascades"</em>
 
-  Photo by Joseph Barrientos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jbcreate) / [portfolio](http://dribbble.com/jbcreate) / [Twitter](https://twitter.com/jbcreate_)
+  Photo by Toan Chu on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/toanbchu) / [portfolio](http://toanchu.com)
   
-  Taken at Shark Fin Cove, Davenport, CA, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.0040866,-122.1854138)
+  Taken at Mount Baker, Washington, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.776687,-121.814414)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7 |
-| Exposure Time | 1/250 |
-| Aperture      | 11 |
-| Focal Length  | 16.0 |
-| ISO           | 800 |
-| Location      | Shark Fin Cove, Davenport, CA, USA (United States) |
-| Coordinates   | Latitude 37.0040866, Longitude -122.1854138 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | 5 |
+| Focal Length  | 18.0 |
+| ISO           | null |
+| Location      | Mount Baker, Washington, USA (United States) |
+| Coordinates   | Latitude 48.776687, Longitude -121.814414 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -122.1854138,
-                            37.0040866
+                            -121.814414,
+                            48.776687
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -121.88541380000001,
-                                37.3040866
+                                -121.514414,
+                                49.076687
                             ],
                             [
-                                -121.88541380000001,
-                                36.704086600000004
+                                -121.514414,
+                                48.476687000000005
                             ],
                             [
-                                -122.4854138,
-                                36.704086600000004
+                                -122.114414,
+                                48.476687000000005
                             ],
                             [
-                                -122.4854138,
-                                37.3040866
+                                -122.114414,
+                                49.076687
                             ],
                             [
-                                -121.88541380000001,
-                                37.3040866
+                                -121.514414,
+                                49.076687
                             ]
                         ],
                         "type": "LineString"
