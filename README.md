@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/green-and-brown-mountains-under-white-clouds-and-blue-sky-during-daytime-YKN_G9L9nMA"><img width="720" src="https://images.unsplash.com/photo-1584148721201-b6432e0d5106?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg1Njg1Nzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="green and brown mountains under white clouds and blue sky during daytime"></a>
+  <a href="https://unsplash.com/photos/a-man-standing-in-the-middle-of-a-desert-g9wCI64k2yw"><img width="720" src="https://images.unsplash.com/photo-1682687220640-9d3b11ca30e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg2NTUyMDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="a man standing in the middle of a desert"></a>
   
-  <em>"green and brown mountains under white clouds and blue sky during daytime"</em>
+  <em>"a man standing in the middle of a desert"</em>
   
-  <em>"North Cascades"</em>
+  <em>"Amongst expansive red sands and spectacular sandstone rock formations, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
 
-  Photo by Toan Chu on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/toanbchu) / [portfolio](http://toanchu.com)
+  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
   
-  Taken at Mount Baker, Washington, USA • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.776687,-121.814414)
+  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
+| Camera Model  | ILCE-1 |
+| Exposure Time | 1/640 |
 | Aperture      | 5 |
-| Focal Length  | 18.0 |
-| ISO           | null |
-| Location      | Mount Baker, Washington, USA (United States) |
-| Coordinates   | Latitude 48.776687, Longitude -121.814414 |
+| Focal Length  | 71.0 |
+| ISO           | 125 |
+| Location      | Hisma Desert –  NEOM, Saudi Arabia (null) |
+| Coordinates   | Latitude 0, Longitude 0 |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -121.814414,
-                            48.776687
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -121.514414,
-                                49.076687
-                            ],
-                            [
-                                -121.514414,
-                                48.476687000000005
-                            ],
-                            [
-                                -122.114414,
-                                48.476687000000005
-                            ],
-                            [
-                                -122.114414,
-                                49.076687
-                            ],
-                            [
-                                -121.514414,
-                                49.076687
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
