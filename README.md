@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/black-painted-house-in-the-middle-of-the-trees-zlV1Ksvifvs"><img width="720" src="https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzg5MTM2NDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="black painted house in the middle of the trees"></a>
+  <a href="https://unsplash.com/photos/blue-and-brown-steel-bridge-eOpewngf68w"><img width="720" src="https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwMDA2NDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue and brown steel bridge"></a>
   
-  <em>"black painted house in the middle of the trees"</em>
+  <em>"blue and brown steel bridge"</em>
   
-  <em>"(contact me for the full resoluton image)"</em>
+  <em>"Whangarei Falls footbridge"</em>
 
-  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
+  Photo by Tim Swaan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/timswaan) / [Twitter](https://twitter.com/TimSwaan)
   
-  Taken at Arnisee, Gurtnellen, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7716847,8.64337209999997)
+  Taken at Whangarei Falls, Whangarei, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-35.6843923,174.3357673)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | ILCE-7RM2 |
-| Exposure Time | 1/80 |
-| Aperture      | 18.0 |
-| Focal Length  | 60.0 |
-| ISO           | 100 |
-| Location      | Arnisee, Gurtnellen, Switzerland (Switzerland) |
-| Coordinates   | Latitude 46.7716847, Longitude 8.64337209999997 |
+| Camera Model  | Canon EOS 6D |
+| Exposure Time | 1/250 |
+| Aperture      | 9.0 |
+| Focal Length  | 28.0 |
+| ISO           | 1250 |
+| Location      | Whangarei Falls, Whangarei, New Zealand (New Zealand) |
+| Coordinates   | Latitude -35.6843923, Longitude 174.3357673 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            8.64337209999997,
-                            46.7716847
+                            174.3357673,
+                            -35.6843923
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                8.943372099999971,
-                                47.0716847
+                                174.6357673,
+                                -35.3843923
                             ],
                             [
-                                8.943372099999971,
-                                46.471684700000004
+                                174.6357673,
+                                -35.984392299999996
                             ],
                             [
-                                8.34337209999997,
-                                46.471684700000004
+                                174.03576729999997,
+                                -35.984392299999996
                             ],
                             [
-                                8.34337209999997,
-                                47.0716847
+                                174.03576729999997,
+                                -35.3843923
                             ],
                             [
-                                8.943372099999971,
-                                47.0716847
+                                174.6357673,
+                                -35.3843923
                             ]
                         ],
                         "type": "LineString"
