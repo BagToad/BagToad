@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/blue-and-brown-steel-bridge-eOpewngf68w"><img width="720" src="https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwMDA2NDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue and brown steel bridge"></a>
+  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwODgyMTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="seashore during golden hour"></a>
   
-  <em>"blue and brown steel bridge"</em>
+  <em>"seashore during golden hour"</em>
   
-  <em>"Whangarei Falls footbridge"</em>
+  <em>"The last night of a two week stay on the North Shore of Oahu, Hawaii."</em>
 
-  Photo by Tim Swaan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/timswaan) / [Twitter](https://twitter.com/TimSwaan)
+  Photo by Sean Oulashin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
   
-  Taken at Whangarei Falls, Whangarei, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-35.6843923,174.3357673)
+  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 6D |
+| Camera Model  | Canon EOS REBEL T3i |
 | Exposure Time | 1/250 |
-| Aperture      | 9.0 |
-| Focal Length  | 28.0 |
-| ISO           | 1250 |
-| Location      | Whangarei Falls, Whangarei, New Zealand (New Zealand) |
-| Coordinates   | Latitude -35.6843923, Longitude 174.3357673 |
+| Aperture      | 4.5 |
+| Focal Length  | 10.0 |
+| ISO           | 200 |
+| Location      | North Shore, Waialua, United States (United States) |
+| Coordinates   | Latitude 21.5616575, Longitude -158.0715983 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            174.3357673,
-                            -35.6843923
+                            -158.0715983,
+                            21.5616575
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                174.6357673,
-                                -35.3843923
+                                -157.7715983,
+                                21.8616575
                             ],
                             [
-                                174.6357673,
-                                -35.984392299999996
+                                -157.7715983,
+                                21.2616575
                             ],
                             [
-                                174.03576729999997,
-                                -35.984392299999996
+                                -158.37159830000002,
+                                21.2616575
                             ],
                             [
-                                174.03576729999997,
-                                -35.3843923
+                                -158.37159830000002,
+                                21.8616575
                             ],
                             [
-                                174.6357673,
-                                -35.3843923
+                                -157.7715983,
+                                21.8616575
                             ]
                         ],
                         "type": "LineString"
