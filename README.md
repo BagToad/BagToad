@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkwODgyMTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="seashore during golden hour"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkxNzQxNTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of brown moutains"></a>
   
-  <em>"seashore during golden hour"</em>
+  <em>"aerial photo of brown moutains"</em>
   
-  <em>"The last night of a two week stay on the North Shore of Oahu, Hawaii."</em>
+  <em>"Red highlands"</em>
 
-  Photo by Sean Oulashin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
   
-  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
+  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T3i |
-| Exposure Time | 1/250 |
-| Aperture      | 4.5 |
-| Focal Length  | 10.0 |
-| ISO           | 200 |
-| Location      | North Shore, Waialua, United States (United States) |
-| Coordinates   | Latitude 21.5616575, Longitude -158.0715983 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/640 |
+| Aperture      | 4.0 |
+| Focal Length  | 177.0 |
+| ISO           | 500 |
+| Location      | Ancient Bristlecone Pine Forest, United States (United States) |
+| Coordinates   | Latitude 37.4488186, Longitude -118.1426005 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -158.0715983,
-                            21.5616575
+                            -118.1426005,
+                            37.4488186
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -157.7715983,
-                                21.8616575
+                                -117.8426005,
+                                37.7488186
                             ],
                             [
-                                -157.7715983,
-                                21.2616575
+                                -117.8426005,
+                                37.148818600000006
                             ],
                             [
-                                -158.37159830000002,
-                                21.2616575
+                                -118.4426005,
+                                37.148818600000006
                             ],
                             [
-                                -158.37159830000002,
-                                21.8616575
+                                -118.4426005,
+                                37.7488186
                             ],
                             [
-                                -157.7715983,
-                                21.8616575
+                                -117.8426005,
+                                37.7488186
                             ]
                         ],
                         "type": "LineString"
