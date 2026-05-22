@@ -38,16 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/trees-near-mountain-p7S6AxykCl0"><img width="720" src="https://images.unsplash.com/photo-1534106474077-f9e9c6f5a47c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NzkzNDcyMTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="trees near mountain"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-dock-between-lavender-flower-field-near-body-of-water-during-golden-hour-K2s_YE031CA"><img width="720" src="https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk0MzMzNTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden dock between lavender flower field near body of water during golden hour"></a>
   
-  <em>"trees near mountain"</em>
+  <em>"brown wooden dock between lavender flower field near body of water during golden hour"</em>
   
-  <em>"The Sassolungo or Langkofel on the left is the highest mountain of the Langkofel Group in the Dolomites in South Tyrol, Italy. Sasso piatto  or Plattkofel is the flat mountain on the right.
-https://www.instagram.com/chielr/"</em>
+  <em>"I had been travelling around Central America, living in a van and sharing experiences with other travelers.  Having just dropped my last travel buddy off I headed back to Lake Atitlan and found an incredible spot to camp right next to the lake.  There was this jetty sticking out into the lake where I sat watching the sunset, once again living the dream on my own. I knew something special was happening there, and now it has become BitcoinLake!"</em>
 
-  Photo by Michiel Ronde on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chielr) / [portfolio](https://chielr.picfair.com/) / [Twitter](https://twitter.com/chielr)
+  Photo by Mark Harpur on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/luckybeanz_photo) / [portfolio](http://www.luckybeanz.com/blog) / [Twitter](https://twitter.com/luckybeanzphoto)
   
-  Taken at Alpe di Siusi, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5340746,11.7603177999999)
+  Taken at Lake Atitlán, Guatemala • [Google Maps](https://www.google.com/maps/search/?api=1&query=14.6852746212311,-91.2599414305909)
   
   ---
   
@@ -56,13 +55,13 @@ https://www.instagram.com/chielr/"</em>
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | DSC-RX100M3 |
-| Exposure Time | 1/250 |
-| Aperture      | 4 |
-| Focal Length  | 20.8 |
-| ISO           | 200 |
-| Location      | Alpe di Siusi, Italy (Italy) |
-| Coordinates   | Latitude 46.5340746, Longitude 11.7603177999999 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 0.8 |
+| Aperture      | 18 |
+| Focal Length  | 11.0 |
+| ISO           | 100 |
+| Location      | Lake Atitlán, Guatemala (Guatemala) |
+| Coordinates   | Latitude 14.6852746212311, Longitude -91.2599414305909 |
 
 ### Map
 
@@ -75,8 +74,8 @@ https://www.instagram.com/chielr/"</em>
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.7603177999999,
-                            46.5340746
+                            -91.2599414305909,
+                            14.6852746212311
                         ],
                         "type": "Point"
                     },
@@ -88,24 +87,24 @@ https://www.instagram.com/chielr/"</em>
                     "geometry": {
                         "coordinates": [
                             [
-                                12.0603177999999,
-                                46.834074599999994
+                                -90.9599414305909,
+                                14.9852746212311
                             ],
                             [
-                                12.0603177999999,
-                                46.2340746
+                                -90.9599414305909,
+                                14.3852746212311
                             ],
                             [
-                                11.460317799999899,
-                                46.2340746
+                                -91.5599414305909,
+                                14.3852746212311
                             ],
                             [
-                                11.460317799999899,
-                                46.834074599999994
+                                -91.5599414305909,
+                                14.9852746212311
                             ],
                             [
-                                12.0603177999999,
-                                46.834074599999994
+                                -90.9599414305909,
+                                14.9852746212311
                             ]
                         ],
                         "type": "LineString"
