@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/view-of-mountain-PdGBci-4jR8"><img width="720" src="https://images.unsplash.com/photo-1552152370-fb05b25ff17d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2MDU4Nzd8&ixlib=rb-4.1.0&q=80&w=1080" alt="view of mountain"></a>
+  <a href="https://unsplash.com/photos/mountain-covered-with-green-grass-ZVbv1akA-l4"><img width="720" src="https://images.unsplash.com/photo-1438786657495-640937046d18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk2OTM2OTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain covered with green grass"></a>
   
-  <em>"view of mountain"</em>
+  <em>"mountain covered with green grass"</em>
   
-  <em>""</em>
+  <em>"Écosse valley and mountains"</em>
 
-  Photo by Alessio Soggetti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/asoggetti) / [portfolio](https://asoggetti.it) / [Twitter](https://twitter.com/asoggetti)
+  Photo by Claudel Rheault on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/chevalreal) / [portfolio](http://realcheval.co) / [Twitter](https://twitter.com/realcheval)
   
-  Taken at Unknown • 
+  Taken at Écosse • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.4906712,-4.20264580000003)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D750 |
-| Exposure Time | 1/1000 |
-| Aperture      | 9 |
-| Focal Length  | 300 |
-| ISO           | 125 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Camera Model  | Canon EOS REBEL T2i |
+| Exposure Time | 1/1600 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 100 |
+| Location      | Écosse (null) |
+| Coordinates   | Latitude 56.4906712, Longitude -4.20264580000003 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -4.20264580000003,
+                            56.4906712
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -3.9026458000000304,
+                                56.7906712
+                            ],
+                            [
+                                -3.9026458000000304,
+                                56.190671200000004
+                            ],
+                            [
+                                -4.50264580000003,
+                                56.190671200000004
+                            ],
+                            [
+                                -4.50264580000003,
+                                56.7906712
+                            ],
+                            [
+                                -3.9026458000000304,
+                                56.7906712
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
