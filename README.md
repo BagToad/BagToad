@@ -38,13 +38,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/pathway-between-yellow-flower-field-hB-Vwbyxr9U"><img width="720" src="https://images.unsplash.com/photo-1534030665069-90e016e995e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk3Nzg4OTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="pathway between yellow flower field"></a>
+  <a href="https://unsplash.com/photos/forest-trees-jFCViYFYcus"><img width="720" src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk4NjYxMjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="forest trees"></a>
   
-  <em>"pathway between yellow flower field"</em>
+  <em>"forest trees"</em>
   
-  <em>"Home landscape"</em>
+  <em>"Beautiful woodland path"</em>
 
-  Photo by Raquel Pedrotti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/raquelflosspedrotti)
+  Photo by Lukasz Szmigiel on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
   
   Taken at Unknown • 
   
@@ -55,10 +55,10 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS REBEL T5 |
-| Exposure Time | 1/250 |
-| Aperture      | 10.0 |
-| Focal Length  | 18.0 |
+| Camera Model  | Canon EOS 7D |
+| Exposure Time | 1/4 |
+| Aperture      | 8.0 |
+| Focal Length  | 85.0 |
 | ISO           | 100 |
 | Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
