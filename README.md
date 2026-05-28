@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/forest-trees-jFCViYFYcus"><img width="720" src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk4NjYxMjl8&ixlib=rb-4.1.0&q=80&w=1080" alt="forest trees"></a>
+  <a href="https://unsplash.com/photos/photo-of-mountain-ruWkmt3nU58"><img width="720" src="https://images.unsplash.com/photo-1511300636408-a63a89df3482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk5NTIxMTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of mountain"></a>
   
-  <em>"forest trees"</em>
+  <em>"photo of mountain"</em>
   
-  <em>"Beautiful woodland path"</em>
+  <em>"Discover where is this place and 45+ more places to shot in Iceland with my personal Google Map that I use for my workshop in Iceland on lucamicheliphotography.com/go/iceland-map/"</em>
 
-  Photo by Lukasz Szmigiel on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
+  Photo by Luca Micheli on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucamicheliphoto) / [portfolio](https://onlyroadtrips.com/?utm_source=unsplash) / [Twitter](https://twitter.com/ilucamicheli)
   
-  Taken at Unknown • 
+  Taken at Vestrahorn Mountain, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=64.2645215,-14.9728055)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 7D |
-| Exposure Time | 1/4 |
+| Camera Model  | Canon EOS 5D Mark IV |
+| Exposure Time | 1/25 |
 | Aperture      | 8.0 |
-| Focal Length  | 85.0 |
+| Focal Length  | 12.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Vestrahorn Mountain, Iceland (Iceland) |
+| Coordinates   | Latitude 64.2645215, Longitude -14.9728055 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -14.9728055,
+                            64.2645215
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -14.672805499999999,
+                                64.5645215
+                            ],
+                            [
+                                -14.672805499999999,
+                                63.964521500000004
+                            ],
+                            [
+                                -15.2728055,
+                                63.964521500000004
+                            ],
+                            [
+                                -15.2728055,
+                                64.5645215
+                            ],
+                            [
+                                -14.672805499999999,
+                                64.5645215
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
