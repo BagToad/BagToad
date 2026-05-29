@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-mountain-ruWkmt3nU58"><img width="720" src="https://images.unsplash.com/photo-1511300636408-a63a89df3482?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Nzk5NTIxMTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of mountain"></a>
+  <a href="https://unsplash.com/photos/golden-hour-photography-of-docking-pier-on-body-of-water-uwbajDCODj4"><img width="720" src="https://images.unsplash.com/photo-1498550744921-75f79806b8a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAwMzg1MzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="golden hour photography of docking pier on body of water"></a>
   
-  <em>"photo of mountain"</em>
+  <em>"golden hour photography of docking pier on body of water"</em>
   
-  <em>"Discover where is this place and 45+ more places to shot in Iceland with my personal Google Map that I use for my workshop in Iceland on lucamicheliphotography.com/go/iceland-map/"</em>
+  <em>"Stockholm Archipelago"</em>
 
-  Photo by Luca Micheli on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucamicheliphoto) / [portfolio](https://onlyroadtrips.com/?utm_source=unsplash) / [Twitter](https://twitter.com/ilucamicheli)
+  Photo by Anders Jildén on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/andersjildenphotography) / [portfolio](http://www.andersjilden.com) / [Twitter](https://twitter.com/AndersJilden)
   
-  Taken at Vestrahorn Mountain, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=64.2645215,-14.9728055)
+  Taken at Värmdö, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=59.3230706766952,18.4736681520263)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark IV |
-| Exposure Time | 1/25 |
-| Aperture      | 8.0 |
-| Focal Length  | 12.0 |
-| ISO           | 100 |
-| Location      | Vestrahorn Mountain, Iceland (Iceland) |
-| Coordinates   | Latitude 64.2645215, Longitude -14.9728055 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Värmdö, Sweden (Sweden) |
+| Coordinates   | Latitude 59.3230706766952, Longitude 18.4736681520263 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -14.9728055,
-                            64.2645215
+                            18.4736681520263,
+                            59.3230706766952
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -14.672805499999999,
-                                64.5645215
+                                18.7736681520263,
+                                59.6230706766952
                             ],
                             [
-                                -14.672805499999999,
-                                63.964521500000004
+                                18.7736681520263,
+                                59.023070676695205
                             ],
                             [
-                                -15.2728055,
-                                63.964521500000004
+                                18.1736681520263,
+                                59.023070676695205
                             ],
                             [
-                                -15.2728055,
-                                64.5645215
+                                18.1736681520263,
+                                59.6230706766952
                             ],
                             [
-                                -14.672805499999999,
-                                64.5645215
+                                18.7736681520263,
+                                59.6230706766952
                             ]
                         ],
                         "type": "LineString"
