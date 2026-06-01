@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/aerial-view-of-village-on-mountain-cliff-during-orange-sunset-cYrMQA7a3Wc"><img width="720" src="https://images.unsplash.com/photo-1499678329028-101435549a4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAyMTE0MDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial view of village on mountain cliff during orange sunset"></a>
+  <a href="https://unsplash.com/photos/green-trees-during-daytime-iRpJ7sk7kTQ"><img width="720" src="https://images.unsplash.com/photo-1566233601708-73237226554c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAyOTkxNDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="green trees during daytime"></a>
   
-  <em>"aerial view of village on mountain cliff during orange sunset"</em>
+  <em>"green trees during daytime"</em>
   
-  <em>"Vernazza sunset"</em>
+  <em>"Bovilla Reservoir"</em>
 
-  Photo by Anders Jildén on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/andersjildenphotography) / [portfolio](http://www.andersjilden.com) / [Twitter](https://twitter.com/AndersJilden)
+  Photo by Drini Teta on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/driniteta)
   
-  Taken at Vernazza, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=44.1340740821285,9.68522953439333)
+  Taken at Bovilla reservoir, Albania • [Google Maps](https://www.google.com/maps/search/?api=1&query=41.445278,19.866667)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Vernazza, Italy (Italy) |
-| Coordinates   | Latitude 44.1340740821285, Longitude 9.68522953439333 |
+| Camera Model  | iPhone 7 Plus |
+| Exposure Time | 1/5051 |
+| Aperture      | 1.8 |
+| Focal Length  | 4.0 |
+| ISO           | 20 |
+| Location      | Bovilla reservoir, Albania (Albania) |
+| Coordinates   | Latitude 41.445278, Longitude 19.866667 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            9.68522953439333,
-                            44.1340740821285
+                            19.866667,
+                            41.445278
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                9.98522953439333,
-                                44.4340740821285
+                                20.166667,
+                                41.745278
                             ],
                             [
-                                9.98522953439333,
-                                43.8340740821285
+                                20.166667,
+                                41.145278000000005
                             ],
                             [
-                                9.385229534393329,
-                                43.8340740821285
+                                19.566667,
+                                41.145278000000005
                             ],
                             [
-                                9.385229534393329,
-                                44.4340740821285
+                                19.566667,
+                                41.745278
                             ],
                             [
-                                9.98522953439333,
-                                44.4340740821285
+                                20.166667,
+                                41.745278
                             ]
                         ],
                         "type": "LineString"
