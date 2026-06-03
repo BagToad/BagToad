@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/red-petaled-flowers-during-golden-hour-CcRZ4k3c6gA"><img width="720" src="https://images.unsplash.com/photo-1531583044854-c6b7d8490ecf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODAzODUyMjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="red petaled flowers during golden hour"></a>
+  <a href="https://unsplash.com/photos/silhouette-of-mountains-covered-by-fogs-at-the-horizon-JV78PVf3gGI"><img width="720" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA0NzE4MDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountains covered by fogs at the horizon"></a>
   
-  <em>"red petaled flowers during golden hour"</em>
+  <em>"silhouette of mountains covered by fogs at the horizon"</em>
   
-  <em>"poignant scene, poppies as the sun goes down"</em>
+  <em>"Rhythm of the mountains"</em>
 
-  Photo by Derek Mack on [unsplash.com](https://unsplash.com/) • 
+  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.com/en) / [Twitter](https://twitter.com/serg_pesterev)
   
-  Taken at Unknown • 
+  Taken at Langtang National Park, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.0125,85.4921)
   
   ---
   
@@ -55,17 +55,64 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 5D Mark III |
-| Exposure Time | 5 |
-| Aperture      | 22.0 |
-| Focal Length  | 50.0 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/160 |
+| Aperture      | 5.6 |
+| Focal Length  | 70.0 |
 | ISO           | 100 |
-| Location      | Unknown (null) |
-| Coordinates   | Latitude null, Longitude null |
+| Location      | Langtang National Park, Nepal (Nepal) |
+| Coordinates   | Latitude 28.0125, Longitude 85.4921 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            85.4921,
+                            28.0125
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                85.79209999999999,
+                                28.3125
+                            ],
+                            [
+                                85.79209999999999,
+                                27.7125
+                            ],
+                            [
+                                85.1921,
+                                27.7125
+                            ],
+                            [
+                                85.1921,
+                                28.3125
+                            ],
+                            [
+                                85.79209999999999,
+                                28.3125
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
