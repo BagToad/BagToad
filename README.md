@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/body-of-water-on-mountain-y0i1lh-T0_w"><img width="720" src="https://images.unsplash.com/photo-1437209484568-e63b90a34f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA2NDM5MDJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water on mountain"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA3Mjg5OTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of brown moutains"></a>
   
-  <em>"body of water on mountain"</em>
+  <em>"aerial photo of brown moutains"</em>
   
-  <em>""</em>
+  <em>"Red highlands"</em>
 
-  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
   
-  Taken at Valparola Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5333,11.9833)
+  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D800 |
-| Exposure Time | 1/60 |
-| Aperture      | 16.0 |
-| Focal Length  | 14.0 |
-| ISO           | 100 |
-| Location      | Valparola Pass, Italy (Italy) |
-| Coordinates   | Latitude 46.5333, Longitude 11.9833 |
+| Camera Model  | ILCE-7RM2 |
+| Exposure Time | 1/640 |
+| Aperture      | 4.0 |
+| Focal Length  | 177.0 |
+| ISO           | 500 |
+| Location      | Ancient Bristlecone Pine Forest, United States (United States) |
+| Coordinates   | Latitude 37.4488186, Longitude -118.1426005 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.9833,
-                            46.5333
+                            -118.1426005,
+                            37.4488186
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                12.2833,
-                                46.833299999999994
+                                -117.8426005,
+                                37.7488186
                             ],
                             [
-                                12.2833,
-                                46.2333
+                                -117.8426005,
+                                37.148818600000006
                             ],
                             [
-                                11.6833,
-                                46.2333
+                                -118.4426005,
+                                37.148818600000006
                             ],
                             [
-                                11.6833,
-                                46.833299999999994
+                                -118.4426005,
+                                37.7488186
                             ],
                             [
-                                12.2833,
-                                46.833299999999994
+                                -117.8426005,
+                                37.7488186
                             ]
                         ],
                         "type": "LineString"
