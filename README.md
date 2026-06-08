@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/valley-near-snowy-mountain-u0ZgqJD55pE"><img width="720" src="https://images.unsplash.com/photo-1459213599465-03ab6a4d5931?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA4MTY1MDF8&ixlib=rb-4.1.0&q=80&w=1080" alt="valley near snowy mountain"></a>
+  <a href="https://unsplash.com/photos/birds-eye-view-photography-of-trees-and-body-of-water-mawU2PoJWfU"><img width="720" src="https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA5MDM3MDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="bird's eye view photography of trees and body of water"></a>
   
-  <em>"valley near snowy mountain"</em>
+  <em>"bird's eye view photography of trees and body of water"</em>
   
-  <em>"The landscape of Licancabur"</em>
+  <em>"Blue lake and green shore"</em>
 
-  Photo by Marcelo Quinan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/marceloquinan) / [portfolio](Http://levelofambiguity.tumblr.com)
+  Photo by Andreas Gücklhorn on [unsplash.com](https://unsplash.com/) • [portfolio](https://guecklhorn.com/) / [Twitter](https://twitter.com/guecklhorn)
   
-  Taken at Licancabur • [Google Maps](https://www.google.com/maps/search/?api=1&query=-22.8333333,-67.8833333)
+  Taken at Lake Brienz, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7267426,7.96747289999996)
   
   ---
   
@@ -55,13 +55,13 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D7000 |
-| Exposure Time | 1/125 |
-| Aperture      | 14.0 |
-| Focal Length  | 18.0 |
-| ISO           | 100 |
-| Location      | Licancabur (null) |
-| Coordinates   | Latitude -22.8333333, Longitude -67.8833333 |
+| Camera Model  | null |
+| Exposure Time | null |
+| Aperture      | null |
+| Focal Length  | null |
+| ISO           | null |
+| Location      | Lake Brienz, Switzerland (Switzerland) |
+| Coordinates   | Latitude 46.7267426, Longitude 7.96747289999996 |
 
 ### Map
 
@@ -74,8 +74,8 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -67.8833333,
-                            -22.8333333
+                            7.96747289999996,
+                            46.7267426
                         ],
                         "type": "Point"
                     },
@@ -87,24 +87,24 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
                     "geometry": {
                         "coordinates": [
                             [
-                                -67.5833333,
-                                -22.5333333
+                                8.26747289999996,
+                                47.0267426
                             ],
                             [
-                                -67.5833333,
-                                -23.1333333
+                                8.26747289999996,
+                                46.426742600000004
                             ],
                             [
-                                -68.1833333,
-                                -23.1333333
+                                7.66747289999996,
+                                46.426742600000004
                             ],
                             [
-                                -68.1833333,
-                                -22.5333333
+                                7.66747289999996,
+                                47.0267426
                             ],
                             [
-                                -67.5833333,
-                                -22.5333333
+                                8.26747289999996,
+                                47.0267426
                             ]
                         ],
                         "type": "LineString"
