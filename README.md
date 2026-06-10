@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/golden-hour-photography-of-docking-pier-on-body-of-water-uwbajDCODj4"><img width="720" src="https://images.unsplash.com/photo-1498550744921-75f79806b8a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODA5ODg2NTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="golden hour photography of docking pier on body of water"></a>
+  <a href="https://unsplash.com/photos/photo-of-green-grass-field-at-sunrise-4miBe6zg5r0"><img width="720" src="https://images.unsplash.com/photo-1434725039720-aaad6dd32dfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEwNzU5MDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of green grass field at sunrise"></a>
   
-  <em>"golden hour photography of docking pier on body of water"</em>
+  <em>"photo of green grass field at sunrise"</em>
   
-  <em>"Stockholm Archipelago"</em>
+  <em>"You can support me via Paypal: http://paypal.me/dreamypixel"</em>
 
-  Photo by Anders Jildén on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/andersjildenphotography) / [portfolio](http://www.andersjilden.com) / [Twitter](https://twitter.com/AndersJilden)
+  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
   
-  Taken at Värmdö, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=59.3230706766952,18.4736681520263)
+  Taken at Unknown • 
   
   ---
   
@@ -55,64 +55,17 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | null |
-| Exposure Time | null |
-| Aperture      | null |
-| Focal Length  | null |
-| ISO           | null |
-| Location      | Värmdö, Sweden (Sweden) |
-| Coordinates   | Latitude 59.3230706766952, Longitude 18.4736681520263 |
+| Camera Model  | NIKON D800 |
+| Exposure Time | 1/40 |
+| Aperture      | 13 |
+| Focal Length  | 14.0 |
+| ISO           | 100 |
+| Location      | Unknown (null) |
+| Coordinates   | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            18.4736681520263,
-                            59.3230706766952
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                18.7736681520263,
-                                59.6230706766952
-                            ],
-                            [
-                                18.7736681520263,
-                                59.023070676695205
-                            ],
-                            [
-                                18.1736681520263,
-                                59.023070676695205
-                            ],
-                            [
-                                18.1736681520263,
-                                59.6230706766952
-                            ],
-                            [
-                                18.7736681520263,
-                                59.6230706766952
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
