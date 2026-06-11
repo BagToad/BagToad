@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/photo-of-green-grass-field-at-sunrise-4miBe6zg5r0"><img width="720" src="https://images.unsplash.com/photo-1434725039720-aaad6dd32dfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEwNzU5MDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="photo of green grass field at sunrise"></a>
+  <a href="https://unsplash.com/photos/grass-field-and-mountain-ranges-hXNGeAFOgT4"><img width="720" src="https://images.unsplash.com/photo-1565118531796-763e5082d113?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODExNjI5MTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="grass field and mountain ranges"></a>
   
-  <em>"photo of green grass field at sunrise"</em>
+  <em>"grass field and mountain ranges"</em>
   
-  <em>"You can support me via Paypal: http://paypal.me/dreamypixel"</em>
+  <em>""</em>
 
-  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
+  Photo by Nikola Majksner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/majksner) / [portfolio](https://majksner.com) / [Twitter](https://twitter.com/majksner)
   
-  Taken at Unknown • 
+  Taken at Valley of Heroes, Tjentište , Bosnia and Herzegovina • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | NIKON D800 |
-| Exposure Time | 1/40 |
-| Aperture      | 13 |
-| Focal Length  | 14.0 |
-| ISO           | 100 |
-| Location      | Unknown (null) |
+| Camera Model  | Canon EOS 1000D |
+| Exposure Time | 1/400 |
+| Aperture      | 3.5 |
+| Focal Length  | 18.0 |
+| ISO           | 200 |
+| Location      | Valley of Heroes, Tjentište , Bosnia and Herzegovina (Bosnia and Herzegovina) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
