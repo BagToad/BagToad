@@ -38,15 +38,15 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
 
 ## Photo of the day
   
-  <a href="https://unsplash.com/photos/grass-field-and-mountain-ranges-hXNGeAFOgT4"><img width="720" src="https://images.unsplash.com/photo-1565118531796-763e5082d113?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODExNjI5MTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="grass field and mountain ranges"></a>
+  <a href="https://unsplash.com/photos/birds-eye-view-of-grassland-beside-mountain-ucYWe5mzTMU"><img width="720" src="https://images.unsplash.com/uploads/1412026095116d2b0c90e/3bf33993?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODEyNDkyMTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="bird's eye view of grassland beside mountain"></a>
   
-  <em>"grass field and mountain ranges"</em>
+  <em>"bird's eye view of grassland beside mountain"</em>
   
-  <em>""</em>
+  <em>"Pastures at the foot of a mountain"</em>
 
-  Photo by Nikola Majksner on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/majksner) / [portfolio](https://majksner.com) / [Twitter](https://twitter.com/majksner)
+  Photo by Jeremy Cai on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jjeremycai) / [portfolio](http://jeremycai.com) / [Twitter](https://twitter.com/jjeremycai)
   
-  Taken at Valley of Heroes, Tjentište , Bosnia and Herzegovina • 
+  Taken at Unknown • 
   
   ---
   
@@ -55,12 +55,12 @@ Did you notice a theme!? I work with GitHub Actions and Zendesk a lot! 😅
   
 | Parameter     | Value |
 | ------------- | ----- |
-| Camera Model  | Canon EOS 1000D |
-| Exposure Time | 1/400 |
+| Camera Model  | NIKON D80 |
+| Exposure Time | 1/500 |
 | Aperture      | 3.5 |
-| Focal Length  | 18.0 |
-| ISO           | 200 |
-| Location      | Valley of Heroes, Tjentište , Bosnia and Herzegovina (Bosnia and Herzegovina) |
+| Focal Length  | 85.0 |
+| ISO           | 320 |
+| Location      | Unknown (null) |
 | Coordinates   | Latitude null, Longitude null |
 
 ### Map
