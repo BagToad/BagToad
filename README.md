@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/forest-trees-jFCViYFYcus"><img width="720" src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE4NTQ4NDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="forest trees"></a>
+  <a href="https://unsplash.com/photos/body-of-water-on-mountain-y0i1lh-T0_w"><img width="720" src="https://images.unsplash.com/photo-1437209484568-e63b90a34f8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODE5Mzk1MTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water on mountain"></a>
 
-  <em>"forest trees"</em>
+  <em>"body of water on mountain"</em>
 
-  <em>"Beautiful woodland path"</em>
+  <em>""</em>
 
-  Photo by Lukasz Szmigiel on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lukasz.szmigiel) / [portfolio](https://photo.szmigiel.design/)
+  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
 
-  Taken at Unknown • 
+  Taken at Valparola Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5333,11.9833)
 
   ---
 
@@ -22,17 +22,64 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS 7D |
-| Exposure Time | 1/4 |
-| Aperture | 8.0 |
-| Focal Length | 85.0 |
+| Camera Model | NIKON D800 |
+| Exposure Time | 1/60 |
+| Aperture | 16.0 |
+| Focal Length | 14.0 |
 | ISO | 100 |
-| Location | Unknown (null) |
-| Coordinates | Latitude null, Longitude null |
+| Location | Valparola Pass, Italy (Italy) |
+| Coordinates | Latitude 46.5333, Longitude 11.9833 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            11.9833,
+                            46.5333
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                12.2833,
+                                46.833299999999994
+                            ],
+                            [
+                                12.2833,
+                                46.2333
+                            ],
+                            [
+                                11.6833,
+                                46.2333
+                            ],
+                            [
+                                11.6833,
+                                46.833299999999994
+                            ],
+                            [
+                                12.2833,
+                                46.833299999999994
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
