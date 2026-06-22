@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/worms-eye-view-of-trees-during-night-time-Jztmx9yqjBw"><img width="720" src="https://images.unsplash.com/photo-1444080748397-f442aa95c3e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIwMjY5MzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="worm's eye view of trees during night time"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky--nYBR0LFTvQ"><img width="720" src="https://images.unsplash.com/photo-1518717202715-9fa9d099f58a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIxMTQyOTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field under blue sky"></a>
 
-  <em>"worm's eye view of trees during night time"</em>
+  <em>"green grass field under blue sky"</em>
 
-  <em>"Trees against purple night sky"</em>
+  <em>""</em>
 
-  Photo by Ryan Hutton on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ryan_hutton_)
+  Photo by Chris Barbalis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/ChrisBarbalis) / [Twitter](https://twitter.com/ChrisBarbalis)
 
-  Taken at Unknown • 
+  Taken at Montescudaio, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.3315882,10.6027654)
 
   ---
 
@@ -22,17 +22,64 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | ILCE-7S |
-| Exposure Time | 8 |
-| Aperture | null |
-| Focal Length | null |
-| ISO | 25600 |
-| Location | Unknown (null) |
-| Coordinates | Latitude null, Longitude null |
+| Camera Model | NIKON D3300 |
+| Exposure Time | 1/320 |
+| Aperture | 9 |
+| Focal Length | 28.0 |
+| ISO | 100 |
+| Location | Montescudaio, Italy (Italy) |
+| Coordinates | Latitude 43.3315882, Longitude 10.6027654 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            10.6027654,
+                            43.3315882
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                10.9027654,
+                                43.631588199999996
+                            ],
+                            [
+                                10.9027654,
+                                43.0315882
+                            ],
+                            [
+                                10.302765399999998,
+                                43.0315882
+                            ],
+                            [
+                                10.302765399999998,
+                                43.631588199999996
+                            ],
+                            [
+                                10.9027654,
+                                43.631588199999996
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
