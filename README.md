@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c"><img width="720" src="https://images.unsplash.com/photo-1511497584788-876760111969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIxOTgyNzh8&ixlib=rb-4.1.0&q=80&w=1080" alt="pine trees field near mountain under sunset"></a>
+  <a href="https://unsplash.com/photos/calm-lake-surrounded-by-trees-near-mountain-range-Uszp5Gkg0AI"><img width="720" src="https://images.unsplash.com/photo-1413752362258-7af2a667b590?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODIyODQ1MDJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="calm lake surrounded by trees near mountain range"></a>
 
-  <em>"pine trees field near mountain under sunset"</em>
+  <em>"calm lake surrounded by trees near mountain range"</em>
 
-  <em>"Smoky morning in Cascades"</em>
+  <em>"You can support me via Paypal: http://paypal.me/dreamypixel"</em>
 
-  Photo by Sergei A on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergeiakphoto) / [portfolio](https://www.cavanimages.com/contributor/17417)
+  Photo by Ales Krivec on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dreamypixels) / [portfolio](http://dreamypixel.com)
 
-  Taken at Rampart Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4155129,-121.3402916)
+  Taken at Unknown • 
 
   ---
 
@@ -22,64 +22,17 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | ILCE-7M2 |
-| Exposure Time | 1/60 |
-| Aperture | 9.0 |
-| Focal Length | 35.0 |
-| ISO | 250 |
-| Location | Rampart Lakes, United States (United States) |
-| Coordinates | Latitude 47.4155129, Longitude -121.3402916 |
+| Camera Model | NIKON D7000 |
+| Exposure Time | 1/160 |
+| Aperture | 6.3 |
+| Focal Length | 14.0 |
+| ISO | 100 |
+| Location | Unknown (null) |
+| Coordinates | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -121.3402916,
-                            47.4155129
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -121.0402916,
-                                47.7155129
-                            ],
-                            [
-                                -121.0402916,
-                                47.115512900000006
-                            ],
-                            [
-                                -121.6402916,
-                                47.115512900000006
-                            ],
-                            [
-                                -121.6402916,
-                                47.7155129
-                            ],
-                            [
-                                -121.0402916,
-                                47.7155129
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
