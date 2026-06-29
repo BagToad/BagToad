@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/tree-on-body-of-water-near-mountains-KonWFWUaAuk"><img width="720" src="https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI2MzA3ODB8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree on body of water near mountains"></a>
+  <a href="https://unsplash.com/photos/green-hills-with-forest-under-cloudy-sky-during-daytime--SO3JtE3gZo"><img width="720" src="https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI3MTgwOTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green hills with forest under cloudy sky during daytime"></a>
 
-  <em>"tree on body of water near mountains"</em>
+  <em>"green hills with forest under cloudy sky during daytime"</em>
 
   <em>""</em>
 
-  Photo by Ken Cheung on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kencheungphotos) / [portfolio](https://www.kencheungphoto.com/)
+  Photo by Claudio Testa on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/testaphotography) / [portfolio](http://testa-photography.com/)
 
-  Taken at Wanaka, Otago, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.69833833,169.11632833)
+  Taken at Haselschacher Buck, Vogtsburg, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.0959879,7.69210129999999)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | NIKON D5 |
-| Exposure Time | 10 |
-| Aperture | 16 |
-| Focal Length | 35.0 |
-| ISO | 50 |
-| Location | Wanaka, Otago, New Zealand (New Zealand) |
-| Coordinates | Latitude -44.69833833, Longitude 169.11632833 |
+| Camera Model | Canon EOS 600D |
+| Exposure Time | 1/13 |
+| Aperture | 8.0 |
+| Focal Length | 18.0 |
+| ISO | 100 |
+| Location | Haselschacher Buck, Vogtsburg, Germany (Germany) |
+| Coordinates | Latitude 48.0959879, Longitude 7.69210129999999 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            169.11632833,
-                            -44.69833833
+                            7.69210129999999,
+                            48.0959879
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                169.41632833,
-                                -44.39833833
+                                7.99210129999999,
+                                48.395987899999994
                             ],
                             [
-                                169.41632833,
-                                -44.998338329999996
+                                7.99210129999999,
+                                47.7959879
                             ],
                             [
-                                168.81632832999998,
-                                -44.998338329999996
+                                7.39210129999999,
+                                47.7959879
                             ],
                             [
-                                168.81632832999998,
-                                -44.39833833
+                                7.39210129999999,
+                                48.395987899999994
                             ],
                             [
-                                169.41632833,
-                                -44.39833833
+                                7.99210129999999,
+                                48.395987899999994
                             ]
                         ],
                         "type": "LineString"
