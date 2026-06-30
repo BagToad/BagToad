@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/green-hills-with-forest-under-cloudy-sky-during-daytime--SO3JtE3gZo"><img width="720" src="https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI3MTgwOTR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green hills with forest under cloudy sky during daytime"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-under-blue-sky-XNIjmb6Ax04"><img width="720" src="https://images.unsplash.com/photo-1429704658776-3d38c9990511?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI4MDMyOTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field under blue sky"></a>
 
-  <em>"green hills with forest under cloudy sky during daytime"</em>
+  <em>"green grass field under blue sky"</em>
 
   <em>""</em>
 
-  Photo by Claudio Testa on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/testaphotography) / [portfolio](http://testa-photography.com/)
+  Photo by John Mark Arnold on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/johnmarkarnold) / [portfolio](https://www.instagram.com/johnmarkarnold/) / [Twitter](https://twitter.com/JohnMarkArnold)
 
-  Taken at Haselschacher Buck, Vogtsburg, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.0959879,7.69210129999999)
+  Taken at Unknown • 
 
   ---
 
@@ -22,64 +22,17 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS 600D |
-| Exposure Time | 1/13 |
-| Aperture | 8.0 |
-| Focal Length | 18.0 |
-| ISO | 100 |
-| Location | Haselschacher Buck, Vogtsburg, Germany (Germany) |
-| Coordinates | Latitude 48.0959879, Longitude 7.69210129999999 |
+| Camera Model | Canon EOS 550D |
+| Exposure Time | 1/1000 |
+| Aperture | 5.6 |
+| Focal Length | 55.0 |
+| ISO | 200 |
+| Location | Unknown (null) |
+| Coordinates | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            7.69210129999999,
-                            48.0959879
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                7.99210129999999,
-                                48.395987899999994
-                            ],
-                            [
-                                7.99210129999999,
-                                47.7959879
-                            ],
-                            [
-                                7.39210129999999,
-                                47.7959879
-                            ],
-                            [
-                                7.39210129999999,
-                                48.395987899999994
-                            ],
-                            [
-                                7.99210129999999,
-                                48.395987899999994
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
