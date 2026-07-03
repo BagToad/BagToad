@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/mountain-covered-with-green-trees-qfmd9bu7IgA"><img width="720" src="https://images.unsplash.com/37/IHLjdHdzSvi0rgUMMlSK_TE3_0286.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODI5NzU1NzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain covered with green trees"></a>
+  <a href="https://unsplash.com/photos/dramatic-sunset-over-a-dark-mountain-valley-j3f1lwXBuAI"><img width="720" src="https://images.unsplash.com/photo-1773176647951-d8f618dee942?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMwNjE5MDB8&ixlib=rb-4.1.0&q=80&w=1080" alt="Dramatic sunset over a dark mountain valley"></a>
 
-  <em>"mountain covered with green trees"</em>
+  <em>"Dramatic sunset over a dark mountain valley"</em>
 
-  <em>"Fog over woody hills"</em>
+  <em>""</em>
 
-  Photo by FORREST CAVALE on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/forfie) / [portfolio](http://www.cavale.io/) / [Twitter](https://twitter.com/CavaleCreative)
+  Photo by Patrick Untersee on [unsplash.com](https://unsplash.com/) • 
 
-  Taken at Unknown • 
+  Taken at Lidernenhütte SAC, Chappeliberg, Riemenstalden, Schweiz • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.935196,8.692688)
 
   ---
 
@@ -22,17 +22,64 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | NIKON D600 |
-| Exposure Time | 1/640 |
-| Aperture | 5.6 |
-| Focal Length | 35.0 |
-| ISO | 100 |
-| Location | Unknown (null) |
-| Coordinates | Latitude null, Longitude null |
+| Camera Model | X100V |
+| Exposure Time | 1/250 |
+| Aperture | 5.0 |
+| Focal Length | 23.0 |
+| ISO | 3200 |
+| Location | Lidernenhütte SAC, Chappeliberg, Riemenstalden, Schweiz (Schweiz) |
+| Coordinates | Latitude 46.935196, Longitude 8.692688 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            8.692688,
+                            46.935196
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                8.992688000000001,
+                                47.235195999999995
+                            ],
+                            [
+                                8.992688000000001,
+                                46.635196
+                            ],
+                            [
+                                8.392688,
+                                46.635196
+                            ],
+                            [
+                                8.392688,
+                                47.235195999999995
+                            ],
+                            [
+                                8.992688000000001,
+                                47.235195999999995
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
