@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/mountain-reflection-on-body-of-water-DlkF4-dbCOU"><img width="720" src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMyMzQ3NjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain reflection on body of water"></a>
+  <a href="https://unsplash.com/photos/ocean-near-trees-and-rocks-DuD5D3lWC3c"><img width="720" src="https://images.unsplash.com/photo-1462400362591-9ca55235346a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODMzMjI0NzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="ocean near trees and rocks"></a>
 
-  <em>"mountain reflection on body of water"</em>
+  <em>"ocean near trees and rocks"</em>
 
-  <em>"sunrise"</em>
+  <em>"Sunset beach views"</em>
 
-  Photo by garrett parker on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/garrettpsystems) / [portfolio](http://amblestudios.com) / [Twitter](https://twitter.com/garrettpsystems)
+  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
 
-  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
+  Taken at Kihei, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=20.6268435,-156.4432482)
 
   ---
 
@@ -23,12 +23,12 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 | Parameter | Value |
 | --- | --- |
 | Camera Model | Canon EOS 6D |
-| Exposure Time | 1/320 |
-| Aperture | 2.8 |
+| Exposure Time | 1/20 |
+| Aperture | 8.0 |
 | Focal Length | 24.0 |
-| ISO | 2000 |
-| Location | Moraine Lake, Canada (Canada) |
-| Coordinates | Latitude 51.3217416, Longitude -116.1860049 |
+| ISO | 100 |
+| Location | Kihei, United States (United States) |
+| Coordinates | Latitude 20.6268435, Longitude -156.4432482 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -116.1860049,
-                            51.3217416
+                            -156.4432482,
+                            20.6268435
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -115.8860049,
-                                51.6217416
+                                -156.1432482,
+                                20.9268435
                             ],
                             [
-                                -115.8860049,
-                                51.021741600000006
+                                -156.1432482,
+                                20.3268435
                             ],
                             [
-                                -116.4860049,
-                                51.021741600000006
+                                -156.7432482,
+                                20.3268435
                             ],
                             [
-                                -116.4860049,
-                                51.6217416
+                                -156.7432482,
+                                20.9268435
                             ],
                             [
-                                -115.8860049,
-                                51.6217416
+                                -156.1432482,
+                                20.9268435
                             ]
                         ],
                         "type": "LineString"
