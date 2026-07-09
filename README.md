@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/landscape-photography-of-field-Zm2n2O7Fph4"><img width="720" src="https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM0OTMwMzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of field"></a>
+  <a href="https://unsplash.com/photos/pine-trees-field-near-mountain-under-sunset--heLWtuAN3c"><img width="720" src="https://images.unsplash.com/photo-1511497584788-876760111969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM1ODA2NTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="pine trees field near mountain under sunset"></a>
 
-  <em>"landscape photography of field"</em>
+  <em>"pine trees field near mountain under sunset"</em>
 
-  <em>"Into The Horizon"</em>
+  <em>"Smoky morning in Cascades"</em>
 
-  Photo by Benjamin Davies on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bendavisual) / [portfolio](http://benjamindavies.co/) / [Twitter](https://twitter.com/daviesben33)
+  Photo by Sergei A on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergeiakphoto) / [portfolio](https://www.cavanimages.com/contributor/17417)
 
-  Taken at Wooburn Green, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5873944182614,-0.692313111206204)
+  Taken at Rampart Lakes, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.4155129,-121.3402916)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | X-E2 |
-| Exposure Time | 1/950 |
-| Aperture | 4.5 |
-| Focal Length | 18.0 |
-| ISO | 400 |
-| Location | Wooburn Green, United Kingdom (United Kingdom) |
-| Coordinates | Latitude 51.5873944182614, Longitude -0.692313111206204 |
+| Camera Model | ILCE-7M2 |
+| Exposure Time | 1/60 |
+| Aperture | 9.0 |
+| Focal Length | 35.0 |
+| ISO | 250 |
+| Location | Rampart Lakes, United States (United States) |
+| Coordinates | Latitude 47.4155129, Longitude -121.3402916 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -0.692313111206204,
-                            51.5873944182614
+                            -121.3402916,
+                            47.4155129
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -0.392313111206204,
-                                51.887394418261394
+                                -121.0402916,
+                                47.7155129
                             ],
                             [
-                                -0.392313111206204,
-                                51.2873944182614
+                                -121.0402916,
+                                47.115512900000006
                             ],
                             [
-                                -0.992313111206204,
-                                51.2873944182614
+                                -121.6402916,
+                                47.115512900000006
                             ],
                             [
-                                -0.992313111206204,
-                                51.887394418261394
+                                -121.6402916,
+                                47.7155129
                             ],
                             [
-                                -0.392313111206204,
-                                51.887394418261394
+                                -121.0402916,
+                                47.7155129
                             ]
                         ],
                         "type": "LineString"
