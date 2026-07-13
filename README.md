@@ -5,17 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/aerial-photography-of-mountains-and-near-trees-during-daytime-aZjw7xI3QAA"><img width="720" src="https://images.unsplash.com/photo-1500622944204-b135684e99fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM4Mzg4NjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of mountains and near trees during daytime"></a>
+  <a href="https://unsplash.com/photos/aerial-view-of-green-grass-field-WPapb9IqRKw"><img width="720" src="https://images.unsplash.com/photo-1591389703635-e15a07b842d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM5MjU4Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial view of green grass field"></a>
 
-  <em>"aerial photography of mountains and near trees during daytime"</em>
+  <em>"aerial view of green grass field"</em>
 
-  <em>"Hills —
-as remnants from
-aeons of erosion."</em>
+  <em>"Lac du Salagou, france"</em>
 
-  Photo by simon on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simon_berger/)
+  Photo by Gautier Pfeiffer on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gautier_pfei)
 
-  Taken at Viñales, Provinz Pinar del Río, Kuba • [Google Maps](https://www.google.com/maps/search/?api=1&query=22.61483,-83.72229667)
+  Taken at Lac du Salagou, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.650221,3.374165)
 
   ---
 
@@ -24,13 +22,13 @@ aeons of erosion."</em>
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | DMC-GF3 |
-| Exposure Time | 1/250 |
-| Aperture | 5.6 |
-| Focal Length | 14.0 |
-| ISO | 160 |
-| Location | Viñales, Provinz Pinar del Río, Kuba (Kuba) |
-| Coordinates | Latitude 22.61483, Longitude -83.72229667 |
+| Camera Model | MAVIC 2 PRO |
+| Exposure Time | 1/30 |
+| Aperture | 4.5 |
+| Focal Length | 10.3 |
+| ISO | 100 |
+| Location | Lac du Salagou, France (France) |
+| Coordinates | Latitude 43.650221, Longitude 3.374165 |
 
 ### Map
 
@@ -43,8 +41,8 @@ aeons of erosion."</em>
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -83.72229667,
-                            22.61483
+                            3.374165,
+                            43.650221
                         ],
                         "type": "Point"
                     },
@@ -56,24 +54,24 @@ aeons of erosion."</em>
                     "geometry": {
                         "coordinates": [
                             [
-                                -83.42229667000001,
-                                22.914830000000002
+                                3.674165,
+                                43.950221
                             ],
                             [
-                                -83.42229667000001,
-                                22.31483
+                                3.674165,
+                                43.350221000000005
                             ],
                             [
-                                -84.02229667,
-                                22.31483
+                                3.0741650000000003,
+                                43.350221000000005
                             ],
                             [
-                                -84.02229667,
-                                22.914830000000002
+                                3.0741650000000003,
+                                43.950221
                             ],
                             [
-                                -83.42229667000001,
-                                22.914830000000002
+                                3.674165,
+                                43.950221
                             ]
                         ],
                         "type": "LineString"
