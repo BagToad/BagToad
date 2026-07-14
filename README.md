@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/aerial-view-of-green-grass-field-WPapb9IqRKw"><img width="720" src="https://images.unsplash.com/photo-1591389703635-e15a07b842d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODM5MjU4Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial view of green grass field"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4"><img width="720" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQwMTEwNTF8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountain hit by sun rays"></a>
 
-  <em>"aerial view of green grass field"</em>
+  <em>"landscape photography of mountain hit by sun rays"</em>
 
-  <em>"Lac du Salagou, france"</em>
+  <em>"Alone in the unspoilt wilderness"</em>
 
-  Photo by Gautier Pfeiffer on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/gautier_pfei)
+  Photo by Urban Vintage on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/urban_vintage.ro) / [portfolio](https://urban-vintage.ro/) / [Twitter](https://twitter.com/dmqwe)
 
-  Taken at Lac du Salagou, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.650221,3.374165)
+  Taken at Ciucaș Peak, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5217138,25.9261894)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | MAVIC 2 PRO |
-| Exposure Time | 1/30 |
-| Aperture | 4.5 |
-| Focal Length | 10.3 |
+| Camera Model | NIKON D90 |
+| Exposure Time | 1/200 |
+| Aperture | 8.0 |
+| Focal Length | 35.0 |
 | ISO | 100 |
-| Location | Lac du Salagou, France (France) |
-| Coordinates | Latitude 43.650221, Longitude 3.374165 |
+| Location | Ciucaș Peak, Romania (Romania) |
+| Coordinates | Latitude 45.5217138, Longitude 25.9261894 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            3.374165,
-                            43.650221
+                            25.9261894,
+                            45.5217138
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                3.674165,
-                                43.950221
+                                26.2261894,
+                                45.8217138
                             ],
                             [
-                                3.674165,
-                                43.350221000000005
+                                26.2261894,
+                                45.2217138
                             ],
                             [
-                                3.0741650000000003,
-                                43.350221000000005
+                                25.626189399999998,
+                                45.2217138
                             ],
                             [
-                                3.0741650000000003,
-                                43.950221
+                                25.626189399999998,
+                                45.8217138
                             ],
                             [
-                                3.674165,
-                                43.950221
+                                26.2261894,
+                                45.8217138
                             ]
                         ],
                         "type": "LineString"
