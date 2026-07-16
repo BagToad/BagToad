@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/orange-petaled-flowers-koy6FlCCy5s"><img width="720" src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQwOTc0OTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="orange petaled flowers"></a>
+  <a href="https://unsplash.com/photos/body-of-water-surrounded-by-pine-trees-during-daytime-ESkw2ayO2As"><img width="720" src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQxODQxNzB8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water surrounded by pine trees during daytime"></a>
 
-  <em>"orange petaled flowers"</em>
+  <em>"body of water surrounded by pine trees during daytime"</em>
 
-  <em>"California blooming like crazy after months of non-stop rains. Even deserts are covered with juicy bright flowers. The photo was made on Diamond Valley Lake a few days ago."</em>
+  <em>""</em>
 
-  Photo by Sergey Shmidt on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/monstercritic) / [portfolio](http://shmidt.co) / [Twitter](https://twitter.com/monstercritic)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
 
-  Taken at Diamond Valley Lake, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=33.702679446692,-117.010282939209)
+  Taken at Lago di Braies • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | ILCE-7RM2 |
-| Exposure Time | 1/800 |
-| Aperture | 5.6 |
-| Focal Length | 55.0 |
-| ISO | 100 |
-| Location | Diamond Valley Lake, United States (United States) |
-| Coordinates | Latitude 33.702679446692, Longitude -117.010282939209 |
+| Camera Model | null |
+| Exposure Time | null |
+| Aperture | null |
+| Focal Length | null |
+| ISO | null |
+| Location | Lago di Braies (null) |
+| Coordinates | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -117.010282939209,
-                            33.702679446692
+                            12.0859822,
+                            46.6948731
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -116.71028293920901,
-                                34.002679446692
+                                12.3859822,
+                                46.9948731
                             ],
                             [
-                                -116.71028293920901,
-                                33.402679446692005
+                                12.3859822,
+                                46.394873100000005
                             ],
                             [
-                                -117.310282939209,
-                                33.402679446692005
+                                11.7859822,
+                                46.394873100000005
                             ],
                             [
-                                -117.310282939209,
-                                34.002679446692
+                                11.7859822,
+                                46.9948731
                             ],
                             [
-                                -116.71028293920901,
-                                34.002679446692
+                                12.3859822,
+                                46.9948731
                             ]
                         ],
                         "type": "LineString"
