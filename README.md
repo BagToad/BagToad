@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/body-of-water-between-brown-mountains-ARVFsI-32Uk"><img width="720" src="https://images.unsplash.com/photo-1549558549-415fe4c37b60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQyNzA0Njd8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water between brown mountains"></a>
+  <a href="https://unsplash.com/photos/black-painted-house-in-the-middle-of-the-trees-zlV1Ksvifvs"><img width="720" src="https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQzNTY0MDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="black painted house in the middle of the trees"></a>
 
-  <em>"body of water between brown mountains"</em>
+  <em>"black painted house in the middle of the trees"</em>
 
-  <em>""</em>
+  <em>"(contact me for the full resoluton image)"</em>
 
-  Photo by Mar Bustos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mar_mediterraneo) / [portfolio](https://www.instagram.com/mar__mediterraneo/)
+  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
 
-  Taken at Unknown • 
+  Taken at Arnisee, Gurtnellen, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7716847,8.64337209999997)
 
   ---
 
@@ -22,17 +22,64 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | 5500 |
-| Exposure Time | 300 |
-| Aperture | 16 |
-| Focal Length | 12 |
+| Camera Model | ILCE-7RM2 |
+| Exposure Time | 1/80 |
+| Aperture | 18.0 |
+| Focal Length | 60.0 |
 | ISO | 100 |
-| Location | Unknown (null) |
-| Coordinates | Latitude null, Longitude null |
+| Location | Arnisee, Gurtnellen, Switzerland (Switzerland) |
+| Coordinates | Latitude 46.7716847, Longitude 8.64337209999997 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            8.64337209999997,
+                            46.7716847
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                8.943372099999971,
+                                47.0716847
+                            ],
+                            [
+                                8.943372099999971,
+                                46.471684700000004
+                            ],
+                            [
+                                8.34337209999997,
+                                46.471684700000004
+                            ],
+                            [
+                                8.34337209999997,
+                                47.0716847
+                            ],
+                            [
+                                8.943372099999971,
+                                47.0716847
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
