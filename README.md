@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/house-in-middle-of-grass-field-M0OIyN5u8ZM"><img width="720" src="https://images.unsplash.com/photo-1552598715-7eeb9232a2ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ1MzA1NDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="house in middle of grass field"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-under-blue-sky-04-C1NZk1hE"><img width="720" src="https://images.unsplash.com/photo-1484318571209-661cf29a69c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ2MTYzMDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountains under blue sky"></a>
 
-  <em>"house in middle of grass field"</em>
+  <em>"landscape photography of mountains under blue sky"</em>
 
-  <em>"Nature is so beautiful"</em>
+  <em>"Have a look at Worlds End"</em>
 
-  Photo by Engjell Gjepali on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/feeltherealnature) / [portfolio](http://instagr.am/feeltherealnature) / [Twitter](https://twitter.com/iamengjell)
+  Photo by Lina Loos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/loosgehts_fotografie) / [portfolio](http://www.loos-gehts.de)
 
-  Taken at Tuscany, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.771051,11.248621)
+  Taken at South Africa • [Google Maps](https://www.google.com/maps/search/?api=1&query=-30.559482,22.937506)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | NIKON D500 |
-| Exposure Time | 20 |
-| Aperture | 11 |
-| Focal Length | 62.0 |
+| Camera Model | Canon EOS 5D Mark III |
+| Exposure Time | 1/250 |
+| Aperture | 10.0 |
+| Focal Length | 24.0 |
 | ISO | 100 |
-| Location | Tuscany, Italy (Italy) |
-| Coordinates | Latitude 43.771051, Longitude 11.248621 |
+| Location | South Africa (South Africa) |
+| Coordinates | Latitude -30.559482, Longitude 22.937506 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.248621,
-                            43.771051
+                            22.937506,
+                            -30.559482
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                11.548621,
-                                44.071051
+                                23.237506,
+                                -30.259482
                             ],
                             [
-                                11.548621,
-                                43.471051
+                                23.237506,
+                                -30.859482
                             ],
                             [
-                                10.948621,
-                                43.471051
+                                22.637506,
+                                -30.859482
                             ],
                             [
-                                10.948621,
-                                44.071051
+                                22.637506,
+                                -30.259482
                             ],
                             [
-                                11.548621,
-                                44.071051
+                                23.237506,
+                                -30.259482
                             ]
                         ],
                         "type": "LineString"
