@@ -5,13 +5,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/view-of-mountain-PdGBci-4jR8"><img width="720" src="https://images.unsplash.com/photo-1552152370-fb05b25ff17d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ3MDI3MzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="view of mountain"></a>
+  <a href="https://unsplash.com/photos/body-of-water-between-brown-mountains-ARVFsI-32Uk"><img width="720" src="https://images.unsplash.com/photo-1549558549-415fe4c37b60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ3ODkwNzF8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water between brown mountains"></a>
 
-  <em>"view of mountain"</em>
+  <em>"body of water between brown mountains"</em>
 
   <em>""</em>
 
-  Photo by Alessio Soggetti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/asoggetti) / [portfolio](https://asoggetti.it) / [Twitter](https://twitter.com/asoggetti)
+  Photo by Mar Bustos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mar_mediterraneo) / [portfolio](https://www.instagram.com/mar__mediterraneo/)
 
   Taken at Unknown • 
 
@@ -22,11 +22,11 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | NIKON D750 |
-| Exposure Time | 1/1000 |
-| Aperture | 9 |
-| Focal Length | 300 |
-| ISO | 125 |
+| Camera Model | 5500 |
+| Exposure Time | 300 |
+| Aperture | 16 |
+| Focal Length | 12 |
+| ISO | 100 |
 | Location | Unknown (null) |
 | Coordinates | Latitude null, Longitude null |
 
