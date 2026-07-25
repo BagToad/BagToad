@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/brown-wooden-boat-moving-towards-the-mountain-O453M2Liufs"><img width="720" src="https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ4NzU0NTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden boat moving towards the mountain"></a>
+  <a href="https://unsplash.com/photos/waterfalls-at-daytime-zNN6ubHmruI"><img width="720" src="https://images.unsplash.com/photo-1476610182048-b716b8518aae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODQ5NjE2NTJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="waterfalls at daytime"></a>
 
-  <em>"brown wooden boat moving towards the mountain"</em>
+  <em>"waterfalls at daytime"</em>
 
-  <em>"On a boat on Lago di Braies"</em>
+  <em>"Idyllic landscape with a waterfall"</em>
 
-  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
+  Photo by Robert Lukeman on [unsplash.com](https://unsplash.com/) • 
 
-  Taken at Lago di Braies, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
+  Taken at Seljalandsfoss Waterfall, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=63.6154947,-19.9900532)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | null |
-| Exposure Time | null |
-| Aperture | null |
-| Focal Length | null |
-| ISO | null |
-| Location | Lago di Braies, Italy (Italy) |
-| Coordinates | Latitude 46.6948731, Longitude 12.0859822 |
+| Camera Model | ILCE-7RM2 |
+| Exposure Time | 1.6 |
+| Aperture | 18.0 |
+| Focal Length | 18.0 |
+| ISO | 100 |
+| Location | Seljalandsfoss Waterfall, Iceland (Iceland) |
+| Coordinates | Latitude 63.6154947, Longitude -19.9900532 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0859822,
-                            46.6948731
+                            -19.9900532,
+                            63.6154947
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3859822,
-                                46.9948731
+                                -19.690053199999998,
+                                63.915494699999996
                             ],
                             [
-                                12.3859822,
-                                46.394873100000005
+                                -19.690053199999998,
+                                63.3154947
                             ],
                             [
-                                11.7859822,
-                                46.394873100000005
+                                -20.2900532,
+                                63.3154947
                             ],
                             [
-                                11.7859822,
-                                46.9948731
+                                -20.2900532,
+                                63.915494699999996
                             ],
                             [
-                                12.3859822,
-                                46.9948731
+                                -19.690053199999998,
+                                63.915494699999996
                             ]
                         ],
                         "type": "LineString"
