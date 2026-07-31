@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/train-on-bridge-surrounded-with-trees-at-daytime-XVoyX7l9ocY"><img width="720" src="https://images.unsplash.com/photo-1505832018823-50331d70d237?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODUzOTM5NjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="train on bridge surrounded with trees at daytime"></a>
+  <a href="https://unsplash.com/photos/orange-petaled-flowers-koy6FlCCy5s"><img width="720" src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0ODA3MzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="orange petaled flowers"></a>
 
-  <em>"train on bridge surrounded with trees at daytime"</em>
+  <em>"orange petaled flowers"</em>
 
-  <em>"Glen Finnan Viaduct"</em>
+  <em>"California blooming like crazy after months of non-stop rains. Even deserts are covered with juicy bright flowers. The photo was made on Diamond Valley Lake a few days ago."</em>
 
-  Photo by Jack Anstey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jack_anstey) / [portfolio](http://www.instagram.com/jack_anstey)
+  Photo by Sergey Shmidt on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/monstercritic) / [portfolio](http://shmidt.co) / [Twitter](https://twitter.com/monstercritic)
 
-  Taken at Glenfinnan Viaduct, Glenfinnan, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=56.8763083,-5.43185949999997)
+  Taken at Diamond Valley Lake, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=33.702679446692,-117.010282939209)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | ILCE-7 |
+| Camera Model | ILCE-7RM2 |
 | Exposure Time | 1/800 |
-| Aperture | 4.5 |
-| Focal Length | 42.0 |
-| ISO | 125 |
-| Location | Glenfinnan Viaduct, Glenfinnan, United Kingdom (United Kingdom) |
-| Coordinates | Latitude 56.8763083, Longitude -5.43185949999997 |
+| Aperture | 5.6 |
+| Focal Length | 55.0 |
+| ISO | 100 |
+| Location | Diamond Valley Lake, United States (United States) |
+| Coordinates | Latitude 33.702679446692, Longitude -117.010282939209 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -5.43185949999997,
-                            56.8763083
+                            -117.010282939209,
+                            33.702679446692
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -5.13185949999997,
-                                57.176308299999995
+                                -116.71028293920901,
+                                34.002679446692
                             ],
                             [
-                                -5.13185949999997,
-                                56.5763083
+                                -116.71028293920901,
+                                33.402679446692005
                             ],
                             [
-                                -5.7318594999999695,
-                                56.5763083
+                                -117.310282939209,
+                                33.402679446692005
                             ],
                             [
-                                -5.7318594999999695,
-                                57.176308299999995
+                                -117.310282939209,
+                                34.002679446692
                             ],
                             [
-                                -5.13185949999997,
-                                57.176308299999995
+                                -116.71028293920901,
+                                34.002679446692
                             ]
                         ],
                         "type": "LineString"
