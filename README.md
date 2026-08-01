@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/orange-petaled-flowers-koy6FlCCy5s"><img width="720" src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU0ODA3MzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="orange petaled flowers"></a>
+  <a href="https://unsplash.com/photos/empty-concrete-road-covered-surrounded-by-tall-tress-with-sun-rays-3Kv48NS4WUU"><img width="720" src="https://images.unsplash.com/photo-1470115636492-6d2b56f9146d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU1NjY2Njd8&ixlib=rb-4.1.0&q=80&w=1080" alt="empty concrete road covered surrounded by tall tress with sun rays"></a>
 
-  <em>"orange petaled flowers"</em>
+  <em>"empty concrete road covered surrounded by tall tress with sun rays"</em>
 
-  <em>"California blooming like crazy after months of non-stop rains. Even deserts are covered with juicy bright flowers. The photo was made on Diamond Valley Lake a few days ago."</em>
+  <em>"Beam of light on a forest road"</em>
 
-  Photo by Sergey Shmidt on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/monstercritic) / [portfolio](http://shmidt.co) / [Twitter](https://twitter.com/monstercritic)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
 
-  Taken at Diamond Valley Lake, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=33.702679446692,-117.010282939209)
+  Taken at Ave of Giants, Ca • 
 
   ---
 
@@ -22,64 +22,17 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | ILCE-7RM2 |
-| Exposure Time | 1/800 |
-| Aperture | 5.6 |
-| Focal Length | 55.0 |
-| ISO | 100 |
-| Location | Diamond Valley Lake, United States (United States) |
-| Coordinates | Latitude 33.702679446692, Longitude -117.010282939209 |
+| Camera Model | ILCE-7M2 |
+| Exposure Time | 1/250 |
+| Aperture | 4.0 |
+| Focal Length | 157.0 |
+| ISO | 800 |
+| Location | Ave of Giants, Ca (null) |
+| Coordinates | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -117.010282939209,
-                            33.702679446692
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -116.71028293920901,
-                                34.002679446692
-                            ],
-                            [
-                                -116.71028293920901,
-                                33.402679446692005
-                            ],
-                            [
-                                -117.310282939209,
-                                33.402679446692005
-                            ],
-                            [
-                                -117.310282939209,
-                                34.002679446692
-                            ],
-                            [
-                                -116.71028293920901,
-                                34.002679446692
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
