@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/a-person-standing-in-the-middle-of-a-desert-9f7oiGARGIg"><img width="720" src="https://images.unsplash.com/photo-1683009427590-dd987135e66c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU4MjU5NDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="a person standing in the middle of a desert"></a>
+  <a href="https://unsplash.com/photos/mountain-reflection-on-body-of-water-DlkF4-dbCOU"><img width="720" src="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODU5MTIzODZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountain reflection on body of water"></a>
 
-  <em>"a person standing in the middle of a desert"</em>
+  <em>"mountain reflection on body of water"</em>
 
-  <em>"Hisma Desert - NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
+  <em>"sunrise"</em>
 
-  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
+  Photo by garrett parker on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/garrettpsystems) / [portfolio](http://amblestudios.com) / [Twitter](https://twitter.com/garrettpsystems)
 
-  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
+  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
 
   ---
 
@@ -22,17 +22,64 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model |  EOS 5DS R |
-| Exposure Time | 1/500 |
-| Aperture | 8 |
+| Camera Model | Canon EOS 6D |
+| Exposure Time | 1/320 |
+| Aperture | 2.8 |
 | Focal Length | 24.0 |
-| ISO | 100 |
-| Location | Hisma Desert –  NEOM, Saudi Arabia (null) |
-| Coordinates | Latitude 0, Longitude 0 |
+| ISO | 2000 |
+| Location | Moraine Lake, Canada (Canada) |
+| Coordinates | Latitude 51.3217416, Longitude -116.1860049 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -116.1860049,
+                            51.3217416
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -115.8860049,
+                                51.6217416
+                            ],
+                            [
+                                -115.8860049,
+                                51.021741600000006
+                            ],
+                            [
+                                -116.4860049,
+                                51.021741600000006
+                            ],
+                            [
+                                -116.4860049,
+                                51.6217416
+                            ],
+                            [
+                                -115.8860049,
+                                51.6217416
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
