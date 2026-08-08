@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-under-blue-sky-04-C1NZk1hE"><img width="720" src="https://images.unsplash.com/photo-1484318571209-661cf29a69c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYwODM1NTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountains under blue sky"></a>
+  <a href="https://unsplash.com/photos/brown-wooden-boat-moving-towards-the-mountain-O453M2Liufs"><img width="720" src="https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODYxNjk0MTN8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown wooden boat moving towards the mountain"></a>
 
-  <em>"landscape photography of mountains under blue sky"</em>
+  <em>"brown wooden boat moving towards the mountain"</em>
 
-  <em>"Have a look at Worlds End"</em>
+  <em>"On a boat on Lago di Braies"</em>
 
-  Photo by Lina Loos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/loosgehts_fotografie) / [portfolio](http://www.loos-gehts.de)
+  Photo by Luca Bravo on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/lucabravo) / [portfolio](https://instagram.com/lucabravo/) / [Twitter](https://twitter.com/hz)
 
-  Taken at South Africa • [Google Maps](https://www.google.com/maps/search/?api=1&query=-30.559482,22.937506)
+  Taken at Lago di Braies, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.6948731,12.0859822)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS 5D Mark III |
-| Exposure Time | 1/250 |
-| Aperture | 10.0 |
-| Focal Length | 24.0 |
-| ISO | 100 |
-| Location | South Africa (South Africa) |
-| Coordinates | Latitude -30.559482, Longitude 22.937506 |
+| Camera Model | null |
+| Exposure Time | null |
+| Aperture | null |
+| Focal Length | null |
+| ISO | null |
+| Location | Lago di Braies, Italy (Italy) |
+| Coordinates | Latitude 46.6948731, Longitude 12.0859822 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            22.937506,
-                            -30.559482
+                            12.0859822,
+                            46.6948731
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                23.237506,
-                                -30.259482
+                                12.3859822,
+                                46.9948731
                             ],
                             [
-                                23.237506,
-                                -30.859482
+                                12.3859822,
+                                46.394873100000005
                             ],
                             [
-                                22.637506,
-                                -30.859482
+                                11.7859822,
+                                46.394873100000005
                             ],
                             [
-                                22.637506,
-                                -30.259482
+                                11.7859822,
+                                46.9948731
                             ],
                             [
-                                23.237506,
-                                -30.259482
+                                12.3859822,
+                                46.9948731
                             ]
                         ],
                         "type": "LineString"
