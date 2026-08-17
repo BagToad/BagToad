@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/house-in-middle-of-grass-field-M0OIyN5u8ZM"><img width="720" src="https://images.unsplash.com/photo-1552598715-7eeb9232a2ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY4NjAxODB8&ixlib=rb-4.1.0&q=80&w=1080" alt="house in middle of grass field"></a>
+  <a href="https://unsplash.com/photos/blue-and-brown-steel-bridge-eOpewngf68w"><img width="720" src="https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODY5NDY2ODJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue and brown steel bridge"></a>
 
-  <em>"house in middle of grass field"</em>
+  <em>"blue and brown steel bridge"</em>
 
-  <em>"Nature is so beautiful"</em>
+  <em>"Whangarei Falls footbridge"</em>
 
-  Photo by Engjell Gjepali on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/feeltherealnature) / [portfolio](http://instagr.am/feeltherealnature) / [Twitter](https://twitter.com/iamengjell)
+  Photo by Tim Swaan on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/timswaan) / [Twitter](https://twitter.com/TimSwaan)
 
-  Taken at Tuscany, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=43.771051,11.248621)
+  Taken at Whangarei Falls, Whangarei, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-35.6843923,174.3357673)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | NIKON D500 |
-| Exposure Time | 20 |
-| Aperture | 11 |
-| Focal Length | 62.0 |
-| ISO | 100 |
-| Location | Tuscany, Italy (Italy) |
-| Coordinates | Latitude 43.771051, Longitude 11.248621 |
+| Camera Model | Canon EOS 6D |
+| Exposure Time | 1/250 |
+| Aperture | 9.0 |
+| Focal Length | 28.0 |
+| ISO | 1250 |
+| Location | Whangarei Falls, Whangarei, New Zealand (New Zealand) |
+| Coordinates | Latitude -35.6843923, Longitude 174.3357673 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.248621,
-                            43.771051
+                            174.3357673,
+                            -35.6843923
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                11.548621,
-                                44.071051
+                                174.6357673,
+                                -35.3843923
                             ],
                             [
-                                11.548621,
-                                43.471051
+                                174.6357673,
+                                -35.984392299999996
                             ],
                             [
-                                10.948621,
-                                43.471051
+                                174.03576729999997,
+                                -35.984392299999996
                             ],
                             [
-                                10.948621,
-                                44.071051
+                                174.03576729999997,
+                                -35.3843923
                             ],
                             [
-                                11.548621,
-                                44.071051
+                                174.6357673,
+                                -35.3843923
                             ]
                         ],
                         "type": "LineString"
