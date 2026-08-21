@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/a-desert-landscape-with-rocks-and-sand-THlO6Mkf5uI"><img width="720" src="https://images.unsplash.com/photo-1682687220499-d9c06b872eee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyMDU4NDh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a desert landscape with rocks and sand"></a>
+  <a href="https://unsplash.com/photos/forest-under-blue-sky-B5drkS_Z5RM"><img width="720" src="https://images.unsplash.com/photo-1484591974057-265bb767ef71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODcyOTIyNjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="forest under blue sky"></a>
 
-  <em>"a desert landscape with rocks and sand"</em>
+  <em>"forest under blue sky"</em>
 
-  <em>"Sandstone plateau, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
+  <em>"Follow my Instagram @karsten.wuerth"</em>
 
-  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
+  Photo by Karsten Würth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/karsten.wuerth)
 
-  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
+  Taken at Seiser Alm, Kastelruth, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.5315731,11.6260806)
 
   ---
 
@@ -22,17 +22,64 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | null |
-| Exposure Time | null |
-| Aperture | null |
-| Focal Length | 0.0 |
-| ISO | null |
-| Location | Hisma Desert –  NEOM, Saudi Arabia (null) |
-| Coordinates | Latitude 0, Longitude 0 |
+| Camera Model | PENTAX K-S2 |
+| Exposure Time | 1/50 |
+| Aperture | 13 |
+| Focal Length | 26.0 |
+| ISO | 200 |
+| Location | Seiser Alm, Kastelruth, Italy (Italy) |
+| Coordinates | Latitude 46.5315731, Longitude 11.6260806 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            11.6260806,
+                            46.5315731
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                11.9260806,
+                                46.8315731
+                            ],
+                            [
+                                11.9260806,
+                                46.231573100000006
+                            ],
+                            [
+                                11.3260806,
+                                46.231573100000006
+                            ],
+                            [
+                                11.3260806,
+                                46.8315731
+                            ],
+                            [
+                                11.9260806,
+                                46.8315731
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
