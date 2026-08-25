@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/brown-rock-formation-under-blue-sky-CSpjU6hYo_0"><img width="720" src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc1NTE2MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown rock formation under blue sky"></a>
+  <a href="https://unsplash.com/photos/scenery-of-mountain-oMneOBYhJxY"><img width="720" src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2Mzc4NjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="scenery of mountain"></a>
 
-  <em>"brown rock formation under blue sky"</em>
+  <em>"scenery of mountain"</em>
 
-  <em>""</em>
+  <em>"Color of the lake is so beautiful!"</em>
 
-  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
+  Photo by John Lee on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/john_artifexfilm) / [portfolio](http://www.artifexfilm.com)
 
-  Taken at Giau Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4830556,12.0541667)
+  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | X-T10 |
-| Exposure Time | 1/340 |
-| Aperture | 1.0 |
-| Focal Length | 50.0 |
-| ISO | 400 |
-| Location | Giau Pass, Italy (Italy) |
-| Coordinates | Latitude 46.4830556, Longitude 12.0541667 |
+| Camera Model | null |
+| Exposure Time | null |
+| Aperture | null |
+| Focal Length | null |
+| ISO | null |
+| Location | Moraine Lake, Canada (Canada) |
+| Coordinates | Latitude 51.3217416, Longitude -116.1860049 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0541667,
-                            46.4830556
+                            -116.1860049,
+                            51.3217416
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3541667,
-                                46.7830556
+                                -115.8860049,
+                                51.6217416
                             ],
                             [
-                                12.3541667,
-                                46.1830556
+                                -115.8860049,
+                                51.021741600000006
                             ],
                             [
-                                11.754166699999999,
-                                46.1830556
+                                -116.4860049,
+                                51.021741600000006
                             ],
                             [
-                                11.754166699999999,
-                                46.7830556
+                                -116.4860049,
+                                51.6217416
                             ],
                             [
-                                12.3541667,
-                                46.7830556
+                                -115.8860049,
+                                51.6217416
                             ]
                         ],
                         "type": "LineString"
