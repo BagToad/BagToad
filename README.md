@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/scenery-of-mountain-oMneOBYhJxY"><img width="720" src="https://images.unsplash.com/photo-1503614472-8c93d56e92ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc2Mzc4NjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="scenery of mountain"></a>
+  <a href="https://unsplash.com/photos/white-wooden-tree-surround-by-grass-field-during-sunset-LJD6U920zVo"><img width="720" src="https://images.unsplash.com/photo-1433477155337-9aea4e790195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3MjQzMDZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="white wooden tree surround by grass field during sunset"></a>
 
-  <em>"scenery of mountain"</em>
+  <em>"white wooden tree surround by grass field during sunset"</em>
 
-  <em>"Color of the lake is so beautiful!"</em>
+  <em>"Mountain Valley"</em>
 
-  Photo by John Lee on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/john_artifexfilm) / [portfolio](http://www.artifexfilm.com)
+  Photo by Jasper Boer on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/photoadventurenz) / [portfolio](http://artloversrepublic.com) / [Twitter](https://twitter.com/jasperboer)
 
-  Taken at Moraine Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.3217416,-116.1860049)
+  Taken at Unknown • 
 
   ---
 
@@ -22,64 +22,17 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | null |
+| Camera Model | NEX-5N |
 | Exposure Time | null |
 | Aperture | null |
 | Focal Length | null |
-| ISO | null |
-| Location | Moraine Lake, Canada (Canada) |
-| Coordinates | Latitude 51.3217416, Longitude -116.1860049 |
+| ISO | 100 |
+| Location | Unknown (null) |
+| Coordinates | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -116.1860049,
-                            51.3217416
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -115.8860049,
-                                51.6217416
-                            ],
-                            [
-                                -115.8860049,
-                                51.021741600000006
-                            ],
-                            [
-                                -116.4860049,
-                                51.021741600000006
-                            ],
-                            [
-                                -116.4860049,
-                                51.6217416
-                            ],
-                            [
-                                -115.8860049,
-                                51.6217416
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
