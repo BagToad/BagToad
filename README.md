@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/white-wooden-tree-surround-by-grass-field-during-sunset-LJD6U920zVo"><img width="720" src="https://images.unsplash.com/photo-1433477155337-9aea4e790195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc3MjQzMDZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="white wooden tree surround by grass field during sunset"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4"><img width="720" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc4MjA5ODd8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountain hit by sun rays"></a>
 
-  <em>"white wooden tree surround by grass field during sunset"</em>
+  <em>"landscape photography of mountain hit by sun rays"</em>
 
-  <em>"Mountain Valley"</em>
+  <em>"Alone in the unspoilt wilderness"</em>
 
-  Photo by Jasper Boer on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/photoadventurenz) / [portfolio](http://artloversrepublic.com) / [Twitter](https://twitter.com/jasperboer)
+  Photo by Urban Vintage on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/urban_vintage.ro) / [portfolio](https://urban-vintage.ro/) / [Twitter](https://twitter.com/dmqwe)
 
-  Taken at Unknown • 
+  Taken at Ciucaș Peak, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5217138,25.9261894)
 
   ---
 
@@ -22,17 +22,64 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | NEX-5N |
-| Exposure Time | null |
-| Aperture | null |
-| Focal Length | null |
+| Camera Model | NIKON D90 |
+| Exposure Time | 1/200 |
+| Aperture | 8.0 |
+| Focal Length | 35.0 |
 | ISO | 100 |
-| Location | Unknown (null) |
-| Coordinates | Latitude null, Longitude null |
+| Location | Ciucaș Peak, Romania (Romania) |
+| Coordinates | Latitude 45.5217138, Longitude 25.9261894 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            25.9261894,
+                            45.5217138
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                26.2261894,
+                                45.8217138
+                            ],
+                            [
+                                26.2261894,
+                                45.2217138
+                            ],
+                            [
+                                25.626189399999998,
+                                45.2217138
+                            ],
+                            [
+                                25.626189399999998,
+                                45.8217138
+                            ],
+                            [
+                                26.2261894,
+                                45.8217138
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
