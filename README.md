@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/a-desert-landscape-with-rocks-and-sand-THlO6Mkf5uI"><img width="720" src="https://images.unsplash.com/photo-1682687220499-d9c06b872eee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc5MDc1MDh8&ixlib=rb-4.1.0&q=80&w=1080" alt="a desert landscape with rocks and sand"></a>
+  <a href="https://unsplash.com/photos/2-person-on-boat-at-lake-during-daytime-TApAkERW5pQ"><img width="720" src="https://images.unsplash.com/photo-1542856391-010fb87dcfed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc5ODMyMzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="2 person on boat at lake during daytime"></a>
 
-  <em>"a desert landscape with rocks and sand"</em>
+  <em>"2 person on boat at lake during daytime"</em>
 
-  <em>"Sandstone plateau, Hisma Desert – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
+  <em>"My brother and I hired one of these boats for an hour and paddled around this gorgeous lake. Then a storm rolled in and we were stuck in the middle of the lake with no shelter from the torrential rain. An spontaneous race began between all the boats on the lake as everyone raced back to the dock. I’m proud to say that our boat pulled in first."</em>
 
-  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
+  Photo by Joel Vodell on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joelvodell) / [portfolio](http://instagram.com/joelvodell) / [Twitter](https://twitter.com/joelvodell)
 
-  Taken at Hisma Desert –  NEOM, Saudi Arabia • 
+  Taken at Lago Di Braies, Italy • 
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | null |
-| Exposure Time | null |
-| Aperture | null |
-| Focal Length | 0.0 |
-| ISO | null |
-| Location | Hisma Desert –  NEOM, Saudi Arabia (null) |
-| Coordinates | Latitude 0, Longitude 0 |
+| Camera Model | ILCE-6300 |
+| Exposure Time | 1/60 |
+| Aperture | 11.0 |
+| Focal Length | 16.0 |
+| ISO | 320 |
+| Location | Lago Di Braies, Italy (Italy) |
+| Coordinates | Latitude null, Longitude null |
 
 ### Map
 
