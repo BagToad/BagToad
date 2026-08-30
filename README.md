@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/2-person-on-boat-at-lake-during-daytime-TApAkERW5pQ"><img width="720" src="https://images.unsplash.com/photo-1542856391-010fb87dcfed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODc5ODMyMzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="2 person on boat at lake during daytime"></a>
+  <a href="https://unsplash.com/photos/annapurna-peaks-under-stars-in-nepal-v7daTKlZzaw"><img width="720" src="https://images.unsplash.com/photo-1485470733090-0aae1788d5af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgwNjk2NDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="Snow-capped peaks of the Annapurna range under a starry night sky in Nepal"></a>
 
-  <em>"2 person on boat at lake during daytime"</em>
+  <em>"Snow-capped peaks of the Annapurna range under a starry night sky in Nepal"</em>
 
-  <em>"My brother and I hired one of these boats for an hour and paddled around this gorgeous lake. Then a storm rolled in and we were stuck in the middle of the lake with no shelter from the torrential rain. An spontaneous race began between all the boats on the lake as everyone raced back to the dock. I’m proud to say that our boat pulled in first."</em>
+  <em>"Taken from the top of Poon Hill before sun rise"</em>
 
-  Photo by Joel Vodell on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joelvodell) / [portfolio](http://instagram.com/joelvodell) / [Twitter](https://twitter.com/joelvodell)
+  Photo by Daniel Leone on [unsplash.com](https://unsplash.com/) • [portfolio](https://danielleone.com)
 
-  Taken at Lago Di Braies, Italy • 
+  Taken at Poon Hill, Ghode Pani, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.4004787,83.6940737)
 
   ---
 
@@ -22,17 +22,64 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | ILCE-6300 |
-| Exposure Time | 1/60 |
-| Aperture | 11.0 |
-| Focal Length | 16.0 |
-| ISO | 320 |
-| Location | Lago Di Braies, Italy (Italy) |
-| Coordinates | Latitude null, Longitude null |
+| Camera Model | null |
+| Exposure Time | null |
+| Aperture | null |
+| Focal Length | null |
+| ISO | null |
+| Location | Poon Hill, Ghode Pani, Nepal (Nepal) |
+| Coordinates | Latitude 28.4004787, Longitude 83.6940737 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            83.6940737,
+                            28.4004787
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                83.9940737,
+                                28.7004787
+                            ],
+                            [
+                                83.9940737,
+                                28.1004787
+                            ],
+                            [
+                                83.3940737,
+                                28.1004787
+                            ],
+                            [
+                                83.3940737,
+                                28.7004787
+                            ],
+                            [
+                                83.9940737,
+                                28.7004787
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
