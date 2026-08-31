@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/annapurna-peaks-under-stars-in-nepal-v7daTKlZzaw"><img width="720" src="https://images.unsplash.com/photo-1485470733090-0aae1788d5af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgwNjk2NDN8&ixlib=rb-4.1.0&q=80&w=1080" alt="Snow-capped peaks of the Annapurna range under a starry night sky in Nepal"></a>
+  <a href="https://unsplash.com/photos/green-hills-with-forest-under-cloudy-sky-during-daytime--SO3JtE3gZo"><img width="720" src="https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgxNTYwMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="green hills with forest under cloudy sky during daytime"></a>
 
-  <em>"Snow-capped peaks of the Annapurna range under a starry night sky in Nepal"</em>
+  <em>"green hills with forest under cloudy sky during daytime"</em>
 
-  <em>"Taken from the top of Poon Hill before sun rise"</em>
+  <em>""</em>
 
-  Photo by Daniel Leone on [unsplash.com](https://unsplash.com/) • [portfolio](https://danielleone.com)
+  Photo by Claudio Testa on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/testaphotography) / [portfolio](http://testa-photography.com/)
 
-  Taken at Poon Hill, Ghode Pani, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.4004787,83.6940737)
+  Taken at Haselschacher Buck, Vogtsburg, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.0959879,7.69210129999999)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | null |
-| Exposure Time | null |
-| Aperture | null |
-| Focal Length | null |
-| ISO | null |
-| Location | Poon Hill, Ghode Pani, Nepal (Nepal) |
-| Coordinates | Latitude 28.4004787, Longitude 83.6940737 |
+| Camera Model | Canon EOS 600D |
+| Exposure Time | 1/13 |
+| Aperture | 8.0 |
+| Focal Length | 18.0 |
+| ISO | 100 |
+| Location | Haselschacher Buck, Vogtsburg, Germany (Germany) |
+| Coordinates | Latitude 48.0959879, Longitude 7.69210129999999 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            83.6940737,
-                            28.4004787
+                            7.69210129999999,
+                            48.0959879
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                83.9940737,
-                                28.7004787
+                                7.99210129999999,
+                                48.395987899999994
                             ],
                             [
-                                83.9940737,
-                                28.1004787
+                                7.99210129999999,
+                                47.7959879
                             ],
                             [
-                                83.3940737,
-                                28.1004787
+                                7.39210129999999,
+                                47.7959879
                             ],
                             [
-                                83.3940737,
-                                28.7004787
+                                7.39210129999999,
+                                48.395987899999994
                             ],
                             [
-                                83.9940737,
-                                28.7004787
+                                7.99210129999999,
+                                48.395987899999994
                             ]
                         ],
                         "type": "LineString"
