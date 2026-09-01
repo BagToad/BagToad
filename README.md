@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/green-hills-with-forest-under-cloudy-sky-during-daytime--SO3JtE3gZo"><img width="720" src="https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgxNTYwMjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="green hills with forest under cloudy sky during daytime"></a>
+  <a href="https://unsplash.com/photos/turquoise-lake-and-snow-capped-mountains-ZqLeQDjY6fY"><img width="720" src="https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgyNDI0NDZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Turquoise lake reflecting snow-capped mountains under a soft pink cloudy sky"></a>
 
-  <em>"green hills with forest under cloudy sky during daytime"</em>
+  <em>"Turquoise lake reflecting snow-capped mountains under a soft pink cloudy sky"</em>
 
-  <em>""</em>
+  <em>"Maligne Lake from the Spirit Island Dock. Check out other photos or videos I made on instagram: @its_tgain or TikTok: @thehikersguide"</em>
 
-  Photo by Claudio Testa on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/testaphotography) / [portfolio](http://testa-photography.com/)
+  Photo by Tom Gainor on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/its_tgain) / [portfolio](http://tiktok.com/@thehikersguide) / [Twitter](https://twitter.com/splitrock37)
 
-  Taken at Haselschacher Buck, Vogtsburg, Germany • [Google Maps](https://www.google.com/maps/search/?api=1&query=48.0959879,7.69210129999999)
+  Taken at Maligne Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.6547556112802,-117.520967451221)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS 600D |
-| Exposure Time | 1/13 |
-| Aperture | 8.0 |
-| Focal Length | 18.0 |
-| ISO | 100 |
-| Location | Haselschacher Buck, Vogtsburg, Germany (Germany) |
-| Coordinates | Latitude 48.0959879, Longitude 7.69210129999999 |
+| Camera Model | null |
+| Exposure Time | null |
+| Aperture | null |
+| Focal Length | 0.0 |
+| ISO | null |
+| Location | Maligne Lake, Canada (Canada) |
+| Coordinates | Latitude 52.6547556112802, Longitude -117.520967451221 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            7.69210129999999,
-                            48.0959879
+                            -117.520967451221,
+                            52.6547556112802
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                7.99210129999999,
-                                48.395987899999994
+                                -117.220967451221,
+                                52.9547556112802
                             ],
                             [
-                                7.99210129999999,
-                                47.7959879
+                                -117.220967451221,
+                                52.354755611280204
                             ],
                             [
-                                7.39210129999999,
-                                47.7959879
+                                -117.820967451221,
+                                52.354755611280204
                             ],
                             [
-                                7.39210129999999,
-                                48.395987899999994
+                                -117.820967451221,
+                                52.9547556112802
                             ],
                             [
-                                7.99210129999999,
-                                48.395987899999994
+                                -117.220967451221,
+                                52.9547556112802
                             ]
                         ],
                         "type": "LineString"
