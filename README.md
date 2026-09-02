@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/turquoise-lake-and-snow-capped-mountains-ZqLeQDjY6fY"><img width="720" src="https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgyNDI0NDZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Turquoise lake reflecting snow-capped mountains under a soft pink cloudy sky"></a>
+  <a href="https://unsplash.com/photos/green-and-gray-rock-formation-beside-body-of-water-under-cloudy-sky-during-daytime-m_uSWBJWr0s"><img width="720" src="https://images.unsplash.com/photo-1621847468516-1ed5d0df56fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODgzMjg4MzR8&ixlib=rb-4.1.0&q=80&w=1080" alt="green and gray rock formation beside body of water under cloudy sky during daytime"></a>
 
-  <em>"Turquoise lake reflecting snow-capped mountains under a soft pink cloudy sky"</em>
+  <em>"green and gray rock formation beside body of water under cloudy sky during daytime"</em>
 
-  <em>"Maligne Lake from the Spirit Island Dock. Check out other photos or videos I made on instagram: @its_tgain or TikTok: @thehikersguide"</em>
+  <em>""</em>
 
-  Photo by Tom Gainor on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/its_tgain) / [portfolio](http://tiktok.com/@thehikersguide) / [Twitter](https://twitter.com/splitrock37)
+  Photo by Allyson Beaucourt on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daymnous)
 
-  Taken at Maligne Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.6547556112802,-117.520967451221)
+  Taken at Étretat, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.707007,0.205598)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | null |
-| Exposure Time | null |
-| Aperture | null |
-| Focal Length | 0.0 |
-| ISO | null |
-| Location | Maligne Lake, Canada (Canada) |
-| Coordinates | Latitude 52.6547556112802, Longitude -117.520967451221 |
+| Camera Model | DC-G9 |
+| Exposure Time | 1/640 |
+| Aperture | 6.3 |
+| Focal Length | 12.0 |
+| ISO | 200 |
+| Location | Étretat, France (France) |
+| Coordinates | Latitude 49.707007, Longitude 0.205598 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -117.520967451221,
-                            52.6547556112802
+                            0.205598,
+                            49.707007
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -117.220967451221,
-                                52.9547556112802
+                                0.505598,
+                                50.007006999999994
                             ],
                             [
-                                -117.220967451221,
-                                52.354755611280204
+                                0.505598,
+                                49.407007
                             ],
                             [
-                                -117.820967451221,
-                                52.354755611280204
+                                -0.09440199999999999,
+                                49.407007
                             ],
                             [
-                                -117.820967451221,
-                                52.9547556112802
+                                -0.09440199999999999,
+                                50.007006999999994
                             ],
                             [
-                                -117.220967451221,
-                                52.9547556112802
+                                0.505598,
+                                50.007006999999994
                             ]
                         ],
                         "type": "LineString"
