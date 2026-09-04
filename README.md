@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/yellow-lights-between-trees-hvrpOmuMrAI"><img width="720" src="https://images.unsplash.com/photo-1500673922987-e212871fec22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg0MTUyODd8&ixlib=rb-4.1.0&q=80&w=1080" alt="yellow lights between trees"></a>
+  <a href="https://unsplash.com/photos/turquoise-lake-and-snow-capped-mountains-ZqLeQDjY6fY"><img width="720" src="https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1MDE2MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Turquoise lake reflecting snow-capped mountains under a soft pink cloudy sky"></a>
 
-  <em>"yellow lights between trees"</em>
+  <em>"Turquoise lake reflecting snow-capped mountains under a soft pink cloudy sky"</em>
 
-  <em>"Golden forest pathway"</em>
+  <em>"Maligne Lake from the Spirit Island Dock. Check out other photos or videos I made on instagram: @its_tgain or TikTok: @thehikersguide"</em>
 
-  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
+  Photo by Tom Gainor on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/its_tgain) / [portfolio](http://tiktok.com/@thehikersguide) / [Twitter](https://twitter.com/splitrock37)
 
-  Taken at Unknown • 
+  Taken at Maligne Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.6547556112802,-117.520967451221)
 
   ---
 
@@ -22,17 +22,64 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | ILCE-7 |
-| Exposure Time | 0.7 |
-| Aperture | 13.0 |
-| Focal Length | 104.0 |
-| ISO | 100 |
-| Location | Unknown (null) |
-| Coordinates | Latitude null, Longitude null |
+| Camera Model | null |
+| Exposure Time | null |
+| Aperture | null |
+| Focal Length | 0.0 |
+| ISO | null |
+| Location | Maligne Lake, Canada (Canada) |
+| Coordinates | Latitude 52.6547556112802, Longitude -117.520967451221 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            -117.520967451221,
+                            52.6547556112802
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                -117.220967451221,
+                                52.9547556112802
+                            ],
+                            [
+                                -117.220967451221,
+                                52.354755611280204
+                            ],
+                            [
+                                -117.820967451221,
+                                52.354755611280204
+                            ],
+                            [
+                                -117.820967451221,
+                                52.9547556112802
+                            ],
+                            [
+                                -117.220967451221,
+                                52.9547556112802
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
