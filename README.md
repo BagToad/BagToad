@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/turquoise-lake-and-snow-capped-mountains-ZqLeQDjY6fY"><img width="720" src="https://images.unsplash.com/photo-1531512073830-ba890ca4eba2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1MDE2MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Turquoise lake reflecting snow-capped mountains under a soft pink cloudy sky"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-field-Zm2n2O7Fph4"><img width="720" src="https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1ODgwMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of field"></a>
 
-  <em>"Turquoise lake reflecting snow-capped mountains under a soft pink cloudy sky"</em>
+  <em>"landscape photography of field"</em>
 
-  <em>"Maligne Lake from the Spirit Island Dock. Check out other photos or videos I made on instagram: @its_tgain or TikTok: @thehikersguide"</em>
+  <em>"Into The Horizon"</em>
 
-  Photo by Tom Gainor on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/its_tgain) / [portfolio](http://tiktok.com/@thehikersguide) / [Twitter](https://twitter.com/splitrock37)
+  Photo by Benjamin Davies on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bendavisual) / [portfolio](http://benjamindavies.co/) / [Twitter](https://twitter.com/daviesben33)
 
-  Taken at Maligne Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=52.6547556112802,-117.520967451221)
+  Taken at Wooburn Green, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5873944182614,-0.692313111206204)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | null |
-| Exposure Time | null |
-| Aperture | null |
-| Focal Length | 0.0 |
-| ISO | null |
-| Location | Maligne Lake, Canada (Canada) |
-| Coordinates | Latitude 52.6547556112802, Longitude -117.520967451221 |
+| Camera Model | X-E2 |
+| Exposure Time | 1/950 |
+| Aperture | 4.5 |
+| Focal Length | 18.0 |
+| ISO | 400 |
+| Location | Wooburn Green, United Kingdom (United Kingdom) |
+| Coordinates | Latitude 51.5873944182614, Longitude -0.692313111206204 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -117.520967451221,
-                            52.6547556112802
+                            -0.692313111206204,
+                            51.5873944182614
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -117.220967451221,
-                                52.9547556112802
+                                -0.392313111206204,
+                                51.887394418261394
                             ],
                             [
-                                -117.220967451221,
-                                52.354755611280204
+                                -0.392313111206204,
+                                51.2873944182614
                             ],
                             [
-                                -117.820967451221,
-                                52.354755611280204
+                                -0.992313111206204,
+                                51.2873944182614
                             ],
                             [
-                                -117.820967451221,
-                                52.9547556112802
+                                -0.992313111206204,
+                                51.887394418261394
                             ],
                             [
-                                -117.220967451221,
-                                52.9547556112802
+                                -0.392313111206204,
+                                51.887394418261394
                             ]
                         ],
                         "type": "LineString"
