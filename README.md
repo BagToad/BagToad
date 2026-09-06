@@ -5,15 +5,17 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/landscape-photography-of-field-Zm2n2O7Fph4"><img width="720" src="https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg1ODgwMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of field"></a>
+  <a href="https://unsplash.com/photos/landscape-photography-of-mountains-twukN12EN7c"><img width="720" src="https://images.unsplash.com/photo-1500964757637-c85e8a162699?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg2NzQ0MjN8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountains"></a>
 
-  <em>"landscape photography of field"</em>
+  <em>"landscape photography of mountains"</em>
 
-  <em>"Into The Horizon"</em>
+  <em>"Pink toned thoughts on a hike —
+Everything comes in waves,
+even mountains."</em>
 
-  Photo by Benjamin Davies on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/bendavisual) / [portfolio](http://benjamindavies.co/) / [Twitter](https://twitter.com/daviesben33)
+  Photo by simon on [unsplash.com](https://unsplash.com/) • [portfolio](https://www.flickr.com/photos/simon_berger/)
 
-  Taken at Wooburn Green, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.5873944182614,-0.692313111206204)
+  Taken at Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich • [Google Maps](https://www.google.com/maps/search/?api=1&query=47.82743333,13.62928667)
 
   ---
 
@@ -22,13 +24,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | X-E2 |
-| Exposure Time | 1/950 |
-| Aperture | 4.5 |
-| Focal Length | 18.0 |
-| ISO | 400 |
-| Location | Wooburn Green, United Kingdom (United Kingdom) |
-| Coordinates | Latitude 51.5873944182614, Longitude -0.692313111206204 |
+| Camera Model | E-M1 |
+| Exposure Time | 1/800 |
+| Aperture | 4 |
+| Focal Length | 75.0 |
+| ISO | 200 |
+| Location | Altmünster am Traunsee, Neukirchen bei Altmünster, Oberösterreich, Österreich (Österreich) |
+| Coordinates | Latitude 47.82743333, Longitude 13.62928667 |
 
 ### Map
 
@@ -41,8 +43,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -0.692313111206204,
-                            51.5873944182614
+                            13.62928667,
+                            47.82743333
                         ],
                         "type": "Point"
                     },
@@ -54,24 +56,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -0.392313111206204,
-                                51.887394418261394
+                                13.929286670000002,
+                                48.127433329999995
                             ],
                             [
-                                -0.392313111206204,
-                                51.2873944182614
+                                13.929286670000002,
+                                47.52743333
                             ],
                             [
-                                -0.992313111206204,
-                                51.2873944182614
+                                13.32928667,
+                                47.52743333
                             ],
                             [
-                                -0.992313111206204,
-                                51.887394418261394
+                                13.32928667,
+                                48.127433329999995
                             ],
                             [
-                                -0.392313111206204,
-                                51.887394418261394
+                                13.929286670000002,
+                                48.127433329999995
                             ]
                         ],
                         "type": "LineString"
