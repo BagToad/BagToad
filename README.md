@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/blue-ocean-in-front-of-rockl-u_nsiSvPEak"><img width="720" src="https://images.unsplash.com/photo-1464254786740-b97e5420c299?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg4NDcyMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue ocean in front of rockl"></a>
+  <a href="https://unsplash.com/photos/scenery-of-mountain-canyon-WeYamle9fDM"><img width="720" src="https://images.unsplash.com/photo-1479030160180-b1860951d696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODg5MzM2Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="scenery of mountain canyon"></a>
 
-  <em>"blue ocean in front of rockl"</em>
+  <em>"scenery of mountain canyon"</em>
 
-  <em>"Shoreline at sunset"</em>
+  <em>""</em>
 
-  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
+  Photo by Ashim D’Silva on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/randomlies) / [portfolio](https://ashim.myportfolio.com/)
 
-  Taken at Three Tables Beach, Haleiwa, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.6468156553021,-158.063293385181)
+  Taken at Lower Antelope Canyon, Page, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.903128,-111.4132503)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS 6D |
-| Exposure Time | 83 |
-| Aperture | 8.0 |
-| Focal Length | 40.0 |
-| ISO | 100 |
-| Location | Three Tables Beach, Haleiwa, United States (United States) |
-| Coordinates | Latitude 21.6468156553021, Longitude -158.063293385181 |
+| Camera Model | X100T |
+| Exposure Time | 1/450 |
+| Aperture | 2.0 |
+| Focal Length | 23.0 |
+| ISO | 400 |
+| Location | Lower Antelope Canyon, Page, United States (United States) |
+| Coordinates | Latitude 36.903128, Longitude -111.4132503 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -158.063293385181,
-                            21.6468156553021
+                            -111.4132503,
+                            36.903128
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -157.763293385181,
-                                21.9468156553021
+                                -111.1132503,
+                                37.203128
                             ],
                             [
-                                -157.763293385181,
-                                21.3468156553021
+                                -111.1132503,
+                                36.603128000000005
                             ],
                             [
-                                -158.363293385181,
-                                21.3468156553021
+                                -111.7132503,
+                                36.603128000000005
                             ],
                             [
-                                -158.363293385181,
-                                21.9468156553021
+                                -111.7132503,
+                                37.203128
                             ],
                             [
-                                -157.763293385181,
-                                21.9468156553021
+                                -111.1132503,
+                                37.203128
                             ]
                         ],
                         "type": "LineString"
