@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/mountains-at-golden-hour-wndpWTiDuT0"><img width="720" src="https://images.unsplash.com/photo-1494935362342-566c6d6e75b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkxMDY0MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountains at golden hour"></a>
+  <a href="https://unsplash.com/photos/granite-cliffs-and-waterfall-in-yosemite-T-tOgjWZ0fQ"><img width="720" src="https://images.unsplash.com/photo-1516687401797-25297ff1462c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkxOTI4MTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="Snow-capped granite cliffs and a waterfall above a forest in Yosemite Valley"></a>
 
-  <em>"mountains at golden hour"</em>
+  <em>"Snow-capped granite cliffs and a waterfall above a forest in Yosemite Valley"</em>
 
-  <em>"Green mountains and clouds"</em>
+  <em>"A bit less edited version of the the Yosemite Valley."</em>
 
-  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
+  Photo by Aniket Deole on [unsplash.com](https://unsplash.com/) • [portfolio](http://aniket.foo)
 
-  Taken at Monte Altissimo di Nago, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.810556,10.888056)
+  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | X-T10 |
-| Exposure Time | 1/680 |
-| Aperture | 14.0 |
-| Focal Length | 27.0 |
-| ISO | 1000 |
-| Location | Monte Altissimo di Nago, Italy (Italy) |
-| Coordinates | Latitude 45.810556, Longitude 10.888056 |
+| Camera Model | ILCE-7RM2 |
+| Exposure Time | 1/80 |
+| Aperture | 8 |
+| Focal Length | 41.0 |
+| ISO | 200 |
+| Location | Yosemite Valley, United States (United States) |
+| Coordinates | Latitude 37.7455701, Longitude -119.5936038 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            10.888056,
-                            45.810556
+                            -119.5936038,
+                            37.7455701
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                11.188056000000001,
-                                46.110555999999995
+                                -119.2936038,
+                                38.0455701
                             ],
                             [
-                                11.188056000000001,
-                                45.510556
+                                -119.2936038,
+                                37.445570100000005
                             ],
                             [
-                                10.588056,
-                                45.510556
+                                -119.8936038,
+                                37.445570100000005
                             ],
                             [
-                                10.588056,
-                                46.110555999999995
+                                -119.8936038,
+                                38.0455701
                             ],
                             [
-                                11.188056000000001,
-                                46.110555999999995
+                                -119.2936038,
+                                38.0455701
                             ]
                         ],
                         "type": "LineString"
