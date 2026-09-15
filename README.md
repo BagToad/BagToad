@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/landscape-photo-of-mountain-alps-vddccTqwal8"><img width="720" src="https://images.unsplash.com/photo-1458668383970-8ddd3927deed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODkzNjU2NTB8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photo of mountain alps"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk0NTIwMzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of brown moutains"></a>
 
-  <em>"landscape photo of mountain alps"</em>
+  <em>"aerial photo of brown moutains"</em>
 
-  <em>"Mountain tops above clouds"</em>
+  <em>"Red highlands"</em>
 
-  Photo by samsommer on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/samsommer7) / [portfolio](http://www.samsommer.ch)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
 
-  Taken at Bunderspitz, Adelboden, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4925,7.62036000000001)
+  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | NIKON D80 |
-| Exposure Time | 1/2000 |
-| Aperture | 3.5 |
-| Focal Length | 18.0 |
-| ISO | 100 |
-| Location | Bunderspitz, Adelboden, Switzerland (Switzerland) |
-| Coordinates | Latitude 46.4925, Longitude 7.62036000000001 |
+| Camera Model | ILCE-7RM2 |
+| Exposure Time | 1/640 |
+| Aperture | 4.0 |
+| Focal Length | 177.0 |
+| ISO | 500 |
+| Location | Ancient Bristlecone Pine Forest, United States (United States) |
+| Coordinates | Latitude 37.4488186, Longitude -118.1426005 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            7.62036000000001,
-                            46.4925
+                            -118.1426005,
+                            37.4488186
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                7.920360000000009,
-                                46.7925
+                                -117.8426005,
+                                37.7488186
                             ],
                             [
-                                7.920360000000009,
-                                46.1925
+                                -117.8426005,
+                                37.148818600000006
                             ],
                             [
-                                7.32036000000001,
-                                46.1925
+                                -118.4426005,
+                                37.148818600000006
                             ],
                             [
-                                7.32036000000001,
-                                46.7925
+                                -118.4426005,
+                                37.7488186
                             ],
                             [
-                                7.920360000000009,
-                                46.7925
+                                -117.8426005,
+                                37.7488186
                             ]
                         ],
                         "type": "LineString"
