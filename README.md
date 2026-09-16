@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk0NTIwMzN8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of brown moutains"></a>
+  <a href="https://unsplash.com/photos/black-painted-house-in-the-middle-of-the-trees-zlV1Ksvifvs"><img width="720" src="https://images.unsplash.com/photo-1462651567147-aa679fd1cfaf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3ODk1Mzg0MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="black painted house in the middle of the trees"></a>
 
-  <em>"aerial photo of brown moutains"</em>
+  <em>"black painted house in the middle of the trees"</em>
 
-  <em>"Red highlands"</em>
+  <em>"(contact me for the full resoluton image)"</em>
 
-  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
+  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
 
-  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
+  Taken at Arnisee, Gurtnellen, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7716847,8.64337209999997)
 
   ---
 
@@ -23,12 +23,12 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 | Parameter | Value |
 | --- | --- |
 | Camera Model | ILCE-7RM2 |
-| Exposure Time | 1/640 |
-| Aperture | 4.0 |
-| Focal Length | 177.0 |
-| ISO | 500 |
-| Location | Ancient Bristlecone Pine Forest, United States (United States) |
-| Coordinates | Latitude 37.4488186, Longitude -118.1426005 |
+| Exposure Time | 1/80 |
+| Aperture | 18.0 |
+| Focal Length | 60.0 |
+| ISO | 100 |
+| Location | Arnisee, Gurtnellen, Switzerland (Switzerland) |
+| Coordinates | Latitude 46.7716847, Longitude 8.64337209999997 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -118.1426005,
-                            37.4488186
+                            8.64337209999997,
+                            46.7716847
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -117.8426005,
-                                37.7488186
+                                8.943372099999971,
+                                47.0716847
                             ],
                             [
-                                -117.8426005,
-                                37.148818600000006
+                                8.943372099999971,
+                                46.471684700000004
                             ],
                             [
-                                -118.4426005,
-                                37.148818600000006
+                                8.34337209999997,
+                                46.471684700000004
                             ],
                             [
-                                -118.4426005,
-                                37.7488186
+                                8.34337209999997,
+                                47.0716847
                             ],
                             [
-                                -117.8426005,
-                                37.7488186
+                                8.943372099999971,
+                                47.0716847
                             ]
                         ],
                         "type": "LineString"
