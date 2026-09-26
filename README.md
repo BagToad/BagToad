@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/landscape-photography-of-black-and-white-mountain-kk3W5-0b6e0"><img width="720" src="https://images.unsplash.com/photo-1464983953574-0892a716854b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTAzMTYwMzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of black and white mountain"></a>
+  <a href="https://unsplash.com/photos/green-mountain-across-thick-white-clouds-photo--3Z-DiGK0hA"><img width="720" src="https://images.unsplash.com/photo-1563791877359-4a03fb576945?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA0MDI0NDV8&ixlib=rb-4.1.0&q=80&w=1080" alt="green mountain across thick white clouds photo"></a>
 
-  <em>"landscape photography of black and white mountain"</em>
+  <em>"green mountain across thick white clouds photo"</em>
 
-  <em>"(contact me for the full resoluton image)"</em>
+  <em>""</em>
 
-  Photo by Dino Reichmuth on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dino.reichmuth) / [portfolio](https://www.dino-reichmuth.com)
+  Photo by Gaétan Meyer on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cinquante_six)
 
-  Taken at Niederbauen-Chulm, Emmetten, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.9477,8.55696999999998)
+  Taken at Switzerland • 
 
   ---
 
@@ -22,64 +22,17 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS 5D Mark II |
-| Exposure Time | 13 |
-| Aperture | 4.0 |
-| Focal Length | 24.0 |
-| ISO | 4000 |
-| Location | Niederbauen-Chulm, Emmetten, Switzerland (Switzerland) |
-| Coordinates | Latitude 46.9477, Longitude 8.55696999999998 |
+| Camera Model | ILCE-7 |
+| Exposure Time | 1/800 |
+| Aperture | 5 |
+| Focal Length | 28 |
+| ISO | 125 |
+| Location | Switzerland (Switzerland) |
+| Coordinates | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            8.55696999999998,
-                            46.9477
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                8.856969999999981,
-                                47.247699999999995
-                            ],
-                            [
-                                8.856969999999981,
-                                46.6477
-                            ],
-                            [
-                                8.25696999999998,
-                                46.6477
-                            ],
-                            [
-                                8.25696999999998,
-                                47.247699999999995
-                            ],
-                            [
-                                8.856969999999981,
-                                47.247699999999995
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
