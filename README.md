@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/landscape-photography-of-lake-and-mountain-73F4pKoUkM0"><img width="720" src="https://images.unsplash.com/photo-1465056836041-7f43ac27dcb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA0ODg4NDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of lake and mountain"></a>
+  <a href="https://unsplash.com/photos/stone-path-to-lake-atitlan-pier-K2s_YE031CA"><img width="720" src="https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA1NzUyMzZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="A stone path through purple flowers leading to a wooden pier on Lake Atitlan"></a>
 
-  <em>"landscape photography of lake and mountain"</em>
+  <em>"A stone path through purple flowers leading to a wooden pier on Lake Atitlan"</em>
 
-  <em>""</em>
+  <em>"I had been travelling around Central America, living in a van and sharing experiences with other travelers.  Having just dropped my last travel buddy off I headed back to Lake Atitlan and found an incredible spot to camp right next to the lake.  There was this jetty sticking out into the lake where I sat watching the sunset, once again living the dream on my own. I knew something special was happening there, and now it has become BitcoinLake!"</em>
 
-  Photo by Tobias Keller on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kellertobs) / [portfolio](https://displate.com/KellerPhotography?art=68e0e9030441e) / [Twitter](https://twitter.com/tokeller)
+  Photo by Mark Harpur on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/luckybeanz_photo) / [portfolio](http://www.luckybeanz.com/blog) / [Twitter](https://twitter.com/luckybeanzphoto)
 
-  Taken at Lake Tekapo, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-43.9874318732414,170.463728526465)
+  Taken at Lake Atitlán, Guatemala • [Google Maps](https://www.google.com/maps/search/?api=1&query=14.6852746212311,-91.2599414305909)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS 600D |
-| Exposure Time | 1/125 |
-| Aperture | 6.3 |
-| Focal Length | 55.0 |
+| Camera Model | Canon EOS 7D |
+| Exposure Time | 0.8 |
+| Aperture | 18 |
+| Focal Length | 11.0 |
 | ISO | 100 |
-| Location | Lake Tekapo, New Zealand (New Zealand) |
-| Coordinates | Latitude -43.9874318732414, Longitude 170.463728526465 |
+| Location | Lake Atitlán, Guatemala (Guatemala) |
+| Coordinates | Latitude 14.6852746212311, Longitude -91.2599414305909 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            170.463728526465,
-                            -43.9874318732414
+                            -91.2599414305909,
+                            14.6852746212311
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                170.763728526465,
-                                -43.6874318732414
+                                -90.9599414305909,
+                                14.9852746212311
                             ],
                             [
-                                170.763728526465,
-                                -44.287431873241395
+                                -90.9599414305909,
+                                14.3852746212311
                             ],
                             [
-                                170.16372852646498,
-                                -44.287431873241395
+                                -91.5599414305909,
+                                14.3852746212311
                             ],
                             [
-                                170.16372852646498,
-                                -43.6874318732414
+                                -91.5599414305909,
+                                14.9852746212311
                             ],
                             [
-                                170.763728526465,
-                                -43.6874318732414
+                                -90.9599414305909,
+                                14.9852746212311
                             ]
                         ],
                         "type": "LineString"
