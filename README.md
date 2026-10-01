@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4"><img width="720" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA3NDgwMTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountain hit by sun rays"></a>
+  <a href="https://unsplash.com/photos/snow-capped-mountains-with-valley-and-forest-Bkci_8qcdvQ"><img width="720" src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTA4MzQ0MzV8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow capped mountains with valley and forest"></a>
 
-  <em>"landscape photography of mountain hit by sun rays"</em>
+  <em>"snow capped mountains with valley and forest"</em>
 
-  <em>"Alone in the unspoilt wilderness"</em>
+  <em>"travelyukon, Wet mountain valley"</em>
 
-  Photo by Urban Vintage on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/urban_vintage.ro) / [portfolio](https://urban-vintage.ro/) / [Twitter](https://twitter.com/dmqwe)
+  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
 
-  Taken at Ciucaș Peak, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5217138,25.9261894)
+  Taken at Kluane National Park and Reserve of Canada, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=60.75,-139.5)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | NIKON D90 |
+| Camera Model | Canon EOS 5D Mark III |
 | Exposure Time | 1/200 |
-| Aperture | 8.0 |
-| Focal Length | 35.0 |
-| ISO | 100 |
-| Location | Ciucaș Peak, Romania (Romania) |
-| Coordinates | Latitude 45.5217138, Longitude 25.9261894 |
+| Aperture | 22 |
+| Focal Length | 50.0 |
+| ISO | 640 |
+| Location | Kluane National Park and Reserve of Canada, Canada (Canada) |
+| Coordinates | Latitude 60.75, Longitude -139.5 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            25.9261894,
-                            45.5217138
+                            -139.5,
+                            60.75
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                26.2261894,
-                                45.8217138
+                                -139.2,
+                                61.05
                             ],
                             [
-                                26.2261894,
-                                45.2217138
+                                -139.2,
+                                60.45
                             ],
                             [
-                                25.626189399999998,
-                                45.2217138
+                                -139.8,
+                                60.45
                             ],
                             [
-                                25.626189399999998,
-                                45.8217138
+                                -139.8,
+                                61.05
                             ],
                             [
-                                26.2261894,
-                                45.8217138
+                                -139.2,
+                                61.05
                             ]
                         ],
                         "type": "LineString"
