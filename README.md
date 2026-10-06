@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/snow-mountain-under-stars-phIFdC6lA4E"><img width="720" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTExODAzMDd8&ixlib=rb-4.1.0&q=80&w=1080" alt="snow mountain under stars"></a>
+  <a href="https://unsplash.com/photos/granite-cliffs-and-waterfall-in-yosemite-T-tOgjWZ0fQ"><img width="720" src="https://images.unsplash.com/photo-1516687401797-25297ff1462c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTEyNjY0MjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="Snow-capped granite cliffs and a waterfall above a forest in Yosemite Valley"></a>
 
-  <em>"snow mountain under stars"</em>
+  <em>"Snow-capped granite cliffs and a waterfall above a forest in Yosemite Valley"</em>
 
-  <em>""</em>
+  <em>"A bit less edited version of the the Yosemite Valley."</em>
 
-  Photo by Benjamin Voros on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/voros_beni) / [portfolio](http://www.vorosbenjamin.com) / [Twitter](https://twitter.com/voros_benjamin)
+  Photo by Aniket Deole on [unsplash.com](https://unsplash.com/) • [portfolio](http://aniket.foo)
 
-  Taken at Moena, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.37642,11.6615999000001)
+  Taken at Yosemite Valley, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.7455701,-119.5936038)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS 600D |
-| Exposure Time | 1/200 |
-| Aperture | 5.0 |
-| Focal Length | 84.0 |
-| ISO | 100 |
-| Location | Moena, Italy (Italy) |
-| Coordinates | Latitude 46.37642, Longitude 11.6615999000001 |
+| Camera Model | ILCE-7RM2 |
+| Exposure Time | 1/80 |
+| Aperture | 8 |
+| Focal Length | 41.0 |
+| ISO | 200 |
+| Location | Yosemite Valley, United States (United States) |
+| Coordinates | Latitude 37.7455701, Longitude -119.5936038 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            11.6615999000001,
-                            46.37642
+                            -119.5936038,
+                            37.7455701
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                11.9615999000001,
-                                46.67642
+                                -119.2936038,
+                                38.0455701
                             ],
                             [
-                                11.9615999000001,
-                                46.076420000000006
+                                -119.2936038,
+                                37.445570100000005
                             ],
                             [
-                                11.3615999000001,
-                                46.076420000000006
+                                -119.8936038,
+                                37.445570100000005
                             ],
                             [
-                                11.3615999000001,
-                                46.67642
+                                -119.8936038,
+                                38.0455701
                             ],
                             [
-                                11.9615999000001,
-                                46.67642
+                                -119.2936038,
+                                38.0455701
                             ]
                         ],
                         "type": "LineString"
