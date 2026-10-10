@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/blue-boat-on-sand-near-body-of-water-during-daytime-xL66l--msXU"><img width="720" src="https://images.unsplash.com/photo-1443397646383-16272048780e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE1MjU2NDR8&ixlib=rb-4.1.0&q=80&w=1080" alt="blue boat on sand near body of water during daytime"></a>
+  <a href="https://unsplash.com/photos/moraine-lake-and-mountains-in-canada-AFC0XvICMgs"><img width="720" src="https://images.unsplash.com/photo-1539667547529-84c607280d20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE2MTIwNDV8&ixlib=rb-4.1.0&q=80&w=1080" alt="Moraine Lake reflecting snow-capped peaks in the Canadian Rockies at golden hour"></a>
 
-  <em>"blue boat on sand near body of water during daytime"</em>
+  <em>"Moraine Lake reflecting snow-capped peaks in the Canadian Rockies at golden hour"</em>
 
-  <em>"Ust-Barguzin, Republic of Buryatia, Russia"</em>
+  <em>"One of the most beautiful (and photographed) lakes in Canada, Moraine Lake."</em>
 
-  Photo by Mickey O'neil on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mickeyoneil) / [Twitter](https://twitter.com/Mickey666Oneil)
+  Photo by James Wheeler on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/souvenirpixels) / [portfolio](https://www.souvenirpixels.com) / [Twitter](https://twitter.com/souvenirpixels)
 
-  Taken at Pervomayskaya Ulitsa, Ust-Barguzin, Buryatiya Republits, Russia, 671623 • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.41648889,108.987725)
+  Taken at 622 Moraine Lake Rd, Field, AB T0L, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=51.32777833,-116.18083333)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | iPhone 5s |
-| Exposure Time | 1/2933 |
-| Aperture | 2.2 |
-| Focal Length | 4.2 |
-| ISO | 32 |
-| Location | Pervomayskaya Ulitsa, Ust-Barguzin, Buryatiya Republits, Russia, 671623 (Russia) |
-| Coordinates | Latitude 53.41648889, Longitude 108.987725 |
+| Camera Model | NIKON D5000 |
+| Exposure Time | 1/8 |
+| Aperture | 11.0 |
+| Focal Length | 14.0 |
+| ISO | 100 |
+| Location | 622 Moraine Lake Rd, Field, AB T0L, Canada (Canada) |
+| Coordinates | Latitude 51.32777833, Longitude -116.18083333 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            108.987725,
-                            53.41648889
+                            -116.18083333,
+                            51.32777833
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                109.287725,
-                                53.716488889999994
+                                -115.88083333,
+                                51.62777833
                             ],
                             [
-                                109.287725,
-                                53.11648889
+                                -115.88083333,
+                                51.027778330000004
                             ],
                             [
-                                108.687725,
-                                53.11648889
+                                -116.48083333,
+                                51.027778330000004
                             ],
                             [
-                                108.687725,
-                                53.716488889999994
+                                -116.48083333,
+                                51.62777833
                             ],
                             [
-                                109.287725,
-                                53.716488889999994
+                                -115.88083333,
+                                51.62777833
                             ]
                         ],
                         "type": "LineString"
