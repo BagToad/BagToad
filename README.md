@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/pathway-between-yellow-flower-field-hB-Vwbyxr9U"><img width="720" src="https://images.unsplash.com/photo-1534030665069-90e016e995e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE2OTg0MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="pathway between yellow flower field"></a>
+  <a href="https://unsplash.com/photos/road-in-between-brown-wooden-fences-JuP0ZG0UNi0"><img width="720" src="https://images.unsplash.com/photo-1451440063999-77a8b2960d2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE3ODUwMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="road in between brown wooden fences"></a>
 
-  <em>"pathway between yellow flower field"</em>
+  <em>"road in between brown wooden fences"</em>
 
-  <em>"Home landscape"</em>
+  <em>"country road"</em>
 
-  Photo by Raquel Pedrotti on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/raquelflosspedrotti)
+  Photo by Werner Sevenster on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/werner7) / [portfolio](https://morphe.co.nz) / [Twitter](https://twitter.com/WernerSevenster)
 
-  Taken at Unknown • 
+  Taken at Taranaki, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-39.2890095651671,173.806560232813)
 
   ---
 
@@ -22,17 +22,64 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS REBEL T5 |
-| Exposure Time | 1/250 |
-| Aperture | 10.0 |
-| Focal Length | 18.0 |
-| ISO | 100 |
-| Location | Unknown (null) |
-| Coordinates | Latitude null, Longitude null |
+| Camera Model | SM-G920I |
+| Exposure Time | 1/710 |
+| Aperture | 1.9 |
+| Focal Length | 4.3 |
+| ISO | 40 |
+| Location | Taranaki, New Zealand (New Zealand) |
+| Coordinates | Latitude -39.2890095651671, Longitude 173.806560232813 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            173.806560232813,
+                            -39.2890095651671
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                174.10656023281302,
+                                -38.9890095651671
+                            ],
+                            [
+                                174.10656023281302,
+                                -39.589009565167096
+                            ],
+                            [
+                                173.506560232813,
+                                -39.589009565167096
+                            ],
+                            [
+                                173.506560232813,
+                                -38.9890095651671
+                            ],
+                            [
+                                174.10656023281302,
+                                -38.9890095651671
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
