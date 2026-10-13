@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/road-in-between-brown-wooden-fences-JuP0ZG0UNi0"><img width="720" src="https://images.unsplash.com/photo-1451440063999-77a8b2960d2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE3ODUwMjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="road in between brown wooden fences"></a>
+  <a href="https://unsplash.com/photos/body-of-water-surrounding-with-trees-_LuLiJc1cdo"><img width="720" src="https://images.unsplash.com/photo-1465189684280-6a8fa9b19a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE4NzEzMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water surrounding with trees"></a>
 
-  <em>"road in between brown wooden fences"</em>
+  <em>"body of water surrounding with trees"</em>
 
-  <em>"country road"</em>
+  <em>"follow @kalenemsley on ig"</em>
 
-  Photo by Werner Sevenster on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/werner7) / [portfolio](https://morphe.co.nz) / [Twitter](https://twitter.com/WernerSevenster)
+  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
 
-  Taken at Taranaki, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-39.2890095651671,173.806560232813)
+  Taken at Kinney Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.0828746,-119.1923101)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | SM-G920I |
-| Exposure Time | 1/710 |
-| Aperture | 1.9 |
-| Focal Length | 4.3 |
-| ISO | 40 |
-| Location | Taranaki, New Zealand (New Zealand) |
-| Coordinates | Latitude -39.2890095651671, Longitude 173.806560232813 |
+| Camera Model | Canon EOS 6D |
+| Exposure Time | 1/125 |
+| Aperture | 4.0 |
+| Focal Length | 70.0 |
+| ISO | 200 |
+| Location | Kinney Lake, Canada (Canada) |
+| Coordinates | Latitude 53.0828746, Longitude -119.1923101 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            173.806560232813,
-                            -39.2890095651671
+                            -119.1923101,
+                            53.0828746
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                174.10656023281302,
-                                -38.9890095651671
+                                -118.8923101,
+                                53.382874599999994
                             ],
                             [
-                                174.10656023281302,
-                                -39.589009565167096
+                                -118.8923101,
+                                52.7828746
                             ],
                             [
-                                173.506560232813,
-                                -39.589009565167096
+                                -119.4923101,
+                                52.7828746
                             ],
                             [
-                                173.506560232813,
-                                -38.9890095651671
+                                -119.4923101,
+                                53.382874599999994
                             ],
                             [
-                                174.10656023281302,
-                                -38.9890095651671
+                                -118.8923101,
+                                53.382874599999994
                             ]
                         ],
                         "type": "LineString"
