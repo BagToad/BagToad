@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/body-of-water-surrounding-with-trees-_LuLiJc1cdo"><img width="720" src="https://images.unsplash.com/photo-1465189684280-6a8fa9b19a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE4NzEzMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water surrounding with trees"></a>
+  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE5NTc2Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="seashore during golden hour"></a>
 
-  <em>"body of water surrounding with trees"</em>
+  <em>"seashore during golden hour"</em>
 
-  <em>"follow @kalenemsley on ig"</em>
+  <em>"The last night of a two week stay on the North Shore of Oahu, Hawaii."</em>
 
-  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
+  Photo by Sean Oulashin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
 
-  Taken at Kinney Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.0828746,-119.1923101)
+  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS 6D |
-| Exposure Time | 1/125 |
-| Aperture | 4.0 |
-| Focal Length | 70.0 |
+| Camera Model | Canon EOS REBEL T3i |
+| Exposure Time | 1/250 |
+| Aperture | 4.5 |
+| Focal Length | 10.0 |
 | ISO | 200 |
-| Location | Kinney Lake, Canada (Canada) |
-| Coordinates | Latitude 53.0828746, Longitude -119.1923101 |
+| Location | North Shore, Waialua, United States (United States) |
+| Coordinates | Latitude 21.5616575, Longitude -158.0715983 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -119.1923101,
-                            53.0828746
+                            -158.0715983,
+                            21.5616575
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -118.8923101,
-                                53.382874599999994
+                                -157.7715983,
+                                21.8616575
                             ],
                             [
-                                -118.8923101,
-                                52.7828746
+                                -157.7715983,
+                                21.2616575
                             ],
                             [
-                                -119.4923101,
-                                52.7828746
+                                -158.37159830000002,
+                                21.2616575
                             ],
                             [
-                                -119.4923101,
-                                53.382874599999994
+                                -158.37159830000002,
+                                21.8616575
                             ],
                             [
-                                -118.8923101,
-                                53.382874599999994
+                                -157.7715983,
+                                21.8616575
                             ]
                         ],
                         "type": "LineString"
