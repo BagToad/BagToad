@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8"><img width="720" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTE5NTc2Mjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="seashore during golden hour"></a>
+  <a href="https://unsplash.com/photos/the-sun-is-setting-over-the-mountains-in-the-desert-9hWJs7iblh8"><img width="720" src="https://images.unsplash.com/photo-1682685797365-41f45b562c0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIwNDQwMjd8&ixlib=rb-4.1.0&q=80&w=1080" alt="the sun is setting over the mountains in the desert"></a>
 
-  <em>"seashore during golden hour"</em>
+  <em>"the sun is setting over the mountains in the desert"</em>
 
-  <em>"The last night of a two week stay on the North Shore of Oahu, Hawaii."</em>
+  <em>"Sunset across the coastal lowlands granitic sand plains, Nature Reserve – NEOM, Saudi Arabia | The NEOM Nature Reserve region is being designed to deliver protection and restoration of biodiversity across 95% of NEOM."</em>
 
-  Photo by Sean Oulashin on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/notseano) / [portfolio](http://www.seanoulashin.com) / [Twitter](https://twitter.com/notseano)
+  Photo by NEOM on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/discoverneom) / [portfolio](http://www.neom.com) / [Twitter](https://twitter.com/neom)
 
-  Taken at North Shore, Waialua, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=21.5616575,-158.0715983)
+  Taken at Nature Reserve - NEOM, Saudi Arabia • 
 
   ---
 
@@ -22,64 +22,17 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS REBEL T3i |
-| Exposure Time | 1/250 |
-| Aperture | 4.5 |
-| Focal Length | 10.0 |
-| ISO | 200 |
-| Location | North Shore, Waialua, United States (United States) |
-| Coordinates | Latitude 21.5616575, Longitude -158.0715983 |
+| Camera Model | null |
+| Exposure Time | null |
+| Aperture | null |
+| Focal Length | 0.0 |
+| ISO | null |
+| Location | Nature Reserve - NEOM, Saudi Arabia (null) |
+| Coordinates | Latitude 0, Longitude 0 |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            -158.0715983,
-                            21.5616575
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                -157.7715983,
-                                21.8616575
-                            ],
-                            [
-                                -157.7715983,
-                                21.2616575
-                            ],
-                            [
-                                -158.37159830000002,
-                                21.2616575
-                            ],
-                            [
-                                -158.37159830000002,
-                                21.8616575
-                            ],
-                            [
-                                -157.7715983,
-                                21.8616575
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
