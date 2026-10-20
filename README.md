@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/silhouette-of-mountains-covered-by-fogs-at-the-horizon-JV78PVf3gGI"><img width="720" src="https://images.unsplash.com/photo-1490604001847-b712b0c2f967?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTIzODk2Mzl8&ixlib=rb-4.1.0&q=80&w=1080" alt="silhouette of mountains covered by fogs at the horizon"></a>
+  <a href="https://unsplash.com/photos/mountains-at-golden-hour-wndpWTiDuT0"><img width="720" src="https://images.unsplash.com/photo-1494935362342-566c6d6e75b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTI0NzYwNDh8&ixlib=rb-4.1.0&q=80&w=1080" alt="mountains at golden hour"></a>
 
-  <em>"silhouette of mountains covered by fogs at the horizon"</em>
+  <em>"mountains at golden hour"</em>
 
-  <em>"Rhythm of the mountains"</em>
+  <em>"Green mountains and clouds"</em>
 
-  Photo by Sergey Pesterev on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/sergpesterev) / [portfolio](https://pesterev.com/en) / [Twitter](https://twitter.com/serg_pesterev)
+  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
 
-  Taken at Langtang National Park, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.0125,85.4921)
+  Taken at Monte Altissimo di Nago, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.810556,10.888056)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | NIKON D800 |
-| Exposure Time | 1/160 |
-| Aperture | 5.6 |
-| Focal Length | 70.0 |
-| ISO | 100 |
-| Location | Langtang National Park, Nepal (Nepal) |
-| Coordinates | Latitude 28.0125, Longitude 85.4921 |
+| Camera Model | X-T10 |
+| Exposure Time | 1/680 |
+| Aperture | 14.0 |
+| Focal Length | 27.0 |
+| ISO | 1000 |
+| Location | Monte Altissimo di Nago, Italy (Italy) |
+| Coordinates | Latitude 45.810556, Longitude 10.888056 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            85.4921,
-                            28.0125
+                            10.888056,
+                            45.810556
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                85.79209999999999,
-                                28.3125
+                                11.188056000000001,
+                                46.110555999999995
                             ],
                             [
-                                85.79209999999999,
-                                27.7125
+                                11.188056000000001,
+                                45.510556
                             ],
                             [
-                                85.1921,
-                                27.7125
+                                10.588056,
+                                45.510556
                             ],
                             [
-                                85.1921,
-                                28.3125
+                                10.588056,
+                                46.110555999999995
                             ],
                             [
-                                85.79209999999999,
-                                28.3125
+                                11.188056000000001,
+                                46.110555999999995
                             ]
                         ],
                         "type": "LineString"
