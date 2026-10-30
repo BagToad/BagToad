@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/brown-rock-formation-under-blue-sky-CSpjU6hYo_0"><img width="720" src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMyNTM2MTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown rock formation under blue sky"></a>
+  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMzNDAwMTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of brown moutains"></a>
 
-  <em>"brown rock formation under blue sky"</em>
+  <em>"aerial photo of brown moutains"</em>
 
-  <em>""</em>
+  <em>"Red highlands"</em>
 
-  Photo by Cristina Gottardi on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cristina.gottardi) / [portfolio](https://www.instagram.com/cristinagottardi/)
+  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
 
-  Taken at Giau Pass, Italy • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.4830556,12.0541667)
+  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | X-T10 |
-| Exposure Time | 1/340 |
-| Aperture | 1.0 |
-| Focal Length | 50.0 |
-| ISO | 400 |
-| Location | Giau Pass, Italy (Italy) |
-| Coordinates | Latitude 46.4830556, Longitude 12.0541667 |
+| Camera Model | ILCE-7RM2 |
+| Exposure Time | 1/640 |
+| Aperture | 4.0 |
+| Focal Length | 177.0 |
+| ISO | 500 |
+| Location | Ancient Bristlecone Pine Forest, United States (United States) |
+| Coordinates | Latitude 37.4488186, Longitude -118.1426005 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            12.0541667,
-                            46.4830556
+                            -118.1426005,
+                            37.4488186
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                12.3541667,
-                                46.7830556
+                                -117.8426005,
+                                37.7488186
                             ],
                             [
-                                12.3541667,
-                                46.1830556
+                                -117.8426005,
+                                37.148818600000006
                             ],
                             [
-                                11.754166699999999,
-                                46.1830556
+                                -118.4426005,
+                                37.148818600000006
                             ],
                             [
-                                11.754166699999999,
-                                46.7830556
+                                -118.4426005,
+                                37.7488186
                             ],
                             [
-                                12.3541667,
-                                46.7830556
+                                -117.8426005,
+                                37.7488186
                             ]
                         ],
                         "type": "LineString"
