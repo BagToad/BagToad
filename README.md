@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/aerial-photo-of-brown-moutains-JgOeRuGD_Y4"><img width="720" src="https://images.unsplash.com/photo-1477346611705-65d1883cee1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTMzNDAwMTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photo of brown moutains"></a>
+  <a href="https://unsplash.com/photos/green-grass-field-during-sunset-_RBcxo9AU-U"><img width="720" src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM0MjY0MTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field during sunset"></a>
 
-  <em>"aerial photo of brown moutains"</em>
+  <em>"green grass field during sunset"</em>
 
-  <em>"Red highlands"</em>
+  <em>""</em>
 
-  Photo by JOHN TOWNER on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/heytowner) / [portfolio](http://www.townerphoto.com)
+  Photo by Robert Lukeman on [unsplash.com](https://unsplash.com/) • 
 
-  Taken at Ancient Bristlecone Pine Forest, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=37.4488186,-118.1426005)
+  Taken at Skye, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=57.5359261,-6.22627250000005)
 
   ---
 
@@ -23,12 +23,12 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 | Parameter | Value |
 | --- | --- |
 | Camera Model | ILCE-7RM2 |
-| Exposure Time | 1/640 |
-| Aperture | 4.0 |
-| Focal Length | 177.0 |
-| ISO | 500 |
-| Location | Ancient Bristlecone Pine Forest, United States (United States) |
-| Coordinates | Latitude 37.4488186, Longitude -118.1426005 |
+| Exposure Time | 1/25 |
+| Aperture | 13.0 |
+| Focal Length | 18.0 |
+| ISO | 100 |
+| Location | Skye, United Kingdom (United Kingdom) |
+| Coordinates | Latitude 57.5359261, Longitude -6.22627250000005 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -118.1426005,
-                            37.4488186
+                            -6.22627250000005,
+                            57.5359261
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -117.8426005,
-                                37.7488186
+                                -5.92627250000005,
+                                57.835926099999995
                             ],
                             [
-                                -117.8426005,
-                                37.148818600000006
+                                -5.92627250000005,
+                                57.2359261
                             ],
                             [
-                                -118.4426005,
-                                37.148818600000006
+                                -6.52627250000005,
+                                57.2359261
                             ],
                             [
-                                -118.4426005,
-                                37.7488186
+                                -6.52627250000005,
+                                57.835926099999995
                             ],
                             [
-                                -117.8426005,
-                                37.7488186
+                                -5.92627250000005,
+                                57.835926099999995
                             ]
                         ],
                         "type": "LineString"
