@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/green-grass-field-during-sunset-_RBcxo9AU-U"><img width="720" src="https://images.unsplash.com/photo-1472214103451-9374bd1c798e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM0MjY0MTZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="green grass field during sunset"></a>
+  <a href="https://unsplash.com/photos/birds-eye-view-photography-of-trees-and-body-of-water-mawU2PoJWfU"><img width="720" src="https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM1MTI4MTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="bird's eye view photography of trees and body of water"></a>
 
-  <em>"green grass field during sunset"</em>
+  <em>"bird's eye view photography of trees and body of water"</em>
 
-  <em>""</em>
+  <em>"Blue lake and green shore"</em>
 
-  Photo by Robert Lukeman on [unsplash.com](https://unsplash.com/) • 
+  Photo by Andreas Gücklhorn on [unsplash.com](https://unsplash.com/) • [portfolio](https://guecklhorn.com/) / [Twitter](https://twitter.com/guecklhorn)
 
-  Taken at Skye, United Kingdom • [Google Maps](https://www.google.com/maps/search/?api=1&query=57.5359261,-6.22627250000005)
+  Taken at Lake Brienz, Switzerland • [Google Maps](https://www.google.com/maps/search/?api=1&query=46.7267426,7.96747289999996)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | ILCE-7RM2 |
-| Exposure Time | 1/25 |
-| Aperture | 13.0 |
-| Focal Length | 18.0 |
-| ISO | 100 |
-| Location | Skye, United Kingdom (United Kingdom) |
-| Coordinates | Latitude 57.5359261, Longitude -6.22627250000005 |
+| Camera Model | null |
+| Exposure Time | null |
+| Aperture | null |
+| Focal Length | null |
+| ISO | null |
+| Location | Lake Brienz, Switzerland (Switzerland) |
+| Coordinates | Latitude 46.7267426, Longitude 7.96747289999996 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -6.22627250000005,
-                            57.5359261
+                            7.96747289999996,
+                            46.7267426
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -5.92627250000005,
-                                57.835926099999995
+                                8.26747289999996,
+                                47.0267426
                             ],
                             [
-                                -5.92627250000005,
-                                57.2359261
+                                8.26747289999996,
+                                46.426742600000004
                             ],
                             [
-                                -6.52627250000005,
-                                57.2359261
+                                7.66747289999996,
+                                46.426742600000004
                             ],
                             [
-                                -6.52627250000005,
-                                57.835926099999995
+                                7.66747289999996,
+                                47.0267426
                             ],
                             [
-                                -5.92627250000005,
-                                57.835926099999995
+                                8.26747289999996,
+                                47.0267426
                             ]
                         ],
                         "type": "LineString"
