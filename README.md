@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/field-and-mountain-near-body-of-water-meOFNlRbHmY"><img width="720" src="https://images.unsplash.com/photo-1519092437326-bfd121eb53ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM1OTkyMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="field and mountain near body of water"></a>
+  <a href="https://unsplash.com/photos/ocean-near-trees-and-rocks-DuD5D3lWC3c"><img width="720" src="https://images.unsplash.com/photo-1462400362591-9ca55235346a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM2ODU2MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="ocean near trees and rocks"></a>
 
-  <em>"field and mountain near body of water"</em>
+  <em>"ocean near trees and rocks"</em>
 
-  <em>"This is the main highway circling Iceland’s majestic beauty. The snow-capped mountains are a welcome site as you drive towards the island’s second most-populated city, Akureyi."</em>
+  <em>"Sunset beach views"</em>
 
-  Photo by Josh Reid on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stellaroak) / [Twitter](https://twitter.com/stellaroak)
+  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
 
-  Taken at Akureyri, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=65.6884921,-18.1261694)
+  Taken at Kihei, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=20.6268435,-156.4432482)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | null |
-| Exposure Time | null |
-| Aperture | null |
-| Focal Length | null |
-| ISO | null |
-| Location | Akureyri, Iceland (Iceland) |
-| Coordinates | Latitude 65.6884921, Longitude -18.1261694 |
+| Camera Model | Canon EOS 6D |
+| Exposure Time | 1/20 |
+| Aperture | 8.0 |
+| Focal Length | 24.0 |
+| ISO | 100 |
+| Location | Kihei, United States (United States) |
+| Coordinates | Latitude 20.6268435, Longitude -156.4432482 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -18.1261694,
-                            65.6884921
+                            -156.4432482,
+                            20.6268435
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -17.826169399999998,
-                                65.9884921
+                                -156.1432482,
+                                20.9268435
                             ],
                             [
-                                -17.826169399999998,
-                                65.38849210000001
+                                -156.1432482,
+                                20.3268435
                             ],
                             [
-                                -18.4261694,
-                                65.38849210000001
+                                -156.7432482,
+                                20.3268435
                             ],
                             [
-                                -18.4261694,
-                                65.9884921
+                                -156.7432482,
+                                20.9268435
                             ],
                             [
-                                -17.826169399999998,
-                                65.9884921
+                                -156.1432482,
+                                20.9268435
                             ]
                         ],
                         "type": "LineString"
