@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/ocean-near-trees-and-rocks-DuD5D3lWC3c"><img width="720" src="https://images.unsplash.com/photo-1462400362591-9ca55235346a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM2ODU2MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="ocean near trees and rocks"></a>
+  <a href="https://unsplash.com/photos/tree-on-body-of-water-near-mountains-KonWFWUaAuk"><img width="720" src="https://images.unsplash.com/photo-1494500764479-0c8f2919a3d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM3NzIwMTV8&ixlib=rb-4.1.0&q=80&w=1080" alt="tree on body of water near mountains"></a>
 
-  <em>"ocean near trees and rocks"</em>
+  <em>"tree on body of water near mountains"</em>
 
-  <em>"Sunset beach views"</em>
+  <em>""</em>
 
-  Photo by Christian Joudrey on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/cjoudrey) / [portfolio](https://twitter.com/cjoudrey)
+  Photo by Ken Cheung on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kencheungphotos) / [portfolio](https://www.kencheungphoto.com/)
 
-  Taken at Kihei, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=20.6268435,-156.4432482)
+  Taken at Wanaka, Otago, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-44.69833833,169.11632833)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS 6D |
-| Exposure Time | 1/20 |
-| Aperture | 8.0 |
-| Focal Length | 24.0 |
-| ISO | 100 |
-| Location | Kihei, United States (United States) |
-| Coordinates | Latitude 20.6268435, Longitude -156.4432482 |
+| Camera Model | NIKON D5 |
+| Exposure Time | 10 |
+| Aperture | 16 |
+| Focal Length | 35.0 |
+| ISO | 50 |
+| Location | Wanaka, Otago, New Zealand (New Zealand) |
+| Coordinates | Latitude -44.69833833, Longitude 169.11632833 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -156.4432482,
-                            20.6268435
+                            169.11632833,
+                            -44.69833833
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -156.1432482,
-                                20.9268435
+                                169.41632833,
+                                -44.39833833
                             ],
                             [
-                                -156.1432482,
-                                20.3268435
+                                169.41632833,
+                                -44.998338329999996
                             ],
                             [
-                                -156.7432482,
-                                20.3268435
+                                168.81632832999998,
+                                -44.998338329999996
                             ],
                             [
-                                -156.7432482,
-                                20.9268435
+                                168.81632832999998,
+                                -44.39833833
                             ],
                             [
-                                -156.1432482,
-                                20.9268435
+                                169.41632833,
+                                -44.39833833
                             ]
                         ],
                         "type": "LineString"
