@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/landscape-photography-of-brown-mountain-pHANr-CpbYM"><img width="720" src="https://images.unsplash.com/photo-1431794062232-2a99a5431c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTM5NDQ4MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of brown mountain"></a>
+  <a href="https://unsplash.com/photos/brown-rock-formation-beside-body-of-water-during-daytime-du0wAZTgkIg"><img width="720" src="https://images.unsplash.com/photo-1621846846625-f0bde2eb7c3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQwMzEyMTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown rock formation beside body of water during daytime"></a>
 
-  <em>"landscape photography of brown mountain"</em>
+  <em>"brown rock formation beside body of water during daytime"</em>
 
-  <em>"Sandstone cliff with a waterfall"</em>
+  <em>""</em>
 
-  Photo by Wil Stewart on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/wilstewart3) / [portfolio](http://instagram.com/wilstewart3) / [Twitter](https://twitter.com/wilstewart3)
+  Photo by Allyson Beaucourt on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daymnous)
 
-  Taken at Unknown • 
+  Taken at Étretat, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.707007,0.205598)
 
   ---
 
@@ -22,17 +22,64 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | ILCE-6000 |
-| Exposure Time | 1/500 |
-| Aperture | null |
-| Focal Length | null |
-| ISO | 100 |
-| Location | Unknown (null) |
-| Coordinates | Latitude null, Longitude null |
+| Camera Model | DC-G9 |
+| Exposure Time | 1/250 |
+| Aperture | 6.3 |
+| Focal Length | 25.0 |
+| ISO | 200 |
+| Location | Étretat, France (France) |
+| Coordinates | Latitude 49.707007, Longitude 0.205598 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            0.205598,
+                            49.707007
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                0.505598,
+                                50.007006999999994
+                            ],
+                            [
+                                0.505598,
+                                49.407007
+                            ],
+                            [
+                                -0.09440199999999999,
+                                49.407007
+                            ],
+                            [
+                                -0.09440199999999999,
+                                50.007006999999994
+                            ],
+                            [
+                                0.505598,
+                                50.007006999999994
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
