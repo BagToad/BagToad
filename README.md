@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/brown-rock-formation-beside-body-of-water-during-daytime-du0wAZTgkIg"><img width="720" src="https://images.unsplash.com/photo-1621846846625-f0bde2eb7c3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQwMzEyMTd8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown rock formation beside body of water during daytime"></a>
+  <a href="https://unsplash.com/photos/brown-mountains-under-blue-sky-4wzRuAb-KWs"><img width="720" src="https://images.unsplash.com/photo-1502790671504-542ad42d5189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQxMTc2MTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown mountains under blue sky"></a>
 
-  <em>"brown rock formation beside body of water during daytime"</em>
+  <em>"brown mountains under blue sky"</em>
 
-  <em>""</em>
+  <em>"Look up"</em>
 
-  Photo by Allyson Beaucourt on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/daymnous)
+  Photo by Mohammad Alizade on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mohamad.a.z) / [portfolio](http://mohamadaz.com/)
 
-  Taken at Étretat, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=49.707007,0.205598)
+  Taken at Mashhad, Iran • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2604623,59.6167548999999)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | DC-G9 |
-| Exposure Time | 1/250 |
-| Aperture | 6.3 |
-| Focal Length | 25.0 |
+| Camera Model | NIKON D5300 |
+| Exposure Time | 30 |
+| Aperture | 3.5 |
+| Focal Length | 18.0 |
 | ISO | 200 |
-| Location | Étretat, France (France) |
-| Coordinates | Latitude 49.707007, Longitude 0.205598 |
+| Location | Mashhad, Iran (Iran) |
+| Coordinates | Latitude 36.2604623, Longitude 59.6167548999999 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            0.205598,
-                            49.707007
+                            59.6167548999999,
+                            36.2604623
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                0.505598,
-                                50.007006999999994
+                                59.916754899999894,
+                                36.5604623
                             ],
                             [
-                                0.505598,
-                                49.407007
+                                59.916754899999894,
+                                35.9604623
                             ],
                             [
-                                -0.09440199999999999,
-                                49.407007
+                                59.3167548999999,
+                                35.9604623
                             ],
                             [
-                                -0.09440199999999999,
-                                50.007006999999994
+                                59.3167548999999,
+                                36.5604623
                             ],
                             [
-                                0.505598,
-                                50.007006999999994
+                                59.916754899999894,
+                                36.5604623
                             ]
                         ],
                         "type": "LineString"
