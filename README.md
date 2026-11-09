@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/brown-mountains-under-blue-sky-4wzRuAb-KWs"><img width="720" src="https://images.unsplash.com/photo-1502790671504-542ad42d5189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQxMTc2MTh8&ixlib=rb-4.1.0&q=80&w=1080" alt="brown mountains under blue sky"></a>
+  <a href="https://unsplash.com/photos/body-of-water-surrounding-with-trees-_LuLiJc1cdo"><img width="720" src="https://images.unsplash.com/photo-1465189684280-6a8fa9b19a7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQyMDQwMjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water surrounding with trees"></a>
 
-  <em>"brown mountains under blue sky"</em>
+  <em>"body of water surrounding with trees"</em>
 
-  <em>"Look up"</em>
+  <em>"follow @kalenemsley on ig"</em>
 
-  Photo by Mohammad Alizade on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mohamad.a.z) / [portfolio](http://mohamadaz.com/)
+  Photo by Kalen Emsley on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/kalenemsley) / [portfolio](http://www.instagram.com/kalenemsley)
 
-  Taken at Mashhad, Iran • [Google Maps](https://www.google.com/maps/search/?api=1&query=36.2604623,59.6167548999999)
+  Taken at Kinney Lake, Canada • [Google Maps](https://www.google.com/maps/search/?api=1&query=53.0828746,-119.1923101)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | NIKON D5300 |
-| Exposure Time | 30 |
-| Aperture | 3.5 |
-| Focal Length | 18.0 |
+| Camera Model | Canon EOS 6D |
+| Exposure Time | 1/125 |
+| Aperture | 4.0 |
+| Focal Length | 70.0 |
 | ISO | 200 |
-| Location | Mashhad, Iran (Iran) |
-| Coordinates | Latitude 36.2604623, Longitude 59.6167548999999 |
+| Location | Kinney Lake, Canada (Canada) |
+| Coordinates | Latitude 53.0828746, Longitude -119.1923101 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            59.6167548999999,
-                            36.2604623
+                            -119.1923101,
+                            53.0828746
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                59.916754899999894,
-                                36.5604623
+                                -118.8923101,
+                                53.382874599999994
                             ],
                             [
-                                59.916754899999894,
-                                35.9604623
+                                -118.8923101,
+                                52.7828746
                             ],
                             [
-                                59.3167548999999,
-                                35.9604623
+                                -119.4923101,
+                                52.7828746
                             ],
                             [
-                                59.3167548999999,
-                                36.5604623
+                                -119.4923101,
+                                53.382874599999994
                             ],
                             [
-                                59.916754899999894,
-                                36.5604623
+                                -118.8923101,
+                                53.382874599999994
                             ]
                         ],
                         "type": "LineString"
