@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/body-of-water-between-brown-mountains-ARVFsI-32Uk"><img width="720" src="https://images.unsplash.com/photo-1549558549-415fe4c37b60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ0NjMyMjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="body of water between brown mountains"></a>
+  <a href="https://unsplash.com/photos/coastal-dunes-and-beach-at-sunset-9fqwGqGLUxc"><img width="720" src="https://images.unsplash.com/photo-1496614932623-0a3a9743552e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ1NDk2MjJ8&ixlib=rb-4.1.0&q=80&w=1080" alt="coastal dunes and beach at sunset"></a>
 
-  <em>"body of water between brown mountains"</em>
+  <em>"coastal dunes and beach at sunset"</em>
 
-  <em>""</em>
+  <em>"Cloudy sunset over the sand dunes"</em>
 
-  Photo by Mar Bustos on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/mar_mediterraneo) / [portfolio](https://www.instagram.com/mar__mediterraneo/)
+  Photo by Petr Vyšohlíd on [unsplash.com](https://unsplash.com/) • [Twitter](https://twitter.com/petrvysohlid)
 
-  Taken at Unknown • 
+  Taken at Port Waikato, Tuakau, Auckland, New Zealand • [Google Maps](https://www.google.com/maps/search/?api=1&query=-37.39385,174.71005)
 
   ---
 
@@ -22,17 +22,64 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | 5500 |
-| Exposure Time | 300 |
-| Aperture | 16 |
-| Focal Length | 12 |
+| Camera Model | Canon EOS 7D |
+| Exposure Time | 1/20 |
+| Aperture | 9 |
+| Focal Length | 21.0 |
 | ISO | 100 |
-| Location | Unknown (null) |
-| Coordinates | Latitude null, Longitude null |
+| Location | Port Waikato, Tuakau, Auckland, New Zealand (New Zealand) |
+| Coordinates | Latitude -37.39385, Longitude 174.71005 |
 
 ### Map
 
-Map unavailable
+```geojson
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            174.71005,
+                            -37.39385
+                        ],
+                        "type": "Point"
+                    },
+                    "id": 1
+                },
+                {
+                    "type": "Feature",
+                    "properties": {},
+                    "geometry": {
+                        "coordinates": [
+                            [
+                                175.01005,
+                                -37.09385
+                            ],
+                            [
+                                175.01005,
+                                -37.69385
+                            ],
+                            [
+                                174.41004999999998,
+                                -37.69385
+                            ],
+                            [
+                                174.41004999999998,
+                                -37.09385
+                            ],
+                            [
+                                175.01005,
+                                -37.09385
+                            ]
+                        ],
+                        "type": "LineString"
+                    }
+                }
+            ]
+        }
+```
 
 </details>
 
