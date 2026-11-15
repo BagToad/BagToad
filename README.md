@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/annapurna-mountain-peaks-in-nepal-g30P1zcOzXo"><img width="720" src="https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ2MzYwMjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="Snow-capped peaks of the Annapurna range above a layer of clouds in Nepal"></a>
+  <a href="https://unsplash.com/photos/field-and-mountain-near-body-of-water-meOFNlRbHmY"><img width="720" src="https://images.unsplash.com/photo-1519092437326-bfd121eb53ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ3MjI0MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="field and mountain near body of water"></a>
 
-  <em>"Snow-capped peaks of the Annapurna range above a layer of clouds in Nepal"</em>
+  <em>"field and mountain near body of water"</em>
 
-  <em>"Taken from the top of Poon Hill before sun rise"</em>
+  <em>"This is the main highway circling Iceland’s majestic beauty. The snow-capped mountains are a welcome site as you drive towards the island’s second most-populated city, Akureyi."</em>
 
-  Photo by Daniel Leone on [unsplash.com](https://unsplash.com/) • [portfolio](https://danielleone.com)
+  Photo by Josh Reid on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/stellaroak) / [Twitter](https://twitter.com/stellaroak)
 
-  Taken at Poon Hill, Ghode Pani, Nepal • [Google Maps](https://www.google.com/maps/search/?api=1&query=28.4004787,83.6940737)
+  Taken at Akureyri, Iceland • [Google Maps](https://www.google.com/maps/search/?api=1&query=65.6884921,-18.1261694)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | PENTAX K-5 |
-| Exposure Time | 13 |
-| Aperture | 1.8 |
-| Focal Length | 31.0 |
-| ISO | 200 |
-| Location | Poon Hill, Ghode Pani, Nepal (Nepal) |
-| Coordinates | Latitude 28.4004787, Longitude 83.6940737 |
+| Camera Model | null |
+| Exposure Time | null |
+| Aperture | null |
+| Focal Length | null |
+| ISO | null |
+| Location | Akureyri, Iceland (Iceland) |
+| Coordinates | Latitude 65.6884921, Longitude -18.1261694 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            83.6940737,
-                            28.4004787
+                            -18.1261694,
+                            65.6884921
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                83.9940737,
-                                28.7004787
+                                -17.826169399999998,
+                                65.9884921
                             ],
                             [
-                                83.9940737,
-                                28.1004787
+                                -17.826169399999998,
+                                65.38849210000001
                             ],
                             [
-                                83.3940737,
-                                28.1004787
+                                -18.4261694,
+                                65.38849210000001
                             ],
                             [
-                                83.3940737,
-                                28.7004787
+                                -18.4261694,
+                                65.9884921
                             ],
                             [
-                                83.9940737,
-                                28.7004787
+                                -17.826169399999998,
+                                65.9884921
                             ]
                         ],
                         "type": "LineString"
