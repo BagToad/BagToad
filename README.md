@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/aerial-photography-of-flowers-at-daytime-TRhGEGdw-YY"><img width="720" src="https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ4MDg4MjV8&ixlib=rb-4.1.0&q=80&w=1080" alt="aerial photography of flowers at daytime"></a>
+  <a href="https://unsplash.com/photos/golden-hour-photography-of-docking-pier-on-body-of-water-uwbajDCODj4"><img width="720" src="https://images.unsplash.com/photo-1498550744921-75f79806b8a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ4OTUyMjh8&ixlib=rb-4.1.0&q=80&w=1080" alt="golden hour photography of docking pier on body of water"></a>
 
-  <em>"aerial photography of flowers at daytime"</em>
+  <em>"golden hour photography of docking pier on body of water"</em>
 
-  <em>""</em>
+  <em>"Stockholm Archipelago"</em>
 
-  Photo by Joel Holland on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/joelkentholland) / [portfolio](https://www.harvesthosts.com) / [Twitter](https://twitter.com/joelkentholland)
+  Photo by Anders Jildén on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/andersjildenphotography) / [portfolio](http://www.andersjilden.com) / [Twitter](https://twitter.com/AndersJilden)
 
-  Taken at Shrine Pass Road, Red Cliff, United States • [Google Maps](https://www.google.com/maps/search/?api=1&query=39.5542104,-106.2820959)
+  Taken at Värmdö, Sweden • [Google Maps](https://www.google.com/maps/search/?api=1&query=59.3230706766952,18.4736681520263)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | Canon EOS 5D Mark III |
-| Exposure Time | 1/6 |
-| Aperture | 11.0 |
-| Focal Length | 16.0 |
-| ISO | 100 |
-| Location | Shrine Pass Road, Red Cliff, United States (United States) |
-| Coordinates | Latitude 39.5542104, Longitude -106.2820959 |
+| Camera Model | null |
+| Exposure Time | null |
+| Aperture | null |
+| Focal Length | null |
+| ISO | null |
+| Location | Värmdö, Sweden (Sweden) |
+| Coordinates | Latitude 59.3230706766952, Longitude 18.4736681520263 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            -106.2820959,
-                            39.5542104
+                            18.4736681520263,
+                            59.3230706766952
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                -105.9820959,
-                                39.8542104
+                                18.7736681520263,
+                                59.6230706766952
                             ],
                             [
-                                -105.9820959,
-                                39.254210400000005
+                                18.7736681520263,
+                                59.023070676695205
                             ],
                             [
-                                -106.5820959,
-                                39.254210400000005
+                                18.1736681520263,
+                                59.023070676695205
                             ],
                             [
-                                -106.5820959,
-                                39.8542104
+                                18.1736681520263,
+                                59.6230706766952
                             ],
                             [
-                                -105.9820959,
-                                39.8542104
+                                18.7736681520263,
+                                59.6230706766952
                             ]
                         ],
                         "type": "LineString"
