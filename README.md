@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/landscape-photography-of-snow-covered-mountains-5ditmO9_ae0"><img width="720" src="https://images.unsplash.com/photo-1516821371801-280cf8069a4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTQ5ODE2MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of snow-covered mountains"></a>
+  <a href="https://unsplash.com/photos/lake-near-snow-covered-mountain-during-daytime-QaWRyEdlffY"><img width="720" src="https://images.unsplash.com/photo-1478827387698-1527781a4887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUwNjgwMjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="lake near snow-covered mountain during daytime"></a>
 
-  <em>"landscape photography of snow-covered mountains"</em>
+  <em>"lake near snow-covered mountain during daytime"</em>
 
-  <em>"Above the village of Argentiere near Chamonix, standing on the viewing deck at the Grand Montets this amazing mix of light and shadow was made possible by the shifting clouds. An instant later it was gone."</em>
+  <em>"Mountain lake with an island"</em>
 
-  Photo by Simon Fitall on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/simonfitall) / [portfolio](http://fitallphotos.zenfolio.com/)
+  Photo by Olga Stalska on [unsplash.com](https://unsplash.com/) • 
 
-  Taken at Aiguille des Grands Montets, Chamonix, France • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.9483333,6.96111110000004)
+  Taken at Torres del Paine National Park, Chile • [Google Maps](https://www.google.com/maps/search/?api=1&query=-50.9423262,-73.406788)
 
   ---
 
@@ -22,13 +22,13 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | D200 |
-| Exposure Time | 1/200 |
-| Aperture | 8 |
-| Focal Length | 60.0 |
-| ISO | 200 |
-| Location | Aiguille des Grands Montets, Chamonix, France (France) |
-| Coordinates | Latitude 45.9483333, Longitude 6.96111110000004 |
+| Camera Model | null |
+| Exposure Time | null |
+| Aperture | null |
+| Focal Length | null |
+| ISO | null |
+| Location | Torres del Paine National Park, Chile (Chile) |
+| Coordinates | Latitude -50.9423262, Longitude -73.406788 |
 
 ### Map
 
@@ -41,8 +41,8 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "properties": {},
                     "geometry": {
                         "coordinates": [
-                            6.96111110000004,
-                            45.9483333
+                            -73.406788,
+                            -50.9423262
                         ],
                         "type": "Point"
                     },
@@ -54,24 +54,24 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
                     "geometry": {
                         "coordinates": [
                             [
-                                7.26111110000004,
-                                46.2483333
+                                -73.10678800000001,
+                                -50.6423262
                             ],
                             [
-                                7.26111110000004,
-                                45.648333300000004
+                                -73.10678800000001,
+                                -51.242326199999994
                             ],
                             [
-                                6.66111110000004,
-                                45.648333300000004
+                                -73.706788,
+                                -51.242326199999994
                             ],
                             [
-                                6.66111110000004,
-                                46.2483333
+                                -73.706788,
+                                -50.6423262
                             ],
                             [
-                                7.26111110000004,
-                                46.2483333
+                                -73.10678800000001,
+                                -50.6423262
                             ]
                         ],
                         "type": "LineString"
