@@ -5,7 +5,7 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/lake-near-snow-covered-mountain-during-daytime-QaWRyEdlffY"><img width="720" src="https://images.unsplash.com/photo-1478827387698-1527781a4887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUwNjgwMjZ8&ixlib=rb-4.1.0&q=80&w=1080" alt="lake near snow-covered mountain during daytime"></a>
+  <a href="https://unsplash.com/photos/lake-near-snow-covered-mountain-during-daytime-QaWRyEdlffY"><img width="720" src="https://images.unsplash.com/photo-1478827387698-1527781a4887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTUxNTQ0MjR8&ixlib=rb-4.1.0&q=80&w=1080" alt="lake near snow-covered mountain during daytime"></a>
 
   <em>"lake near snow-covered mountain during daytime"</em>
 
