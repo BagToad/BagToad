@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/landscape-photography-of-mountain-hit-by-sun-rays-78A265wPiO4"><img width="720" src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU2NzI4MjF8&ixlib=rb-4.1.0&q=80&w=1080" alt="landscape photography of mountain hit by sun rays"></a>
+  <a href="https://unsplash.com/photos/green-leafed-tree-on-desert-D8R_txR_0PE"><img width="720" src="https://images.unsplash.com/photo-1543964198-d54e4f0e44e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU3NTkyMTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="green-leafed tree on desert"></a>
 
-  <em>"landscape photography of mountain hit by sun rays"</em>
+  <em>"green-leafed tree on desert"</em>
 
-  <em>"Alone in the unspoilt wilderness"</em>
+  <em>"Alone tree has grown in the middle of Jordan desert."</em>
 
-  Photo by Urban Vintage on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/urban_vintage.ro) / [portfolio](https://urban-vintage.ro/) / [Twitter](https://twitter.com/dmqwe)
+  Photo by Damian Denis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dou.bled) / [portfolio](http://damiandenis.com) / [Twitter](https://twitter.com/doubbled2)
 
-  Taken at Ciucaș Peak, Romania • [Google Maps](https://www.google.com/maps/search/?api=1&query=45.5217138,25.9261894)
+  Taken at Wadi Rum, Jordan • 
 
   ---
 
@@ -22,64 +22,17 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | NIKON D90 |
-| Exposure Time | 1/200 |
+| Camera Model | ILCE-7RM3 |
+| Exposure Time | 1/320 |
 | Aperture | 8.0 |
-| Focal Length | 35.0 |
+| Focal Length | 40.0 |
 | ISO | 100 |
-| Location | Ciucaș Peak, Romania (Romania) |
-| Coordinates | Latitude 45.5217138, Longitude 25.9261894 |
+| Location | Wadi Rum, Jordan (Jordan) |
+| Coordinates | Latitude null, Longitude null |
 
 ### Map
 
-```geojson
-        {
-            "type": "FeatureCollection",
-            "features": [
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            25.9261894,
-                            45.5217138
-                        ],
-                        "type": "Point"
-                    },
-                    "id": 1
-                },
-                {
-                    "type": "Feature",
-                    "properties": {},
-                    "geometry": {
-                        "coordinates": [
-                            [
-                                26.2261894,
-                                45.8217138
-                            ],
-                            [
-                                26.2261894,
-                                45.2217138
-                            ],
-                            [
-                                25.626189399999998,
-                                45.2217138
-                            ],
-                            [
-                                25.626189399999998,
-                                45.8217138
-                            ],
-                            [
-                                26.2261894,
-                                45.8217138
-                            ]
-                        ],
-                        "type": "LineString"
-                    }
-                }
-            ]
-        }
-```
+Map unavailable
 
 </details>
 
