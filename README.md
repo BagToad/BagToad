@@ -5,15 +5,15 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 ## Photo of the day
 
-  <a href="https://unsplash.com/photos/green-leafed-tree-on-desert-D8R_txR_0PE"><img width="720" src="https://images.unsplash.com/photo-1543964198-d54e4f0e44e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU3NTkyMTl8&ixlib=rb-4.1.0&q=80&w=1080" alt="green-leafed tree on desert"></a>
+  <a href="https://unsplash.com/photos/yellow-lights-between-trees-hvrpOmuMrAI"><img width="720" src="https://images.unsplash.com/photo-1500673922987-e212871fec22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1NTI0NDl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3OTU4NDU2MjB8&ixlib=rb-4.1.0&q=80&w=1080" alt="yellow lights between trees"></a>
 
-  <em>"green-leafed tree on desert"</em>
+  <em>"yellow lights between trees"</em>
 
-  <em>"Alone tree has grown in the middle of Jordan desert."</em>
+  <em>"Golden forest pathway"</em>
 
-  Photo by Damian Denis on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/dou.bled) / [portfolio](http://damiandenis.com) / [Twitter](https://twitter.com/doubbled2)
+  Photo by Johannes Plenio on [unsplash.com](https://unsplash.com/) • [Instagram](https://instagram.com/jplenio) / [portfolio](http://www.coolfreepix.com)
 
-  Taken at Wadi Rum, Jordan • 
+  Taken at Unknown • 
 
   ---
 
@@ -22,12 +22,12 @@ Software Engineer @ GitHub maintaining the [GitHub CLI](https://github.com/cli/c
 
 | Parameter | Value |
 | --- | --- |
-| Camera Model | ILCE-7RM3 |
-| Exposure Time | 1/320 |
-| Aperture | 8.0 |
-| Focal Length | 40.0 |
+| Camera Model | ILCE-7 |
+| Exposure Time | 0.7 |
+| Aperture | 13.0 |
+| Focal Length | 104.0 |
 | ISO | 100 |
-| Location | Wadi Rum, Jordan (Jordan) |
+| Location | Unknown (null) |
 | Coordinates | Latitude null, Longitude null |
 
 ### Map
